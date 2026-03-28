@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,12,12,Dharmadam,PINARAYI VIJAYAN,CPI(M),87329,56.8448,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,MAMBARAM DIVAKARAN,INC,50424,32.8224,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,MOHANAN MANANTHERI,BJP,12763,8.3078,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,THARAMMAL NIYAS,SDPI,1994,1.2979,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,NOTA,NOTA,615,0.4003,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,DIVAKARAN. M. THIRUVATHIRA,IND,354,0.2304,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,DIVAKARAN MOOTTIL HOUSE,IND,148,0.0963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf

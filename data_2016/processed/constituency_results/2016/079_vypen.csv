@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,79,79,Vypen,S SARMA,CPI(M),68526,52.2425,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,K R SUBHASH,INC,49173,37.4883,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,VAMALOCHANAN K K,BDJS,10051,7.6626,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,JYOTHIVAS PARAVUR,WPI,1406,1.0719,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,NOTA,NOTA,910,0.6938,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,MANJULADEVI,CPI(ML)REDSTAR,248,0.1891,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,RAJEEV NAAGAN,APOI,231,0.1761,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,SUBHASH K S KIZHAKKE PADATHARA,IND,217,0.1654,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,K D VISWANATHAN,PDP,183,0.1395,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,KODICKAL SADASIVAN,IND,136,0.1037,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,S D SATHEESH,IND,88,0.0671,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf

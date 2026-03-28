@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,16,16,Peravoor,ADV.SUNNY JOSEPH,INC,56151,48.0691,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,K.K.SHAILAJA TEACHER,CPI(M),52711,45.1243,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,P.K.VELAYUDHAN.,BJP,4055,3.4714,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,P.K. AYYAPPAN MASTER.,SDPI,1537,1.3158,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,SUNNY JOSEPH,IND,903,0.773,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,A.SHYLAJA,IND,565,0.4837,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,RAGHAVAN,BSP,526,0.4503,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,RADHAMANI NARAYANA KUMAR,IND,365,0.3125,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16

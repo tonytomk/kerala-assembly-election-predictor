@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,64,64,Manalur,P A MADHAVAN,UNKNOWN,63077,45.2194,True,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,BABY JOHN,CPI(M),62596,44.8746,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,P M GOPINATHAN,UNKNOWN,10543,7.5582,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,P K USMAN,UNKNOWN,2293,1.6438,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,SURESH TACHAPPILLY,UNKNOWN,594,0.4258,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,ARAVINDAKSHAN.M.K,OTH,388,0.2782,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf

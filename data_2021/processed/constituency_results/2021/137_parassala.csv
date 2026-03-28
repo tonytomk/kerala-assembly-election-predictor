@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,137,137,Parassala,C.K.HAREENDRAN,CPI(M),78548,48.16,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,AN SAJITHA RESSAL.R.K,INC,52720,32.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,KARAMANA JAYAN,BJP,29850,18.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,J.R.JAYAKUMAR,BSP,778,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,NOTA,NOTA,630,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,SHAJU PALIYODU,IND,402,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,SELVARAJ.J.R IND,IND,162,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,47 @@
+year,election_date,constituency,district,constituency_id,constituency_number,candidate,party,votes,vote_share,is_winner,source_url
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,Uma Thomas,INC,72770,53.76,True,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,Jo Joseph,CPI(M),47754,35.28,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,A.N. Radhakrishnan,BJP,12957,9.57,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,Joemon Joseph Srampickal,IND,384,0.28,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,Bosco Kalamassery,IND,136,0.10,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,Manmadhan,IND,101,0.07,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,Anil Nair,IND,100,0.07,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,C.P. Dileep Nair,IND,36,0.03,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2022,2022-05-31,Thrikkakara,Ernakulam,83,83,NOTA,NOTA,1111,0.82,False,https://manoramaonline.com/news/indepth/thrikkakkara-byelection-2022.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,Chandy Oommen,INC,80144,61.38,True,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,Jaick C. Thomas,CPI(M),42425,32.49,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,Ligin Lal,BJP,6558,5.02,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,Luke Thomas,AAP,835,0.64,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,Santhosh Pulickal,IND,78,0.06,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,Shaji,IND,63,0.05,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,P.K. Devadas,IND,60,0.05,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2023,2023-09-05,Puthuppally,Kottayam,98,98,NOTA,NOTA,400,0.31,False,https://www.onmanorama.com/news/kerala/2023/09/08/puthuppally-bypoll-byelection-results-chandy-oommen-jaick-congress-cpm-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,Rahul Mamkootathil,INC,58389,42.27,True,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,C Krishnakumar,BJP,39549,28.63,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,Dr. P Sarin,IND,37293,27.00,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,M. Rajesh Alathur,IND,561,0.41,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,B. Shameer,IND,246,0.18,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,Eruppassery Siddik,IND,241,0.17,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,Rahul R,IND,183,0.13,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,Rahul Manalazhi,IND,157,0.11,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,Selvan S,IND,141,0.10,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,N.S.K. Puram Sasikumar,IND,98,0.07,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-20,Palakkad,Palakkad,56,56,NOTA,NOTA,1262,0.91,False,https://www.onmanorama.com/news/kerala/2024/11/23/kerala-byelection-results-2024-partywise-candidate-votes-live.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,U R Pradeep,CPI(M),64827,41.44,True,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,Ramya Haridas,INC,52626,33.64,False,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,K Balakrishnan,BJP,33609,21.49,False,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,Sudheer N K,IND,3920,2.51,False,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,Lindesh K B,IND,240,0.15,False,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,Haridasan,IND,170,0.11,False,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2024,2024-11-13,Chelakkara,Thrissur,61,61,NOTA,NOTA,1034,0.66,False,https://www.news18.com/elections/chelakkara-bypoll-election-result-2024-live-leading-winner-mla-9130411.html
+2025,2025-06-19,Nilambur,Malappuram,35,35,Aryadan Shoukath,INC,77737,44.17,True,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,M. Swaraj,CPI(M),66660,37.88,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,P.V. Anvar,IND,19760,11.23,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,Mohan George,BJP,8648,4.91,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,Sadik Naduthodi,SDPI,2075,1.18,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,Harinarayanan,IND,185,0.11,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,G. Sadeesh Kumar,IND,114,0.06,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,Vijayan,IND,85,0.05,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,N. Jayarajan,IND,52,0.03,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,P. Radhakrishnan Namboothirippad,IND,43,0.02,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025
+2025,2025-06-19,Nilambur,Malappuram,35,35,NOTA,NOTA,630,0.36,False,https://www.ceo.kerala.gov.in/content/nilamburbyeelection2025

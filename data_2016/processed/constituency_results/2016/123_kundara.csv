@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,123,123,Kundara,J.MERCY KUTTY AMMA,CPI(M),79047,51.8144,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,RAJMOHAN UNNITHAN,INC,48587,31.8482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,M S SYAM KUMAR,UNKNOWN,20257,13.2782,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,SHARAFATH MALLAM,SDPI,1325,0.8685,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,KABEER KUTTY.I.PUTHEZHAM,PDP,1132,0.742,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,S.M.JABER,BSP,698,0.4575,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,NOTA,NOTA,687,0.4503,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,VIJAYAKUMAR,IND,485,0.3179,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,V ANTONY,SUCI,340,0.2229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf

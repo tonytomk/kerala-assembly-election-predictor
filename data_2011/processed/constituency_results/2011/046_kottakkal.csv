@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,46,46,Kottakkal,ABDUSSAMAD SAMADANI,IUML,69717,58.911,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,DR.C.P.K.GURUKKAL,NCP,33815,28.5737,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,K.K. SURENDRAN,BJP,7782,6.5758,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,ALI KADAMPUZHA,PDP,3027,2.5578,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,ADV.K.C.NASEER,SDPI,2650,2.2393,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,KADAMPUZHA BINDHU DEVARAJAN,IND,894,0.7554,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,MADATHIL MUHAMMAD ELLIAS,BSP,458,0.387,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46

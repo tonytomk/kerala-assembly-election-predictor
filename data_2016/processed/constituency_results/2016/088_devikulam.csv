@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Idukki,88,88,Devikulam,S RAJENDRAN,CPI(M),49510,42.1785,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,A K MONI,INC,43728,37.2527,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,R M DHANALAKSHMI,AIADMK,11613,9.8933,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,N CHANDRAN,BJP,9592,8.1716,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,NOTA,NOTA,921,0.7846,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,J. RAJESWARY,IND,650,0.5537,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,RAJENDRAN R,UNKNOWN,485,0.4132,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,C K GOVINDAN,IND,303,0.2581,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,K. MANIKANDAN,IND,267,0.2275,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,PANDIRAJ,IND,184,0.1568,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,K P AYYAPPAN,IND,129,0.1099,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf

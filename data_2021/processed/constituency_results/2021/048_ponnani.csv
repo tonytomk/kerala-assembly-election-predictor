@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,48,48,Ponnani,P NANDAKUMAR,CPI(M),74668,51.35,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,Adv. A.M. ROHITH,INC,57625,39.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,SUBRAMANNIAN,BDJS,7419,5.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,ANVAR PAZHANJI,SDPI,3065,2.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,GANESH VADERI,WPOI,1863,1.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,NOTA,NOTA,467,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,Adv. ROSHITH. M.P.,IND,168,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,K SADANANDAN IND,IND,147,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

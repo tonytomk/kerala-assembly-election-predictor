@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,8,8,Taliparamba,JAMES MATHEW,CPI(M),91106,56.9484,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,RAJESH NAMBIAR,KEC(M),50489,31.5596,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,P BALAKRISHNAN MASTER,BJP,14742,9.2149,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,IBRAHIM THIRUVATTOOR,SDPI,1323,0.827,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,NOTA,NOTA,867,0.5419,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,P K AYYAPPAN MASTER,BSP,675,0.4219,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,K SADANANDAN,IND,288,0.18,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,RAJESH KUMAR,IND,287,0.1794,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,P V ANIL,IND,203,0.1269,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf

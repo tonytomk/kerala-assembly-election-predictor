@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Wayanad,17,17,Mananthavady,O.R.KELU,CPI(M),72536,47.54,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,P.K.Jayalakshmi,INC,63254,41.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Palliyara Mukundan,BJP,13142,8.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Babitha Sreenu,SDPI,1992,1.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,NOTA,NOTA,797,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Lakshmi,IND,382,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Kelu K.K. S/o Kunkan,IND,288,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Vijaya Cheloor BSP,BSP,190,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

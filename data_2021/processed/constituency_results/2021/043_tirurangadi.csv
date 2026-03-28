@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,43,43,Tirurangadi,K P A MAJEED,IUML,73499,49.74,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,NIYAS PULIKKALAKATH,IND,63921,43.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,KALLIYATH SATHAR HAJI,BJP,8314,5.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,NOTA,NOTA,721,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,NIYAS,IND,487,0.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,ABDUL MAJEED PANAKKAL,BSP,303,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,MOOSA JARATHINGAL,SWARAJ,274,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,CHANDRAN,IND,132,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,ABDURAHIM NAHA IND,IND,120,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

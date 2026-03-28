@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,96,96,Ettumanoor,SURESH KURUP,CPI(M),53805,40.6677,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,THOMAS CHAZHIKADAN,KEC(M),44906,33.9415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,A G THANKAPPAN,BDJS,27540,20.8157,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,JOSEMON MUNDACKAL,IND,3774,2.8525,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,ABDUL NAZAR,SDPI,706,0.5336,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,NOTA,NOTA,600,0.4535,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,ADV. C P RAJESH,BSP,453,0.3424,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,M S NOUSHAD,PDP,338,0.2555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,ASHARAJ,SUCI(C),182,0.1376,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf

@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,87,87,Kothamangalam,T.U. KURUVILLA,UNKNOWN,52924,49.2605,True,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,COMMANDER SKARIAH THOMAS,UNKNOWN,40702,37.8845,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,K.RADHAKRISHNAN,UNKNOWN,5769,5.3697,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SHINE MUHAMMED,OTH,4691,4.3663,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SKARIA THOMAS,UNKNOWN,1008,0.9382,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,T.T.KURUVILLA,UNKNOWN,718,0.6683,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,DEVAKI NARAYANAN,OTH,524,0.4877,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,JOY DEVASSIA,OTH,419,0.39,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SKARIA THOMMAN,UNKNOWN,363,0.3379,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SOMINI PRABHAKARAN,BSP,319,0.2969,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf

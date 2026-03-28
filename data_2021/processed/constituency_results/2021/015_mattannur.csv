@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,15,15,Mattannur,K K SHAILAJA TEACHER,CPI(M),96129,61.97,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,ILLIKKAL AUGUSTHY,RSP,35166,22.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,BIJU ELAKKUZHI,BJP,18223,11.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,RAFEEK KEECHERY,SDPI,4201,2.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,NOTA,NOTA,796,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,AGUSTHY N A IND,IND,619,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

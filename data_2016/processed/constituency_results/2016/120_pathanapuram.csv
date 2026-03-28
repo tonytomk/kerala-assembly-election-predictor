@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,120,120,Pathanapuram,K.B. GANESH KUMAR,KC(B),74429,52.3934,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,P.V JAGADISHKUMAR,INC,49867,35.1033,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,REGHU DAMODHARAN (BHEEMAN REGHU),BJP,11700,8.2361,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,ADV. FAIZY M PASHA,SDPI,3843,2.7052,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,PERINAD GOPALAKRISHNAN,BSP,846,0.5955,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,NOTA,NOTA,454,0.3196,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,REGHU.P,IND,366,0.2576,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,SUDHEER.M.G,SHIVSENA,254,0.1788,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,CHANDRASEHKARA PILLAI M.G,IND,194,0.1366,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,MADHU.R,IND,105,0.0739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf

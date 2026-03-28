@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,119,119,Kottarakkara,P.AISHA POTTY,UNKNOWN,74069,53.8931,True,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,N.N.MURALI,UNKNOWN,53477,38.9102,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,VAYAKKAL MADHU,UNKNOWN,6370,4.6349,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,DHANESHLAL PANAVELY,UNKNOWN,1063,0.7734,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,P.T.PRASANNA KUMAR,UNKNOWN,911,0.6628,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,S SOLOMON,UNKNOWN,773,0.5624,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,PRAKASH V,OTH,454,0.3303,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,PRAKASH R,OTH,320,0.2328,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,87,87,Kothamangalam,ANTONY JOHN,CPI(M),65467,50.976,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,T.U.KURUVILLA,UNKNOWN,46185,35.9621,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,P C CYRIAC,UNKNOWN,12926,10.0649,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,PROF. N.A. ANAS,SDPI,1490,1.1602,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,NOTA,NOTA,803,0.6253,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,YAHIYA THANGAL,PDP,775,0.6035,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,T.K.KURUVILA THOTTATHIL,IND,357,0.278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,ADV. CHERIYAN ABRAHAM,IND,261,0.2032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,ANTO JOHNY,IND,163,0.1269,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf

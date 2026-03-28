@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kasaragod,3,3,Udma,K.KUNHIRAMAN,CPI(M),61646,47.9265,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,ADV. C K SREEDHARAN,INC,50266,39.0792,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,SUNITHA PRASANTH,BJP,13073,10.1636,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,FAISAL KOLIYADUKKAM,SDPI,1265,0.9835,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,P DAMODARAN,BSP,1096,0.8521,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,KRISHNANKUTTY,IND,866,0.6733,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,KUNHIRAMAN,IND,414,0.3219,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3

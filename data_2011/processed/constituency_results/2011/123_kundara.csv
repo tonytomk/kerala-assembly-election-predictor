@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,123,123,Kundara,M.A. BABY,CPI(M),67135,52.4804,True,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,P. JERMIAS,UNKNOWN,52342,40.9165,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,VELLIMON DILEEP,UNKNOWN,5990,4.6825,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,SANDHYA PALLIMON,UNKNOWN,957,0.7481,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,SUSEELA MOHAN,UNKNOWN,947,0.7403,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,ANTONY VINCENT,OTH,553,0.4323,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,V. Sasi,CPI,62634,43.17,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,B. S. Anoop,INC,48617,33.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Ashanath G. S,BJP,30986,21.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Anil Mangalapuram,BSP,1097,0.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,NOTA,NOTA,758,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Advocate G. Anil Kumar,WPOI,616,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Anoop Gangan IND,IND,372,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

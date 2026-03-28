@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,80,80,Kochi,K.J. MAXY,CPI(M),54632,42.45,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,TONY CHAMMANY,INC,40553,31.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,SHINY ANTONY,UNKNOWN,19676,15.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,C.G.RAJAGOPAL,BJP,10991,8.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,Nipun Cherian,IND,2149,1.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,NOTA,NOTA,474,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,RAJANEESH BABU IND,IND,228,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

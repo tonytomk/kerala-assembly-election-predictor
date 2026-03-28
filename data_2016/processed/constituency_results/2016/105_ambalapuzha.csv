@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,105,105,Ambalapuzha,G.SUDHAKARAN,CPI(M),63069,47.3157,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,SHAIK.P. HARRIZ,JD(U),40448,30.345,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,L.P. JAYACHANDRAN,BJP,22730,17.0525,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,K.S. SHAN,SDPI,1622,1.2169,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,R. ARJUNAN,SUCI(C),1439,1.0796,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,ADV.NASSAR. M. PYNGAMADOM,IND,1053,0.79,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,A.ANSARI,PDP,931,0.6985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,NASAR ARATTUPUZHA,WPI,878,0.6587,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,NOTA,NOTA,627,0.4704,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,JOSEPH KUTTIKKADAN,IND,266,0.1996,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,P.G. SUGUNAN,IND,231,0.1733,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,27,27,Kozhikode North,Thottathil Ravindran,CPI(M),59124,42.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,K M ABHIJITH,INC,46196,33.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,M T RAMESH,BJP,30952,22.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,NOTA,NOTA,516,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,N ABHIJITH,IND,328,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,K RAHIM,SUCI,156,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,A RAMESH,IND,104,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,V P RAMESH,IND,96,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,URANDIYIL RAVEENDRAN IND,IND,90,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

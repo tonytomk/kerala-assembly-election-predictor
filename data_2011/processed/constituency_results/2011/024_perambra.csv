@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,24,24,Perambra,K. KUNHAMMAD MASTER,CPI(M),70248,51.9071,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,ADV. MOHAMMED IKBAL,KEC(M),54979,40.6247,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,P.CHANDRIKA TEACHER,BJP,7214,5.3305,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,T.K.KUNHAMMAD FAISY,SDPI,1494,1.1039,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,AKHILKUMAR,IND,801,0.5919,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,K.K.VASU,BSP,598,0.4419,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24

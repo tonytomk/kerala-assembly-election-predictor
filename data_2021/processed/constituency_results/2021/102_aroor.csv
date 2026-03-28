@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,102,102,Aroor,DALEEMA,CPI(M),75617,45.97,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,Adv. SHANIMOL OSMAN,INC,68604,41.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,ANIYAPPAN,BDJS,17479,10.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,NOTA,NOTA,846,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,RUGMA PRADEEP,BSP,682,0.41,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,AMBIKA K N (PRIYANKA ANUP),DSJP,475,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,K PRATHAPAN,SUCI,374,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,VAYALAR RAJEEVAN,BHUDRP,164,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,PRAMOD PERUMPUZHA,ADHRMPI,161,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,CHANDRAN IND,IND,89,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

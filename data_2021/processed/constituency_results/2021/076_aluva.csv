@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,76,76,Aluva,ANWAR SADATH,INC,73703,49.0,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,Ar SHELNA NISHAD,IND,54817,36.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,M.N. GOPI,BJP,15893,10.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,V.A RASHEED,SDPI,2224,1.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,K.M. SHEFRIN,WPOI,1713,1.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,NOTA,NOTA,939,0.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,K.V. SARALA,IND,569,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,VISWAKALA THANKAPPAN,MCPI,342,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,A.G. AJAYAN SUCI,SUCI,228,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

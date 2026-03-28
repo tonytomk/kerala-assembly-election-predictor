@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,30,30,Kunnamangalam,ADV. P. T. A RAHIM,IND,85138,43.93,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,DINESH PERUMANNA,IND,74862,38.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ADV: V.K. SAJEEVAN,BJP,27672,14.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ABDUL VAHID,SDPI,1299,0.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,E. P. ANWAR SADATH,WPOI,1057,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,DINESHAN PAKKATH,IND,1021,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,NOTA,NOTA,864,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ABDUL RAHEEM S/o. HASSAN,IND,738,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,BABU K G,IND,724,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,DINESAN MUNDAKKAL,IND,225,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ABDUL RAHEEM P S/o. ABDUL,IND,222,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

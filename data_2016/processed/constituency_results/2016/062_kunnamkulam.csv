@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,62,62,Kunnamkulam,A C MOIDEEN,CPI(M),63274,41.9255,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,C P JOHN,CMP,55492,36.7691,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,ADV.K.K. ANEESHKUMAR,BJP,29325,19.4308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,JILEEF ABDUL KHADAR,SDPI,1204,0.7978,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,SULAIMAN,PDP,710,0.4704,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,NOTA,NOTA,648,0.4294,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,P C SCHARIACHAN,IND,267,0.1769,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf

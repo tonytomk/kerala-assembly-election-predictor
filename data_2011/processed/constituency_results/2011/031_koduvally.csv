@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,31,31,Koduvally,V.M.UMMER MASTER,IUML,60365,53.0336,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,M.MEHABOOB,CPI(M),43813,38.4919,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,GIREESH THEVALLY,BJP,6519,5.7273,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,M.T.ABU HAJI,SDPI,1688,1.483,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,ABOOBAKER,BSP,496,0.4358,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,MEHABOOB KANICHADIKKUZHI VALEPARAMMEL,IND,324,0.2846,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,UMMER,IND,313,0.275,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,MEHABOOB ILLIKKATHODI,IND,306,0.2688,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31

@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Wayanad,17,17,Mananthavady,P.K.JAYALAKSHMI,INC,62996,50.7819,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,K.C.KUNHIRAMAN,CPI(M),50262,40.5169,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,IRUMUTTOOR KUNHAMAN,BJP,5732,4.6206,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,A. GOPAKUMAR,SDPI,2342,1.8879,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,P.U BABU,IND,1712,1.3801,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,ANNAN- MADAKKIMALA,BSP,1008,0.8126,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17

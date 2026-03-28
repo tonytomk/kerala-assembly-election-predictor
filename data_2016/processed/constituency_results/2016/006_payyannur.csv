@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,6,6,Payyannur,C KRISHNAN,CPI(M),83226,58.0207,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,SAJID MAVVAL,INC,42963,29.9515,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,ANIAMMA TEACHER,BJP,15341,10.6949,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,NOTA,NOTA,1042,0.7264,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,VINOD KUMAR RAMANTHALI,CPI(ML)REDSTAR,870,0.6065,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf

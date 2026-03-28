@@ -1,0 +1,15 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,81,81,Thripunithura,ADV. M SWARAJ,CPI(M),62697,40.532,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,K BABU,INC,58230,37.6442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,PROF. THURAVOOR VISWAMBHARAN,BJP,29843,19.2928,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,NOTA,NOTA,1028,0.6646,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,T.A. KAMARUDHEEN,BSP,683,0.4415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SUDHEER YUSUF,SDPI,594,0.384,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,PADMINI D NETTOOR,PDP,410,0.2651,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SWARAJ MANICKATHAN,IND,394,0.2547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SAJU KOLATTUKUDI,IND,172,0.1112,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SUDHA M P,SUCI(C),156,0.1009,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SONIA JOSE,IND,128,0.0827,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,GIREESH BABU,IND,122,0.0789,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,K.N. PRADEEP,IND,116,0.075,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,AYYAPPAN,IND,112,0.0724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf

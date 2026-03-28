@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,K.MURALEEDHARAN,INC,56531,50.1887,True,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,CHERIAN PHILIP,UNKNOWN,40364,35.8355,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,V V RAJESH,BJP,13494,11.9801,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,KAITHAKODE RADHAKRISHNAN,UNKNOWN,915,0.8123,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,CHERIYAN P T,UNKNOWN,551,0.4892,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,RAJAN K,OTH,488,0.4333,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,G. BALAKRISHNAN NAIR,OTH,294,0.261,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf

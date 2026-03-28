@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kasaragod,4,4,Kanhangad,E CHANDRASHEKARAN,CPI,84615,50.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,P V SURESH,INC,57476,34.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,BALRAJ,BJP,21570,12.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,ABDUL SAMAD. T S/o T,SDPI,775,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,NOTA,NOTA,637,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,AUGUSTIN,IND,532,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,KRISHNAN PARAPPACHAL,IND,357,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,SURESH. B C S/o CHENIYAN NAIK,IND,277,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,SREENATH SASI. T C V,IND,219,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,RESHMA KARIVEDAKAM,ADHRMPI,185,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,MANOJ THOMAS,IND,105,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,T ABDUL SAMAD S/o T,JD(U),87,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

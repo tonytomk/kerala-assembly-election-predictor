@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,35,35,Nilambur,P.V. ANVAR,IND,81227,46.9,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,ADV: V.V. PRAKASH,INC,78527,45.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,ADV. T. K ASHOKKUMAR,BJP,8595,4.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,K. BABU MANI,SDPI,3281,1.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,SAJADURAHMAN.C.P,IND,559,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,ANILA MATHEW,ICSP,509,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,NOTA,NOTA,507,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

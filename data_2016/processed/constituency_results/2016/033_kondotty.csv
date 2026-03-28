@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,33,33,Kondotty,T.V. IBRAHIM,IUML,69668,46.5838,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,K P BEERANKUTTY,IND,59014,39.46,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,K RAMACHANDRAN,BJP,12513,8.3669,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,NAZARUDHEEN ELAMARAM,SDPI,3667,2.452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,SALEEM VAZHAKKAD,WPI,2344,1.5673,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,NOTA,NOTA,581,0.3885,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,ABDUL GAFFOOR VAVOOR,PDP,566,0.3785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,K P VEERANKUTTY,IND,442,0.2955,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,SULFIKAR ALI AMBAL,IND,316,0.2113,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,KADEEJA,IND,267,0.1785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,IBRAHIM CHOLAKKAD,IND,176,0.1177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf

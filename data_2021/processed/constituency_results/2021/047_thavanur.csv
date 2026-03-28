@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,47,47,Thavanur,DR.K.T.JALEEL,IND,70358,46.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS KUNNAMPARAMBIL,INC,67794,44.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,RAMESH KOTTAYAPURATH,BDJS,9914,6.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,HASSAN CHIYANOOR,SDPI,1747,1.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,NOTA,NOTA,480,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,JALEEL S/O. MUHAMMAD KUTTY,IND,308,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,VELLARIKKAT MOHAMMED RAFI,IND,227,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS KUNNATHPARAMBIL,IND,194,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS PARUVINGAL,IND,175,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,MOHAMMED FIROS,IND,152,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS NELLAMKUNNATH IND Finger,IND,79,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

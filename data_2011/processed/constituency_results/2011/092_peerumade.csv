@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Idukki,92,92,Peerumade,E.S.BIJIMOLE,UNKNOWN,56748,49.2587,True,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,E.M.AUGUSTHY,INC,51971,45.1121,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,P.P.SANU,UNKNOWN,3380,2.9339,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,M.K.SUPPU ROYAL,AIADMK,694,0.6024,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,K.D.VASUDEVAN,UNKNOWN,667,0.579,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,BIJU MATTAPPALLY,UNKNOWN,641,0.5564,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,P.S.MADHU,UNKNOWN,437,0.3793,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,AUGUSTHY.M,OTH,359,0.3116,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,JOSEPH JACOB,OTH,307,0.2665,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf

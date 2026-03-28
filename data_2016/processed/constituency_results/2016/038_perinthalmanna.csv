@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,38,38,Perinthalmanna,MANJALAMKUZHI ALI,IUML,70990,46.8856,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,V. SASIKUMAR,CPI(M),70411,46.5032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,ADV. M.K. SUNIL,BJP,5917,3.9079,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,SALEEM MAMPAD,WPI,1757,1.1604,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,SUNIYA SIRAJ,SDPI,698,0.461,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,PALATHINGAL ABOOBACKER,IND,671,0.4432,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,NOTA,NOTA,507,0.3349,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,SAYYID MUSTHAFA POOKOYA THANGAL,PDP,335,0.2213,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,ANWAR SHAKEEL OMAR,IND,125,0.0826,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf

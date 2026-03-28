@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,94,94,Kaduthuruthy,MONS JOSEPH,UDF,73793,58.0261,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,SCARIA THOMAS,LDF,31537,24.7987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,STEPHEN CHAZHIKADAN,UNKNOWN,17536,13.7892,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,NOTA,NOTA,1533,1.2055,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,GINISH JOHN M,UNKNOWN,1473,1.1583,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,T P KUTTAPPAN KURUPPANTHARA,UNKNOWN,968,0.7612,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,RAJEEV KIDANGOOR,UNKNOWN,332,0.2611,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf

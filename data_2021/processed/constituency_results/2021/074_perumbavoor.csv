@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,74,74,Perumbavoor,Adv ELDOSE P KUNNAPILLIL,INC,53484,37.1,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,BABU JOSEPH PERUMBAVOOR,KEC(M),50585,35.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,Chithra Sukumaran,UNKNOWN,20536,14.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,Adv.T P SINDHUMOL,BJP,15135,10.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,AJMAL K MUJEEB,SDPI,2494,1.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,ARSHAD K M,WPOI,1038,0.72,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,NOTA,NOTA,703,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,BABU JOSEPH ERUMALA IND,IND,196,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

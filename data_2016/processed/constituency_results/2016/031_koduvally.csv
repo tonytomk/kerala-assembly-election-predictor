@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,31,31,Koduvally,KARAT RAZACK,CPI(M),61033,44.4235,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,M. A. RAZAK MASTER,IUML,60460,44.0064,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,ALI AKBAR,BJP,11537,8.3973,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,P. K. ZAKARIYYA,UNKNOWN,1566,1.1398,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,E NAZAR,UNKNOWN,1466,1.067,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,NOTA,NOTA,582,0.4236,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,ABDUL RAZAK K T,UNKNOWN,352,0.2562,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,SAYYID HUSSAIN JIFFIRI THANGAL,UNKNOWN,281,0.2045,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,K P ABOOBACKER,UNKNOWN,112,0.0815,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf

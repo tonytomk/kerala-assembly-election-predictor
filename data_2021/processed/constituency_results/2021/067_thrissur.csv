@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,67,67,Thrissur,P BALACHANDRAN,CPI,44263,34.25,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,PADMAJA VENUGOPAL,INC,43317,33.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,SURESH GOPI,BJP,40457,31.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,NOTA,NOTA,723,0.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,AJITH MENON PONNEMKATTIL,IND,252,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,THRISSUR MUKUNDAN igp,IND,225,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

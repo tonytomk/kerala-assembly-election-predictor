@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Idukki,91,91,Idukki,ROSHY AUGUSTINE,KEC(M),62368,47.48,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,ADV. K FRANCIS GEORGE,KEC,56795,43.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,ADV. SANGEETHA VISWANATHAN,BDJS,9286,7.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,BABU VARGHESE VATTOLI,BSP,1106,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,NOTA,NOTA,677,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,BIJEESH THOMAS,IND,610,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,VINCENT JACOB,IND,340,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,SAJEEV IND Gramophone,IND,169,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

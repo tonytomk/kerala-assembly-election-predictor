@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,61,61,Chelakkara,K.RADHAKRISHNAN,CPI(M),73683,55.4249,True,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,K.B.SASIKUMAR,INC,49007,36.8634,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,V.A.KRISHNAKUMARAN,BJP,7056,5.3076,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,A.SUBRAHMANIAN,UNKNOWN,2224,1.6729,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,SURESH BABU,BSP,972,0.7311,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf

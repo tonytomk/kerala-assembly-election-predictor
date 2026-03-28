@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,56,56,Palakkad,SHAFI PARAMBIL,INC,54079,38.06,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,E. SREEDHARAN,BJP,50220,35.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,Adv. C.P. PROMOD,CPI(M),36433,25.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,NOTA,NOTA,528,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,E.T.K. VALSAN,BSP,359,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,JAYAPRAKASH. J,SMFB,221,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,V. SACHIDANANDAN,IND,159,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,K. RAJESH ABHM,ABHM,105,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

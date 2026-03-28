@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,22,22,Nadapuram,E.K.VIJAYAN,CPI,72078,49.2235,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,V.M.CHANDRAN,INC,64532,44.0702,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,ADV.PRAKASH BABU,BJP,6058,4.1371,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,ISMAIL KAMMANA,SDPI,1865,1.2736,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,CHANDRAN,IND,745,0.5088,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,C.K VIJAYAN,IND,708,0.4835,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,K.P.VIJAYAN,IND,444,0.3032,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22

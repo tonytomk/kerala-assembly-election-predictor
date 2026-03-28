@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,74,74,Perumbavoor,SAJU PAUL,CPI(M),59628,47.422,True,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,JAISON JOSEPH,UNKNOWN,56246,44.7323,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,O.C.ASOKAN,UNKNOWN,5464,4.3455,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,O.ALIYAR,OTH,2401,1.9095,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,N.K.MUHAMMED HAJI,UNKNOWN,1094,0.8701,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,SUNILKUMAR.P.N,OTH,494,0.3929,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,BINDU JAYAN,UNKNOWN,412,0.3277,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf

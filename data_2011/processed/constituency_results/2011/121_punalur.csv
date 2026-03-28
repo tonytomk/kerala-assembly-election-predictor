@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,121,121,Punalur,K.RAJU,CPI,72648,54.5221,True,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,ADV.JOHNSON ABRAHAM,UNKNOWN,54643,41.0094,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,B RADHAMONY,BJP,4155,3.1183,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,JAYAKUMAR S,OTH,699,0.5246,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,KUZHICHAYIL SUNIL,UNKNOWN,606,0.4548,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,S SHAILAJA,UNKNOWN,494,0.3707,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf

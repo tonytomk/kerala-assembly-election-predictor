@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,51,51,Shornur,P. MAMMIKUTTY,CPI(M),74400,48.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,FIROZ BABU.T.H,INC,37726,24.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,SANDEEP VARIER,BJP,36973,24.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,MUHAMMAD MUSTHAFA,SDPI,1251,0.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,AYYAPPAN KUTTY. T.C.,BSP,883,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,NOTA,NOTA,678,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

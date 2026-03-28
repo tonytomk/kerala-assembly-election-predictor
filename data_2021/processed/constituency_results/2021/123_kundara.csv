@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,123,123,Kundara,P.C.Vishnunadh,INC,76341,48.83,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,J.Mercykutty Amma,CPI(M),71887,45.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Vanaja Vidyadharan,BDJS,6097,3.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,NOTA,NOTA,709,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,R.Rahul,SUCI,459,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Santhosh Adooran,IND,260,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Sibu Karamcodu,ADHRMPI,228,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Shiju M Varghese,DSJP,185,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Vinod Bahuleyan RJD,RJD,170,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

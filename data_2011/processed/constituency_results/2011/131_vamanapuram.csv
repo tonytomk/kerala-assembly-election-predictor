@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,131,131,Vamanapuram,KOLIAKODE N KRISHNAN NAIR,CPI(M),57381,46.509,True,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,C.MOHANACHANDRAN,INC,55145,44.6967,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,KARRETTU SIVAPRASAD,BJP,5228,4.2375,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,PIRAPPANCODE SHAJAHAN,UNKNOWN,2225,1.8034,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,SALEENA PRAKKANAM,SDPI,1613,1.3074,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,SASI R CHERAMAN,UNKNOWN,867,0.7027,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,IRINCHAYAM SURESH,UNKNOWN,437,0.3542,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,KRISHNAN NAIR,OTH,275,0.2229,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,BHARATHANOOR BALAN,UNKNOWN,205,0.1662,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf

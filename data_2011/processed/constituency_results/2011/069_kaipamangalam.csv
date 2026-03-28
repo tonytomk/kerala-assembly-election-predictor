@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,69,69,Kaipamangalam,V.S.SUNILKUMAR,CPI,58789,50.1998,True,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,UMESH CHALLIYIL,JSS,45219,38.6124,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,RADHAKRISHNAN.A.N,BJP,10716,9.1504,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,M.M.MANOJ,OTH,937,0.8001,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,P A KUTTAPPAN,UNKNOWN,811,0.6925,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,C.U.NIMI,OTH,638,0.5448,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf

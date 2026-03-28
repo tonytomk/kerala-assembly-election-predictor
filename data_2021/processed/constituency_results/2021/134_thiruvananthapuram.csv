@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,Adv.ANTONY RAJU,LDF,48748,38.01,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,V .S .Sivakumar,INC,41659,32.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,KRISHNAKUMAR G,BJP,34996,27.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,NOTA,NOTA,1054,0.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,ABHILASH VADAKKAN,IND,436,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,A .Saboora,SUCI,366,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,RAJU ANTONY,IND,289,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,CHALA MOHANAN D,IND,245,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,ANTONY RAJU S/o Raju,IND,190,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,SIVAKUMAR. K S/o Kumara Swamy,IND,164,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,KRISHNAKUMAR T .S S/o Sankarankutty,IND,89,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

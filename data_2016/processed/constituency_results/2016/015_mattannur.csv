@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,15,15,Mattannur,E. P. JAYARAJAN,CPI(M),84030,56.5185,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,K. P. PRASANTH,JD(U),40649,27.3405,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,BIJU ELAKKUZHI,BJP,18620,12.5238,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,RAFEEKH KEECHERI,SDPI,3188,2.1442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,NOTA,NOTA,1420,0.9551,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,KODIPPADI PRASANTH,IND,770,0.5179,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf

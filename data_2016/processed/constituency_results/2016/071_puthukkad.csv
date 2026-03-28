@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,71,71,Puthukkad,PROF.C RAVEENDRANATH,CPI(M),79464,50.0652,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,SUNDARAN KUNNATHULLY,INC,40986,25.8227,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,A NAGESH (PARAMESWARAN),BJP,35833,22.5761,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,NOTA,NOTA,779,0.4908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,ASIF NIYAS,PDP,519,0.327,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,C V VIJAYAN,IND,431,0.2715,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,SANTHOSH POLAKULATH,SHIVSENA,239,0.1506,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,JAYAN KONIKKARA,CPI(M),237,0.1493,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,SANTHOSH IYTHADAN,IND,233,0.1468,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf

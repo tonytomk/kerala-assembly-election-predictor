@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,98,98,Puthuppally,OOMMEN CHANDY,INC,63372,48.08,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,JAICK C THOMAS,CPI(M),54328,41.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,N HARI,BJP,11694,8.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,GEORGE JOSEPH VATHAPPALLY,IND,997,0.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,ABHILASH P P,BSP,763,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,NOTA,NOTA,497,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,M V CHERIAN SUCI,SUCI,146,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

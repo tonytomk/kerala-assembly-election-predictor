@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Alappuzha,110,110,Chengannur,P.C.VISHNUNATH,UNKNOWN,65156,51.9813,True,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,C.S.SUJATHA,UNKNOWN,52656,42.0089,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,B.RADHAKRISHNA MENON,UNKNOWN,6062,4.8363,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,SURENDRAN KARIPPUZHA,UNKNOWN,848,0.6765,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,VENUGOPAL.V,OTH,623,0.497,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf

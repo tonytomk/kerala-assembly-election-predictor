@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,108,108,Kayamkulam,ADV. U. PRATHIBHA HARI,CPI(M),72956,46.5239,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,ADV. M. LIJU,INC,61099,38.9627,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,SHAJI.M.PANICKER,BDJS,20000,12.754,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,ADV. MUTTOM NAZAR,PDP,1125,0.7174,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,P MANIYAPPAN ACHARY,IND,745,0.4751,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,NOTA,NOTA,466,0.2972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,G. VEENA,IND,177,0.1129,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,AJITH P,IND,159,0.1014,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,LIJU M VALLIYATHU,IND,87,0.0555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf

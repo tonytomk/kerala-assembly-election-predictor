@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,81,81,Thripunithura,K.BABU,INC,69886,53.3575,True,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,C.M. DINESH MANI,CPI(M),54108,41.3111,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,SABU VARGHESE,BJP,4942,3.7732,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,KARTHIKEYAN,BSP,826,0.6306,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,BABU KEEZHATHUPARAMBU,UNKNOWN,330,0.252,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,SAJU KOLATTUKUDY,UNKNOWN,327,0.2497,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,SAJI THURUTHIKUNNEL,UNKNOWN,316,0.2413,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,P.K.THANKAMANI,OTH,137,0.1046,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,K.P.AYYAPPAN,UNKNOWN,105,0.0802,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf

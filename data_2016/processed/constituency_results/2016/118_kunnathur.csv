@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,118,118,Kunnathur,KOVOOR KUNJUMON,IND,75725,47.385,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,ULLAS KOVUR,RSP,55196,34.5389,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,THAZHAVA SAHADEVAN,BDJS,21742,13.6051,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,THULASEEDHARAN PALLICKAL,SDPI,1698,1.0625,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,KUNJUMON,IND,1516,0.9486,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,C.K GOPI,PDP,1422,0.8898,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,NOTA,NOTA,1051,0.6577,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,V. REMADEVI,BSP,740,0.4631,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,MANILAL M,IND,718,0.4493,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf

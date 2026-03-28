@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,131,131,Vamanapuram,Adv. D. K. Murali,CPI(M),73137,49.91,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Anad Jayan,INC,62895,42.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Thazhava Sahadevan,BDJS,5603,3.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Ajmal Ismail,SDPI,2325,1.59,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,NOTA,NOTA,716,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Santhosh T.,BSP,552,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Attukal Aji,IND,420,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,R. Murali,IND,310,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Ashokan T. Vamanapuram,APOI,301,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Navas C. M.,IND,134,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Bharathanoor Maniraj IND,IND,132,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

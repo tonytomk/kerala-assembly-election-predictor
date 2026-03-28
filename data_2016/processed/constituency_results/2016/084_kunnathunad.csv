@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,84,84,Kunnathunad,V P SAJEENDRAN,INC,65445,44.1251,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,ADV. SHIJI SHIVAJI,CPI(M),62766,42.3188,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,THURAVOOR SURESH,BDJS,16459,11.0972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,N.O. KUTTAPPAN,SP,1263,0.8516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,NOTA,NOTA,1179,0.7949,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,ORNA KRISHNANKUTTY,PDP,653,0.4403,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,SAJEENDRAN PARAPPURATHU,IND,436,0.294,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,MANOJ,CPI(ML)(LIBERATION),116,0.0782,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf

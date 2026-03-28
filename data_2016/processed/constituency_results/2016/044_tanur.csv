@@ -1,0 +1,15 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,44,44,Tanur,V ABDURAHIMAN,NSC,64472,45.7774,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ABDURAHIMAN RANDATHANI,IUML,59554,42.2855,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,P.R. RASMILNATH,BJP,11051,7.8466,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ASHRAF VAILATHUR,UNKNOWN,1291,0.9167,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,K.K. MAJEED KHASIMI,SDPI,1151,0.8173,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ANWAR PANNIKKANDATHIL,PDP,858,0.6092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,P.T .UNNI,IND,708,0.5027,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,V ABDURAHIMAN VAYANGATIL,IND,672,0.4771,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,NOTA,NOTA,569,0.404,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,V. ABDURAHIMAN VARIKKOTTIL,UNKNOWN,172,0.1221,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,N. RAMAKRISHNAN MASTER,IND,139,0.0987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,THAMI,IND,81,0.0575,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,V. ABDURAHIMAN VAYARAKATH,IND,66,0.0469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ABDURAHIMAN PUTHANMALIYEKKAL,IND,54,0.0383,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf

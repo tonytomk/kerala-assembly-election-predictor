@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,77,77,Kalamassery,V.K.EBRAHIM KUNJU,ML,62843,47.7255,True,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,K.CHANDRAN PILLAI,UNKNOWN,55054,41.8102,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,P.KRISHNADAS,UNKNOWN,8438,6.4082,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,P.A.MUHAMMED ASLAM,UNKNOWN,2104,1.5979,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,T.A.MUJEEB RAHMAN,UNKNOWN,1236,0.9387,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,CHANDRASEKHARA PILLAI,OTH,657,0.499,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,GIREESH BABU.G,UNKNOWN,508,0.3858,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,SHIBU THATTAMPADI,UNKNOWN,505,0.3835,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,D.SUNDARA MOORTHY,AIADMK,186,0.1413,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,K.P.MOHANAN,OTH,145,0.1101,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf

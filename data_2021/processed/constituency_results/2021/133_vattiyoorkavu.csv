@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,Adv.V.K.PRASANTH,CPI(M),61111,44.4,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,Adv.V.V.RAJESH,BJP,39596,28.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,Adv.VEENA.S.NAIR,INC,35455,25.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,NOTA,NOTA,854,0.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,N.MURALI,BSP,419,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,A.SHYJU SUCI,SUCI,201,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

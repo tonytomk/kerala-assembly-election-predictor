@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,54,54,Mannarkad,N. SAMSUDHEEN,UNKNOWN,73163,49.2687,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,K.P. SURESH RAJ,CPI,60838,40.9689,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,KESAVADEV PUTHUMANA,BDJS,10170,6.8486,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,M. SULAIMAN,WPI,1112,0.7488,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,NOTA,NOTA,927,0.6243,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,SHAMSUDHEEN THOTTASSERI,IND,622,0.4189,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,AJIKUMAR. K,CPI(ML)REDSTAR,478,0.3219,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,GEORGE KUTTY. E.V,IND,445,0.2997,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,YOOSAF ALANALLUR,SDPI,412,0.2774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,SURESH BABU. M,SHIVSENA,331,0.2229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,29,29,Beypore,ELAMARAM KAREEM,CPI(M),60550,46.7965,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,ADAM MULSI .M.P.,INC,55234,42.688,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,K.P.SREESAN,BJP,11040,8.5323,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,MUHAMMED MUSTHAFA,SDPI,954,0.7373,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,K.S.HARIHARAN,IND,564,0.4359,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,K.T.LATHA,BSP,469,0.3625,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,ADAM MALIQUE .E,IND,396,0.3061,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,ABDUL KAREEM,IND,183,0.1414,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29

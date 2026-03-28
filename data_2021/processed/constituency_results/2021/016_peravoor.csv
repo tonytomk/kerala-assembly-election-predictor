@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,16,16,Peravoor,Adv. Sunny Joseph,INC,66706,46.93,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,K V Sakkeer Hussain,CPI(M),63534,44.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Smitha Jayamohan,BJP,9155,6.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,A C Jalaluddeen,SDPI,1541,1.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,NOTA,NOTA,404,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sakkeer Hussain S/o Hamsa,IND,243,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sunny Vazhakkamalayil,IND,121,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sakkeer E K S/o Asiya,IND,116,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,P K Saji,NWLBRP,106,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,John Pallikkamalil,SDC,92,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Narayanakumar,IND,60,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sunny Muthukulathel IND,IND,60,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

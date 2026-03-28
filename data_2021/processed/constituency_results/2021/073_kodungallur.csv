@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,73,73,Kodungallur,Adv. V. R. SUNILKUMAR,CPI,71457,47.99,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,M. P. JACKSON,INC,47564,31.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,SANTHOSH CHERAKKULAM,BJP,28204,18.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,NOTA,NOTA,870,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,REMYA MOHANAN,BSP,366,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,O. M. SREEJA,SUCI,270,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,RAJAN PAINAT IND,IND,171,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

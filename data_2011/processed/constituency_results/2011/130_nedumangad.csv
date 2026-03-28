@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,130,130,Nedumangad,PALODE RAVI,INC,59789,47.8668,True,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,P. RAMACHANDRAN NAIR,CPI,54759,43.8398,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,ANJANA K S,BJP,5971,4.7804,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,ANDOORKONAM SULFI,UNKNOWN,1255,1.0047,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,A NOORJAHAN,SDPI,1200,0.9607,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,IDAMMA N,BSP,731,0.5852,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,VAZHODE RAVI,UNKNOWN,346,0.277,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,BIJU A,OTH,342,0.2738,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,ANAD.G.RAMACHANDRAN NAIR,UNKNOWN,277,0.2218,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,SAJI,OTH,237,0.1897,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf

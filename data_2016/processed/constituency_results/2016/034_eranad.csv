@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,34,34,Eranad,P K BASHEER,IUML,69048,50.8266,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,ABDURAHIMAN,IND,56155,41.336,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,K P BABURAJ MASTER THUNDATHIL,BJP,6055,4.4571,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,ADV. UMMER CHELAKKODE,SP,1298,0.9555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,VELAYUDHAN,BSP,885,0.6515,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,K.T. ABDUL RAHIMAN,IND,825,0.6073,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,FAROOQ CHENGARA,PDP,536,0.3946,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,NOTA,NOTA,461,0.3393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,V.K.BASHEER VALLAKKAATT THODI,UNKNOWN,245,0.1803,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,SHAHANAS,IND,193,0.1421,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,P.K.BASHEER PALATTUKUYYAN,UNKNOWN,149,0.1097,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf

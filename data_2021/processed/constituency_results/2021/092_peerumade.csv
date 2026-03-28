@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Idukki,92,92,Peerumade,VAZHOOR SOMAN,CPI,60141,47.25,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,Adv.SYRIAC THOMAS,INC,58306,45.81,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,SREENAGARI RAJAN,BJP,7126,5.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,BIJU MATTAPPALLY,BSP,818,0.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,NOTA,NOTA,401,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,P.K GOPALAKRISHNAN,IND,251,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,SOMAN IND,IND,248,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

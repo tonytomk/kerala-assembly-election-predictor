@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,32,32,Thiruvambady,C MOYINKUTTY,IUML,56386,48.7119,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,GEORGE M THOMAS,CPI(M),52553,45.4006,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,JOSE KAPPATTMALA,BJP,3894,3.364,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,C T ASHRAF,SDPI,790,0.6825,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,K MOYINKUTTY,IND,576,0.4976,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,GEORGE THOMAS,IND,574,0.4959,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,K P BASHEER HAJI,IND,541,0.4674,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,GAFOOR PUTHUPPADY,BSP,440,0.3801,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32

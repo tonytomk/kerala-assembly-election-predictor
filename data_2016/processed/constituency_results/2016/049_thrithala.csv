@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,49,49,Thrithala,V.T. BALRAM,INC,66505,47.1596,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,SUBAIDA ISHAC,CPI(M),55958,39.6806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,PROF.V.T. REMA,BJP,14510,10.2892,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,C.P. MOHAMMEDALI,SDPI,1313,0.9311,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,SUBAIDA,IND,1080,0.7658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,NOTA,NOTA,549,0.3893,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,MOIDEEN KUTTY POOKKATH,PDP,541,0.3836,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,VINOD PERUMANNOOR,BSP,366,0.2595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,BALARAM,IND,199,0.1411,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf

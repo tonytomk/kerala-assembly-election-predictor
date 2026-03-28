@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,77,77,Kalamassery,V K EBRAHIM KUNJU,IUML,68726,44.3731,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,A M YOUSAF,CPI(M),56608,36.5491,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,V GOPAKUMAR,BDJS,24244,15.6532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,SHAFEER MUHAMMED,SDPI,1706,1.1015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,PREMA G PISHARADY,WPI,1391,0.8981,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,NOTA,NOTA,1081,0.698,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,V.M. ALIYAR,PDP,634,0.4093,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,UNNIKRISHNAN N A,IND,182,0.1175,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,YUSSUF KODOPPILLY,IND,155,0.1001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,P K YOUSEF PANTHALAKKODATH,IND,155,0.1001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,36,36,Wandoor,A.P. ANIL KUMAR,INC,81964,52.595,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,K NISHANTH,CPI(M),58100,37.2818,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,SUNITHA MOHANDAS,BJP,9471,6.0774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,KRISHNAN KUNIYIL,WPI,3399,2.1811,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,KRISHNAN ERANHIKKAL,SDPI,1178,0.7559,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,VELAYUDHAN VENNIYUR,PDP,920,0.5903,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,NOTA,NOTA,808,0.5185,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf

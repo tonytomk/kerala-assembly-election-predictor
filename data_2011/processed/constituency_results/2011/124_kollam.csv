@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,124,124,Kollam,P.K GURUDASAN,CPI(M),57986,50.8569,True,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,K C RAJAN,INC,49446,43.3668,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,G. HARI,BJP,4207,3.6898,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,A. A SHAFI,UNKNOWN,1168,1.0244,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,MANGADU THULASEEDHARAN,UNKNOWN,507,0.4447,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,K. SANU,OTH,372,0.3263,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,C N NARAYANAN NAIR,UNKNOWN,191,0.1675,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,V MOHANAN,OTH,141,0.1237,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf

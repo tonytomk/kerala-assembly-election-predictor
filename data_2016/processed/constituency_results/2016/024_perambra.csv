@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,24,24,Perambra,T P RAMAKRISHNAN,CPI(M),72359,47.1357,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,ADV. MOHAMMED IKBAL,KEC(M),68258,44.4643,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,SUKUMARAN NAIR,BDJS,8561,5.5768,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,RAZSAQ PALERI,WPI,1673,1.0898,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,K P GOPI,SDPI,1036,0.6749,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,MUHAMMAD IQBAL BAPPU BAITH,IND,637,0.415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,NOTA,NOTA,616,0.4013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,M T MUHAMMED MASTER,CPI(ML)REDSTAR,224,0.1459,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,MUHAMMED IQBAL PALLATH,IND,148,0.0964,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf

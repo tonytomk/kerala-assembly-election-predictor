@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,107,107,Haripad,RAMESH CHENNITHALA,INC,72768,48.31,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,Adv. R. SAJILAL,CPI,59102,39.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,K. SOMAN,BJP,17890,11.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,NOTA,NOTA,536,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,MADHU. T,SUCI,204,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,Adv. NIYAZ BHARATI IND,IND,123,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

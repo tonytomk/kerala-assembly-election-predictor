@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,KADAKAMPALLY SURENDRAN,CPI(M),50079,37.3838,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,V.MURALEEDHARAN,BJP,42732,31.8993,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,M.A.VAHEED,INC,38602,28.8163,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,NOTA,NOTA,822,0.6136,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,KOCHUMANI,BSP,496,0.3703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,N.A.VAHID PUTHUMANGALAM,IND,412,0.3076,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,ANEESH,IND,370,0.2762,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,SURENDRAN PILLAI,IND,108,0.0806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,MANIMEKHALA,IND,84,0.0627,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,SASIKALA,IND,83,0.062,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,MURUKAN.A,IND,59,0.044,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,MURALEEDHARAN VAISHNAVAM,IND,58,0.0433,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,PRASAD.P,IND,54,0.0403,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf

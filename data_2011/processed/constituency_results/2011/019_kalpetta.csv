@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Wayanad,19,19,Kalpetta,M.V SREYAMSKUMAR,SJ [D],67018,52.9435,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,P.A MUHAMMED,CPI(M),48849,38.5902,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,ANAND KUMAR.P.G,BJP,6580,5.1981,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,JAMEELA,SDPI,1597,1.2616,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,K. NASEERUDHEEN,IND,1197,0.9456,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,CLEATUS,IND,760,0.6004,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,MUJEEB RAHMAN ANJUKUNNU,BSP,583,0.4606,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19

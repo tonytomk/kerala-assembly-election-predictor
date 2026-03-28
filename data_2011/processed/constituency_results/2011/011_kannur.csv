@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,11,11,Kannur,A.P ABDULLAKUTTY,INC,55427,48.8947,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,RAMACHANDRAN KADANNAPPALLI,IND,48984,43.211,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,U.T.JAYANDAN,BJP,4568,4.0296,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,ADV.P.C.NOUSHAD,SDPI,2538,2.2389,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,M.P.ABDULLAKUTTY,IND,1100,0.9704,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,K.SUDHAKARAN,IND,517,0.4561,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,S.NOORUDHEEN,BSP,226,0.1994,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11

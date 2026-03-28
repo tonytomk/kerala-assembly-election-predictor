@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,125,125,Eravipuram,M. Noushad,CPI(M),71573,56.25,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Babudivakaran,RSP,43452,34.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Renjith Ravindran,BDJS,8468,6.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Ayathil Riyas,SDPI,1444,1.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,NOTA,NOTA,931,0.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Mohanan Mayyanad,BSP,543,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,M. Unnikrishnan,ADHRMPI,430,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,S. Sudhilal,SUCI,213,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,N. Shihabudeen IND,IND,187,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

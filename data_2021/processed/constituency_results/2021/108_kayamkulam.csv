@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,108,108,Kayamkulam,Adv. U. Prathibha,CPI(M),77348,47.97,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Aritha Babu,INC,71050,44.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Pradeeplal,BDJS,11413,7.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,NOTA,NOTA,420,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Maniyappan Achari,IND,372,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Rajeev R,IND,230,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Geevarghese Samuel,IND,202,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Myna Gopinath,SUCI,148,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Sathyanarayanan S IND,IND,74,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

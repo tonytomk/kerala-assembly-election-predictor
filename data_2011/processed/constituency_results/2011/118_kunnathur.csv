@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,118,118,Kunnathur,KOVOOR KUNJUMON,UNKNOWN,71923,49.975,True,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,P.K.RAVI,INC,59835,41.5758,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,RAJI PRASAD,UNKNOWN,5949,4.1336,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,THULASEEDHARAN PALLICKAL,UNKNOWN,2310,1.6051,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,VALLIKUNNAM  PRASAD,UNKNOWN,1354,0.9408,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,PULIKUZHI BALACHANDRAN,UNKNOWN,1145,0.7956,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,SHYLAJA P,OTH,611,0.4245,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,RAVI,UNKNOWN,525,0.3648,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,V.REMADEVI,UNKNOWN,266,0.1848,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf

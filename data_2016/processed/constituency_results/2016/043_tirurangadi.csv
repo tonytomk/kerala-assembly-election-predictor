@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,43,43,Tirurangadi,P.K. ABDU RABB,IUML,62927,46.5278,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NIYAS PULIKKALAKATH,IND,56884,42.0597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,P.V. GEETHA MADHAVAN,BJP,8046,5.9492,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,ADV. K.C. NASEER,SDPI,2478,1.8322,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,MALIYATT ABDURAZAK HAJI,PDP,1902,1.4063,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,MINU MUMTHAZ,WPI,1270,0.939,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NOTA,NOTA,630,0.4658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NIYAS PAROLI,IND,541,0.4,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,HANEEFA,IND,294,0.2174,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NIYAS THAZHATHETHIL,IND,181,0.1338,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,YOONUS SALEEM POOZHITHARA,CPI(ML)REDSTAR,93,0.0688,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf

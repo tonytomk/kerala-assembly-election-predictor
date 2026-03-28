@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,57,57,Tarur,A. K. BALAN,CPI(M),64175,57.1521,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,N. VINESH,KC [J],38419,34.2147,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,M. LAKSHMANAN,BJP,5385,4.7957,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,P.C.NARAYANANKUTTY,BSP,2346,2.0893,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,K. VINESH,IND,1963,1.7482,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57

@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,55,55,Malampuzha,A. PRABHAKARAN,CPI(M),75934,46.41,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,KRISHNAKUMAR.C,BJP,50200,30.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,S. K. Ananthakrishnan,INC,35444,21.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,NOTA,NOTA,1054,0.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,K.PRASAD,SUCI,555,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,ABDUL RAHEEM. S IND,IND,418,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

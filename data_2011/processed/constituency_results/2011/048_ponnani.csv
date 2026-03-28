@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,48,48,Ponnani,P.SREERAMAKRISHNAN,CPI(M),57615,47.5536,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,P.T.AJAY MOHAN,INC,53514,44.1688,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,V.T.JAYAPRAKASH MASTER,BJP,5680,4.6881,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,YAHIYA KOYA THANGAL,SDPI,3250,2.6824,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,AJAYAN,IND,1099,0.9071,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48

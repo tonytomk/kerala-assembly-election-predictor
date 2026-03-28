@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,16,16,Peravoor,ADV. SUNNY JOSEPH,INC,65659,48.1001,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,ADV. BINOY KURIAN,CPI(M),57670,42.2475,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,PAILY VATHIATTU,BDJS,9129,6.6877,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,P K FAROOKH,SDPI,1935,1.4175,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,PALLIPRAM PRASANNAN,WPI,513,0.3758,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,NOTA,NOTA,458,0.3355,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,SUNNY JOSEPH KALLARAKKAL,IND,389,0.285,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,ADV. K J JOSEPH,IND,241,0.1766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,BIJOY KURIAN,IND,214,0.1568,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,V D BINTO,IND,124,0.0908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,SUNNY,IND,110,0.0806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,RADHAMANI NARAYANA KUMAR,IND,63,0.0462,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf

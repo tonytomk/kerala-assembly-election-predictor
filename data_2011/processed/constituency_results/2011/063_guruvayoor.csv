@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,63,63,Guruvayoor,ABDUL KHADER.K.V,CPI(M),62246,48.5251,True,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,ASHARAF KOKKUR,UNKNOWN,52278,40.7543,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,DAYANANDAN MAMPULLY,UNKNOWN,9306,7.2547,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,ASHARAF VADAKOOT,UNKNOWN,2187,1.7049,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,SHAMEER BABU,UNKNOWN,1017,0.7928,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,K V ABDHUL KHADER,UNKNOWN,415,0.3235,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,VIJAYANATH,UNKNOWN,353,0.2752,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,C V PREMARAJ,UNKNOWN,242,0.1887,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,MUHAMMED ASHARAF,BSP,232,0.1809,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf

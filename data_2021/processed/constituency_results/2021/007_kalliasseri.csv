@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,7,7,Kalliasseri,M VIJIN,CPI(M),88252,60.62,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,ADV. BRIJESH KUMAR,INC,43859,30.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,ARUN KAITHAPRAM,BJP,11365,7.81,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,FAIZAL MADAYI,WPOI,1169,0.8,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,NOTA,NOTA,666,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,BRIJESHKUMAR M. S/o AMBU IND,IND,274,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,40,40,Malappuram,P. UBAIDULLA,IUML,81072,57.1602,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,ADV. K P SUMATHI,CPI(M),45400,32.0095,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,BADUSHA THANGAL K.N,BJP,7211,5.0841,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,E.C. AYISHA,WPI,3330,2.3478,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,JALEEL NEELAMBRA,SDPI,2444,1.7232,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,ASHRAF PULPATTA,PDP,1550,1.0928,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,NOTA,NOTA,826,0.5824,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf

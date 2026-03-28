@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,135,135,Nemom,V.Sivankutty,CPI(M),55837,38.24,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Kummanam Rajasekharan,BJP,51888,35.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,K.Muraleedharan,INC,36524,25.01,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,NOTA,NOTA,756,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,D.Vijayan,BSP,356,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Jain Wilson,IND,165,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Arampally Vijayaraj,IND,138,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,L Sathyan Nadar,IND,100,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Balachandran Valkannadi,IND,85,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Shine Raj.B,IND,70,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Rajasekharan,IND,50,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Muraleedharan Nair IND,IND,48,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

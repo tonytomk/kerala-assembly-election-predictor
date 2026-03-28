@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Wayanad,18,18,Sulthanbathery,I.C BALAKRISHNAN,INC,81077,48.42,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,M.S VISWANATHAN,CPI(M),69255,41.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,C.K JANU,BJP,15198,9.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,NOTA,NOTA,1160,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,ONDAN PANIYAN IND,IND,742,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

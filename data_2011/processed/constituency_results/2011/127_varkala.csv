@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,127,127,Varkala,VARKALA KAHAR,INC,57755,52.3964,True,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,RAHIM A A,CPI(M),47045,42.6801,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,ELAKAMON SATHEESHAN,UNKNOWN,3430,3.1118,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,CHERUNNIYOOR GANESH,UNKNOWN,927,0.841,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,KUNNIL SHAJAHAN,UNKNOWN,795,0.7212,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,ANEESH KUMAR,OTH,275,0.2495,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf

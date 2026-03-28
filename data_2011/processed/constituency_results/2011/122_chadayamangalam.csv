@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,122,122,Chadayamangalam,MULLAKKARA RATNAKARAN,UNKNOWN,71231,55.8986,True,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,SHAHIDA KAMAL,INC,47607,37.3596,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,T C SAJU KUMAR,UNKNOWN,4160,3.2646,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,JALEEL KADAKKAL,UNKNOWN,1800,1.4126,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,SHIBU K CHADAYAMANGALAM,UNKNOWN,1078,0.846,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,KOTTUKKAL PRASAD,UNKNOWN,996,0.7816,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,OYOOR NAZEER,UNKNOWN,557,0.4371,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf

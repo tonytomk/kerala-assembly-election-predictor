@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Pathanamthitta,115,115,Adoor,CHITTAYAM GOPAKUMAR,UNKNOWN,63501,47.0179,True,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,PANDALAM SUDHAKARAN,INC,62894,46.5685,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,K K SASI,UNKNOWN,6210,4.5981,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,OLIKKULANGARA SURENDRAN,UNKNOWN,994,0.736,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,KODUMON RAMACHANDRAN,UNKNOWN,519,0.3843,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,PIRAVANTHOOR SREEDHARAN,UNKNOWN,462,0.3421,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,REMANAN,OTH,315,0.2332,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,ANIL K,OTH,162,0.1199,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf

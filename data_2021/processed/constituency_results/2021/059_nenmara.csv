@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,59,59,Nenmara,K. Babu,CPI(M),80145,52.89,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,C.N.Vijayakrishnan,CMPKSC,51441,33.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,Anurag .A.N,BDJS,16666,11.0,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,Prakash.C,BSP,1350,0.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,NOTA,NOTA,1070,0.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,Babu S/o Kunchu IND,IND,863,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

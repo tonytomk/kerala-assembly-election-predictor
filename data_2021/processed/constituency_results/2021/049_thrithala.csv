@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,49,49,Thrithala,M. B RAJESH,CPI(M),69814,45.84,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,V .T BALRAM,INC,66798,43.86,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,ADV:SANKU T DAS,BJP,12851,8.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,ABDUL NAZAR M K,SDPI,1582,1.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,NOTA,NOTA,427,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,RAJAGOPAL THRITHALA,BSP,333,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,SREENIVAS KURUPPATH,IND,136,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,HUSSAIN THATTATHAZHATH,IND,107,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,RAJESH S/O RAMAN E,IND,91,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,NOORUDHEEN E V,IND,70,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,BALARAMAN K S/O KUNJUNNI,IND,57,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,T .T BALARAMAN S/O KRISHNAN,IND,45,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

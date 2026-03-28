@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kasaragod,3,3,Udma,K KUNHIRAMAN,CPI(M),70679,43.9355,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,K SUDHAKARAN,INC,66847,41.5534,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,ADV.K.SHREEKANTH,BJP,21231,13.1976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,NOTA,NOTA,405,0.2518,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,GOPI KUTHIRAKALLU,PDP,353,0.2194,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,DAMODARAN.P,IND,349,0.2169,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,MOHAMMED PAKYARA,SDPI,331,0.2058,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,SUDHAKARAN CHERUKANAM,IND,208,0.1293,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,GOVINDAN B ALINTHAZHE,APOI,165,0.1026,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,ABBAS MUTHALAPPARA,IND,157,0.0976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,K KUNHIRAMAN PERIYANGANANAM,IND,145,0.0901,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf

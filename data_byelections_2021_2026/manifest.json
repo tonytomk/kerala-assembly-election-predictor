@@ -1,0 +1,7 @@
+{
+  "years": [2022, 2023, 2024, 2025],
+  "outputs": {
+    "by_elections": "data_byelections_2021_2026/processed/by_elections.csv",
+    "candidate_results": "data_byelections_2021_2026/processed/kerala_assembly_byelection_candidate_results.csv"
+  }
+}

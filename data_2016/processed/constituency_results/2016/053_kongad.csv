@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,53,53,Kongad,K.V. VIJAYADAS,CPI(M),60790,45.345,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,PANDALAM SUDHAKARAN,INC,47519,35.4458,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,RENU SURESH,BJP,23800,17.7531,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,NOTA,NOTA,1163,0.8675,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,RAMESH P V KANNAMPARIYARAM,BSP,789,0.5885,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf

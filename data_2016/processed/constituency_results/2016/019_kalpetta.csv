@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Wayanad,19,19,Kalpetta,C K SASEENDRAN,CPI(M),72959,48.347,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,M.V SHREYAMS KUMAR,JD(U),59876,39.6774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,K SADANANDAN,BJP,12938,8.5735,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,NOTA,NOTA,1172,0.7766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,JOSEPH AMBALAVAYAL,WPI,900,0.5964,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,ADV. K A AYOOB,SDPI,837,0.5546,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,MADAYI LATHEEF,IND,594,0.3936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,SREYAMS KUMAR ANJANA HOUSE,IND,498,0.33,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,SUJAYAKUMAR,CPI(ML)REDSTAR,468,0.3101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,MOIDEEN CHEMBOTHARA,IND,451,0.2989,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,SANDHYA N M,IND,214,0.1418,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf

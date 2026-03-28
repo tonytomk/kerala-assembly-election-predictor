@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,80,80,Kochi,DOMINIC PRESENTATION,INC,56352,53.3677,True,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,M.C. JOSPHINE,CPI(M),39849,37.7387,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,K SASIDHARAN MASTER,UNKNOWN,5480,5.1898,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,YOOSUF MUFTHI,OTH,1992,1.8865,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,DOMINIC C J,OTH,590,0.5588,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,KAMARUDHEEN  T.A,UNKNOWN,482,0.4565,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,A.P IBRAHIMKUTTY,UNKNOWN,394,0.3731,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,JACOB PULIKKAN,UNKNOWN,258,0.2443,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,T.A. KRISHNAKUTTY,UNKNOWN,195,0.1847,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf

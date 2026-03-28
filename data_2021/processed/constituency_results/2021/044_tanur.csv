@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,44,44,Tanur,V.ABDURAHIMAN,NSC,70704,46.34,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,P.K.FIROS,IUML,69719,45.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,K.NARAYANAN MASTER,BJP,10590,6.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,NOTA,NOTA,336,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,FIROZ S/o Kunhumarakkar,IND,247,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,V.ABDURAHIMAN S/o Kathiyamu,IND,224,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,KUNHI MOHAMED,IND,213,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,MUEENUDHEEN,IND,183,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,ABDURAHIMAN.V S/o Alavi Haji,IND,179,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,ABDURAHIMAN.V S/o Muhammed,IND,102,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,FIROZ S/o Avarankutty IND,IND,73,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

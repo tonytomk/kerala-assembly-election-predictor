@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Kadakampally Surendran,CPI(M),63690,46.04,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Sobha Surendran,BJP,40193,29.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Dr. S. S. Lal,INC,32995,23.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,NOTA,NOTA,668,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Kochumani,BSP,377,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,V. Sasikumaran Nair,IND,129,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Lalumon,IND,112,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Syamlal,IND,85,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Adv. Sen A. G. IND,IND,76,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

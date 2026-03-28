@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,86,86,Muvattupuzha,ELDHO ABRAHAM,CPI,70269,49.2715,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,JOSEPH VAZHACKAN,INC,60894,42.6979,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,ADV. P J THOMAS,BJP,9759,6.8429,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,NOTA,NOTA,633,0.4438,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,P K ABOOBACKAR THANGAL (KHAMARUDHEEN THA,UNKNOWN,513,0.3597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,P P MOIDEENKUNJU,SDPI,428,0.3001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,JUSTIN T D,IND,120,0.0841,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf

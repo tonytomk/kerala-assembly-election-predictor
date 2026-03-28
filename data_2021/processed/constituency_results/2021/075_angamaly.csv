@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,75,75,Angamaly,ROJI M JOHN,INC,71562,51.86,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Adv. JOSE THETTAYIL,JD(S),55633,40.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Adv. K V SABU,BJP,8677,6.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,NOTA,NOTA,669,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,MARTIN PAUL,IND,623,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Stalin Nikathithara,BSP,326,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,JOTHILAKSHMI,SUCI,301,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Velayudhan IND Batsman,IND,206,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

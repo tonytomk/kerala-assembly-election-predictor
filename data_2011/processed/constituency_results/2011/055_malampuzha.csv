@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,55,55,Malampuzha,V.S.ACHUTHANANDAN.,CPI(M),77752,57.0381,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,55,55,Malampuzha,LATHIKA SUBHASH,INC,54312,39.8427,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,55,55,Malampuzha,ADV.P. K. MAJEED PEDIKKATT,JD [U],2772,2.0335,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,55,55,Malampuzha,RAVI PALLATHERI,BSP,1480,1.0857,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/55

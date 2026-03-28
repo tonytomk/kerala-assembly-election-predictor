@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,42,42,Vallikkunnu,ADV.K.N.A.KHADER,IUML,57250,50.5278,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,K.V. SANKARANARAYANAN,IND,39128,34.5336,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,PREMAN MASTER,BJP,11099,9.7958,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,SALAM MOONNIYUR,PDP,2666,2.353,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,ABDUL LATHEEF,SDPI,2571,2.2691,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,NEELAKANTAN CHELARI,BSP,590,0.5207,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42

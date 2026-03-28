@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,100,100,Kanjirappally,DR. N JAYARAJ,KEC(M),53126,38.8609,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,ADV.V. B. BINU,CPI,49236,36.0154,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,V N MANOJ,BJP,31411,22.9767,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,ARUN M JOHN,BSP,1113,0.8141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,MUHAMMED SIYAD,SDPI,839,0.6137,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,NOTA,NOTA,618,0.4521,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,MANOJ ARUVIKKUZHY,IND,138,0.1009,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,ACHUTHAN K P,IND,137,0.1002,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,SAJAN C MADHAVAN,IND,90,0.0658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf

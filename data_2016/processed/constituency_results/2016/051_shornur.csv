@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,51,51,Shornur,P.K. SASI,CPI(M),66165,46.7062,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,C. SANGEETHA,INC,41618,29.3784,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,V.P. CHANDRAN,BDJS,28836,20.3555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,M SAIDALAVI,SDPI,1246,0.8796,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,HARIS MUHAMMAD,IND,882,0.6226,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,NOTA,NOTA,800,0.5647,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,ANANDAN K K,BSP,764,0.5393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,A. RADHAKRISHNAN,IND,697,0.492,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,P.K. ANUMON,SHIVSENA,407,0.2873,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,MOIDEENSHA MOLOOR,UNKNOWN,247,0.1744,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf

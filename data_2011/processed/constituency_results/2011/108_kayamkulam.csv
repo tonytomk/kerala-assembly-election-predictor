@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Alappuzha,108,108,Kayamkulam,C.K.SADASIVAN,CPI(M),67409,48.2783,True,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,M.MURALI,INC,66094,47.3365,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,T.O.NOUSHAD,BJP,3083,2.208,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,K.SADASIVAN,UNKNOWN,744,0.5329,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,MURALI,OTH,704,0.5042,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,AMBUJAN,BSP,602,0.4312,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,SHAL MOHAN,OTH,585,0.419,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,KALESH MANIMANDIRAM,UNKNOWN,405,0.2901,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf

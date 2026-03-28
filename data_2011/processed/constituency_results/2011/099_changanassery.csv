@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,99,99,Changanassery,C.F.THOMAS,KEC(M),51019,47.1277,True,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,B.EKBAL,CPI(M),48465,44.7685,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,RAJAGOPAL M.B,BJP,6281,5.8019,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,MATHEWS JOHN,IND,1058,0.9773,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,MANSOOR,SDPI,907,0.8378,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,K.SADANANDAN,IND,281,0.2596,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,NASEER.K.M,IND,246,0.2272,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Pathanamthitta,111,111,Thiruvalla,ADV. MATHEW T THOMAS,JD(S),59660,41.2752,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,JOSEPH M PUTHUSSERY,KEC(M),51398,35.5592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,AKKERAMAN KALIDASAN BHATTATHIRIPAD,BDJS,31439,21.7508,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,SAJI KADAMPANAD,BSP,756,0.523,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,NOTA,NOTA,479,0.3314,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,SIMI M JACOB,SDPI,444,0.3072,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,CHERIAN M V,IND,366,0.2532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf

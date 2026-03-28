@@ -1,0 +1,19 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,101,101,Poonjar,P C GEORGE PLATHOTTAM,IND,63621,43.6499,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,GEORGEKUTTY AUGUSTY,KEC(M),35800,24.5621,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ADV. P C JOSEPH PONNATTU,IND,22270,15.2793,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,M R ULLAS,BDJS,19966,13.6985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,P A ABDUL HAKKIM,WPI,804,0.5516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,NISHAD NADAKAL,PDP,530,0.3636,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,SAINULLAUDEEN,IND,525,0.3602,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ADV. INDULEKHA JOSEPH,IND,397,0.2724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,GEORGEKUTTY SEBASTIAN,IND,375,0.2573,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,NOTA,NOTA,313,0.2147,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,JOSEPH P C PURATHAYIL,IND,234,0.1605,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,SIYAM P ASHRAF,IND,194,0.1331,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,GEORGE CHACKO,IND,166,0.1139,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,RAJU VATTAPPARA,SUCI(C),148,0.1015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,JAMES JOSEPH,IND,143,0.0981,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,SANTHOSH CHENNADU,KJP,96,0.0659,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,T M SURENDRAN,CPI(ML)REDSTAR,94,0.0645,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ABRAHAM,IND,77,0.0528,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf

@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,82,82,Eranakulam,T. J. Vinod,INC,45930,41.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,SHAJI GEORGE PRANATHA,IND,34960,31.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Padmaja S. Menon,BJP,16043,14.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Prof. Leslie Pallath,UNKNOWN,10634,9.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Sujith C. Sukumaran,IND,1042,0.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,NOTA,NOTA,712,0.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Shaji George Plakkil,IND,305,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,K. S. Anilkumar,IND,225,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Ashokan,IND,176,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Siciliamma Teacher IND,IND,71,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

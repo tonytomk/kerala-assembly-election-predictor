@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kasaragod,4,4,Kanhangad,E.CHANDRASEKHARAN,CPI,80558,49.9774,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,DHANYA SURESH,INC,54547,33.8404,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,M P RAGHAVAN,BDJS,21104,13.0927,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,CHANDRAN PARAPPA,BSP,965,0.5987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,ASSAINAR MUTTUMTHALA,PDP,959,0.595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,NOTA,NOTA,856,0.5311,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,SAJEEVAN R,IND,663,0.4113,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,MUHAMMAD ALI V V,IND,420,0.2606,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,KOOKKAL BALAKRISHNAN,IND,294,0.1824,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,RAGHAVAN B POODAMKALLU,APOI,272,0.1687,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,BALACHANDRAN KARIMBIL,SHIVSENA,260,0.1613,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,K U KRISHNAKUMAR,IND,186,0.1154,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,M. DAMODARAN,IND,105,0.0651,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,25,25,Balusseri,Adv. K.M. SACHINDEV,CPI(M),91839,50.47,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,DHARMAJAN BOLGATTY,INC,71467,39.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,LIBIN BALUSSERY,BJP,16490,9.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,CHANDRIKA,WPOI,889,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,JOBISH BALUSSERY,BSP,476,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,NOTA,NOTA,431,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,DHARMENDRAN,IND,247,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,MOHANDAS UNNIKULAM RPI(A),RPI(A),115,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

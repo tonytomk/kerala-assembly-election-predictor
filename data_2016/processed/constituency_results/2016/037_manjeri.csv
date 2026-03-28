@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,37,37,Manjeri,ADV. M. UMMER,IUML,69779,50.2202,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,ADV. K. MOHANDAS,CPI,50163,36.1025,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,ADV. C. DINESH,BJP,11223,8.0772,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,K.A. SAVAD,WPI,2503,1.8014,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,DR. C.H. ASHRAF,SDPI,2357,1.6963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,MOYIN BAPPU,PDP,1121,0.8068,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,NOTA,NOTA,913,0.6571,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,V.M. MUSTHAFA,IND,887,0.6384,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf

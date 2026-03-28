@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Idukki,90,90,Thodupuzha,P J JOSEPH,KEC,67495,48.63,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,Prof. K I ANTONY,KEC(M),47236,34.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,SHYAMRAJ P,BJP,21263,15.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,LEETHESH P T,BSP,934,0.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,NOTA,NOTA,674,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,M T THOMAS,IND,562,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,PARTHASARADHI K,IND,370,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,T R SREEDHARAN SUCI,SUCI,273,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

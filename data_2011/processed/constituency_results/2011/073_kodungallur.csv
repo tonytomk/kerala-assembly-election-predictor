@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,73,73,Kodungallur,T.N.PRATHAPAN,INC,64495,50.1072,True,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,K G SIVANANDAN,UNKNOWN,55063,42.7793,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,I.R.VIJAYAN,BJP,6732,5.2302,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,AMBILI UNNIKRISHNAN,UNKNOWN,624,0.4848,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,HARIDAS.K.B,OTH,461,0.3582,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,RAJESH APPATT,UNKNOWN,377,0.2929,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,ALLY RAVI,OTH,343,0.2665,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,SUJA ANTONY,UNKNOWN,330,0.2564,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,T.U.RADHAKRISHNAN,OTH,289,0.2245,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf

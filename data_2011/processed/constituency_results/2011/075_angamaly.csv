@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,75,75,Angamaly,JOSE THETTAYIL,JD[S],61500,49.5624,True,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHNY NELLOOR,OTH,54330,43.7841,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,M.A.BRAHMARAJ,UNKNOWN,4117,3.3179,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHNSON  A.T(INCHAKKADAN JOHNY),UNKNOWN,1374,1.1073,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,M.G.PURUSHOTHAMAN,UNKNOWN,774,0.6238,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,POULOSOE  KIDANGEN,UNKNOWN,518,0.4175,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,K.C.JAYAN,UNKNOWN,514,0.4142,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,FRANCIS NJALIYAN,UNKNOWN,482,0.3884,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHNSON,OTH,248,0.1999,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHN CHACKO,OTH,229,0.1845,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf

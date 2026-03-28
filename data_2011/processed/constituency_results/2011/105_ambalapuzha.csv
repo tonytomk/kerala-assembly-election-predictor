@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Alappuzha,105,105,Ambalapuzha,G.SUDHAKARAN,UNKNOWN,63728,54.4842,True,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,M.LIJU,UNKNOWN,47148,40.3091,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,P.K.VASUDEVAN,UNKNOWN,2668,2.281,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,S.H.ALHADHI,UNKNOWN,1852,1.5834,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,OMANAKUTTAN,BSP,672,0.5745,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,K.R.SASI,UNKNOWN,415,0.3548,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,SIVAKUMAR,OTH,347,0.2967,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,NAZEER AHAMMED,INC,136,0.1163,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf

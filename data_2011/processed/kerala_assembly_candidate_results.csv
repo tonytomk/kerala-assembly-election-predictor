@@ -1,0 +1,952 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kasaragod,1,1,Manjeshwar,P B ABDUL RAZAK,IUML,49817,37.464,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,K SURENDRAN,BJP,43989,33.0812,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ADV. C H KUNHAMBU,CPI(M),35067,26.3715,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,HAFSA MUNEER,IND,1076,0.8092,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDUL MAJEED,BSP,869,0.6535,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDULLA TIMBER,IND,547,0.4114,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,KUNHAMBU,IND,490,0.3685,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDUL RAZAK K,IND,465,0.3497,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABBAS M,IND,391,0.294,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDULLA P M,IND,262,0.197,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,2,2,Kasaragod,N.A.NELLIKKUNNU,IUML,53068,45.3453,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,JAYALAKSHMI N BHAT,BJP,43330,37.0244,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,AZEEZ KADAPPURAM,INL,16467,14.0706,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,A H MUNEER,SDPI,1260,1.0766,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,GOVINDA RAJA KUNTIKKANAMATA,IND,938,0.8015,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,SAIFUDEEN K MAKKODU,BSP,807,0.6896,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,AJITH KUMAR AZAD,IND,739,0.6315,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,2,2,Kasaragod,ABDULLA,IND,422,0.3606,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/2
+2011,Kasaragod,3,3,Udma,K.KUNHIRAMAN,CPI(M),61646,47.9265,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,ADV. C K SREEDHARAN,INC,50266,39.0792,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,SUNITHA PRASANTH,BJP,13073,10.1636,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,FAISAL KOLIYADUKKAM,SDPI,1265,0.9835,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,P DAMODARAN,BSP,1096,0.8521,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,KRISHNANKUTTY,IND,866,0.6733,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,3,3,Udma,KUNHIRAMAN,IND,414,0.3219,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/3
+2011,Kasaragod,4,4,Kanhangad,E.CHANDRASHEKHARAN,CPI,66640,47.6541,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/4
+2011,Kasaragod,4,4,Kanhangad,ADV.M C JOSE,INC,54462,38.9457,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/4
+2011,Kasaragod,4,4,Kanhangad,MADIKAI KAMMARAN,BJP,15543,11.1148,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/4
+2011,Kasaragod,4,4,Kanhangad,P M JOSEPH,IND,1919,1.3723,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/4
+2011,Kasaragod,4,4,Kanhangad,GOPALAN K,BSP,1277,0.9132,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/4
+2011,Kasaragod,5,5,Trikaripur,K KUNHIRAMAN,CPI(M),67871,49.9096,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,K.V.GANGADHARAN,INC,59106,43.4641,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,T.RADHAKRISHNAN,BJP,5450,4.0077,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,RAZAK HAJI PARAMBATH,SDPI,1741,1.2803,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,ARUN KUMAR,BSP,1031,0.7582,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,K.K.DILEEP KUMAR,IND,789,0.5802,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kannur,6,6,Payyannur,C.KRISHNAN,CPI(M),78116,59.783,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,ADV. K. BRIJESH KUMAR,INC,45992,35.1981,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,C.K.RAMESAN MASTER,BJP,5019,3.8411,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,GEETHA,BSP,625,0.4783,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,T.P.PADMANABHAN,IND,536,0.4102,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,KOTTAYODI VISWANATHAN,SHIVSENA,378,0.2893,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,7,7,Kalliasseri,T.V. RAJESH,CPI(M),73190,58.6205,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/7
+2011,Kannur,7,7,Kalliasseri,ADV. P. INDIRA,INC,43244,34.6357,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/7
+2011,Kannur,7,7,Kalliasseri,ADV. SREEKANTH RAVI VARMA,BJP,5499,4.4043,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/7
+2011,Kannur,7,7,Kalliasseri,A.P. MAHAMOOD,SDPI,2281,1.8269,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/7
+2011,Kannur,7,7,Kalliasseri,K. GOPALAKRISHNAN,BSP,640,0.5126,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/7
+2011,Kannur,8,8,Taliparamba,JAMES MATHEW,CPI(M),81031,56.13,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,ADV JOB MICHEL,KEC(M),53170,36.8308,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,K.JAYAPRAKASH,BJP,6492,4.497,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,MUHAMMEDALI.S.P,SDPI,1930,1.3369,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,NIDHEESH THILLANKERI,BSP,927,0.6421,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,THOMAS.M.V,IND,813,0.5632,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,9,9,Irikkur,K. C. JOSEPH,INC,68503,52.4112,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,ADV. P. SANTHOSH KUMAR,CPI,56746,43.416,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,M. G. RAMAKRISHNAN NAIR,BJP,3529,2.7,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,JOSEPH,IND,740,0.5662,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,AMMINI KRISHNAN,IND,633,0.4843,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,BIJU THOMAS,BSP,552,0.4223,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,10,10,Azhikode,K.M.SHAJI,IUML,55077,45.2073,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,M.PRAKASHAN MASTER,CPI(M),54584,44.8027,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,M.K.SASEENDRAN MASTER,BJP,7540,6.1889,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,NOUSHAD PUNNAKKAL,IND,2935,2.4091,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,SHAJI.K.M.,IND,602,0.4941,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,C.BALAKRISHNAN,BSP,458,0.3759,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,PAUL T SAMUEL,SUCI [C],414,0.3398,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,PRAKASHAN KUZHIPARAMBIL,IND,222,0.1822,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,11,11,Kannur,A.P ABDULLAKUTTY,INC,55427,48.8947,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,RAMACHANDRAN KADANNAPPALLI,IND,48984,43.211,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,U.T.JAYANDAN,BJP,4568,4.0296,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,ADV.P.C.NOUSHAD,SDPI,2538,2.2389,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,M.P.ABDULLAKUTTY,IND,1100,0.9704,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,K.SUDHAKARAN,IND,517,0.4561,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,11,11,Kannur,S.NOORUDHEEN,BSP,226,0.1994,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/11
+2011,Kannur,12,12,Dharmadam,K.K. NARAYANAN,CPI(M),72354,53.1323,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,MAMBARAM DIVAKARAN,IND,57192,41.9983,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,C.P.SANGEETHA,BJP,4963,3.6445,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,POYILORE KUNNUMBROM DIVAKARAN,IND,871,0.6396,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,MADHU.S.VAYANAN,BSP,797,0.5853,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,13,13,Thalassery,KODIYERI BALAKRISHNAN,CPI(M),66870,56.7835,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,RIJIL MAKKUTTY,INC,40361,34.2731,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,ADV. V. RATHNAKARAN,BJP,6973,5.9212,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,A.C JALALUDDIN,SDPI,2068,1.7561,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,K.RAGHUNATH,BSP,674,0.5723,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,RIJIL MULIYIL,IND,539,0.4577,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,BALAKRISHNAN,IND,278,0.2361,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,14,14,Kuthuparamba,K.P.MOHANAN S/O P R KURUP,SJ [D],57164,44.6842,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,14,14,Kuthuparamba,S A PUTHIYA VALAPPIL,IND,53861,42.1023,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,14,14,Kuthuparamba,O.K.VASU MASTER,BJP,11835,9.2512,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,14,14,Kuthuparamba,K.P. MOHANAN S/O KUNHIKANNAN,IND,1982,1.5493,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,14,14,Kuthuparamba,S POOVALAPPIL,IND,1199,0.9372,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,14,14,Kuthuparamba,K.P. MOHANAN S/O NANU,IND,1130,0.8833,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,14,14,Kuthuparamba,SULAIM T.B,IND,758,0.5925,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/14
+2011,Kannur,15,15,Mattannur,E.P.JAYARAJAN,CPI(M),75177,56.5466,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,JOSEPH CHAAVARA,SJ [D],44665,33.5961,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,BIJU ELAKKUZHI,BJP,8707,6.5492,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,ADV.K.C.MUHAMMAD SABEER,SDPI,2757,2.0738,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,JOSEPH,IND,858,0.6454,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,HAMEED,BSP,783,0.589,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,16,16,Peravoor,ADV.SUNNY JOSEPH,INC,56151,48.0691,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,K.K.SHAILAJA TEACHER,CPI(M),52711,45.1243,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,P.K.VELAYUDHAN.,BJP,4055,3.4714,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,P.K. AYYAPPAN MASTER.,SDPI,1537,1.3158,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,SUNNY JOSEPH,IND,903,0.773,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,A.SHYLAJA,IND,565,0.4837,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,RAGHAVAN,BSP,526,0.4503,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Kannur,16,16,Peravoor,RADHAMANI NARAYANA KUMAR,IND,365,0.3125,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/16
+2011,Wayanad,17,17,Mananthavady,P.K.JAYALAKSHMI,INC,62996,50.7819,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,K.C.KUNHIRAMAN,CPI(M),50262,40.5169,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,IRUMUTTOOR KUNHAMAN,BJP,5732,4.6206,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,A. GOPAKUMAR,SDPI,2342,1.8879,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,P.U BABU,IND,1712,1.3801,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,17,17,Mananthavady,ANNAN- MADAKKIMALA,BSP,1008,0.8126,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/17
+2011,Wayanad,18,18,Sulthanbathery,I.C BALAKRISHNAN,INC,71509,49.143,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,18,18,Sulthanbathery,E.A .SANKARAN,CPI(M),63926,43.9318,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,18,18,Sulthanbathery,PALLIYARA RAMAN,BJP,8829,6.0675,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,18,18,Sulthanbathery,MUKUNDAN CHEENGERI,BSP,1248,0.8577,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,19,19,Kalpetta,M.V SREYAMSKUMAR,SJ [D],67018,52.9435,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,P.A MUHAMMED,CPI(M),48849,38.5902,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,ANAND KUMAR.P.G,BJP,6580,5.1981,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,JAMEELA,SDPI,1597,1.2616,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,K. NASEERUDHEEN,IND,1197,0.9456,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,CLEATUS,IND,760,0.6004,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Wayanad,19,19,Kalpetta,MUJEEB RAHMAN ANJUKUNNU,BSP,583,0.4606,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/19
+2011,Kozhikode,20,20,Vadakara,C.K.NANU,JD [S],46912,41.0547,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,ADV.M.K. PREMNATH,SJ [D],46065,40.3135,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,N.VENU,IND,10098,8.8372,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,M.P.RAJAN,BJP,6909,6.0464,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,SAALIM AZHIYUR,SDPI,3488,3.0525,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,V.K.PREMANATHAN,IND,795,0.6957,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,21,21,Kuttiadi,K.K.LATHIKA,CPI(M),70258,49.3201,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,SOOPI NARIKKATTERI,IUML,63286,44.4259,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,V.K.SAJEEVAN,BJP,6272,4.4029,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,ABDUL RAHEEM MASTER,SDPI,1045,0.7336,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,M.SATHI,BSP,407,0.2857,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,SOOPI THODUVAYIL VALAPPIL MEETHAL,IND,333,0.2338,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,LATHIKA VALIYAKULANGARA KUNIYIL,IND,247,0.1734,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,SOOPI ALAKKATT,IND,209,0.1467,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,LATHIKA NIDUMANALKUNI,IND,207,0.1453,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,M.K.RAJAN,SUCI [C],189,0.1327,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,22,22,Nadapuram,E.K.VIJAYAN,CPI,72078,49.2235,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,V.M.CHANDRAN,INC,64532,44.0702,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,ADV.PRAKASH BABU,BJP,6058,4.1371,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,ISMAIL KAMMANA,SDPI,1865,1.2736,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,CHANDRAN,IND,745,0.5088,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,C.K VIJAYAN,IND,708,0.4835,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,22,22,Nadapuram,K.P.VIJAYAN,IND,444,0.3032,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/22
+2011,Kozhikode,23,23,Quilandy,K.DASAN,CPI(M),64374,47.1971,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,AD.K.P.ANIL KUMAR,INC,60235,44.1625,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,T.P.JAYACHANDRAN MASTER,BJP,8086,5.9284,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,"RASHID,P.T",SDPI,985,0.7222,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,C.MUNEER,IND,985,0.7222,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,K.P.ANILKUMAR,IND,520,0.3812,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,"K.V.KRISHNAN,KODUVAYAL",BSP,466,0.3417,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,"DASAN,V.K",IND,418,0.3065,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,DASAN M.K,IND,325,0.2383,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,24,24,Perambra,K. KUNHAMMAD MASTER,CPI(M),70248,51.9071,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,ADV. MOHAMMED IKBAL,KEC(M),54979,40.6247,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,P.CHANDRIKA TEACHER,BJP,7214,5.3305,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,T.K.KUNHAMMAD FAISY,SDPI,1494,1.1039,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,AKHILKUMAR,IND,801,0.5919,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,24,24,Perambra,K.K.VASU,BSP,598,0.4419,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/24
+2011,Kozhikode,25,25,Balusseri,PURUSHAN KADALUNDI,CPI(M),74259,49.1768,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/25
+2011,Kozhikode,25,25,Balusseri,A. BALARAM,INC,65377,43.2949,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/25
+2011,Kozhikode,25,25,Balusseri,ADV.T.K.RAMAN,BJP,9304,6.1614,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/25
+2011,Kozhikode,25,25,Balusseri,BHADRAN.M.P,SDPI,1404,0.9298,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/25
+2011,Kozhikode,25,25,Balusseri,K.K.SATHEESH,BSP,660,0.4371,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/25
+2011,Kozhikode,26,26,Elathur,A.K. SASEENDRAN,NCP,67143,50.1419,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/26
+2011,Kozhikode,26,26,Elathur,SHAIK P HARRIZ,SJ [D],52489,39.1984,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/26
+2011,Kozhikode,26,26,Elathur,V V RAJAN,BJP,11901,8.8876,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/26
+2011,Kozhikode,26,26,Elathur,A SASINDRAN,IND,1402,1.047,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/26
+2011,Kozhikode,26,26,Elathur,RAMESH NANMANDA,BSP,971,0.7251,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/26
+2011,Kozhikode,27,27,kozhikode north,A.K. SASEENDRAN,NCP,67143,50.1419,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/27
+2011,Kozhikode,27,27,kozhikode north,SHAIK P HARRIZ,SJ [D],52489,39.1984,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/27
+2011,Kozhikode,27,27,kozhikode north,V V RAJAN,BJP,11901,8.8876,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/27
+2011,Kozhikode,27,27,kozhikode north,A SASINDRAN,IND,1402,1.047,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/27
+2011,Kozhikode,27,27,kozhikode north,RAMESH NANMANDA,BSP,971,0.7251,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/27
+2011,Kozhikode,28,28,Kozhikode south,DR. M.K. MUNEER,IUML,47771,46.0794,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,C.P. MUSAFER AHAMMED,CPI(M),46395,44.7521,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,JAYA SADANANDAN,BJP,7512,7.246,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,FAIZ MOHAMMED,SDPI,749,0.7225,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,T.T. MUNEER,IND,488,0.4707,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,MUSSAFAR AHAMMED,IND,433,0.4177,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,MUHAMMED ASHARAF,BSP,323,0.3116,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,29,29,Beypore,ELAMARAM KAREEM,CPI(M),60550,46.7965,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,ADAM MULSI .M.P.,INC,55234,42.688,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,K.P.SREESAN,BJP,11040,8.5323,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,MUHAMMED MUSTHAFA,SDPI,954,0.7373,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,K.S.HARIHARAN,IND,564,0.4359,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,K.T.LATHA,BSP,469,0.3625,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,ADAM MALIQUE .E,IND,396,0.3061,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,29,29,Beypore,ABDUL KAREEM,IND,183,0.1414,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/29
+2011,Kozhikode,30,30,Kunnamangalam,ADV.P.T.A.RAHIM,IND,66169,44.0577,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,U.C.RAMAN,IND,62900,41.8811,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,C.K.PADMANABHAN,BJP,17123,11.4011,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,C.MUHAMMED MASTER,SDPI,1178,0.7844,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,RAMAN.C.K,IND,701,0.4668,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,K.K.KUNHIKANARAN,IND,427,0.2843,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,E.P.ABDUL RAHEEM,IND,421,0.2803,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,RAMAN.P.C,IND,404,0.269,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,ABDU RAHEEM.M.T,IND,325,0.2164,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,M.P.BABURAJ,SHIVSENA,303,0.2017,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,O.P.SUNDARAN,BSP,236,0.1571,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,31,31,Koduvally,V.M.UMMER MASTER,IUML,60365,53.0336,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,M.MEHABOOB,CPI(M),43813,38.4919,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,GIREESH THEVALLY,BJP,6519,5.7273,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,M.T.ABU HAJI,SDPI,1688,1.483,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,ABOOBAKER,BSP,496,0.4358,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,MEHABOOB KANICHADIKKUZHI VALEPARAMMEL,IND,324,0.2846,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,UMMER,IND,313,0.275,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,31,31,Koduvally,MEHABOOB ILLIKKATHODI,IND,306,0.2688,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/31
+2011,Kozhikode,32,32,Thiruvambady,C MOYINKUTTY,IUML,56386,48.7119,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,GEORGE M THOMAS,CPI(M),52553,45.4006,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,JOSE KAPPATTMALA,BJP,3894,3.364,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,C T ASHRAF,SDPI,790,0.6825,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,K MOYINKUTTY,IND,576,0.4976,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,GEORGE THOMAS,IND,574,0.4959,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,K P BASHEER HAJI,IND,541,0.4674,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Kozhikode,32,32,Thiruvambady,GAFOOR PUTHUPPADY,BSP,440,0.3801,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/32
+2011,Malappuram,33,33,Kondotty,K MUHAMMEDUNNI HAJI,IUML,67998,56.8189,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,P C NAUSHAD,CPI(M),39849,33.2977,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,DR KUMARI SUKUMARAN,BJP,6840,5.7155,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,ABDU RAHIMAN P T (BAPPU),SDPI,2026,1.6929,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,T K MAMMUNNI HAJI,IND,1817,1.5183,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,E P MADHAVAN,BSP,730,0.61,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,NOUSHAD P,IND,415,0.3468,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,34,34,Eranad,P.K.BASHEER,IUML,58698,51.2937,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,ANVER.P.V,IND,47452,41.4663,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,K.P. BABURAJ MASTER,BJP,3448,3.0131,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,ASHRAFALI KALIYATH,CPI,2700,2.3594,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,P.P.SHOWKATHALI,SDPI,2137,1.8674,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,35,35,Nilambur,ARYADAN MOHAMMED,INC,66331,48.6447,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,PROFESSOR.M.THOMAS MATHEW,IND,60733,44.5394,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,K.C.VELAYUDHAN,BJP,4425,3.2451,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,C.G.UNNI,SDPI,2566,1.8818,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,THARIYAN KILIYAN,BSP,1291,0.9468,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,THOMAS MATHEW,IND,1012,0.7422,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,36,36,Wandoor,A.P.ANILKUMAR,INC,77580,58.5024,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,V. RAMESAN,CPI(M),48661,36.6948,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,KOTHERI AYYAPPAN,BJP,2885,2.1756,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,KRISHNAN ERANHIKKAL,SDPI,1682,1.2684,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,P. ANILKUMAR,IND,953,0.7186,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,T.C.THEYYAN,IND,849,0.6402,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,37,37,Manjeri,ADV.M.UMMER,IUML,67594,57.9942,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,PROF:P.GOURI,CPI,38515,33.0451,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,P.G.UPENDRAN,BJP,6319,5.4216,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,JALEEL NEELAMBRA,SDPI,2906,2.4933,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,FEROZ BABU ISHTADANAM,IND,653,0.5603,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,SHAMSUDHEEN ASLAMI,BSP,566,0.4856,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,38,38,Perinthalmanna,MANJALAMKUZHI ALI,IUML,69730,52.1404,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/38
+2011,Malappuram,38,38,Perinthalmanna,V. SASIKUMAR,CPI(M),60141,44.9703,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/38
+2011,Malappuram,38,38,Perinthalmanna,C.K .KUNHIMUHAMMED,BJP,1989,1.4873,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/38
+2011,Malappuram,38,38,Perinthalmanna,SAIDALIKKUTTY@SAEED MADANI,SDPI,1067,0.7978,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/38
+2011,Malappuram,38,38,Perinthalmanna,MOHAMMED ALI,IND,808,0.6042,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/38
+2011,Malappuram,39,39,Mankada,T.A.AHMED KABEER,IUML,67756,55.8826,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,KADEEJA SATHAR,CPI(M),44163,36.424,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,MANIKANDAN.K,BJP,4387,3.6182,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,DR.C.H.ASHRAF,SDPI,3015,2.4867,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,ANWAR BABU,IND,1926,1.5885,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,40,40,Malappuram,P. UBAIDULLA,IUML,77928,63.7474,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,MADATHIL SADIKALI,JD [S],33420,27.3385,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,ADVOCATE: SADIK NADUTHODI,SDPI,3968,3.2459,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,K. VELAYUDHAN,BJP,3841,3.1421,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,ABU THWAHIR,IND,2179,1.7825,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,POOKKOTTIL ALI HAJI,IND,909,0.7436,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,41,41,Vengara,P.K.KUNHALIKUTTY,IUML,63138,63.4361,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,K.P.ISMAYIL,INL,24901,25.0186,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,ABDUL MAJEED FAIZI,SDPI,4683,4.7051,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,SUBRAHMANIAN,BJP,3417,3.4331,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,K.P.ISMAYIL(KALLUPARAMBAN),IND,1615,1.6226,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,KUNHALIKUTTY.K.P.,IND,1079,1.0841,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,SAFARUDEEN,BSP,405,0.4069,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,41,41,Vengara,ISMAYIL.K.T,IND,292,0.2934,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/41
+2011,Malappuram,42,42,Vallikkunnu,ADV.K.N.A.KHADER,IUML,57250,50.5278,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,K.V. SANKARANARAYANAN,IND,39128,34.5336,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,PREMAN MASTER,BJP,11099,9.7958,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,SALAM MOONNIYUR,PDP,2666,2.353,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,ABDUL LATHEEF,SDPI,2571,2.2691,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,42,42,Vallikkunnu,NEELAKANTAN CHELARI,BSP,590,0.5207,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/42
+2011,Malappuram,43,43,Tirurangadi,P.K.ABDU RABB,IUML,58666,58.4771,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,ADV.K.K.ABDU SAMAD,CPI,28458,28.3664,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,SASIDHARAN PUNNASSERY,BJP,5480,5.4624,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,IBRAHIM THIRURANGADI,PDP,4281,4.2672,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,ADV.A.A.RAHIM,SDPI,2945,2.9355,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,ABUYAZAR,BSP,493,0.4914,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,44,44,Tanur,ABDURAHIMAN RANDATHANI,IUML,51549,49.5159,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,44,44,Tanur,E.JAYAN,CPI(M),42116,40.4549,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,44,44,Tanur,RAVI THELATH,BJP,7304,7.0159,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,44,44,Tanur,K.K.MAJEED KHASIMI,SDPI,3137,3.0133,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,45,45,Tirur,C MAMMOOTTY,IUML,69305,54.8503,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,P P ABDULLAKUTTY,CPI(M),45739,36.1994,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,P T ALI HAJI,BJP,5543,4.3869,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,A.K MAJEED MASTER,SDPI,2696,2.1337,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,ALIKUTTY ALIAS BAPPU PUTHANATHANI,PDP,1802,1.4262,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,MOHANDAS,IND,781,0.6181,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,T AYYAPPAN,BSP,487,0.3854,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,46,46,Kottakkal,ABDUSSAMAD SAMADANI,IUML,69717,58.911,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,DR.C.P.K.GURUKKAL,NCP,33815,28.5737,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,K.K. SURENDRAN,BJP,7782,6.5758,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,ALI KADAMPUZHA,PDP,3027,2.5578,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,ADV.K.C.NASEER,SDPI,2650,2.2393,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,KADAMPUZHA BINDHU DEVARAJAN,IND,894,0.7554,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,46,46,Kottakkal,MADATHIL MUHAMMAD ELLIAS,BSP,458,0.387,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
+2011,Malappuram,47,47,Thavanur,DR.K.T. JALEEL,IND,57729,47.2039,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,ADV. V.V. PRAKASH,INC,50875,41.5995,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,NIRMALA KUTTIKRISHNAN PUNNAKKAL,BJP,7107,5.8113,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,NURUL HACK,SDPI,3116,2.5479,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,V V PRAKASHAN,IND,1351,1.1047,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,T.A. JALEEL,IND,820,0.6705,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,T.K. JALEEL,IND,768,0.628,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,NANDA KUMAR,BSP,531,0.4342,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,48,48,Ponnani,P.SREERAMAKRISHNAN,CPI(M),57615,47.5536,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,P.T.AJAY MOHAN,INC,53514,44.1688,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,V.T.JAYAPRAKASH MASTER,BJP,5680,4.6881,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,YAHIYA KOYA THANGAL,SDPI,3250,2.6824,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Malappuram,48,48,Ponnani,AJAYAN,IND,1099,0.9071,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/48
+2011,Palakkad,49,49,Thrithala,ADV.V.T. BALRAM,INC,57848,47.3698,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,MAMMIKUTTY. P,CPI(M),54651,44.7519,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,V. RAMANKUTTY,BJP,5899,4.8305,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,BABURAJAN. O.T,SDPI,1320,1.0809,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,P.MAMMIKUTTY,IND,902,0.7386,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,P. SHAMSUDHEEN,PDP,590,0.4831,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,RAMESAN PERUMANNUR,BSP,543,0.4446,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,K BALARAMAN,IND,367,0.3005,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,50,50,Pattambi,C.P.MOHAMMED,INC,57728,48.9976,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,K.P.SURESH RAJ,CPI,45253,38.4092,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,POOKKATTIRI BABU,BJP,8874,7.532,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,ADV.K.M. ASHARAF,SDPI,3742,3.1761,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,SURESH,IND,754,0.64,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,ASHARAF ALI VALLAPPUZHA,BSP,749,0.6357,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,MASEEF HAJI,PDP,718,0.6094,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,51,51,Shornur,K.S.SALEEKHA,CPI(M),59616,49.5726,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,SANTHA JAYARAM,INC,46123,38.3527,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,V.B.MURALIDHARAN,BJP,10562,8.7826,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,KHALID.A,SDPI,3065,2.5486,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,M.C.VELAYUDHAN,BSP,894,0.7434,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,52,52,Ottapalam,M. HAMZA,CPI(M),65023,49.472,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,V.K. SREEKANDAN,INC,51820,39.4266,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,P. VENUGOPALAN,BJP,9631,7.3276,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,E.S. KAJAHUSSAIN,SDPI,1933,1.4707,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,M. HAMZA,IND,1097,0.8346,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,K.T.PADMINI,BSP,947,0.7205,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,N. HAMZA,IND,604,0.4595,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,ARAVINDAN KARIMPUZHA,IND,379,0.2884,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,53,53,Kongad,K.V.VIJAYADAS,CPI(M),52920,46.6325,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/53
+2011,Palakkad,53,53,Kongad,P.SWAMINATHAN,INC,49355,43.4911,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/53
+2011,Palakkad,53,53,Kongad,V.DEVAYANI,BJP,8467,7.461,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/53
+2011,Palakkad,53,53,Kongad,VIJAYADASAN,IND,1543,1.3597,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/53
+2011,Palakkad,53,53,Kongad,K. VELAYUDHAN,BSP,1198,1.0557,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/53
+2011,Palakkad,54,54,Mannarkad,ADVOCATE N. SAMSUDHEEN,IUML,60191,49.6646,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,V. CHAMUNNI,CPI,51921,42.8409,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,O.P. VASUDEVANUNNI,BJP,5655,4.666,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,CHAMUNNI,IND,1370,1.1304,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,MUHAMMED GAFOOR MADANI,SDPI,1238,1.0215,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,RAMAKRISHNAN.A,BSP,820,0.6766,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,55,55,Malampuzha,V.S.ACHUTHANANDAN.,CPI(M),77752,57.0381,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,55,55,Malampuzha,LATHIKA SUBHASH,INC,54312,39.8427,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,55,55,Malampuzha,ADV.P. K. MAJEED PEDIKKATT,JD [U],2772,2.0335,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,55,55,Malampuzha,RAVI PALLATHERI,BSP,1480,1.0857,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/55
+2011,Palakkad,56,56,Palakkad,SHAFI PARAMBIL,INC,47641,42.4052,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,K. K. DIVAKARAN,CPI(M),40238,35.8158,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,C. UDAYBHASKAR,BJP,22317,19.8643,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,SHAJI ABRAHAM,IND,637,0.567,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,HARI ARUMBIL,BSP,490,0.4361,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,MUHAMMED SHAFI (SHAFI PURAKARA),IND,377,0.3356,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,C.SAMPATH,AIADMK,337,0.3,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,DIVAKARAN,IND,310,0.2759,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,57,57,Tarur,A. K. BALAN,CPI(M),64175,57.1521,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,N. VINESH,KC [J],38419,34.2147,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,M. LAKSHMANAN,BJP,5385,4.7957,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,P.C.NARAYANANKUTTY,BSP,2346,2.0893,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,57,57,Tarur,K. VINESH,IND,1963,1.7482,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/57
+2011,Palakkad,58,58,Chittur,K.ACHUTHAN,INC,69916,51.3337,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,S. SUBHASH CHANDRABOSE,CPI(M),57586,42.2808,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,A.K.OMANAKUTTAN,BJP,4518,3.3172,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,K. KALADHARAN,IND,1319,0.9684,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,A.MUHAMED HANEEFA,SDPI,1192,0.8752,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,V. LAKSHMI,BSP,626,0.4596,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,K.ACHUTHAN,IND,570,0.4185,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,A.RAJEENA,SUCI [C],472,0.3466,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,59,59,Nenmara,V. CHENTHAMARAKSHAN,CPI(M),64169,47.8609,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,M.V.RAGHAVAN,CMP,55475,41.3764,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,N. SIVARAJAN,BJP,9123,6.8045,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,SAKKEER HUSSAIN,SDPI,1809,1.3493,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,CHANDRAN,BSP,1484,1.1069,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,SUGUNAN.S,AIADMK,1279,0.954,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,JOY PETER.T,CPI [ML],735,0.5482,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,60,60,Alathur,M.CHANDRAN,CPI(M),66977,57.7164,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Palakkad,60,60,Alathur,ADV. K. KUSALA KUMAR,KEC(M),42236,36.3962,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Palakkad,60,60,Alathur,K.A.SULAIMAN,BJP,5460,4.7051,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Palakkad,60,60,Alathur,P.D.PAULOSE,BSP,1372,1.1823,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Thrissur,61,61,Chelakkara,K.RADHAKRISHNAN,CPI(M),73683,55.4249,True,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,K.B.SASIKUMAR,INC,49007,36.8634,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,V.A.KRISHNAKUMARAN,BJP,7056,5.3076,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,A.SUBRAHMANIAN,UNKNOWN,2224,1.6729,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,61,61,Chelakkara,SURESH BABU,BSP,972,0.7311,False,https://www.ceo.kerala.gov.in/pdf/form20/061.pdf
+2011,Thrissur,62,62,Kunnamkulam,BABU.M.PALISSERY,CPI(M),58244,44.3446,True,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,JOHN.C.P,OTH,57763,43.9784,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,K.K.ANEESHKUMAR,UNKNOWN,11725,8.9269,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,PREMAN.K.P,OTH,2059,1.5676,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,JOHN,UNKNOWN,860,0.6548,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,UNNIKRISHNAN VAROLI,UNKNOWN,693,0.5276,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,63,63,Guruvayoor,ABDUL KHADER.K.V,CPI(M),62246,48.5251,True,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,ASHARAF KOKKUR,UNKNOWN,52278,40.7543,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,DAYANANDAN MAMPULLY,UNKNOWN,9306,7.2547,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,ASHARAF VADAKOOT,UNKNOWN,2187,1.7049,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,SHAMEER BABU,UNKNOWN,1017,0.7928,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,K V ABDHUL KHADER,UNKNOWN,415,0.3235,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,VIJAYANATH,UNKNOWN,353,0.2752,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,C V PREMARAJ,UNKNOWN,242,0.1887,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,63,63,Guruvayoor,MUHAMMED ASHARAF,BSP,232,0.1809,False,https://www.ceo.kerala.gov.in/pdf/form20/063.pdf
+2011,Thrissur,64,64,Manalur,P A MADHAVAN,UNKNOWN,63077,45.2194,True,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,BABY JOHN,CPI(M),62596,44.8746,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,P M GOPINATHAN,UNKNOWN,10543,7.5582,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,P K USMAN,UNKNOWN,2293,1.6438,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,SURESH TACHAPPILLY,UNKNOWN,594,0.4258,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,64,64,Manalur,ARAVINDAKSHAN.M.K,OTH,388,0.2782,False,https://www.ceo.kerala.gov.in/pdf/form20/064.pdf
+2011,Thrissur,65,65,Wadakkanchery,C.N.BALAKRISHNAN,INC,67911,48.7922,True,https://www.ceo.kerala.gov.in/pdf/form20/065.pdf
+2011,Thrissur,65,65,Wadakkanchery,N.R.BALAN,CPI(M),61226,43.9893,False,https://www.ceo.kerala.gov.in/pdf/form20/065.pdf
+2011,Thrissur,65,65,Wadakkanchery,SHAJUMON VATTEKAD,UNKNOWN,7451,5.3533,False,https://www.ceo.kerala.gov.in/pdf/form20/065.pdf
+2011,Thrissur,65,65,Wadakkanchery,GOVINDAN MACHAD,UNKNOWN,1419,1.0195,False,https://www.ceo.kerala.gov.in/pdf/form20/065.pdf
+2011,Thrissur,65,65,Wadakkanchery,BALAKRISHNAN,UNKNOWN,1177,0.8456,False,https://www.ceo.kerala.gov.in/pdf/form20/065.pdf
+2011,Thrissur,66,66,Ollur,M.P.VINCENT,INC,64823,49.2135,True,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,RAJAJI MATHEW THOMAS,CPI,58576,44.4708,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,SUNDARARAJAN MASTER,UNKNOWN,6761,5.1329,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,SURESH.M.R,OTH,717,0.5443,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,SUNNY.K.JOHN,BSP,434,0.3295,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,RATHEESH .T.NAIR,OTH,407,0.309,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,67,67,Thrissur,P.BALACHANDRAN,CPI,43822,82.9915,True,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,67,67,Thrissur,RAVIKUMAR UPPATH,UNKNOWN,6697,12.683,False,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,67,67,Thrissur,THERAMBIL RAMAKRISHNAN,INC,1405,2.6608,False,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,67,67,Thrissur,A JAYARAM,UNKNOWN,879,1.6647,False,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,68,68,Nattika,GEETHA GOPI,UNKNOWN,64555,50.2053,True,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,VIKAS CHAKRAPANI,UNKNOWN,48501,37.7199,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,SARJU THOYAKKAVU,UNKNOWN,11144,8.6668,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,DINESHKUMAR.E.V,UNKNOWN,1636,1.2723,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,M.S.VASANTHY,UNKNOWN,826,0.6424,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,P K SUBRAMANIAN,UNKNOWN,600,0.4666,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,N.V.MANI,OTH,513,0.399,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,C.K.CHANDRAN,OTH,497,0.3865,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,PUSHPAKARAN,OTH,310,0.2411,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,69,69,Kaipamangalam,V.S.SUNILKUMAR,CPI,58789,50.1998,True,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,UMESH CHALLIYIL,JSS,45219,38.6124,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,RADHAKRISHNAN.A.N,BJP,10716,9.1504,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,M.M.MANOJ,OTH,937,0.8001,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,P A KUTTAPPAN,UNKNOWN,811,0.6925,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,69,69,Kaipamangalam,C.U.NIMI,OTH,638,0.5448,False,https://www.ceo.kerala.gov.in/pdf/form20/069.pdf
+2011,Thrissur,70,70,Irinjalakkuda,THOMAS UNNIYADAN,UNKNOWN,68445,51.7038,True,https://www.ceo.kerala.gov.in/pdf/form20/070.pdf
+2011,Thrissur,70,70,Irinjalakkuda,K.R.VIJAYA,CPI(M),56041,42.3338,False,https://www.ceo.kerala.gov.in/pdf/form20/070.pdf
+2011,Thrissur,70,70,Irinjalakkuda,K C VENU MASTER,UNKNOWN,6672,5.0401,False,https://www.ceo.kerala.gov.in/pdf/form20/070.pdf
+2011,Thrissur,70,70,Irinjalakkuda,T.V.SIVADASAN,OTH,772,0.5832,False,https://www.ceo.kerala.gov.in/pdf/form20/070.pdf
+2011,Thrissur,70,70,Irinjalakkuda,SUBRAHMANIAN,UNKNOWN,449,0.3392,False,https://www.ceo.kerala.gov.in/pdf/form20/070.pdf
+2011,Thrissur,71,71,Puthukkad,C.RAVEENDRANATH,UNKNOWN,73047,52.8365,True,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,K.P.VISWANATHAN,INC,46565,33.6815,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,SOBHA SURENDRAN,UNKNOWN,14425,10.4339,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,P.J.MONSY,UNKNOWN,2084,1.5074,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,P C PUSHPAKARAN,UNKNOWN,1013,0.7327,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,PAULSON KALLOOR,UNKNOWN,622,0.4499,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,K.V.PURUSHOTHAMAN,OTH,495,0.358,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,72,72,Chalakkudy,DEVASSY B D,UNKNOWN,63610,48.1759,True,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,BENNY K T,UNKNOWN,61061,46.2454,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,SUDHEER BABY,UNKNOWN,5976,4.526,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,PUSHPANGADAN.P.M,OTH,681,0.5158,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,SUBRAMANNIAN V K,UNKNOWN,451,0.3416,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,E.JAYAKUMAR,OTH,258,0.1954,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,73,73,Kodungallur,T.N.PRATHAPAN,INC,64495,50.1072,True,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,K G SIVANANDAN,UNKNOWN,55063,42.7793,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,I.R.VIJAYAN,BJP,6732,5.2302,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,AMBILI UNNIKRISHNAN,UNKNOWN,624,0.4848,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,HARIDAS.K.B,OTH,461,0.3582,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,RAJESH APPATT,UNKNOWN,377,0.2929,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,ALLY RAVI,OTH,343,0.2665,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,SUJA ANTONY,UNKNOWN,330,0.2564,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Thrissur,73,73,Kodungallur,T.U.RADHAKRISHNAN,OTH,289,0.2245,False,https://www.ceo.kerala.gov.in/pdf/form20/073.pdf
+2011,Ernakulam,74,74,Perumbavoor,SAJU PAUL,CPI(M),59628,47.422,True,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,JAISON JOSEPH,UNKNOWN,56246,44.7323,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,O.C.ASOKAN,UNKNOWN,5464,4.3455,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,O.ALIYAR,OTH,2401,1.9095,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,N.K.MUHAMMED HAJI,UNKNOWN,1094,0.8701,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,SUNILKUMAR.P.N,OTH,494,0.3929,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,74,74,Perumbavoor,BINDU JAYAN,UNKNOWN,412,0.3277,False,https://www.ceo.kerala.gov.in/pdf/form20/074.pdf
+2011,Ernakulam,75,75,Angamaly,JOSE THETTAYIL,JD[S],61500,49.5624,True,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHNY NELLOOR,OTH,54330,43.7841,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,M.A.BRAHMARAJ,UNKNOWN,4117,3.3179,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHNSON  A.T(INCHAKKADAN JOHNY),UNKNOWN,1374,1.1073,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,M.G.PURUSHOTHAMAN,UNKNOWN,774,0.6238,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,POULOSOE  KIDANGEN,UNKNOWN,518,0.4175,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,K.C.JAYAN,UNKNOWN,514,0.4142,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,FRANCIS NJALIYAN,UNKNOWN,482,0.3884,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHNSON,OTH,248,0.1999,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,75,75,Angamaly,JOHN CHACKO,OTH,229,0.1845,False,https://www.ceo.kerala.gov.in/pdf/form20/075.pdf
+2011,Ernakulam,76,76,Aluva,ANWAR SADATH,INC,64244,50.2417,True,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,A.M.YOUSAF,UNKNOWN,51030,39.9077,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,M.N.GOPI,BJP,8264,6.4628,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ROY ARACKAL,UNKNOWN,1684,1.317,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,M.M.YOOSAF MUNDAKKAL,UNKNOWN,829,0.6483,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ANWAR SADATH PANACKAPARAMBIL,UNKNOWN,547,0.4278,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,K.Y KUNJUMON,UNKNOWN,479,0.3746,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ABDUL AZEEZ,BSP,473,0.3699,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ANTONY JOSEPH MANJOORAN,UNKNOWN,182,0.1423,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,K.K SOBHA,UNKNOWN,138,0.1079,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,77,77,Kalamassery,V.K.EBRAHIM KUNJU,ML,62843,47.7255,True,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,K.CHANDRAN PILLAI,UNKNOWN,55054,41.8102,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,P.KRISHNADAS,UNKNOWN,8438,6.4082,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,P.A.MUHAMMED ASLAM,UNKNOWN,2104,1.5979,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,T.A.MUJEEB RAHMAN,UNKNOWN,1236,0.9387,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,CHANDRASEKHARA PILLAI,OTH,657,0.499,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,GIREESH BABU.G,UNKNOWN,508,0.3858,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,SHIBU THATTAMPADI,UNKNOWN,505,0.3835,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,D.SUNDARA MOORTHY,AIADMK,186,0.1413,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,77,77,Kalamassery,K.P.MOHANAN,OTH,145,0.1101,False,https://www.ceo.kerala.gov.in/pdf/form20/077.pdf
+2011,Ernakulam,78,78,Paravur,V.D.SATHEESAN,INC,74632,51.7832,True,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,78,78,Paravur,PANNIAN RAVEENDRAN,UNKNOWN,63283,43.9087,False,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,78,78,Paravur,E.S.PURUSHOTHAMAN,UNKNOWN,3934,2.7296,False,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,78,78,Paravur,K.K.JYOTHIVAS,OTH,754,0.5232,False,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,78,78,Paravur,P.S.RAJENDRA PRASAD,UNKNOWN,614,0.426,False,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,78,78,Paravur,P.P.RAVEENDRAN,OTH,493,0.3421,False,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,78,78,Paravur,M.MANOJ,UNKNOWN,414,0.2873,False,https://www.ceo.kerala.gov.in/pdf/form20/078.pdf
+2011,Ernakulam,79,79,Vypen,S.SHARMA,UNKNOWN,60814,50.3736,True,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,AJAY THARAYIL,INC,55572,46.0315,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,T.G SURENDRAN,UNKNOWN,2930,2.427,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,T.K.SIVANANDAN,UNKNOWN,546,0.4523,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,SANTHOSH SARMA,OTH,490,0.4059,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,BENNY JOSEPH,OTH,374,0.3098,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,80,80,Kochi,DOMINIC PRESENTATION,INC,56352,53.3677,True,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,M.C. JOSPHINE,CPI(M),39849,37.7387,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,K SASIDHARAN MASTER,UNKNOWN,5480,5.1898,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,YOOSUF MUFTHI,OTH,1992,1.8865,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,DOMINIC C J,OTH,590,0.5588,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,KAMARUDHEEN  T.A,UNKNOWN,482,0.4565,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,A.P IBRAHIMKUTTY,UNKNOWN,394,0.3731,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,JACOB PULIKKAN,UNKNOWN,258,0.2443,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,80,80,Kochi,T.A. KRISHNAKUTTY,UNKNOWN,195,0.1847,False,https://www.ceo.kerala.gov.in/pdf/form20/080.pdf
+2011,Ernakulam,81,81,Thripunithura,K.BABU,INC,69886,53.3575,True,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,C.M. DINESH MANI,CPI(M),54108,41.3111,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,SABU VARGHESE,BJP,4942,3.7732,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,KARTHIKEYAN,BSP,826,0.6306,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,BABU KEEZHATHUPARAMBU,UNKNOWN,330,0.252,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,SAJU KOLATTUKUDY,UNKNOWN,327,0.2497,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,SAJI THURUTHIKUNNEL,UNKNOWN,316,0.2413,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,P.K.THANKAMANI,OTH,137,0.1046,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,81,81,Thripunithura,K.P.AYYAPPAN,UNKNOWN,105,0.0802,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
+2011,Ernakulam,82,82,Eranakulam,HIBI EDEN,INC,59919,61.5836,True,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,SEBASTIAN PAUL,OTH,27482,28.2455,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,C.G. RAJAGOPAL,UNKNOWN,6362,6.5387,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,SEBASTIAN NJALAMKUNNEL,UNKNOWN,2347,2.4122,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,IQBAL THAMARASSERY,UNKNOWN,742,0.7626,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,T.R.VASUDEVAN,OTH,445,0.4574,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,83,83,Thrikkakara,BENNY BEHANAN,INC,65854,55.8781,True,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,M.E.HASSAINAR,CPI(M),43448,36.8663,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,N. SAJI KUMAR,UNKNOWN,5935,5.0359,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,HASSAINAR,OTH,933,0.7917,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,ABDUL SALAM PARAKKADAN,UNKNOWN,869,0.7374,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,BENNY GEORGE,OTH,410,0.3479,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,SHEREEF THANKAYATHIL,UNKNOWN,404,0.3428,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,84,84,Kunnathunad,V.P. SAJEENDRAN,UNKNOWN,63624,49.7171,True,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,M.A. SURENDRAN,UNKNOWN,54892,42.8938,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,M.RAVI,UNKNOWN,5862,4.5807,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,M.K.MANOJKUMAR,OTH,2969,2.32,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,RAJEEV P.T,UNKNOWN,625,0.4884,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,85,85,Piravom,T M JACOB,OTH,66503,47.5266,True,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,85,85,Piravom,M J JACOB,CPI(M),66346,47.4144,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,85,85,Piravom,M.N MADHU,UNKNOWN,4234,3.0258,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,85,85,Piravom,JOSHY JOSEPH,BSP,979,0.6996,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,85,85,Piravom,SABU KUNJAPPAN,OTH,958,0.6846,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,85,85,Piravom,M.K.USHA,UNKNOWN,908,0.6489,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,86,86,Muvattupuzha,JOSEPH VAZHAKKAN,INC,58012,49.8981,True,https://www.ceo.kerala.gov.in/pdf/form20/086.pdf
+2011,Ernakulam,86,86,Muvattupuzha,BABU PAUL,CPI,52849,45.4572,False,https://www.ceo.kerala.gov.in/pdf/form20/086.pdf
+2011,Ernakulam,86,86,Muvattupuzha,JIJI JOSEPH,BJP,4367,3.7562,False,https://www.ceo.kerala.gov.in/pdf/form20/086.pdf
+2011,Ernakulam,86,86,Muvattupuzha,BIJU SREEDHARAN,OTH,546,0.4696,False,https://www.ceo.kerala.gov.in/pdf/form20/086.pdf
+2011,Ernakulam,86,86,Muvattupuzha,BOBBY KALLOOR,UNKNOWN,487,0.4189,False,https://www.ceo.kerala.gov.in/pdf/form20/086.pdf
+2011,Ernakulam,87,87,Kothamangalam,T.U. KURUVILLA,UNKNOWN,52924,49.2605,True,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,COMMANDER SKARIAH THOMAS,UNKNOWN,40702,37.8845,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,K.RADHAKRISHNAN,UNKNOWN,5769,5.3697,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SHINE MUHAMMED,OTH,4691,4.3663,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SKARIA THOMAS,UNKNOWN,1008,0.9382,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,T.T.KURUVILLA,UNKNOWN,718,0.6683,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,DEVAKI NARAYANAN,OTH,524,0.4877,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,JOY DEVASSIA,OTH,419,0.39,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SKARIA THOMMAN,UNKNOWN,363,0.3379,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Ernakulam,87,87,Kothamangalam,SOMINI PRABHAKARAN,BSP,319,0.2969,False,https://www.ceo.kerala.gov.in/pdf/form20/087.pdf
+2011,Idukki,88,88,Devikulam,S.RAJENDRAN,CPI(M),51849,48.4303,True,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,A.K.MONI,UNKNOWN,47771,44.6212,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,S.RAJAGOPAL,BJP,3582,3.3458,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,SELVARAJ MADASWAMI,UNKNOWN,1060,0.9901,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,T.C.THANKAPPAN,UNKNOWN,913,0.8528,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,MALLIKA,OTH,646,0.6034,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,RAJU AYYAPPAN,UNKNOWN,628,0.5866,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,P.K.MANY,UNKNOWN,336,0.3138,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,MANIKANDAN K,UNKNOWN,274,0.2559,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,89,89,Udumbanchola,K.K.JAYACHANDRAN,CPI(M),56923,51.4847,True,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,JOSSY SEBASTIAN,UNKNOWN,47090,42.5911,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,NARAYANA RAJU,BJP,3836,3.4695,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,MUHAMMED SHARAFUDHEEN,UNKNOWN,1331,1.2038,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,BENNY THOMAS,BSP,714,0.6458,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,K.C.MAMMACHAN,UNKNOWN,669,0.6051,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,90,90,Thodupuzha,P.J.JOSEPH,OTH,66325,51.9227,True,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,JOSEPH AUGUSTINE,UNKNOWN,43457,34.0204,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,P.M.VELAYUDHAN,BJP,10049,7.8669,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,M.A.NAJEEB,UNKNOWN,5386,4.2164,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,BINU SEBASTIAN,BSP,677,0.53,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,C.R.DILEEP KUMAR,UNKNOWN,655,0.5128,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,T.S.SREENIVASAN,UNKNOWN,482,0.3773,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,JOMON JOHN,OTH,282,0.2208,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,SIBY C MATHEW,OTH,246,0.1926,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,SHIBUMON,OTH,179,0.1401,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,91,91,Idukki,ROSHY AUGUSTINE,KEC(M),65734,54.8822,True,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,C.V.VARGHESE,CPI(M),49928,41.6855,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,C.C.KRISHNAN,BJP,3013,2.5156,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,KANCHIYAR PEETHAMBARAN,OTH,389,0.3248,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,P.C.PRABHAKARAN,OTH,325,0.2713,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,M.K.NARAYANAN,OTH,226,0.1887,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,V.LEKSHMANAN,OTH,158,0.1319,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,92,92,Peerumade,E.S.BIJIMOLE,UNKNOWN,56748,49.2587,True,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,E.M.AUGUSTHY,INC,51971,45.1121,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,P.P.SANU,UNKNOWN,3380,2.9339,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,M.K.SUPPU ROYAL,AIADMK,694,0.6024,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,K.D.VASUDEVAN,UNKNOWN,667,0.579,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,BIJU MATTAPPALLY,UNKNOWN,641,0.5564,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,P.S.MADHU,UNKNOWN,437,0.3793,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,AUGUSTHY.M,OTH,359,0.3116,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Idukki,92,92,Peerumade,JOSEPH JACOB,OTH,307,0.2665,False,https://www.ceo.kerala.gov.in/pdf/form20/092.pdf
+2011,Kottayam,93,93,Pala,K.M.MANI,KEC(M),61239,49.141,True,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,MANI.C.KAPPAN,UNKNOWN,55980,44.9209,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,B.VIJAYAKUMAR,BJP,6359,5.1028,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,C.V.JOHN,OTH,576,0.4622,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,JAMES JOSEPH,OTH,465,0.3731,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,94,94,Kaduthuruthy,MONS JOSEPH,UDF,68787,56.3708,True,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,94,94,Kaduthuruthy,STEPHEN GEORGE,LDF,45730,37.4756,False,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,94,94,Kaduthuruthy,P.G.BIJUKUMAR,BJP,5340,4.3761,False,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,94,94,Kaduthuruthy,M.D.THOMAS,IND,2169,1.7775,False,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,95,95,Vaikom,K.AJITH,UNKNOWN,62603,51.625,True,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,A.SANEESHKUMAR,INC,52035,42.9102,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,RAMESH KAVIMATTOM,BJP,4512,3.7208,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,SANESH.K,OTH,691,0.5698,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,P.K.PRAKASAN,UNKNOWN,645,0.5319,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,K.S.SASIKALA,UNKNOWN,412,0.3398,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,M.K.DASAN,UNKNOWN,367,0.3026,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,96,96,Ettumanoor,K.SURESH KURUP,UNKNOWN,57381,48.5223,True,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,THOMAS CHAZHIKADAN,KEC(M),55580,46.9993,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,V.G.GOPAKUMAR,UNKNOWN,3385,2.8624,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,K.T.THOMAS,UNKNOWN,763,0.6452,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,JUSTIN MATHEW,OTH,466,0.3941,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,E.V.PRAKASH,UNKNOWN,454,0.3839,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,ANISH KUMAR,OTH,228,0.1928,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,97,97,Kottayam,THIRUVANCHOOR RADHAKRISHNAN,INC,53825,46.8447,True,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,V.N.VASAVAN,UNKNOWN,53114,46.2259,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,NARAYANAN NAMBOOTHIRI,UNKNOWN,5449,4.7423,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,V.S.SHAJAN,UNKNOWN,1737,1.5117,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,RAJEEV ABRAHAM,OTH,387,0.3368,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,N.K.BIJU,UNKNOWN,276,0.2402,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,GEORGE P ELIAS,OTH,113,0.0983,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,98,98,Puthuppally,OOMMEN CHANDY,INC,69922,59.7445,True,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,SUJA SUSAN GEORGE(ASSO.PROFESSOR),UNKNOWN,36667,31.3299,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,P.SUNILKUMAR,BJP,6679,5.7068,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,SAJI K CHERAMAN,BSP,3230,2.7599,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,ADV.JAYAKUMAR KAVUNKAL,UNKNOWN,537,0.4588,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,99,99,Changanassery,C.F.THOMAS,KEC(M),51019,47.1277,True,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,B.EKBAL,CPI(M),48465,44.7685,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,RAJAGOPAL M.B,BJP,6281,5.8019,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,MATHEWS JOHN,IND,1058,0.9773,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,MANSOOR,SDPI,907,0.8378,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,K.SADANANDAN,IND,281,0.2596,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,99,99,Changanassery,NASEER.K.M,IND,246,0.2272,False,https://www.ceo.kerala.gov.in/pdf/form20/099.pdf
+2011,Kottayam,100,100,Kanjirappally,N.JAYARAJ,UNKNOWN,57021,50.3982,True,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,100,100,Kanjirappally,SURESH T NAIR,CPI,44815,39.6099,False,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,100,100,Kanjirappally,RAJAMOHAN,BJP,8037,7.1035,False,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,100,100,Kanjirappally,P.K.GEETHA KRISHNAN,UNKNOWN,3268,2.8884,False,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,101,101,Poonjar,P.C.GEORGE PLATHOTTAM,UNKNOWN,59809,50.7678,True,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,MOHAN THOMAS,OTH,44105,37.4377,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,SANTHOSH KUMAR,UNKNOWN,5010,4.2526,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,SULAIMAN MOULAVI.V.M,SDPI,3579,3.038,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,P.P.JOSHI,UNKNOWN,2956,2.5091,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,SIVAN,OTH,524,0.4448,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,DIVAKARAN.P.K,OTH,455,0.3862,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,P.C.GEORGE PONNATTUPUTHENPURAYIL,UNKNOWN,417,0.354,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,K.RAJAPPAN,OTH,280,0.2377,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,RAJU VATTAPPARA,UNKNOWN,243,0.2063,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,MANO GEORGE,OTH,192,0.163,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,ANOOP BHASKARAN,OTH,132,0.112,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,ANIL MATHEW,OTH,107,0.0908,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Alappuzha,102,102,Aroor,A.M.ARIFF,CPI(M),76675,52.2751,True,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,A.A SHUKOOR,UNKNOWN,59823,40.7858,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,T.SAJEEVLAL,UNKNOWN,7486,5.1038,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,V.LENIN,UNKNOWN,787,0.5366,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,SURESH BABU,OTH,776,0.5291,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,JAYAPRAKASH,OTH,476,0.3245,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,S.SARATH,UNKNOWN,378,0.2577,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,P.T.RADHAKRISHNAN,UNKNOWN,275,0.1875,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,103,103,Cherthala,P.THILOTHAMAN,CPI,86193,53.1128,True,https://www.ceo.kerala.gov.in/pdf/form20/103.pdf
+2011,Alappuzha,103,103,Cherthala,K.R.GOURIAMMA,UNKNOWN,67878,41.8269,False,https://www.ceo.kerala.gov.in/pdf/form20/103.pdf
+2011,Alappuzha,103,103,Cherthala,P.K.BINOY,BJP,5933,3.656,False,https://www.ceo.kerala.gov.in/pdf/form20/103.pdf
+2011,Alappuzha,103,103,Cherthala,K.R.RAJEEVAN,UNKNOWN,1185,0.7302,False,https://www.ceo.kerala.gov.in/pdf/form20/103.pdf
+2011,Alappuzha,103,103,Cherthala,SHAJIMON,OTH,1094,0.6741,False,https://www.ceo.kerala.gov.in/pdf/form20/103.pdf
+2011,Alappuzha,104,104,Alappuzha,T.M.THOMAS ISAAC,UNKNOWN,75857,53.7067,True,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,P.J.MATHEW,INC,59515,42.1366,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,KOTTARAM UNNIKRISHNAN,UNKNOWN,3540,2.5063,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,T.M.SAMAD,UNKNOWN,1158,0.8199,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,SEBASTIAN,UNKNOWN,646,0.4574,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,C.P THILAKAN,UNKNOWN,527,0.3731,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,105,105,Ambalapuzha,G.SUDHAKARAN,UNKNOWN,63728,54.4842,True,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,M.LIJU,UNKNOWN,47148,40.3091,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,P.K.VASUDEVAN,UNKNOWN,2668,2.281,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,S.H.ALHADHI,UNKNOWN,1852,1.5834,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,OMANAKUTTAN,BSP,672,0.5745,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,K.R.SASI,UNKNOWN,415,0.3548,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,SIVAKUMAR,OTH,347,0.2967,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,105,105,Ambalapuzha,NAZEER AHAMMED,INC,136,0.1163,False,https://www.ceo.kerala.gov.in/pdf/form20/105.pdf
+2011,Alappuzha,108,108,Kayamkulam,C.K.SADASIVAN,CPI(M),67409,48.2783,True,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,M.MURALI,INC,66094,47.3365,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,T.O.NOUSHAD,BJP,3083,2.208,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,K.SADASIVAN,UNKNOWN,744,0.5329,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,MURALI,OTH,704,0.5042,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,AMBUJAN,BSP,602,0.4312,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,SHAL MOHAN,OTH,585,0.419,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,108,108,Kayamkulam,KALESH MANIMANDIRAM,UNKNOWN,405,0.2901,False,https://www.ceo.kerala.gov.in/pdf/form20/108.pdf
+2011,Alappuzha,109,109,Mavelikara,R.RAJESH,UNKNOWN,65903,49.2969,True,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,K.K.SHAJU,JSS,60754,45.4453,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,S.GIRIJA,UNKNOWN,4984,3.7281,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,RAJEESH.R,OTH,1185,0.8864,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,SUBHASH MANKAMKUZHY,UNKNOWN,860,0.6433,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,110,110,Chengannur,P.C.VISHNUNATH,UNKNOWN,65156,51.9813,True,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,C.S.SUJATHA,UNKNOWN,52656,42.0089,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,B.RADHAKRISHNA MENON,UNKNOWN,6062,4.8363,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,SURENDRAN KARIPPUZHA,UNKNOWN,848,0.6765,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Alappuzha,110,110,Chengannur,VENUGOPAL.V,OTH,623,0.497,False,https://www.ceo.kerala.gov.in/pdf/form20/110.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,MATHEW T THOMAS,JD[S],63289,49.9747,True,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,VICTOR T THOMAS,KEC(M),52522,41.4728,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,RAJAN MOOLAVEETTIL,UNKNOWN,7656,6.0454,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,KURIAN JOSEPH,BSP,1511,1.1931,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,RADHAMANI S,UNKNOWN,456,0.3601,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,KATHIKAN NIRANAM RAJAN,UNKNOWN,439,0.3466,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,P K SUKUMARAN,OTH,398,0.3143,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,SAMKUTTY JACOB,OTH,371,0.293,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,112,112,Ranni,RAJU ABRAHAM,CPI(M),58391,48.5132,True,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,PEELIPOSE THOMAS,INC,51777,43.0181,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,SURESH KADAMBARI,UNKNOWN,7442,6.1831,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,V D SAJI MON,UNKNOWN,1300,1.0801,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,IBRAHIMKUTTY,OTH,905,0.7519,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,S RADHAKRISHNAN,OTH,350,0.2908,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,ULAKAN THEVAN,OTH,196,0.1628,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,113,113,Aranmula,K SIVADASAN NAIR,INC,64845,47.6889,True,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K.C. RAJAGOPALAN,UNKNOWN,58334,42.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K. HARIDAS,UNKNOWN,10227,7.5212,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,AMRITHA KUMAR T,BSP,721,0.5302,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,NAZARUDHEEN,SDPI,709,0.5214,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,SUGATHAN R,OTH,387,0.2846,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,D.SIVADASAN ACHARI,UNKNOWN,343,0.2523,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,MADHU G,OTH,206,0.1515,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K.V. VARGHESE,UNKNOWN,134,0.0985,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,PUSHPANGADAN,OTH,69,0.0507,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,114,114,Konni,ADOOR PRAKASH,INC,65724,50.1507,True,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,RAJENDRAN M S,OTH,57950,44.2188,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,V.S.HARISH CHANDRAN,UNKNOWN,5994,4.5737,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,SINTO STEPHEN,OTH,655,0.4998,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,THATTAYIL SARASWATHY,UNKNOWN,276,0.2106,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,LEKSHMI R SEKHAR,OTH,247,0.1885,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,RENJINI C T,OTH,207,0.158,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,115,115,Adoor,CHITTAYAM GOPAKUMAR,UNKNOWN,63501,47.0179,True,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,PANDALAM SUDHAKARAN,INC,62894,46.5685,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,K K SASI,UNKNOWN,6210,4.5981,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,OLIKKULANGARA SURENDRAN,UNKNOWN,994,0.736,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,KODUMON RAMACHANDRAN,UNKNOWN,519,0.3843,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,PIRAVANTHOOR SREEDHARAN,UNKNOWN,462,0.3421,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,REMANAN,OTH,315,0.2332,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Pathanamthitta,115,115,Adoor,ANIL K,OTH,162,0.1199,False,https://www.ceo.kerala.gov.in/pdf/form20/115.pdf
+2011,Kollam,116,116,Karunagappally,C.DIVAKARAN,CPI,69086,50.1324,True,https://www.ceo.kerala.gov.in/pdf/form20/116.pdf
+2011,Kollam,116,116,Karunagappally,A.N RAJAN BABU,JSS,54564,39.5945,False,https://www.ceo.kerala.gov.in/pdf/form20/116.pdf
+2011,Kollam,116,116,Karunagappally,NAZARUDEEN ELAMARAM,UNKNOWN,7645,5.5476,False,https://www.ceo.kerala.gov.in/pdf/form20/116.pdf
+2011,Kollam,116,116,Karunagappally,MALUMMEL SURESH,UNKNOWN,5097,3.6987,False,https://www.ceo.kerala.gov.in/pdf/form20/116.pdf
+2011,Kollam,116,116,Karunagappally,P D SUDHEER,OTH,868,0.6299,False,https://www.ceo.kerala.gov.in/pdf/form20/116.pdf
+2011,Kollam,116,116,Karunagappally,TWINKLE PRABHAKARAN,OTH,547,0.3969,False,https://www.ceo.kerala.gov.in/pdf/form20/116.pdf
+2011,Kollam,117,117,Chavara,SHIBU BABY JOHN,OTH,65002,51.1553,True,https://www.ceo.kerala.gov.in/pdf/form20/117.pdf
+2011,Kollam,117,117,Chavara,N.K.PREMACHANDRAN,UNKNOWN,58941,46.3854,False,https://www.ceo.kerala.gov.in/pdf/form20/117.pdf
+2011,Kollam,117,117,Chavara,NALINI SANKARAMANGALAM,UNKNOWN,2026,1.5944,False,https://www.ceo.kerala.gov.in/pdf/form20/117.pdf
+2011,Kollam,117,117,Chavara,MANIYAN G,OTH,567,0.4462,False,https://www.ceo.kerala.gov.in/pdf/form20/117.pdf
+2011,Kollam,117,117,Chavara,V VARADARAJAN,UNKNOWN,532,0.4187,False,https://www.ceo.kerala.gov.in/pdf/form20/117.pdf
+2011,Kollam,118,118,Kunnathur,KOVOOR KUNJUMON,UNKNOWN,71923,49.975,True,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,P.K.RAVI,INC,59835,41.5758,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,RAJI PRASAD,UNKNOWN,5949,4.1336,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,THULASEEDHARAN PALLICKAL,UNKNOWN,2310,1.6051,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,VALLIKUNNAM  PRASAD,UNKNOWN,1354,0.9408,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,PULIKUZHI BALACHANDRAN,UNKNOWN,1145,0.7956,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,SHYLAJA P,OTH,611,0.4245,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,RAVI,UNKNOWN,525,0.3648,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,118,118,Kunnathur,V.REMADEVI,UNKNOWN,266,0.1848,False,https://www.ceo.kerala.gov.in/pdf/form20/118.pdf
+2011,Kollam,119,119,Kottarakkara,P.AISHA POTTY,UNKNOWN,74069,53.8931,True,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,N.N.MURALI,UNKNOWN,53477,38.9102,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,VAYAKKAL MADHU,UNKNOWN,6370,4.6349,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,DHANESHLAL PANAVELY,UNKNOWN,1063,0.7734,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,P.T.PRASANNA KUMAR,UNKNOWN,911,0.6628,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,S SOLOMON,UNKNOWN,773,0.5624,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,PRAKASH V,OTH,454,0.3303,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,119,119,Kottarakkara,PRAKASH R,OTH,320,0.2328,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
+2011,Kollam,120,120,Pathanapuram,K. B. GANESH KUMAR,UNKNOWN,71421,55.6381,True,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,K.RAJAGOPAL,CPI(M),51019,39.7446,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,R.SUBHASH PATTAZHY,UNKNOWN,2839,2.2116,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,ANEESH ANTONY,OTH,1613,1.2566,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,PUNALUR SALIM,UNKNOWN,864,0.6731,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,N.SUNIL KUMAR,OTH,611,0.476,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,121,121,Punalur,K.RAJU,CPI,72648,54.5221,True,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,ADV.JOHNSON ABRAHAM,UNKNOWN,54643,41.0094,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,B RADHAMONY,BJP,4155,3.1183,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,JAYAKUMAR S,OTH,699,0.5246,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,KUZHICHAYIL SUNIL,UNKNOWN,606,0.4548,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,121,121,Punalur,S SHAILAJA,UNKNOWN,494,0.3707,False,https://www.ceo.kerala.gov.in/pdf/form20/121.pdf
+2011,Kollam,122,122,Chadayamangalam,MULLAKKARA RATNAKARAN,UNKNOWN,71231,55.8986,True,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,SHAHIDA KAMAL,INC,47607,37.3596,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,T C SAJU KUMAR,UNKNOWN,4160,3.2646,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,JALEEL KADAKKAL,UNKNOWN,1800,1.4126,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,SHIBU K CHADAYAMANGALAM,UNKNOWN,1078,0.846,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,KOTTUKKAL PRASAD,UNKNOWN,996,0.7816,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,122,122,Chadayamangalam,OYOOR NAZEER,UNKNOWN,557,0.4371,False,https://www.ceo.kerala.gov.in/pdf/form20/122.pdf
+2011,Kollam,123,123,Kundara,M.A. BABY,CPI(M),67135,52.4804,True,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,P. JERMIAS,UNKNOWN,52342,40.9165,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,VELLIMON DILEEP,UNKNOWN,5990,4.6825,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,SANDHYA PALLIMON,UNKNOWN,957,0.7481,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,SUSEELA MOHAN,UNKNOWN,947,0.7403,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,123,123,Kundara,ANTONY VINCENT,OTH,553,0.4323,False,https://www.ceo.kerala.gov.in/pdf/form20/123.pdf
+2011,Kollam,124,124,Kollam,P.K GURUDASAN,CPI(M),57986,50.8569,True,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,K C RAJAN,INC,49446,43.3668,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,G. HARI,BJP,4207,3.6898,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,A. A SHAFI,UNKNOWN,1168,1.0244,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,MANGADU THULASEEDHARAN,UNKNOWN,507,0.4447,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,K. SANU,OTH,372,0.3263,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,C N NARAYANAN NAIR,UNKNOWN,191,0.1675,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,124,124,Kollam,V MOHANAN,OTH,141,0.1237,False,https://www.ceo.kerala.gov.in/pdf/form20/124.pdf
+2011,Kollam,125,125,Eravipuram,A.A.AZEEZ,RSP,51271,48.9952,True,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,P.K.K BAVA,ML,43259,41.3388,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,PATTATHANAM BABU,UNKNOWN,5048,4.8239,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,MYLAKKAD SHAH,UNKNOWN,3234,3.0904,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,SUSHAMA VIJAYAN,UNKNOWN,580,0.5543,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,ABDUL AZEEZ,OTH,552,0.5275,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,SAIJU.V,OTH,391,0.3736,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,DEEPU.N,OTH,310,0.2962,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,126,126,Chathannur,G.S.JAYALAL,CPI,60187,52.658,True,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Kollam,126,126,Chathannur,BINDHU KRISHNA,UNKNOWN,47598,41.6438,False,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Kollam,126,126,Chathannur,KIZHAKKANELA SUDHAKARAN,UNKNOWN,3839,3.3588,False,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Kollam,126,126,Chathannur,A. SASI,OTH,1134,0.9921,False,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Kollam,126,126,Chathannur,JAYALAL,OTH,763,0.6676,False,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Kollam,126,126,Chathannur,MYLODE SUDHAN,UNKNOWN,490,0.4287,False,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Kollam,126,126,Chathannur,SASIKUMAR,SS,287,0.2511,False,https://www.ceo.kerala.gov.in/pdf/form20/126.pdf
+2011,Thiruvananthapuram,127,127,Varkala,VARKALA KAHAR,INC,57755,52.3964,True,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,RAHIM A A,CPI(M),47045,42.6801,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,ELAKAMON SATHEESHAN,UNKNOWN,3430,3.1118,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,CHERUNNIYOOR GANESH,UNKNOWN,927,0.841,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,KUNNIL SHAJAHAN,UNKNOWN,795,0.7212,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,127,127,Varkala,ANEESH KUMAR,OTH,275,0.2495,False,https://www.ceo.kerala.gov.in/pdf/form20/127.pdf
+2011,Thiruvananthapuram,128,128,Attingal,B. SATYAN,UNKNOWN,63558,55.4423,True,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,THANKAMANI DIVAKARAN,INC,33493,29.2163,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,ATTINGAL SURESH,UNKNOWN,7857,6.8537,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,P P VAVA,BJP,4844,4.2255,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,V V SELVARAJ,OTH,1713,1.4943,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,K G SOMAN,UNKNOWN,1561,1.3617,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,M. CHINNAMMA,UNKNOWN,1235,1.0773,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,G ANIRUDHAN,OTH,377,0.3289,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,V.SASI,CPI,59601,52.9302,True,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,K VIDYADHARAN,INC,47376,42.0735,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,AYTHIYOOR SURENDRAN,UNKNOWN,2078,1.8454,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,ANIL MANGALAPURAM,UNKNOWN,1414,1.2557,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,SAJIMON CHELAYAM,UNKNOWN,1277,1.1341,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,ANILKUMAR B,OTH,857,0.7611,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,PALODE RAVI,INC,59789,47.8668,True,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,P. RAMACHANDRAN NAIR,CPI,54759,43.8398,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,ANJANA K S,BJP,5971,4.7804,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,ANDOORKONAM SULFI,UNKNOWN,1255,1.0047,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,A NOORJAHAN,SDPI,1200,0.9607,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,IDAMMA N,BSP,731,0.5852,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,VAZHODE RAVI,UNKNOWN,346,0.277,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,BIJU A,OTH,342,0.2738,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,ANAD.G.RAMACHANDRAN NAIR,UNKNOWN,277,0.2218,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,130,130,Nedumangad,SAJI,OTH,237,0.1897,False,https://www.ceo.kerala.gov.in/pdf/form20/130.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,KOLIAKODE N KRISHNAN NAIR,CPI(M),57381,46.509,True,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,C.MOHANACHANDRAN,UNKNOWN,55145,44.6967,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,KARRETTU SIVAPRASAD,UNKNOWN,5228,4.2375,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,PIRAPPANCODE SHAJAHAN,UNKNOWN,2225,1.8034,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,SALEENA PRAKKANAM,UNKNOWN,1613,1.3074,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,SASI R CHERAMAN,UNKNOWN,867,0.7027,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,IRINCHAYAM SURESH,UNKNOWN,437,0.3542,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,KRISHNAN NAIR,OTH,275,0.2229,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,131,131,Vamanapuram,BHARATHANOOR BALAN,UNKNOWN,205,0.1662,False,https://www.ceo.kerala.gov.in/pdf/form20/131.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,M. A. VAHEED,INC,50787,46.3817,True,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,C AJAYAKUMAR,CPI(M),48591,44.3762,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,PADMA KUMAR,BJP,7508,6.8567,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,M WAHID,UNKNOWN,986,0.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,K.BHUVANACHANDRAN CHETTIYAR,UNKNOWN,678,0.6192,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,M A JALEEL,UNKNOWN,418,0.3817,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,SUDARSANAN S,OTH,325,0.2968,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,K. AJITH KUMAR,OTH,205,0.1872,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,K.MURALEEDHARAN,INC,56531,50.1887,True,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,CHERIAN PHILIP,UNKNOWN,40364,35.8355,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,V V RAJESH,BJP,13494,11.9801,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,KAITHAKODE RADHAKRISHNAN,UNKNOWN,915,0.8123,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,CHERIYAN P T,UNKNOWN,551,0.4892,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,RAJAN K,OTH,488,0.4333,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,133,133,Vattiyoorkavu,G. BALAKRISHNAN NAIR,OTH,294,0.261,False,https://www.ceo.kerala.gov.in/pdf/form20/133.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,V.S. SIVAKUMAR,INC,49122,45.869,True,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,SURENDRAN PILLAI. V,OTH,43770,40.8714,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,B.K. SHEKHAR,UNKNOWN,11519,10.7562,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,ABDU RAZAK A,UNKNOWN,807,0.7536,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,P SURENDRAN PILLAI,OTH,518,0.4837,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,S SIVAKUMAR,OTH,485,0.4529,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,P.S. GOPAKUMAR,OTH,235,0.2194,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,N SIVAKUMAR,OTH,221,0.2064,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,SUNDARAN PILLAI,UNKNOWN,207,0.1933,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,C VASANTHA KUMARI,OTH,110,0.1027,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,GEORGE MANKIDIAN,UNKNOWN,98,0.0915,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,135,135,Nemom,V. SIVANKUTTY,CPI(M),50076,42.9439,True,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,O RAJAGOPAL,BJP,43661,37.4425,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,CHARUPARA RAVI,OTH,20248,17.3642,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,JAIN WILSON,OTH,964,0.8267,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,O. MAHEEN,UNKNOWN,667,0.572,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,THIRUVALLAM SREEKANDAN,UNKNOWN,472,0.4048,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,J VIKRAMAN,UNKNOWN,303,0.2598,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,RAMACHANDRAN,OTH,217,0.1861,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,G.KARTHIKEYAN,INC,56797,48.7871,True,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,AMBALATHARA SREEDHARAN NAIR,UNKNOWN,46123,39.6184,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,SIVANKUTTY C,BJP,7694,6.6089,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,A. BALAN,BSP,1746,1.4998,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,POOVATHOOR S RAJEEV,UNKNOWN,972,0.8349,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,SANIL V O,UNKNOWN,913,0.7842,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,R RAJAPPAN,OTH,753,0.6468,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,KARAKULAM SATHYA KUMAR,UNKNOWN,651,0.5592,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,S. SREEKUMAR,OTH,525,0.451,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,LATHA B VILLUMANNADI,UNKNOWN,244,0.2096,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,137,137,Parassala,A T GEORGE,UNKNOWN,60578,44.8026,True,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,ANAVOOR NAGAPPAN,CPI(M),60073,44.4291,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,S SURESH,BJP,10310,7.6251,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,J SUDHAKARAN,BSP,2269,1.6781,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,T K VISWAMBARAN,OTH,1207,0.8927,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,OORUTTUKALA  ANIKUMAR,UNKNOWN,774,0.5724,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,SAKTHAN N,INC,52368,44.6266,True,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,M V JAYADALI,OTH,39452,33.6199,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,P K KRISHNA DAS,BJP,22550,19.2165,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,VENGODU SUNIL KUMAR,UNKNOWN,1303,1.1104,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,KATTAKADA RAJAN,UNKNOWN,613,0.5224,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,SUCHITHRA S,OTH,586,0.4994,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,MALAYINKEEZH RAJESH,OTH,475,0.4048,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,JAMEELA  PRAKASAM,JD[S],59510,47.605,True,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,GEORGE MERCIER,INC,52305,41.8413,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,VENGANOOR SATHEESH,UNKNOWN,9127,7.3011,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,THANKA BAI. T,OTH,1231,0.9847,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,A M NIZAM,UNKNOWN,1193,0.9543,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,MURALEEDHARAN,BSP,1157,0.9255,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,VAZHAMUTTOM RAJENDRAN,UNKNOWN,485,0.388,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,R SELVARAJ,CPI(M),54711,48.9812,True,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,THAMPANOOR RAVI,INC,48009,42.9811,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,ATHIYANOOR SREEKUMAR,UNKNOWN,6730,6.0252,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,KOVILLOOR A BABU,UNKNOWN,1168,1.0457,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,MOHANAN,OTH,557,0.4987,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,MANALOOR B VASANTHA,UNKNOWN,523,0.4682,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf

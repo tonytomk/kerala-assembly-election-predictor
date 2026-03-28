@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,117,117,Chavara,N.VIJAYAN PILLAI,CMP,64666,46.7963,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,SHIBU BABYJOHN,RSP,58477,42.3176,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,M.SUNIL,BJP,10276,7.4364,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,SHAHUL THENGUMTHARA,PDP,1439,1.0414,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,ANSAR THEVALAKKARA,SDPI,1106,0.8004,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,NOTA,NOTA,667,0.4827,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,SHIBU,IND,427,0.309,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,THEVALAKKARA MANOJ,BSP,403,0.2916,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,ABU MUHAMMED,IND,228,0.165,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,ANILKUMAR KALLAMBALAM,IND,162,0.1172,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,V.SUBASH,SHIVSENA,121,0.0876,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,CHELLAPPAN,IND,121,0.0876,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,KARAMKODE BALAKRISHNAN,IND,93,0.0673,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf

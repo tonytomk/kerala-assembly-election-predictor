@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,130,130,Nedumangad,Adv. G. R. ANIL,CPI,72742,47.54,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,P. S. PRASANTH,INC,49433,32.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,Adv. J. R. PADMAKUMAR,BJP,26861,17.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,IRSHAD KANYAKULANGARA,SDPI,1884,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,NOTA,NOTA,917,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,BIPIN PALLIPURAM,BSP,563,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,THATHANKODU KANNAN,IND,170,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,PRASANTH. C S/o CHANDRAN. K,IND,160,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,EBINU. S,IND,146,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,HARI VELLANADU IND,IND,126,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

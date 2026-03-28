@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,52,52,Ottapalam,Adv. K. PREMKUMAR,CPI(M),74859,46.45,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,DOCTOR P. SARIN,INC,59707,37.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,P. VENUGOPALAN,BJP,25056,15.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,NOTA,NOTA,867,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,P.P. SIVAN BSP,BSP,672,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

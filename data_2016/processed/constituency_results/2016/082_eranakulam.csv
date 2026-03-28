@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,82,82,Eranakulam,HIBI EADEN,UNKNOWN,57819,52.3211,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,M ANIL KUMAR,UNKNOWN,35870,32.4592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,N K MOHANDAS,UNKNOWN,14878,13.4633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,NOTA,NOTA,940,0.8506,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,IQBAL THAMARASSERY,UNKNOWN,397,0.3593,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,RUBESH JIMMI MADATHIPARAMBAN,UNKNOWN,258,0.2335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,JOSSEY MATHEW,UNKNOWN,117,0.1059,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,ANILKUMAR ANANTHAPURAM,UNKNOWN,115,0.1041,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,ANILKUMAR PULIYOTH,UNKNOWN,114,0.1032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf

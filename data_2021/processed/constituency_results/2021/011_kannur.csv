@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,11,11,Kannur,RAMACHANDRAN,C(S),60313,44.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,SATHEESHAN PACHENI,INC,58568,43.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,ARCHANA VANDICHAL,BJP,11581,8.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,B SHAMSUDHEEN MOULAVI,SDPI,2069,1.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,T K GANESH BABU,NWLBRP,716,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,NOTA,NOTA,504,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,SATHEESAN P,IND,147,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,RAMACHANDRAN P V,IND,107,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,N K SURENDRAN IND,IND,84,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

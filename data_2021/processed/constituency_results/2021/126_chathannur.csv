@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,126,126,Chathannur,G.S. JAYALAL,CPI,59296,43.12,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,B. B. GOPAKUMAR,BJP,42090,30.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,N. PEETHAMBARAKURUP,INC,34280,24.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,NOTA,NOTA,642,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,SHANMUGHAN PARAVUR,ADHRMPI,524,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,SUNU BHASKARAN,BSP,364,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,SETHU,IND,172,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,VARINJAM RAJEEV IND,IND,135,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

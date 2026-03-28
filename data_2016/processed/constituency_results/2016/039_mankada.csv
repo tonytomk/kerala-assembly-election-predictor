@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,39,39,Mankada,T.A. AHAMMED KABEER,IUML,69165,46.0796,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,ADV. T.K. RASHEED ALI,CPI(M),67657,45.0749,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,B. RATHEESH,BJP,6641,4.4244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,HAMEED VANIYAMBALAM,WPI,3999,2.6642,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,A.A. RAHEEM,SDPI,1456,0.97,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,NOTA,NOTA,479,0.3191,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,O.T. SHIHAB,PDP,273,0.1819,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,AHAMED KABEER MUTTENGADAN,IND,218,0.1452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,M.K. AHAMMEDUL KABEER,IND,119,0.0793,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,ANWAR SHAKEEL OMAR,IND,92,0.0613,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf

@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,99,99,Changanassery,Adv. Job Maichil,KEC(M),55425,44.85,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,V. J. Laly,KEC,49366,39.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Adv G Raman Nair,BJP,14491,11.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Tijo Karikkandam,IND,1094,0.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Amruth Dev T,BSP,1079,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,M. K. Nizamuddin,SDPI,1075,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,NOTA,NOTA,434,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Rejitha Jayaram,SUCI,328,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,JOEMON JOSEPH SRAMPICKAL,IND,157,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Babychen Mukkadan IND,IND,136,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

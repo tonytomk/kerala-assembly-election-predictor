@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,69,69,Kaipamangalam,E T TAISON MASTER,CPI,66824,49.5999,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,M T MUHAMMED NAHAS,RSP,33384,24.7792,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,UNNIKRISHNAN THASHNATH,BDJS,30041,22.2978,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,K K SHAJAHAN,WPI,2002,1.486,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,ABDUL KAREEM P M,PDP,624,0.4632,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,NOTA,NOTA,565,0.4194,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,K H MOHAMMED RAFEEK,SDPI,564,0.4186,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,P A KUTTAPPAN,IND,257,0.1908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,BIJU ITTITHARA,IND,238,0.1767,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,N D VENU,CPI(ML)REDSTAR,227,0.1685,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf

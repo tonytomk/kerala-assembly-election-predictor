@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,74,74,Perumbavoor,ELDHOSE KUNNAPPILLY,INC,64285,44.1133,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,SAJU PAUL,CPI(M),57197,39.2494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,E S BIJU,BJP,19731,13.5397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,V K SHOUKKATH ALI,SDPI,2061,1.4143,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,THOMAS K GEORGE,WPI,971,0.6663,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,NOTA,NOTA,831,0.5702,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,JOHN PERUVANTHANAM,IND,385,0.2642,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,M M YOOSAF,IND,134,0.092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,P K SIVAN,IND,132,0.0906,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf

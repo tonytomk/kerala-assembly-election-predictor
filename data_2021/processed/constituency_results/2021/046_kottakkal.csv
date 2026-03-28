@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,46,46,Kottakkal,PROF. ABID HUSSAIN THANGAL,IUML,81700,51.08,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,N. A. MUHAMMED KUTTY,NCP,65112,40.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,P. P. GANESAN,BJP,10796,6.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,MOHAMED KUTTY,IND,675,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,NOTA,NOTA,668,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,BINDHU DEVARAJAN,IND,481,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,AYISHA,IND,328,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,SAINUL ABID THANGAL IND,IND,173,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

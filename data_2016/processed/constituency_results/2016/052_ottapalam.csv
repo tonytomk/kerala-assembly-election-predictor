@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,52,52,Ottapalam,P. UNNI,CPI(M),67161,44.7108,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,ADV. SHANIMOL OSMAN,INC,51073,34.0006,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,P. VENUGOPALAN,BJP,27605,18.3774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,A.A. SULFIKAR,SDPI,1166,0.7762,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,NOTA,NOTA,1013,0.6744,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,K T PADMINI,BSP,811,0.5399,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,S.R. PRAKASH,IND,805,0.5359,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,M.S. SUNEESH,SHIVSENA,399,0.2656,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,SURESH VELAYUDHAN,IND,179,0.1192,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf

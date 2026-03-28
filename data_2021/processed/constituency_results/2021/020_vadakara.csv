@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,20,20,Vadakara,K.K.REMA,RMPOI,65093,47.63,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,MANAYATH CHANDRAN,LJD,57602,42.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,ADVOCATE M. RAJESH KUMAR,BJP,10225,7.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,MUSTHAFA PALERI,SDPI,2836,2.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,NOTA,NOTA,353,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,GANGADHARAN MADAPPALLY,IND,186,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,K.T.K RAMA PADANNAYIL,IND,137,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,RAMA KUNIYIL,IND,126,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,VELLUPARAMBATH CHANDRAN,IND,63,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,RAMA CHERIYA KAYYIL IND,IND,52,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

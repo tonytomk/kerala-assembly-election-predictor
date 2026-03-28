@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Pathanamthitta,114,114,Konni,ADOOR PRAKASH,INC,65724,50.1507,True,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,RAJENDRAN M S,OTH,57950,44.2188,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,V.S.HARISH CHANDRAN,UNKNOWN,5994,4.5737,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,SINTO STEPHEN,OTH,655,0.4998,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,THATTAYIL SARASWATHY,UNKNOWN,276,0.2106,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,LEKSHMI R SEKHAR,OTH,247,0.1885,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf
+2011,Pathanamthitta,114,114,Konni,RENJINI C T,OTH,207,0.158,False,https://www.ceo.kerala.gov.in/pdf/form20/114.pdf

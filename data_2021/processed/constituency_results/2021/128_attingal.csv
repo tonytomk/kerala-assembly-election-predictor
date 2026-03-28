@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,128,128,Attingal,O S AMBIKA,CPI(M),69898,47.35,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,ADV. P SUDHEER,BJP,38262,25.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,ADV. A SREEDHARAN,RSP,36938,25.02,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,NOTA,NOTA,1071,0.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,VIPINLAL VIDHYADHARAN,BSP,927,0.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,ASHA PRAKASH,ADHRMPI,339,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,AMBILI IND,IND,191,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

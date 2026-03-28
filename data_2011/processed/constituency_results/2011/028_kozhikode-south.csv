@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,28,28,Kozhikode south,DR. M.K. MUNEER,IUML,47771,46.0794,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,C.P. MUSAFER AHAMMED,CPI(M),46395,44.7521,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,JAYA SADANANDAN,BJP,7512,7.246,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,FAIZ MOHAMMED,SDPI,749,0.7225,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,T.T. MUNEER,IND,488,0.4707,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,MUSSAFAR AHAMMED,IND,433,0.4177,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28
+2011,Kozhikode,28,28,Kozhikode south,MUHAMMED ASHARAF,BSP,323,0.3116,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/28

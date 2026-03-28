@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,9,9,Irikkur,Adv. Sajeev Joseph,INC,76764,50.33,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,SAJI KUTTIYANIMATTAM,KEC(M),66754,43.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,ANIAMMA TEACHER,BJP,7825,5.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,NOTA,NOTA,459,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,CHACKO KARIMBIL,IND,311,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,SAJAN KUTTIYANIKKAL,IND,275,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,Joy John IND,IND,128,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

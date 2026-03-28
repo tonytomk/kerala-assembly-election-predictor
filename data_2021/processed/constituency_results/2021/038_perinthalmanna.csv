@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,38,38,Perinthalmanna,NAJEEB KANTHAPURAM,IUML,76530,46.21,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,K P M MUSTHAFA S/o,IND,76492,46.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,SUCHITHRA,BJP,8021,4.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,ADV ABDUL AFSAL P T,IND,906,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,NOTA,NOTA,867,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,NAJEEB KUTTEERI,IND,828,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,MUHAMMED MUSTHAFA K P,IND,751,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,MUSTHAFA P K S/o SAIDALAVI,IND,750,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,MUSTHAFA S/o MUHAMMED IND,IND,471,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

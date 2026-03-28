@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,63,63,Guruvayoor,K.V. ABDUL KHADER,CPI(M),66088,44.7599,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,ADV. P M SADIQALI,IUML,50990,34.5344,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,ADV. NIVEDIDA,BJP,25490,17.2638,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,P.R. SIYAD,SDPI,1406,0.9523,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,K.G.MOHANAN,WPI,1382,0.936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,MUHAMMED RASHEED ARAKKAL,PDP,915,0.6197,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,NOTA,NOTA,605,0.4098,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,C.V. PREMARAJAN,SUCI(C),314,0.2127,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,ABDULKHADER KUMBILAVALAPPIL,IND,256,0.1734,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,SASI ANJOOR,IND,204,0.1382,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Pathanamthitta,111,111,Thiruvalla,MATHEW T THOMAS,JD[S],63289,49.9747,True,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,VICTOR T THOMAS,KEC(M),52522,41.4728,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,RAJAN MOOLAVEETTIL,UNKNOWN,7656,6.0454,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,KURIAN JOSEPH,BSP,1511,1.1931,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,RADHAMANI S,UNKNOWN,456,0.3601,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,KATHIKAN NIRANAM RAJAN,UNKNOWN,439,0.3466,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,P K SUKUMARAN,OTH,398,0.3143,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf
+2011,Pathanamthitta,111,111,Thiruvalla,SAMKUTTY JACOB,OTH,371,0.293,False,https://www.ceo.kerala.gov.in/pdf/form20/111.pdf

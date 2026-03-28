@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,140,140,Neyyattinkara,K. ANSALAN,CPI(M),65497,47.02,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,SELVARAJ. R,INC,51235,36.78,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,CHENKAL. S. RAJASEKHARAN,BJP,21009,15.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,NOTA,NOTA,907,0.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,PREMAKUMAR. T. R BSP,BSP,643,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

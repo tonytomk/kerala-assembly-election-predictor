@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,138,138,Kattakkada,Adv I B SATHEESH,CPI(M),66293,45.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,MALAYINKEEZHU VENUGOPAL,INC,43062,29.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,P.K KRISHNADAS,BJP,34642,23.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,NOTA,NOTA,701,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,KANDALA SURESH,BSP,628,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,SREEKALA NADAR,IND,266,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,SYRIAC DAMIAN V. P IND,IND,127,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

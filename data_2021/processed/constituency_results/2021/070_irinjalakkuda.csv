@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,70,70,Irinjalakkuda,Prof. R Bindu,CPI(M),62493,40.27,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Adv. Thomas Unniyadan,KEC,56544,36.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Dr. Jacob Thomas,BJP,34329,22.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,NOTA,NOTA,590,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Vaxerin Pereppadan,IND,536,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Joshy Eluvathingal,IND,305,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,V Bindu W/o Ramachandran,IND,220,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,M Bindu W/o Sivadasan IND,IND,162,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Pathanamthitta,115,115,Adoor,CHITTAYAM GOPAKUMAR,CPI,76034,49.0485,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,K.K. SHAJU,INC,50574,32.6246,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,ADV. P. SUDHEER,BJP,25940,16.7335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,JYOTHISH PERUMPULICKAL,SDPI,673,0.4341,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,NOTA,NOTA,672,0.4335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,PLAVINAL SANTHOSH,BSP,410,0.2645,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,AJITHA P,IND,408,0.2632,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,VISHNU RAJ T,PDP,307,0.198,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf

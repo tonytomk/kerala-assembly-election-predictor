@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,122,122,Chadayamangalam,J.Chinchurani,CPI,67252,45.69,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,M.M.Naseer,INC,53574,36.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Vishnu Pattathanam,BJP,22238,15.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Sharafath Mallam,SDPI,1879,1.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,NOTA,NOTA,685,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Archana Prajith,WPOI,605,0.41,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Lalu,BSP,406,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Ratheesh Kadakkal,ADHRMPI,280,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Shibu.K.Chadayamangalam IND Black Board,IND,258,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

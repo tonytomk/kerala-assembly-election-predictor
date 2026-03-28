@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,45,45,Tirur,C. MAMMUTTY,IUML,73432,46.8454,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,GAFOOR P LILLIS,NSC,66371,42.3409,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,M.K. DEVIDASAN,BJP,9083,5.7944,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,GANESH VADERI,WPI,2001,1.2765,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,IBRAHIM TIRUR,SDPI,1828,1.1662,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,ADV. SHAMEER PAYYANANGADI,PDP,1276,0.814,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,E.K. GAFOOR,IND,791,0.5046,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,NOTA,NOTA,692,0.4415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,MAMMUTTY MUYYARIKANDI,IND,485,0.3094,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,SAHADEVAN,IND,402,0.2565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,MAMMUTTY KOOLIPARAMBAN,IND,201,0.1282,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,MAMMUTTY MANDAMKANDI,IND,132,0.0842,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,BAPPU VADAKKAYIL,IND,60,0.0383,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf

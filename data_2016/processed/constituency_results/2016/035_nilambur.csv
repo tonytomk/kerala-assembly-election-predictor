@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,35,35,Nilambur,P V ANVAR,IND,77858,47.9117,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,ARYADAN SHOUKATH,INC,66354,40.8325,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,GIRISH MEKKATT,BDJS,12284,7.5592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,K BABU MANI,SDPI,4751,2.9236,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,NOTA,NOTA,1256,0.7729,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf

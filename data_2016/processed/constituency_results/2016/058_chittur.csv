@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,58,58,Chittur,K. KRISHNANKUTTY,JD(S),69270,44.8989,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,K. ACHUTHAN,INC,61985,40.177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,SASIKUMAR M,BJP,12537,8.1261,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,MAYILSAMY ( MAYILSWAMY),UNKNOWN,6212,4.0264,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,NOTA,NOTA,1260,0.8167,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,SANTHA,IND,679,0.4401,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,KRISHNANKUTTY KUNNATH HOUSE,IND,672,0.4356,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,P.C. RAMACHANDRAN,BSP,571,0.3701,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,ACHUTHAN THANKA NIVAS,IND,495,0.3208,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,A. RAJEENA,SUCI(C),442,0.2865,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,A KRISHNANKUTTY ARAMURI,IND,157,0.1018,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf

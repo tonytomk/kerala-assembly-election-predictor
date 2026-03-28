@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,81,81,Thripunithura,K. BABU,INC,65875,42.14,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,Adv. M. SWARAJ,CPI(M),64883,41.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,Dr. K. S. RADHAKRISHNAN,BJP,23756,15.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,NOTA,NOTA,1099,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,ARUN BABU. P. C.,SHS,232,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,RAJESH PAIROAD,IND,201,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,C. B. ASHOKAN,SUCI,173,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,K. P. AYAPPEN IND,IND,88,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,63,63,Guruvayoor,N.K.AKBAR,CPI(M),77072,52.52,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,Adv.K N A KHADER,IUML,58804,40.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,DILEEP NAIR,DSJP,6294,4.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,ASHARAF VADAKKOOT,SDPI,2889,1.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,NOTA,NOTA,1007,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,ANTONY,IND,392,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,M.KUMAR SUCI,SUCI,301,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

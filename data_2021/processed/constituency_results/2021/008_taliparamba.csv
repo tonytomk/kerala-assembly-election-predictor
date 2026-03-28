@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,8,8,Taliparamba,M V GOVINDAN MASTER,CPI(M),92870,52.14,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,ADV. V P ABDUL RASHEED,INC,70181,39.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,A P GANGADHARAN,BJP,13058,7.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,NOTA,NOTA,789,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,SHIJITH K O P,IND,508,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,ABDUL RASHEED S/o ISMAIL,IND,365,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,C BALAKRISHNAN YADAV,IND,191,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,GOVINDAN KARAYAPATH IND,IND,150,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

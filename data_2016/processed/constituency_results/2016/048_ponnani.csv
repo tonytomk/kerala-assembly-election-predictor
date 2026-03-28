@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,48,48,Ponnani,P. SREERAMAKRISHNAN,UNKNOWN,69332,48.907,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,P.T. AJAI MOHAN,UNKNOWN,53692,37.8745,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,K.K. SURENDRAN,UNKNOWN,11662,8.2264,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,M.M. SHAKKIR,UNKNOWN,2048,1.4447,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,M. MOIDUNNI HAJI,UNKNOWN,1857,1.3099,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,ABDUL FATHAH,UNKNOWN,1659,1.1703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,NOTA,NOTA,604,0.4261,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,SINDHUKUMARI P S,UNKNOWN,386,0.2723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,AJAY MOHAN,UNKNOWN,240,0.1693,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,RAMAKRISHNAN PUDUSSERY,UNKNOWN,140,0.0988,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,RAMAKRISHNAN NJAVANENGHAT,UNKNOWN,82,0.0578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,KOYILAN RAMAKRISHNAN,UNKNOWN,61,0.043,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf

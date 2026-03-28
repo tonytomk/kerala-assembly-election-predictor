@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,100,100,Kanjirappally,Dr.N.JAYARAJ,KEC(M),60299,43.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,JOSEPH VAZHACKAN,INC,46596,33.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,ALPHONS KANNANTHANAM,BJP,29157,21.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,ASHIK M M,BSP,727,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,NOTA,NOTA,624,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,MAYAMOL K P SUCI,SUCI,300,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

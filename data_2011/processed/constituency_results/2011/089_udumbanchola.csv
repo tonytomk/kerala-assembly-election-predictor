@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Idukki,89,89,Udumbanchola,K.K.JAYACHANDRAN,CPI(M),56923,51.4847,True,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,JOSSY SEBASTIAN,UNKNOWN,47090,42.5911,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,NARAYANA RAJU,BJP,3836,3.4695,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,MUHAMMED SHARAFUDHEEN,UNKNOWN,1331,1.2038,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,BENNY THOMAS,BSP,714,0.6458,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf
+2011,Idukki,89,89,Udumbanchola,K.C.MAMMACHAN,UNKNOWN,669,0.6051,False,https://www.ceo.kerala.gov.in/pdf/form20/089.pdf

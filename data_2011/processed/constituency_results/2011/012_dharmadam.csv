@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,12,12,Dharmadam,K.K. NARAYANAN,CPI(M),72354,53.1323,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,MAMBARAM DIVAKARAN,IND,57192,41.9983,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,C.P.SANGEETHA,BJP,4963,3.6445,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,POYILORE KUNNUMBROM DIVAKARAN,IND,871,0.6396,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12
+2011,Kannur,12,12,Dharmadam,MADHU.S.VAYANAN,BSP,797,0.5853,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/12

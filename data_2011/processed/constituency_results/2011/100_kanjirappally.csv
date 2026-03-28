@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,100,100,Kanjirappally,N.JAYARAJ,UNKNOWN,57021,50.3982,True,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,100,100,Kanjirappally,SURESH T NAIR,CPI,44815,39.6099,False,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,100,100,Kanjirappally,RAJAMOHAN,BJP,8037,7.1035,False,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf
+2011,Kottayam,100,100,Kanjirappally,P.K.GEETHA KRISHNAN,UNKNOWN,3268,2.8884,False,https://www.ceo.kerala.gov.in/pdf/form20/100.pdf

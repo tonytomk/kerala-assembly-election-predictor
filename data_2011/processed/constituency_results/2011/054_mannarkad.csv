@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,54,54,Mannarkad,ADVOCATE N. SAMSUDHEEN,IUML,60191,49.6646,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,V. CHAMUNNI,CPI,51921,42.8409,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,O.P. VASUDEVANUNNI,BJP,5655,4.666,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,CHAMUNNI,IND,1370,1.1304,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,MUHAMMED GAFOOR MADANI,SDPI,1238,1.0215,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54
+2011,Palakkad,54,54,Mannarkad,RAMAKRISHNAN.A,BSP,820,0.6766,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/54

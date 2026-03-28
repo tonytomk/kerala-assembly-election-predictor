@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,60,60,Alathur,M.CHANDRAN,CPI(M),66977,57.7164,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Palakkad,60,60,Alathur,ADV. K. KUSALA KUMAR,KEC(M),42236,36.3962,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Palakkad,60,60,Alathur,K.A.SULAIMAN,BJP,5460,4.7051,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/60
+2011,Palakkad,60,60,Alathur,P.D.PAULOSE,BSP,1372,1.1823,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/60

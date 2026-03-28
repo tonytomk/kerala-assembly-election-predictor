@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,21,21,Kuttiadi,K.K.LATHIKA,CPI(M),70258,49.3201,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,SOOPI NARIKKATTERI,IUML,63286,44.4259,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,V.K.SAJEEVAN,BJP,6272,4.4029,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,ABDUL RAHEEM MASTER,SDPI,1045,0.7336,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,M.SATHI,BSP,407,0.2857,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,SOOPI THODUVAYIL VALAPPIL MEETHAL,IND,333,0.2338,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,LATHIKA VALIYAKULANGARA KUNIYIL,IND,247,0.1734,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,SOOPI ALAKKATT,IND,209,0.1467,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,LATHIKA NIDUMANALKUNI,IND,207,0.1453,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21
+2011,Kozhikode,21,21,Kuttiadi,M.K.RAJAN,SUCI [C],189,0.1327,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/21

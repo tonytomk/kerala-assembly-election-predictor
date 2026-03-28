@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,32,32,Thiruvambady,Linto Joseph,CPI(M),67867,47.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,C. P. Cheriya Muhammed,IUML,63224,44.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Baby Ambattu,BJP,7794,5.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Sunny. V. Joseph,IND,1847,1.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,K. P. Cheriya Muhammed S/o Kunhoyi,IND,1121,0.78,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Linto Joseph S/o Sali,IND,579,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,NOTA,NOTA,419,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Lenilal. T. D.,IND,80,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Prof.George Mathew Ganna Thottathimyalil,IND,78,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,93,93,Pala,K M MANI,KEC(M),58884,42.1277,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,MANI C KAPPEN,NCP,54181,38.763,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,N HARI,BJP,24821,17.7578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,NOTA,NOTA,907,0.6489,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,ADV. JOSE THOMAS PANDIYAMMAKKAL,IND,489,0.3498,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,ANTONY,IND,217,0.1552,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,SHAIJU PONKUNNAM,IND,103,0.0737,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,HASSAN KUNJU P S,IND,90,0.0644,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,BABU,IND,83,0.0594,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,58,58,Chittur,K.ACHUTHAN,INC,69916,51.3337,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,S. SUBHASH CHANDRABOSE,CPI(M),57586,42.2808,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,A.K.OMANAKUTTAN,BJP,4518,3.3172,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,K. KALADHARAN,IND,1319,0.9684,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,A.MUHAMED HANEEFA,SDPI,1192,0.8752,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,V. LAKSHMI,BSP,626,0.4596,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,K.ACHUTHAN,IND,570,0.4185,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58
+2011,Palakkad,58,58,Chittur,A.RAJEENA,SUCI [C],472,0.3466,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/58

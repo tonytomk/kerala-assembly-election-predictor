@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,98,98,Puthuppally,OOMMEN CHANDY,INC,69922,59.7445,True,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,SUJA SUSAN GEORGE(ASSO.PROFESSOR),UNKNOWN,36667,31.3299,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,P.SUNILKUMAR,BJP,6679,5.7068,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,SAJI K CHERAMAN,BSP,3230,2.7599,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf
+2011,Kottayam,98,98,Puthuppally,ADV.JAYAKUMAR KAVUNKAL,UNKNOWN,537,0.4588,False,https://www.ceo.kerala.gov.in/pdf/form20/098.pdf

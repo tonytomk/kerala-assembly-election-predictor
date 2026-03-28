@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,41,41,Vengara,P.K KUNJHALIKUTTY,IUML,70381,53.5,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,P. JIJI,CPI(M),39785,30.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,SABAH KUNDUPUZHAKKAL,IND,11255,8.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,PREMAN MASTER,BJP,5968,4.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,E.K. KUNHAHAMEDKUTTY,WPOI,2051,1.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,KEERAN,BSP,1060,0.81,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,NOTA,NOTA,787,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,ANANNYAHKUMARI ALEX,DSJP,135,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,ADIL ABDURAHIMAN THANGAL IND,IND,129,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

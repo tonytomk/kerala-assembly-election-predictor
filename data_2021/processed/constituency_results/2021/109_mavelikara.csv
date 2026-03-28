@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,109,109,Mavelikara,M S ARUN KUMAR,CPI(M),71743,47.61,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,K K SHAJU,INC,47026,31.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,K SANJU,BJP,30955,20.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,NOTA,NOTA,519,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,SURESH NOORANAD,APOI,165,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,K SASIKUMAR,SUCI,151,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,B SUBHASH IND,IND,131,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

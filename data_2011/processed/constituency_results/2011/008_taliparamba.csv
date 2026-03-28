@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,8,8,Taliparamba,JAMES MATHEW,CPI(M),81031,56.13,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,ADV JOB MICHEL,KEC(M),53170,36.8308,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,K.JAYAPRAKASH,BJP,6492,4.497,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,MUHAMMEDALI.S.P,SDPI,1930,1.3369,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,NIDHEESH THILLANKERI,BSP,927,0.6421,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8
+2011,Kannur,8,8,Taliparamba,THOMAS.M.V,IND,813,0.5632,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/8

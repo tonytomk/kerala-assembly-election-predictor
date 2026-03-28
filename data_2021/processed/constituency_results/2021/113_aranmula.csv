@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Pathanamthitta,113,113,Aranmula,VEENA GEORGE,CPI(M),74950,46.3,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,Adv. K. SIVADASAN NAIR,INC,55947,34.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,BIJU MATHEW,BJP,29099,17.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,SIVADASAN NAIR S/o RAGHAVAN,IND,629,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,NOTA,NOTA,575,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,OMALLOOR RAMACHANDRAN,APOI,236,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,PRASANTH ARANMULA,IND,143,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,SANTHI OMALLOOR,ADHRMPI,133,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,G. SUGATHAN,IND,87,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,ARJUNAN C. K IND,IND,67,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,15,15,Mattannur,E.P.JAYARAJAN,CPI(M),75177,56.5466,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,JOSEPH CHAAVARA,SJ [D],44665,33.5961,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,BIJU ELAKKUZHI,BJP,8707,6.5492,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,ADV.K.C.MUHAMMAD SABEER,SDPI,2757,2.0738,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,JOSEPH,IND,858,0.6454,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15
+2011,Kannur,15,15,Mattannur,HAMEED,BSP,783,0.589,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/15

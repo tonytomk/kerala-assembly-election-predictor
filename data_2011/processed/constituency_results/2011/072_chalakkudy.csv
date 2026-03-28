@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,72,72,Chalakkudy,DEVASSY B D,UNKNOWN,63610,48.1759,True,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,BENNY K T,UNKNOWN,61061,46.2454,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,SUDHEER BABY,UNKNOWN,5976,4.526,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,PUSHPANGADAN.P.M,OTH,681,0.5158,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,SUBRAMANNIAN V K,UNKNOWN,451,0.3416,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf
+2011,Thrissur,72,72,Chalakkudy,E.JAYAKUMAR,OTH,258,0.1954,False,https://www.ceo.kerala.gov.in/pdf/form20/072.pdf

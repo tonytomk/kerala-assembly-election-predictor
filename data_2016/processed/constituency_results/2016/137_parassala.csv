@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,137,137,Parassala,C.K. HARINDRAN,CPI(M),70156,44.4082,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,A.T. GEORGE,INC,51590,32.656,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Karamana Jayan,BJP,33028,20.9064,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Binoy S,BSP,745,0.4716,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,NOTA,NOTA,742,0.4697,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Shaju Paliyodu,IND,732,0.4633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Dalumugham Johny Thampy,IND,294,0.1861,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Vellarada Mohanraj,IND,287,0.1817,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,V Selvan,IND,243,0.1538,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Shajahan Kudappanamoodu,IND,163,0.1032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf

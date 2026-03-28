@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,126,126,Chathannur,G.S.JAYALAL,CPI,67606,50.7556,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,B B GOPAKUMAR,BJP,33199,24.9244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,DR. SOORANAD RAJASEKHARAN,INC,30139,22.627,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,RAJU T,IND,658,0.494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,NOTA,NOTA,604,0.4535,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,SALIMRAJ A,BSP,491,0.3686,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,VELAYUDHAN PILLAI,SHIVSENA,290,0.2177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,JAYAKALA L,APOI,212,0.1592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf

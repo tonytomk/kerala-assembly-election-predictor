@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,116,116,Karunagappally,C. R Mahesh,INC,94225,54.38,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,R. Ramachandran,CPI,65017,37.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Bitty Sudheer,BJP,12144,7.01,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Adv. Sumayya Najeeb,SDPI,1037,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,NOTA,NOTA,450,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Bhargavan S,SUCI,283,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Madhu ADHRMPI,ADHRMPI,128,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

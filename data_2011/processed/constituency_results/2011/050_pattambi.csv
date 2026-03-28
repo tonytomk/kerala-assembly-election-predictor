@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,50,50,Pattambi,C.P.MOHAMMED,INC,57728,48.9976,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,K.P.SURESH RAJ,CPI,45253,38.4092,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,POOKKATTIRI BABU,BJP,8874,7.532,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,ADV.K.M. ASHARAF,SDPI,3742,3.1761,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,SURESH,IND,754,0.64,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,ASHARAF ALI VALLAPPUZHA,BSP,749,0.6357,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50
+2011,Palakkad,50,50,Pattambi,MASEEF HAJI,PDP,718,0.6094,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/50

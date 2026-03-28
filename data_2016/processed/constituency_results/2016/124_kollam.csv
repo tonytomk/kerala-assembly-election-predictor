@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,124,124,Kollam,M MUKESH,CPI(M),63103,48.81,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,SOORAJ RAVI,INC,45492,35.1879,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,PROF. K. SASIKUMAR,IND,17409,13.4658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,JOHNSON KANDACHIRA,SDPI,1576,1.219,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,NOTA,NOTA,889,0.6876,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,K. BALAKRISHNAN,BSP,431,0.3334,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,NARAYANAN NAIR,IND,209,0.1617,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,S. CHANDRAN,IND,174,0.1346,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf

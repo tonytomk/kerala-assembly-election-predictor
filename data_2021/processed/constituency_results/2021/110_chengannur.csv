@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,110,110,Chengannur,SAJI CHERIAN,CPI(M),71502,48.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,M. MURALI,INC,39409,26.78,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,M. V. GOPAKUMAR,BJP,34620,23.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,SHAJI T. GEORGE,BSP,534,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,NOTA,NOTA,493,0.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,T. K. GOPINATHAN,SUCI,316,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,MELVIN. K. MATHEW,DSJP,198,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,POULOSE IND,IND,99,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

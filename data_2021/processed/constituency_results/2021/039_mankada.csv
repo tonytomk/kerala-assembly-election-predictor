@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,39,39,Mankada,MANJALAMKUZHI ALI,IUML,83231,49.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,Adv. T.K. RASHEEDALI,CPI(M),76985,45.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,SAJESH ELAYIL,BJP,6641,3.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,NOTA,NOTA,599,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,ALI S/o MUSTHAFA,IND,350,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,ALI S/o ALAVI HAJI,IND,193,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,RASHEEDALI S/o MAMMUNNI,IND,183,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,M.ALI IND,IND,86,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

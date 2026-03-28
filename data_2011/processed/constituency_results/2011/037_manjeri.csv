@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,37,37,Manjeri,ADV.M.UMMER,IUML,67594,57.9942,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,PROF:P.GOURI,CPI,38515,33.0451,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,P.G.UPENDRAN,BJP,6319,5.4216,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,JALEEL NEELAMBRA,SDPI,2906,2.4933,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,FEROZ BABU ISHTADANAM,IND,653,0.5603,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37
+2011,Malappuram,37,37,Manjeri,SHAMSUDHEEN ASLAMI,BSP,566,0.4856,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/37

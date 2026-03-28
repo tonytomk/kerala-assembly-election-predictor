@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,30,30,Kunnamangalam,ADV.P.T.A.RAHIM,IND,66169,44.0577,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,U.C.RAMAN,IND,62900,41.8811,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,C.K.PADMANABHAN,BJP,17123,11.4011,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,C.MUHAMMED MASTER,SDPI,1178,0.7844,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,RAMAN.C.K,IND,701,0.4668,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,K.K.KUNHIKANARAN,IND,427,0.2843,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,E.P.ABDUL RAHEEM,IND,421,0.2803,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,RAMAN.P.C,IND,404,0.269,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,ABDU RAHEEM.M.T,IND,325,0.2164,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,M.P.BABURAJ,SHIVSENA,303,0.2017,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30
+2011,Kozhikode,30,30,Kunnamangalam,O.P.SUNDARAN,BSP,236,0.1571,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/30

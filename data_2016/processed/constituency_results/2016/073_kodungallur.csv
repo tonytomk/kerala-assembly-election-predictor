@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,73,73,Kodungallur,V R SUNILKUMAR,UNKNOWN,67909,45.7063,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,K P DHANAPALAN,INC,45118,30.3667,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,ADV. SANGEETHA VISWANATHAN,BDJS,32793,22.0714,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,NOTA,NOTA,886,0.5963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,A K MANAF,SDPI,558,0.3756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,ADV.C K RADHAKRISHNAN,IND,411,0.2766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,P K SUBRAMANIAN,BSP,367,0.247,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,RAJAN PAINAT,IND,210,0.1413,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,C S KRISHNAKUMAR,SUCI(C),200,0.1346,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,KATTU KANDATHIL JOSHY KUMAR,IND,125,0.0841,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf

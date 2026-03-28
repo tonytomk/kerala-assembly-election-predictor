@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,101,101,Poonjar,Adv. Sebastian Kulathunkal,KEC(M),58668,41.94,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,P.C.George Plathottam,KJPS,41851,29.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Adv. Tomy Kallany,INC,34633,24.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,M. P. Sen,BDJS,2965,2.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Ancy George,BSP,596,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,NOTA,NOTA,345,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,M. V. George,IND,278,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Abdu Samad,KLJP,259,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Albin Mathew,IND,205,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Tomy Chemarapallil IND,IND,94,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

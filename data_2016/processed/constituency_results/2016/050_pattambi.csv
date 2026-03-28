@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,50,50,Pattambi,MUHAMMED MUHASSIN,CPI,64025,45.6933,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,C P MOHAMMED,INC,56621,40.4092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,ADV. P. MANOJ,BJP,14824,10.5796,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,ABDUL RAOOF C,SDPI,1848,1.3189,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,M A MOIDEENKUTTY MASTER,WPI,815,0.5816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MUHSIN,IND,525,0.3747,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,NOTA,NOTA,435,0.3105,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,ABOOBACKER P,PDP,422,0.3012,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MUHASIN PACHEERI,UNKNOWN,315,0.2248,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MUHAMMED CHERUVASSERI PALLIYALIL,IND,126,0.0899,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MOHAMED MUHSIN PALOLI,IND,101,0.0721,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,NOBY AUGUSTINE,IND,62,0.0442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf

@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,V.S. SIVAKUMAR,INC,49122,45.869,True,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,SURENDRAN PILLAI. V,BJP,43770,40.8714,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,B.K. SHEKHAR,CPI(M),11519,10.7562,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,ABDU RAZAK A,UNKNOWN,807,0.7536,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,P SURENDRAN PILLAI,OTH,518,0.4837,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,S SIVAKUMAR,OTH,485,0.4529,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,P.S. GOPAKUMAR,OTH,235,0.2194,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,N SIVAKUMAR,OTH,221,0.2064,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,SUNDARAN PILLAI,UNKNOWN,207,0.1933,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,C VASANTHA KUMARI,OTH,110,0.1027,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf
+2011,Thiruvananthapuram,134,134,Thiruvananthapuram,GEORGE MANKIDIAN,UNKNOWN,98,0.0915,False,https://www.ceo.kerala.gov.in/pdf/form20/134.pdf

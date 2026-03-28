@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,21,21,Kuttiadi,K P KUNHAMMED KUTTI MASTER,CPI(M),80143,47.2,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,PARAKKAL ABDULLA,IUML,79810,47.01,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,P P MURALI MASTER,BJP,9139,5.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,NOTA,NOTA,296,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,SURESH BABU M K,IND,128,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,V P PRATHEESH,IND,108,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,K K KUNHAMMAD KUTTY,IND,80,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,ABDULLA S/o POKKER IND,IND,75,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

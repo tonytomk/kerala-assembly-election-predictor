@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,122,122,Chadayamangalam,MULLAKKARA RETNAKARAN,CPI,71262,49.0985,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,M M HASSAN,INC,49334,33.9904,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,K SIVADASAN,BJP,19259,13.2692,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,JALEEL KADAKKAL,SDPI,1445,0.9956,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,SAJEED KHALEEDU,WPI,1222,0.8419,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,MUHAMMED NAJIM.S,PDP,1098,0.7565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,NOTA,NOTA,699,0.4816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,SUNNY ITTIVA,IND,538,0.3707,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,SREEJITH S,SHIVSENA,284,0.1957,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf

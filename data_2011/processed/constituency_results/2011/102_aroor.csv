@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Alappuzha,102,102,Aroor,A.M.ARIFF,CPI(M),76675,52.2751,True,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,A.A SHUKOOR,UNKNOWN,59823,40.7858,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,T.SAJEEVLAL,UNKNOWN,7486,5.1038,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,V.LENIN,UNKNOWN,787,0.5366,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,SURESH BABU,OTH,776,0.5291,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,JAYAPRAKASH,OTH,476,0.3245,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,S.SARATH,UNKNOWN,378,0.2577,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf
+2011,Alappuzha,102,102,Aroor,P.T.RADHAKRISHNAN,UNKNOWN,275,0.1875,False,https://www.ceo.kerala.gov.in/pdf/form20/102.pdf

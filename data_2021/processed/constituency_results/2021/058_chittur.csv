@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,58,58,Chittur,K. KRISHNANKUTTY,JD(S),84672,55.38,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,Adv. SUMESH ACHUTHAN,INC,50794,33.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,V. NATESAN,BJP,14458,9.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,NOTA,NOTA,1285,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,A. CHANDRAN,BSP,918,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,PRAMEELA. K,IND,552,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,NSK PURAM SASIKUMAR IND,IND,226,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,93,93,Pala,K.M.MANI,KEC(M),61239,49.141,True,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,MANI.C.KAPPAN,UNKNOWN,55980,44.9209,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,B.VIJAYAKUMAR,BJP,6359,5.1028,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,C.V.JOHN,OTH,576,0.4622,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf
+2011,Kottayam,93,93,Pala,JAMES JOSEPH,OTH,465,0.3731,False,https://www.ceo.kerala.gov.in/pdf/form20/093.pdf

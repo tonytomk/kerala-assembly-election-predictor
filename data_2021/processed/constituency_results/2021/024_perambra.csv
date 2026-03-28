@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,24,24,Perambra,T.P. RAMAKRISHNAN,CPI(M),86023,52.54,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,C H EBRAHIMKUTTY S/O,IND,63431,38.74,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,ADV. K V SUDHEER,BJP,11165,6.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,ISMAIL KAMMANA,SDPI,1465,0.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,IBRAHIMKUTTY M S/O POKKER,IND,915,0.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,NOTA,NOTA,458,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,V K CHANDRAN IND,IND,280,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

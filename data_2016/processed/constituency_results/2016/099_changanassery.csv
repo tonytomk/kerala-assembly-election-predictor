@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,99,99,Changanassery,C F THOMAS,UDF,50371,40.0428,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,K C JOSEPH,LDF,48522,38.5729,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,ETTUMANOOR RADHAKRISHNAN,BJP,21455,17.0558,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,ALTHAPH HASSAN,UNKNOWN,1797,1.4285,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,SOJAN PAVIYANOSE,UNKNOWN,1050,0.8347,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,RAJI RAJAN,UNKNOWN,676,0.5374,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,SURESH K,UNKNOWN,596,0.4738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,NOTA,NOTA,571,0.4539,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,K N RAJAN,UNKNOWN,312,0.248,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,BABU VARGESE,UNKNOWN,292,0.2321,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,KUNJUMON ABRAHAM,UNKNOWN,151,0.12,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf

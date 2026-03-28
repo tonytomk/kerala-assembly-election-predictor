@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,79,79,Vypen,K.N. Unnikrishnan,CPI(M),53858,41.24,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Deepak Joy,INC,45657,34.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Dr.Job Chakalakal,UNKNOWN,16707,12.79,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Adv.K.S. Shaiju,BJP,13540,10.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,NOTA,NOTA,525,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Dr.M.K. Mukundan IND,IND,309,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

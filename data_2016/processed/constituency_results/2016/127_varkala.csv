@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,127,127,Varkala,ADV. V JOY,CPI(M),53102,41.4286,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VARKALA KAHAR,INC,50716,39.5672,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,AJI S R M,BDJS,19872,15.5036,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VARKALA R LINEES,BSP,1888,1.473,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,NOTA,NOTA,628,0.4899,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,ABDUL SALAM,SDPI,466,0.3636,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,SUNILKUMAR S,IND,357,0.2785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,SUDEVAN,IND,351,0.2738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,NADAYARA JABBAR,PDP,297,0.2317,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,BHASIDHARAN NAIR,IND,138,0.1077,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,SALU R,IND,135,0.1053,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VARKALA SABESAN,IND,126,0.0983,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VIVEKANANDAN,IND,101,0.0788,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf

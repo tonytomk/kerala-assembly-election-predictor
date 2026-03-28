@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,140,140,Neyyattinkara,R SELVARAJ,CPI(M),54711,48.9812,True,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,THAMPANOOR RAVI,INC,48009,42.9811,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,ATHIYANOOR SREEKUMAR,UNKNOWN,6730,6.0252,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,KOVILLOOR A BABU,UNKNOWN,1168,1.0457,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,MOHANAN,OTH,557,0.4987,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf
+2011,Thiruvananthapuram,140,140,Neyyattinkara,MANALOOR B VASANTHA,UNKNOWN,523,0.4682,False,https://www.ceo.kerala.gov.in/pdf/form20/140.pdf

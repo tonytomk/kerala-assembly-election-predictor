@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kollam,125,125,Eravipuram,A.A.AZEEZ,RSP,51271,48.9952,True,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,P.K.K BAVA,ML,43259,41.3388,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,PATTATHANAM BABU,UNKNOWN,5048,4.8239,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,MYLAKKAD SHAH,UNKNOWN,3234,3.0904,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,SUSHAMA VIJAYAN,UNKNOWN,580,0.5543,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,ABDUL AZEEZ,OTH,552,0.5275,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,SAIJU.V,OTH,391,0.3736,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf
+2011,Kollam,125,125,Eravipuram,DEEPU.N,OTH,310,0.2962,False,https://www.ceo.kerala.gov.in/pdf/form20/125.pdf

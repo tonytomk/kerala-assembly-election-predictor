@@ -1,0 +1,1098 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kasaragod,1,1,Manjeshwar,A K M ASHRAF,IUML,65758,38.14,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,1,1,Manjeshwar,K SURENDRAN,BJP,65013,37.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,1,1,Manjeshwar,V V RAMESHAN,CPI(M),40639,23.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,1,1,Manjeshwar,NOTA,NOTA,387,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,1,1,Manjeshwar,PRAVEEN KUMAR S,ADHRMPI,251,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,1,1,Manjeshwar,SURENDRAN M S/o PADMAVATHI,IND,197,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,1,1,Manjeshwar,JOHN D SOUZA I IND,IND,181,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,N A NELLIKKUNNU,IUML,63296,43.8,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,ADV K SHREEKANTH,BJP,50395,34.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,M A LATHEEF,INL,28323,19.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,VIJAYA K P,BSP,679,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,NOTA,NOTA,639,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,RANJITH RAJ M,ADHRMPI,555,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,NISHANTH KUMAR I B,IND,417,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,SUDHAKARAN K IND,IND,196,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,C H KUNHAMBU,CPI(M),78664,47.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,BALAKRISHNAN PERIYE,INC,65342,39.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,A VELAYUDHAN,BJP,20360,12.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,NOTA,NOTA,434,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,RAMESHAN K,IND,207,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,GOVINDAN B ALINTHAZE,APOI,194,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,KUNHAMBU K S/o Kuttappan K C IND,IND,140,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,E CHANDRASHEKARAN,CPI,84615,50.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,P V SURESH,INC,57476,34.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,BALRAJ,BJP,21570,12.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,ABDUL SAMAD. T S/o T,SDPI,775,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,NOTA,NOTA,637,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,AUGUSTIN,IND,532,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,KRISHNAN PARAPPACHAL,IND,357,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,SURESH. B C S/o CHENIYAN NAIK,IND,277,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,SREENATH SASI. T C V,IND,219,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,RESHMA KARIVEDAKAM,ADHRMPI,185,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,MANOJ THOMAS,IND,105,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,4,4,Kanhangad,T ABDUL SAMAD S/o T,JD(U),87,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,M RAJAGOPALAN,CPI(M),86151,53.71,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,M P JOSEPH,KEC,60014,37.41,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,SHIBIN T V,BJP,10961,6.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,LIYAKATHALI P,SDPI,1211,0.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,T MAHESH MASTER,WPOI,817,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,NOTA,NOTA,558,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,JOY JOHN,IND,362,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,M V JOSEPH,IND,218,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,SUDHAN VELLARIKKUND ADHRMPI,ADHRMPI,116,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,6,6,Payyannur,T I MADHUSOODANAN,CPI(M),93695,62.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,6,6,Payyannur,M PRADEEP KUMAR,INC,43915,29.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,6,6,Payyannur,Adv K K SREEDHARAN,BJP,11308,7.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,6,6,Payyannur,NOTA,NOTA,686,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,6,6,Payyannur,ABHILASH K V IND,IND,341,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,M VIJIN,CPI(M),88252,60.62,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,ADV. BRIJESH KUMAR,INC,43859,30.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,ARUN KAITHAPRAM,BJP,11365,7.81,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,FAIZAL MADAYI,WPOI,1169,0.8,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,NOTA,NOTA,666,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,7,7,Kalliasseri,BRIJESHKUMAR M. S/o AMBU IND,IND,274,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,M V GOVINDAN MASTER,CPI(M),92870,52.14,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,ADV. V P ABDUL RASHEED,INC,70181,39.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,A P GANGADHARAN,BJP,13058,7.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,NOTA,NOTA,789,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,SHIJITH K O P,IND,508,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,ABDUL RASHEED S/o ISMAIL,IND,365,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,C BALAKRISHNAN YADAV,IND,191,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,8,8,Taliparamba,GOVINDAN KARAYAPATH IND,IND,150,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,Adv. Sajeev Joseph,INC,76764,50.33,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,SAJI KUTTIYANIMATTAM,KEC(M),66754,43.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,ANIAMMA TEACHER,BJP,7825,5.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,NOTA,NOTA,459,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,CHACKO KARIMBIL,IND,311,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,SAJAN KUTTIYANIKKAL,IND,275,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,9,9,Irikkur,Joy John IND,IND,128,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K V Sumesh,CPI(M),65794,45.41,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K M Shaji,IUML,59653,41.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K Ranjith,BJP,15741,10.86,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,ABDUL JABBAR K K,SDPI,2357,1.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,NOTA,NOTA,517,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K M SHAJI (MAMBA),IND,277,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,RESMI RAVI,SUCI,226,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,Sumesh M (Mauvery House),IND,180,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,Prasad V P,IND,104,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,Pavithran Kurikkalot IND,IND,48,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,RAMACHANDRAN,C(S),60313,44.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,SATHEESHAN PACHENI,INC,58568,43.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,ARCHANA VANDICHAL,BJP,11581,8.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,B SHAMSUDHEEN MOULAVI,SDPI,2069,1.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,T K GANESH BABU,NWLBRP,716,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,NOTA,NOTA,504,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,SATHEESAN P,IND,147,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,RAMACHANDRAN P V,IND,107,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,11,11,Kannur,N K SURENDRAN IND,IND,84,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Pinarayi Vijayan,CPI(M),95522,59.61,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,C. Raghunathan,INC,45399,28.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,C. K. Padmanabhan,BJP,14623,9.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Basheer Kannadiparamba,SDPI,2280,1.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Valayar Bhagyavathi,IND,1753,1.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,NOTA,NOTA,400,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Chovva Raghunathan,IND,137,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,C. P. Maharoof,IND,72,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Vadi Harindran IND Jackfruit,IND,61,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,Adv. A. N. SHAMSEER,CPI(M),81810,61.52,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,M. P. ARAVINDAKSHAN,INC,45009,33.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,NOTA,NOTA,2313,1.74,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,SHAMSEER IBRAHIM,WPOI,1963,1.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,C. O. T. NASEER,IND,1163,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,ARAVINDHAKSHAN S/o KAUSU,IND,533,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,HARIDASAN IND,IND,198,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,K.P. MOHANAN,LJD,70626,45.36,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,POTTANKANDI ABDULLA,IUML,61085,39.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,C. SADANANDAN MASTER,BJP,21212,13.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,MOHANAN KUNHIPARAMBATH,IND,1360,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,MOHANAN K.P. KAITHAVECHA,IND,543,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,NOTA,NOTA,494,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,ABDULLA PUTHIYAPARAMBATH IND Tongs,IND,389,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,K K SHAILAJA TEACHER,CPI(M),96129,61.97,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,ILLIKKAL AUGUSTHY,RSP,35166,22.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,BIJU ELAKKUZHI,BJP,18223,11.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,RAFEEK KEECHERY,SDPI,4201,2.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,NOTA,NOTA,796,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,15,15,Mattannur,AGUSTHY N A IND,IND,619,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Adv. Sunny Joseph,INC,66706,46.93,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,K V Sakkeer Hussain,CPI(M),63534,44.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Smitha Jayamohan,BJP,9155,6.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,A C Jalaluddeen,SDPI,1541,1.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,NOTA,NOTA,404,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sakkeer Hussain S/o Hamsa,IND,243,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sunny Vazhakkamalayil,IND,121,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sakkeer E K S/o Asiya,IND,116,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,P K Saji,NWLBRP,106,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,John Pallikkamalil,SDC,92,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Narayanakumar,IND,60,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,16,16,Peravoor,Sunny Muthukulathel IND,IND,60,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,O.R.KELU,CPI(M),72536,47.54,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,P.K.Jayalakshmi,INC,63254,41.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Palliyara Mukundan,BJP,13142,8.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Babitha Sreenu,SDPI,1992,1.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,NOTA,NOTA,797,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Lakshmi,IND,382,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Kelu K.K. S/o Kunkan,IND,288,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,17,17,Mananthavady,Vijaya Cheloor BSP,BSP,190,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,I.C BALAKRISHNAN,INC,81077,48.42,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,M.S VISWANATHAN,CPI(M),69255,41.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,C.K JANU,BJP,15198,9.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,NOTA,NOTA,1160,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,18,18,Sulthanbathery,ONDAN PANIYAN IND,IND,742,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,Adv.T SIDDIQU,INC,70252,46.15,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,M.V.SHREYAMSKUMAR,LJD,64782,42.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,SUBEESH T M,BJP,14113,9.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,ASWIN BHIMNATH,BSP,928,0.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,NOTA,NOTA,828,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,T.SIDIQUE S/o ABDULLA,IND,641,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,SUNIL VAIDYAR,ADHRMPI,455,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,SHYLESH.K IND,IND,210,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,K.K.REMA,RMPOI,65093,47.63,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,MANAYATH CHANDRAN,LJD,57602,42.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,ADVOCATE M. RAJESH KUMAR,BJP,10225,7.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,MUSTHAFA PALERI,SDPI,2836,2.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,NOTA,NOTA,353,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,GANGADHARAN MADAPPALLY,IND,186,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,K.T.K RAMA PADANNAYIL,IND,137,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,RAMA KUNIYIL,IND,126,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,VELLUPARAMBATH CHANDRAN,IND,63,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,20,20,Vadakara,RAMA CHERIYA KAYYIL IND,IND,52,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,K P KUNHAMMED KUTTI MASTER,CPI(M),80143,47.2,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,PARAKKAL ABDULLA,IUML,79810,47.01,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,P P MURALI MASTER,BJP,9139,5.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,NOTA,NOTA,296,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,SURESH BABU M K,IND,128,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,V P PRATHEESH,IND,108,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,K K KUNHAMMAD KUTTY,IND,80,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,21,21,Kuttiadi,ABDULLA S/o POKKER IND,IND,75,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,E. K. VIJAYAN,CPI,83293,47.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,ADV. K. PRAVEEN KUMAR,INC,79257,45.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,M. P. RAJAN,BJP,10538,6.0,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,K. K. NASAR MASTER,SDPI,1676,0.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,NOTA,NOTA,316,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,T.PRAVEEN KUMAR S/O KANNAN,IND,258,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,SREEDHARAN K K NALAP Table,NALAP,165,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Kanathil Jameela,CPI(M),75628,46.66,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,N. Subramaniyan,INC,67156,41.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,N.P. Radhakrishnan,BJP,17555,10.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Jameela. P.P.,IND,651,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,NOTA,NOTA,492,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Subrahmanyan Kanaran,IND,381,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Praveen Cheruvath SUCI,SUCI,221,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,T.P. RAMAKRISHNAN,CPI(M),86023,52.54,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,C H EBRAHIMKUTTY S/O,IND,63431,38.74,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,ADV. K V SUDHEER,BJP,11165,6.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,ISMAIL KAMMANA,SDPI,1465,0.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,IBRAHIMKUTTY M S/O POKKER,IND,915,0.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,NOTA,NOTA,458,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,24,24,Perambra,V K CHANDRAN IND,IND,280,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,Adv. K.M. SACHINDEV,CPI(M),91839,50.47,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,DHARMAJAN BOLGATTY,INC,71467,39.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,LIBIN BALUSSERY,BJP,16490,9.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,CHANDRIKA,WPOI,889,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,JOBISH BALUSSERY,BSP,476,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,NOTA,NOTA,431,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,DHARMENDRAN,IND,247,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,25,25,Balusseri,MOHANDAS UNNIKULAM RPI(A),RPI(A),115,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,A .K Saseendran,NCP,83639,50.89,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,Zulphikar Mayoori,IND,45137,27.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,T P Jayachandran Master,BJP,32010,19.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,TAHIR MOKKANDI,WPOI,2000,1.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,NOTA,NOTA,984,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,RADHAKRISHNAN P K IND,IND,580,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,Thottathil Ravindran,CPI(M),59124,42.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,K M ABHIJITH,INC,46196,33.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,M T RAMESH,BJP,30952,22.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,NOTA,NOTA,516,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,N ABHIJITH,IND,328,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,K RAHIM,SUCI,156,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,A RAMESH,IND,104,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,V P RAMESH,IND,96,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,27,27,Kozhikode North,URANDIYIL RAVEENDRAN IND,IND,90,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,28,28,Kozhikode South,AHAMMAD DEVARKOVIL,INL,52557,44.15,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,28,28,Kozhikode South,ADV. NOORBEENA RASHEED,IUML,40098,33.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,28,28,Kozhikode South,NAVYA HARIDAS,BJP,24873,20.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,28,28,Kozhikode South,NOTA,NOTA,603,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,28,28,Kozhikode South,ADV. MUBEENA,IND,513,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,28,28,Kozhikode South,P. HAREENDRANATH DSJP,DSJP,410,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,Adv. P. A MOHAMED RIYAS,CPI(M),82165,49.73,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,Adv. P. M NIYAS,INC,53418,32.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,Adv. PRAKASHBABU,BJP,26267,15.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,JAMAL CHALIYAM,SDPI,2029,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,NOTA,NOTA,621,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,ABDUL GAFOOR K. K,BSP,272,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,P. P MUHAMMAD RIYAS S/o,IND,165,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,E.M NIYAS S/o SALEEM BABU,IND,162,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,NIYAS K S/o KOYA KUNIYIL IND,IND,111,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ADV. P. T. A RAHIM,IND,85138,43.93,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,DINESH PERUMANNA,IND,74862,38.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ADV: V.K. SAJEEVAN,BJP,27672,14.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ABDUL VAHID,SDPI,1299,0.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,E. P. ANWAR SADATH,WPOI,1057,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,DINESHAN PAKKATH,IND,1021,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,NOTA,NOTA,864,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ABDUL RAHEEM S/o. HASSAN,IND,738,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,BABU K G,IND,724,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,DINESAN MUNDAKKAL,IND,225,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,30,30,Kunnamangalam,ABDUL RAHEEM P S/o. ABDUL,IND,222,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,DR. M.K MUNEER,IUML,72336,47.86,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,KARAT RAZACK,CPI(M),65992,43.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,T BALASOMAN,BJP,9498,6.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,MUSTHAFA KOMMERI,SDPI,1769,1.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,ABDUL RAZAK K S/O AHMAD,IND,381,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,ABDUL RAZAK S/O MUHAMMED,IND,325,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,NOTA,NOTA,269,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,MUNEER M.K S/O MUHAMMED,IND,228,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,,IND,104,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,SALEEM NECHOLE,IND,92,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,ABDUL MUNEER,IND,86,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,SHAHIN K C SMFB,SMFB,74,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Linto Joseph,CPI(M),67867,47.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,C. P. Cheriya Muhammed,IUML,63224,44.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Baby Ambattu,BJP,7794,5.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Sunny. V. Joseph,IND,1847,1.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,K. P. Cheriya Muhammed S/o Kunhoyi,IND,1121,0.78,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Linto Joseph S/o Sali,IND,579,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,NOTA,NOTA,419,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Lenilal. T. D.,IND,80,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,32,32,Thiruvambady,Prof.George Mathew Ganna Thottathimyalil,IND,78,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,T V IBRAHIM,IUML,82759,50.42,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,KATTUPARUTHY SULAIMAN HAJI,IND,65093,39.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,SHEEBA UNNIKRISHNAN,BJP,11114,6.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,Razak PALERI,WPOI,2579,1.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,SIVADASAN T,BSP,908,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,SULAIMAN HAJI,IND,905,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,NOTA,NOTA,554,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,33,33,Kondotty,C V IBRAHIM S/o MUHAMMED IND,IND,233,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,P.K. Basheer,IUML,78076,54.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,K.T. Abdurahiman,IND,55530,38.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,Adv. C. Dinesh,BJP,6683,4.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,Velayudhan,BSP,1247,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,Adv. Sebastian,IND,1100,0.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,NOTA,NOTA,636,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,P.V. ANVAR,IND,81227,46.9,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,ADV: V.V. PRAKASH,INC,78527,45.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,ADV. T. K ASHOKKUMAR,BJP,8595,4.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,K. BABU MANI,SDPI,3281,1.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,SAJADURAHMAN.C.P,IND,559,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,ANILA MATHEW,ICSP,509,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,35,35,Nilambur,NOTA,NOTA,507,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,36,36,Wandoor,A P ANILKUMAR,INC,87415,51.44,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,36,36,Wandoor,MIDHUNA P,CPI(M),71852,42.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,36,36,Wandoor,Dr. P C VIJAYAN,BJP,7057,4.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,36,36,Wandoor,KRISHNAN C,WPOI,2943,1.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,36,36,Wandoor,NOTA,NOTA,664,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,37,37,Manjeri,Adv. U.A. LATHEEF,IUML,78836,50.22,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,37,37,Manjeri,NAZAR DEBONA,CPI,64263,40.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,37,37,Manjeri,P.R. RASMIL NATH,BJP,11350,7.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,37,37,Manjeri,PALATHINGAL ABOOBACKER,IND,1341,0.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,37,37,Manjeri,NOTA,NOTA,1202,0.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,NAJEEB KANTHAPURAM,IUML,76530,46.21,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,K P M MUSTHAFA S/o,IND,76492,46.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,SUCHITHRA,BJP,8021,4.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,ADV ABDUL AFSAL P T,IND,906,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,NOTA,NOTA,867,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,NAJEEB KUTTEERI,IND,828,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,MUHAMMED MUSTHAFA K P,IND,751,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,MUSTHAFA P K S/o SAIDALAVI,IND,750,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,38,38,Perinthalmanna,MUSTHAFA S/o MUHAMMED IND,IND,471,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,MANJALAMKUZHI ALI,IUML,83231,49.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,Adv. T.K. RASHEEDALI,CPI(M),76985,45.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,SAJESH ELAYIL,BJP,6641,3.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,NOTA,NOTA,599,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,ALI S/o MUSTHAFA,IND,350,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,ALI S/o ALAVI HAJI,IND,193,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,RASHEEDALI S/o MAMMUNNI,IND,183,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,39,39,Mankada,M.ALI IND,IND,86,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,P. UBAIDULLA,IUML,93166,57.57,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,PALOLI ABDURAHIMAN,CPI(M),57958,35.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,AREEKKAD SETHUMADHAVAN,BJP,5883,3.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,E.C. AYISHA,WPOI,3194,1.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,NOTA,NOTA,994,0.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,PRASOBH .T,BSP,321,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,40,40,Malappuram,T.K. BOSE SUCI,SUCI,309,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,P.K KUNJHALIKUTTY,IUML,70381,53.5,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,P. JIJI,CPI(M),39785,30.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,SABAH KUNDUPUZHAKKAL,IND,11255,8.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,PREMAN MASTER,BJP,5968,4.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,E.K. KUNHAHAMEDKUTTY,WPOI,2051,1.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,KEERAN,BSP,1060,0.81,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,NOTA,NOTA,787,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,ANANNYAHKUMARI ALEX,DSJP,135,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,41,41,Vengara,ADIL ABDURAHIMAN THANGAL IND,IND,129,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,ABDUL HAMEED MASTER,IUML,71823,47.43,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,Prof. A.P. ABDUL VAHAB,INL,57707,38.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,PEETHAMBARAN PALAT,BJP,19853,13.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,NOTA,NOTA,1150,0.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,SASI KIZHAKKAN BSP,BSP,881,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,K P A MAJEED,IUML,73499,49.74,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,NIYAS PULIKKALAKATH,IND,63921,43.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,KALLIYATH SATHAR HAJI,BJP,8314,5.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,NOTA,NOTA,721,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,NIYAS,IND,487,0.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,ABDUL MAJEED PANAKKAL,BSP,303,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,MOOSA JARATHINGAL,SWARAJ,274,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,CHANDRAN,IND,132,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,43,43,Tirurangadi,ABDURAHIM NAHA IND,IND,120,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,V.ABDURAHIMAN,NSC,70704,46.34,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,P.K.FIROS,IUML,69719,45.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,K.NARAYANAN MASTER,BJP,10590,6.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,NOTA,NOTA,336,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,FIROZ S/o Kunhumarakkar,IND,247,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,V.ABDURAHIMAN S/o Kathiyamu,IND,224,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,KUNHI MOHAMED,IND,213,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,MUEENUDHEEN,IND,183,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,ABDURAHIMAN.V S/o Alavi Haji,IND,179,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,ABDURAHIMAN.V S/o Muhammed,IND,102,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,44,44,Tanur,FIROZ S/o Avarankutty IND,IND,73,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,KURUKKOLI MOIDEEN,IUML,82314,48.21,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,Adv. GAFOOR P LILLIS,CPI(M),75100,43.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,Dr. ABDUL SALAM M,BJP,9097,5.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ASHRAF,SDPI,2712,1.59,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,MOIDEEN MEENTHRATHAKATH,IND,477,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,NOTA,NOTA,417,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABOOBACKER SIDHEEK,IND,240,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,MOIDEEN VALIYAKATH,IND,169,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABDUL MAHROOF A.K,IND,111,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABDUL GAFOOR PULIKKAL,IND,68,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABDUL GAFOOR VALIYA Blowing Turha,IND,37,0.02,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,PROF. ABID HUSSAIN THANGAL,IUML,81700,51.08,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,N. A. MUHAMMED KUTTY,NCP,65112,40.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,P. P. GANESAN,BJP,10796,6.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,MOHAMED KUTTY,IND,675,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,NOTA,NOTA,668,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,BINDHU DEVARAJAN,IND,481,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,AYISHA,IND,328,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,46,46,Kottakkal,SAINUL ABID THANGAL IND,IND,173,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,DR.K.T.JALEEL,IND,70358,46.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS KUNNAMPARAMBIL,INC,67794,44.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,RAMESH KOTTAYAPURATH,BDJS,9914,6.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,HASSAN CHIYANOOR,SDPI,1747,1.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,NOTA,NOTA,480,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,JALEEL S/O. MUHAMMAD KUTTY,IND,308,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,VELLARIKKAT MOHAMMED RAFI,IND,227,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS KUNNATHPARAMBIL,IND,194,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS PARUVINGAL,IND,175,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,MOHAMMED FIROS,IND,152,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,FIROS NELLAMKUNNATH IND Finger,IND,79,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,P NANDAKUMAR,CPI(M),74668,51.35,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,Adv. A.M. ROHITH,INC,57625,39.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,SUBRAMANNIAN,BDJS,7419,5.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,ANVAR PAZHANJI,SDPI,3065,2.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,GANESH VADERI,WPOI,1863,1.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,NOTA,NOTA,467,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,Adv. ROSHITH. M.P.,IND,168,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,48,48,Ponnani,K SADANANDAN IND,IND,147,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,M. B RAJESH,CPI(M),69814,45.84,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,V .T BALRAM,INC,66798,43.86,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,ADV:SANKU T DAS,BJP,12851,8.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,ABDUL NAZAR M K,SDPI,1582,1.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,NOTA,NOTA,427,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,RAJAGOPAL THRITHALA,BSP,333,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,SREENIVAS KURUPPATH,IND,136,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,HUSSAIN THATTATHAZHATH,IND,107,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,RAJESH S/O RAMAN E,IND,91,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,NOORUDHEEN E V,IND,70,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,BALARAMAN K S/O KUNJUNNI,IND,57,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,49,49,Thrithala,T .T BALARAMAN S/O KRISHNAN,IND,45,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Muhammed Muhassin,CPI,75311,49.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Riyas Mukkoli,INC,57337,37.74,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,K.M.Haridas,BJP,14578,9.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Ameer Ali .S.P,SDPI,2975,1.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,S. Mujeeb Rehman,WPOI,801,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Narayanan. T.P,BSP,517,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,NOTA,NOTA,390,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,P. MAMMIKUTTY,CPI(M),74400,48.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,FIROZ BABU.T.H,INC,37726,24.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,SANDEEP VARIER,BJP,36973,24.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,MUHAMMAD MUSTHAFA,SDPI,1251,0.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,AYYAPPAN KUTTY. T.C.,BSP,883,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,51,51,Shornur,NOTA,NOTA,678,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,Adv. K. PREMKUMAR,CPI(M),74859,46.45,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,DOCTOR P. SARIN,INC,59707,37.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,P. VENUGOPALAN,BJP,25056,15.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,NOTA,NOTA,867,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,52,52,Ottapalam,P.P. SIVAN BSP,BSP,672,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,53,53,Kongad,Santhakumari K,CPI(M),67881,49.01,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,53,53,Kongad,U C Raman,IUML,40662,29.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,53,53,Kongad,Suresh Babu M,BJP,27661,19.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,53,53,Kongad,Guruvayoorappan P E,BSP,1351,0.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,53,53,Kongad,NOTA,NOTA,953,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,ADVOCATE. N. SAMSUDHEEN,IUML,71657,47.11,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,K. P. SURESH RAJ,CPI,65787,43.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,AGALI NASEEMA P,ADMK,10376,6.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,JAMES MASH,IND,988,0.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,SIVADASAN,BSP,827,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,NOTA,NOTA,760,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,SHAMSUDDEEN S/o. HAMZA,IND,511,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,SURESH,IND,440,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,SURESH BABU,IND,304,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,SHAMSUDDEEN S/o. YUSAF,IND,192,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,AJIKUMAR,IND,159,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,54,54,Mannarkad,SHIBU GEORGE IND,IND,101,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,A. PRABHAKARAN,CPI(M),75934,46.41,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,KRISHNAKUMAR.C,BJP,50200,30.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,S. K. Ananthakrishnan,INC,35444,21.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,NOTA,NOTA,1054,0.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,K.PRASAD,SUCI,555,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,55,55,Malampuzha,ABDUL RAHEEM. S IND,IND,418,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,SHAFI PARAMBIL,INC,54079,38.06,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,E. SREEDHARAN,BJP,50220,35.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,Adv. C.P. PROMOD,CPI(M),36433,25.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,NOTA,NOTA,528,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,E.T.K. VALSAN,BSP,359,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,JAYAPRAKASH. J,SMFB,221,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,V. SACHIDANANDAN,IND,159,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,56,56,Palakkad,K. RAJESH ABHM,ABHM,105,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,57,57,Tarur,P.P.SUMOD,CPI(M),67744,51.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,57,57,Tarur,K.A.SHEEBA,INC,43213,32.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,57,57,Tarur,JAYAPRAKASAN K.P.,BJP,18465,14.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,57,57,Tarur,C.A.USHAKUMARI,WPOI,985,0.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,57,57,Tarur,NOTA,NOTA,940,0.72,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,K. KRISHNANKUTTY,JD(S),84672,55.38,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,Adv. SUMESH ACHUTHAN,INC,50794,33.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,V. NATESAN,BJP,14458,9.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,NOTA,NOTA,1285,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,A. CHANDRAN,BSP,918,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,PRAMEELA. K,IND,552,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,58,58,Chittur,NSK PURAM SASIKUMAR IND,IND,226,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,K. Babu,CPI(M),80145,52.89,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,C.N.Vijayakrishnan,CMPKSC,51441,33.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,Anurag .A.N,BDJS,16666,11.0,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,Prakash.C,BSP,1350,0.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,NOTA,NOTA,1070,0.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,59,59,Nenmara,Babu S/o Kunchu IND,IND,863,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,60,60,Alathur,K.D.PRASENAN,CPI(M),74653,55.15,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,60,60,Alathur,PALAYAM PRADEEP,INC,40535,29.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,60,60,Alathur,PRASANTH SIVAN,BJP,18349,13.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,60,60,Alathur,NOTA,NOTA,783,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,60,60,Alathur,CHANDRAN,BSP,699,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,60,60,Alathur,RAJESH.M IND,IND,347,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,61,61,Chelakkara,K RADHAKRISHNAN,CPI(M),83415,54.41,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,61,61,Chelakkara,C C SREEKUMAR,INC,44015,28.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,61,61,Chelakkara,SHAJUMON VATTEKKAD,BJP,24045,15.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,61,61,Chelakkara,CHANDRAN THIYATH,SDPI,1120,0.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,61,61,Chelakkara,NOTA,NOTA,720,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,A.C.MOIDEEN,CPI(M),75532,48.78,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,K.JAYASANKAR,INC,48901,31.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,Adv. K.K.ANEESHKUMAR,BJP,27833,17.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,V.S.ABOOBACKER,SDPI,1241,0.8,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,NOTA,NOTA,559,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,MOIDEEN.K.M s/o MUHAMMED,IND,380,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,JAMES PANADAN,IND,265,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,A.K.MOIDHEENKUTTY IND,IND,120,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,N.K.AKBAR,CPI(M),77072,52.52,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,Adv.K N A KHADER,IUML,58804,40.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,DILEEP NAIR,DSJP,6294,4.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,ASHARAF VADAKKOOT,SDPI,2889,1.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,NOTA,NOTA,1007,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,ANTONY,IND,392,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,63,63,Guruvayoor,M.KUMAR SUCI,SUCI,301,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,MURALI PERUNELLY,CPI(M),78337,46.77,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,VIJAY HARI,INC,48461,28.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,A.N. RADHAKRISHNAN,BJP,36566,21.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,P.FAISAL IBRAHIM,SDPI,2294,1.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,NOTA,NOTA,712,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,DEVARAJAN MOOKOLA,IND,660,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,ABHAYAN MANALUR BSP,BSP,472,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,Xavier Chittilappilly,CPI(M),81026,47.7,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,Anil Akkara,INC,65858,38.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,T.S Ullas Babu,BJP,21747,12.8,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,NOTA,NOTA,842,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,Haji Aboobaker Kundukadan IND,IND,388,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,K Rajan,CPI,76657,49.09,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,Jose Valloor,INC,55151,35.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,Adv. B Gopalakrishnan,BJP,22295,14.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,NOTA,NOTA,827,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,K K GEORGE KAKKASSERY,IND,628,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,Benny Kodiyatil,IND,331,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,P K Subramanian BSP,BSP,282,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,P BALACHANDRAN,CPI,44263,34.25,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,PADMAJA VENUGOPAL,INC,43317,33.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,SURESH GOPI,BJP,40457,31.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,NOTA,NOTA,723,0.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,AJITH MENON PONNEMKATTIL,IND,252,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,67,67,Thrissur,THRISSUR MUKUNDAN igp,IND,225,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,C C MUKUNDHAN,CPI,72930,47.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,ADV. SUNIL LALOOR,INC,44499,28.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,LOJANAN AMBATT,BJP,33716,21.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,NOTA,NOTA,830,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,C S JITHESHKUMAR,IND,617,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,SIVARATHNAN ALATHI,IND,595,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,VIMAL MALLIKA VIJAYAN BSP,BSP,367,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,E T TAISON MASTER,CPI,73161,53.76,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,SOBHA SUBIN,INC,50463,37.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,C D SREELAL,BDJS,9066,6.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,M K ASLAM,WPOI,1671,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,M K SHAMEER,SDPI,814,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,NOTA,NOTA,466,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,THANKAMANY THARAYIL BSP,BSP,442,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Prof. R Bindu,CPI(M),62493,40.27,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Adv. Thomas Unniyadan,KEC,56544,36.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Dr. Jacob Thomas,BJP,34329,22.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,NOTA,NOTA,590,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Vaxerin Pereppadan,IND,536,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,Joshy Eluvathingal,IND,305,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,V Bindu W/o Ramachandran,IND,220,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,70,70,Irinjalakkuda,M Bindu W/o Sivadasan IND,IND,162,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,K.K. Ramachandran,CPI(M),73365,46.94,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,Sunil Anthikkad (Sunilkumar. P.V),INC,46012,29.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,A. Nagesh (Parameswaran.A),BJP,34893,22.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,NOTA,NOTA,1069,0.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,Rajesh Appatt,CPIM,489,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,P.C. Pushpakaran BSP,BSP,455,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Saneeshkumar Joseph,INC,61888,43.23,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,DENNIES K ANTONY,KEC(M),60831,42.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Unnikrishnan K.A,BDJS,17301,12.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,NOTA,NOTA,1000,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,T N Rajan,IND,713,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,M S Asokan,BSP,617,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Dharmajan P K,SUCI,253,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Rosilin,IND,248,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Joshy Vattoly,IND,160,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Cheriya IND,IND,143,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,Adv. V. R. SUNILKUMAR,CPI,71457,47.99,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,M. P. JACKSON,INC,47564,31.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,SANTHOSH CHERAKKULAM,BJP,28204,18.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,NOTA,NOTA,870,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,REMYA MOHANAN,BSP,366,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,O. M. SREEJA,SUCI,270,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,73,73,Kodungallur,RAJAN PAINAT IND,IND,171,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,Adv ELDOSE P KUNNAPILLIL,INC,53484,37.1,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,BABU JOSEPH PERUMBAVOOR,KEC(M),50585,35.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,Chithra Sukumaran,UNKNOWN,20536,14.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,Adv.T P SINDHUMOL,BJP,15135,10.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,AJMAL K MUJEEB,SDPI,2494,1.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,ARSHAD K M,WPOI,1038,0.72,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,NOTA,NOTA,703,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,74,74,Perumbavoor,BABU JOSEPH ERUMALA IND,IND,196,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,ROJI M JOHN,INC,71562,51.86,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Adv. JOSE THETTAYIL,JD(S),55633,40.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Adv. K V SABU,BJP,8677,6.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,NOTA,NOTA,669,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,MARTIN PAUL,IND,623,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Stalin Nikathithara,BSP,326,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,JOTHILAKSHMI,SUCI,301,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,75,75,Angamaly,Velayudhan IND Batsman,IND,206,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,ANWAR SADATH,INC,73703,49.0,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,Ar SHELNA NISHAD,IND,54817,36.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,M.N. GOPI,BJP,15893,10.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,V.A RASHEED,SDPI,2224,1.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,K.M. SHEFRIN,WPOI,1713,1.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,NOTA,NOTA,939,0.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,K.V. SARALA,IND,569,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,VISWAKALA THANKAPPAN,MCPI,342,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,76,76,Aluva,A.G. AJAYAN SUCI,SUCI,228,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. RAJEEVE,CPI(M),77141,49.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,ADV. V. E. ABDUL GAFOOR,IUML,61805,39.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. S. JAYARAJ,BDJS,11179,7.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,V. M. FAISAL,SDPI,2385,1.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,NOTA,NOTA,1518,0.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. S. UNNIKRISHNAN,BSP,857,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. M. K. BAVA,IND,526,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,NAYANA UNNIKRISHNAN IND,IND,452,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,V.D. SATHEESAN,INC,82264,51.87,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,M.T. NIXON,CPI,60963,38.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,A.B. JAYAPRAKASH,BDJS,12964,8.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,NOTA,NOTA,1113,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,N.K.BIJU,BSP,724,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,SATHYANESAN EZHIKKARA,IND,287,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,78,78,Paravur,PRASANTH IND,IND,279,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,K.N. Unnikrishnan,CPI(M),53858,41.24,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Deepak Joy,INC,45657,34.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Dr.Job Chakalakal,UNKNOWN,16707,12.79,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Adv.K.S. Shaiju,BJP,13540,10.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,NOTA,NOTA,525,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,79,79,Vypen,Dr.M.K. Mukundan IND,IND,309,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,K.J. MAXY,CPI(M),54632,42.45,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,TONY CHAMMANY,INC,40553,31.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,SHINY ANTONY,UNKNOWN,19676,15.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,C.G.RAJAGOPAL,BJP,10991,8.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,Nipun Cherian,IND,2149,1.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,NOTA,NOTA,474,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,80,80,Kochi,RAJANEESH BABU IND,IND,228,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,K. BABU,INC,65875,42.14,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,Adv. M. SWARAJ,CPI(M),64883,41.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,Dr. K. S. RADHAKRISHNAN,BJP,23756,15.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,NOTA,NOTA,1099,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,ARUN BABU. P. C.,SHS,232,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,RAJESH PAIROAD,IND,201,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,C. B. ASHOKAN,SUCI,173,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,81,81,Thripunithura,K. P. AYAPPEN IND,IND,88,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,T. J. Vinod,INC,45930,41.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,SHAJI GEORGE PRANATHA,IND,34960,31.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Padmaja S. Menon,BJP,16043,14.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Prof. Leslie Pallath,UNKNOWN,10634,9.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Sujith C. Sukumaran,IND,1042,0.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,NOTA,NOTA,712,0.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Shaji George Plakkil,IND,305,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,K. S. Anilkumar,IND,225,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Ashokan,IND,176,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,Siciliamma Teacher IND,IND,71,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,Adv.P.T.THOMAS,INC,59839,43.82,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,Dr.J.JACOB,IND,45510,33.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,S SAJI,BJP,15483,11.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,Dr.TERRY THOMAS,UNKNOWN,13897,10.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,NOTA,NOTA,695,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,P.M.SHIBU,BSP,331,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,RIYAS YUSUF,IND,298,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,KRISHNAPRASAD,DSJP,181,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,JINU,IND,143,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,BINOJ,IND,134,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,SUBIN IND Letter Box,IND,59,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,ADV. P.V.SREENIJIN,CPI(M),52351,33.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,V.P.SAJEENDRAN,INC,49636,32.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,DR. SUJITH.P.SURENDRAN,UNKNOWN,42701,27.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,RENU SURESH,BJP,7218,4.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,KRISHNAN ERANHIKAL,SDPI,1294,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,SUJITH.K.SURENDRAN,IND,786,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,NOTA,NOTA,561,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,MANIKUTTAN.A.T,BSP,205,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,VELAYUDHAN.V.K IND,IND,168,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,ANOOP JACOB,KEC(J),85056,53.8,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,Dr. SINDHUMOL JACOB,KEC(M),59692,37.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,M ASHISH,BJP,11021,6.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,NOTA,NOTA,1109,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,SINDHUMOL C,IND,563,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,C N MUKUNDAN,SUCI,454,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,RENJU P B IND Pen Drive,IND,202,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,86,86,Muvattupuzha,Dr. MATHEW KUZHALNADAN,INC,64425,44.63,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,86,86,Muvattupuzha,ELDHO ABRAHAM,CPI,58264,40.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,86,86,Muvattupuzha,Adv. C.N. PRAKASH,UNKNOWN,13535,9.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,86,86,Muvattupuzha,JIJI JOSEPH,BJP,7527,5.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,86,86,Muvattupuzha,NOTA,NOTA,427,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,86,86,Muvattupuzha,C. K. THAMPI SUCI,SUCI,176,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,ANTONY JOHN,CPI(M),64234,46.99,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,Shibu Thekkumpuram,KEC,57629,42.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,Dr. JOE JOSEPH,UNKNOWN,7978,5.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,SHINE K KRISHNAN,BDJS,4638,3.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,T.M. MOOSA,SDPI,1286,0.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,NOTA,NOTA,414,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,Shibu Thekkan,IND,276,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,ANTO JOHNY,IND,136,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,SHIBU IND Table,IND,106,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,Adv. A. Raja,CPI(M),59049,51.0,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,D. Kumar,INC,51201,44.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,Ganesan. S,IND,4717,4.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,NOTA,NOTA,807,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,89,89,Udumbanchola,M. M. MANI,CPI(M),77381,61.8,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,89,89,Udumbanchola,ADV. E.M. AUGUSTHY,INC,39076,31.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,89,89,Udumbanchola,SANTHOSH MADHAVAN,BDJS,7208,5.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,89,89,Udumbanchola,A C BIJU,BSP,867,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,89,89,Udumbanchola,NOTA,NOTA,687,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,P J JOSEPH,KEC,67495,48.63,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,Prof. K I ANTONY,KEC(M),47236,34.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,SHYAMRAJ P,BJP,21263,15.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,LEETHESH P T,BSP,934,0.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,NOTA,NOTA,674,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,M T THOMAS,IND,562,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,PARTHASARADHI K,IND,370,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,90,90,Thodupuzha,T R SREEDHARAN SUCI,SUCI,273,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,ROSHY AUGUSTINE,KEC(M),62368,47.48,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,ADV. K FRANCIS GEORGE,KEC,56795,43.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,ADV. SANGEETHA VISWANATHAN,BDJS,9286,7.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,BABU VARGHESE VATTOLI,BSP,1106,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,NOTA,NOTA,677,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,BIJEESH THOMAS,IND,610,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,VINCENT JACOB,IND,340,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,91,91,Idukki,SAJEEV IND Gramophone,IND,169,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,VAZHOOR SOMAN,CPI,60141,47.25,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,Adv.SYRIAC THOMAS,INC,58306,45.81,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,SREENAGARI RAJAN,BJP,7126,5.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,BIJU MATTAPPALLY,BSP,818,0.64,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,NOTA,NOTA,401,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,P.K GOPALAKRISHNAN,IND,251,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,92,92,Peerumade,SOMAN IND,IND,248,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,MANI C KAPPEN,IND,69804,50.43,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,JOSE K. MANI,KEC(M),54426,39.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,PRAMEELADEVI .J,BJP,10869,7.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,MANI C. KURIAKOSE,IND,1098,0.79,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,NOTA,NOTA,604,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,SANTHOSH PULICKAL,IND,444,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,JOY THOMAS VAZHAMATTOM,BSP,368,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,C. V. JOHN,IND,249,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,SREEJITH V S,IND,195,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,THOMAS J. NIDIRY,IND,160,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,ALBIN MATHEW,IND,121,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,93,93,Pala,SUNIL ALANCHERIL IND Gramophone,IND,93,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Mons Joseph,KEC,59666,45.4,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Stephen George,KEC(M),55410,42.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Ligin Lal,BJP,11670,8.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Vinod K Jose,IND,2425,1.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Anju Mathew,BSP,1207,0.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,NOTA,NOTA,731,0.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Jaimon Thankachan SWJP,SWJP,302,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,C.K Asha,CPI,71388,55.96,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Dr.P.R Sona,INC,42266,33.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Ajitha Sabu,BDJS,11953,9.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Akhiljith Kallara,BSP,726,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,NOTA,NOTA,670,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Bindu,BHUDRP,258,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Kuttan Kattachira,IND,163,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,T.K Sabu SUCI,SUCI,152,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,V N Vasavan,CPI(M),58289,46.2,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,Adv. Prince Lukose,KEC,43986,34.86,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,T N HariKumar,BJP,13746,10.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,Lathika Subhash,IND,7624,6.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,Jijith K Joy,BSP,1165,0.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,NOTA,NOTA,780,0.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,Charley Thomas Panikkaridam,IND,330,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,96,96,Ettumanoor,A G Ajayakumar SUCI,SUCI,247,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,THIRUVANCHOOR,INC,65401,53.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,Adv.K.ANILKUMAR,CPI(M),46658,38.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,MINERVA MOHAN,BJP,8611,7.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,NOTA,NOTA,473,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,SREEKUMAR CHAKKALA,BSP,374,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,M.K.SHAHAZAD,SUCI,144,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,ARUN MANGATTU ABHM,ABHM,77,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,OOMMEN CHANDY,INC,63372,48.08,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,JAICK C THOMAS,CPI(M),54328,41.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,N HARI,BJP,11694,8.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,GEORGE JOSEPH VATHAPPALLY,IND,997,0.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,ABHILASH P P,BSP,763,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,NOTA,NOTA,497,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,98,98,Puthuppally,M V CHERIAN SUCI,SUCI,146,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Adv. Job Maichil,KEC(M),55425,44.85,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,V. J. Laly,KEC,49366,39.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Adv G Raman Nair,BJP,14491,11.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Tijo Karikkandam,IND,1094,0.89,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Amruth Dev T,BSP,1079,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,M. K. Nizamuddin,SDPI,1075,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,NOTA,NOTA,434,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Rejitha Jayaram,SUCI,328,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,JOEMON JOSEPH SRAMPICKAL,IND,157,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,99,99,Changanassery,Babychen Mukkadan IND,IND,136,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,Dr.N.JAYARAJ,KEC(M),60299,43.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,JOSEPH VAZHACKAN,INC,46596,33.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,ALPHONS KANNANTHANAM,BJP,29157,21.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,ASHIK M M,BSP,727,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,NOTA,NOTA,624,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,100,100,Kanjirappally,MAYAMOL K P SUCI,SUCI,300,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Adv. Sebastian Kulathunkal,KEC(M),58668,41.94,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,P.C.George Plathottam,KJPS,41851,29.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Adv. Tomy Kallany,INC,34633,24.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,M. P. Sen,BDJS,2965,2.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Ancy George,BSP,596,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,NOTA,NOTA,345,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,M. V. George,IND,278,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Abdu Samad,KLJP,259,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Albin Mathew,IND,205,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,101,101,Poonjar,Tomy Chemarapallil IND,IND,94,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,DALEEMA,CPI(M),75617,45.97,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,Adv. SHANIMOL OSMAN,INC,68604,41.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,ANIYAPPAN,BDJS,17479,10.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,NOTA,NOTA,846,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,RUGMA PRADEEP,BSP,682,0.41,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,AMBIKA K N (PRIYANKA ANUP),DSJP,475,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,K PRATHAPAN,SUCI,374,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,VAYALAR RAJEEVAN,BHUDRP,164,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,PRAMOD PERUMPUZHA,ADHRMPI,161,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,102,102,Aroor,CHANDRAN IND,IND,89,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,P PRASAD,CPI,83702,47.0,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,ADV.S SARATH,INC,77554,43.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,ADV.P S JYOTHIS,BDJS,14562,8.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,VAYALAR JAYAKUMAR,BSP,613,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,NOTA,NOTA,602,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,SARATH S KANNATTUVELI,IND,501,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,SHAJAHAN V A,IND,201,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,KARTHIKEYAN,IND,193,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,ADV.SONNYMON K MATHEW IND,IND,169,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,P.P Chitharanjan,CPI(M),73412,46.33,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Dr.K.S Manoj,INC,61768,38.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Sandeep Vachaspati,BJP,21650,13.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,NOTA,NOTA,1089,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Subeendran K.C,BSP,207,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,K.A Vinod,SUCI,205,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Shylendran BHUDRP,BHUDRP,115,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,H.Salam,CPI(M),61365,44.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Adv.M.Liju,INC,50240,36.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Anoop Antony,BJP,22389,16.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,M.M.Thahir,SDPI,1690,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,NOTA,NOTA,591,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Subhadramma Thottappally,WPOI,525,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Subaida SUCI,SUCI,221,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,106,106,Kuttanad,THOMAS K THOMAS,NCP,57379,45.67,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,106,106,Kuttanad,Adv. JACOB ABRAHAM,KEC,51863,41.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,106,106,Kuttanad,THAMPI METTUTHARA,BDJS,14946,11.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,106,106,Kuttanad,Dr. VINU,DSJP,533,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,106,106,Kuttanad,NOTA,NOTA,523,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,106,106,Kuttanad,BIJU XAVIER SUCI,SUCI,392,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,RAMESH CHENNITHALA,INC,72768,48.31,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,Adv. R. SAJILAL,CPI,59102,39.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,K. SOMAN,BJP,17890,11.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,NOTA,NOTA,536,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,MADHU. T,SUCI,204,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,107,107,Haripad,Adv. NIYAZ BHARATI IND,IND,123,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Adv. U. Prathibha,CPI(M),77348,47.97,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Aritha Babu,INC,71050,44.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Pradeeplal,BDJS,11413,7.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,NOTA,NOTA,420,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Maniyappan Achari,IND,372,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Rajeev R,IND,230,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Geevarghese Samuel,IND,202,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Myna Gopinath,SUCI,148,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,108,108,Kayamkulam,Sathyanarayanan S IND,IND,74,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,M S ARUN KUMAR,CPI(M),71743,47.61,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,K K SHAJU,INC,47026,31.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,K SANJU,BJP,30955,20.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,NOTA,NOTA,519,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,SURESH NOORANAD,APOI,165,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,K SASIKUMAR,SUCI,151,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,109,109,Mavelikara,B SUBHASH IND,IND,131,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,SAJI CHERIAN,CPI(M),71502,48.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,M. MURALI,INC,39409,26.78,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,M. V. GOPAKUMAR,BJP,34620,23.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,SHAJI T. GEORGE,BSP,534,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,NOTA,NOTA,493,0.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,T. K. GOPINATHAN,SUCI,316,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,MELVIN. K. MATHEW,DSJP,198,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,110,110,Chengannur,POULOSE IND,IND,99,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,Adv. MATHEW T THOMAS,JD(S),62178,44.56,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,KUNJU KOSHY PAUL,KEC,50757,36.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,ASHOKAN KULANADA,BJP,22674,16.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,Adv. THOMAS MATHEW (ROY),IND,1461,1.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,RAJENDRADAS,BSP,1074,0.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,NOTA,NOTA,608,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,VINOD KUMAR,DSJP,380,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,SURENDRAN KOTTOORATHIL,IND,216,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,K .P YESUDAS IND,IND,196,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Adv. Pramod Narayan,KEC(M),52669,41.22,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Rinku Cherian,INC,51384,40.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,K. Padmakumar,BDJS,19587,15.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Adv. Anumol N.,BSP,1159,0.91,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Asharaf Pezhumkattil,SDPI,886,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Benny Puthenparampil (Thomas Mathew),IND,842,0.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,NOTA,NOTA,431,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Jomon Kochethu,RJD,339,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Aji B. Ranni,IND,282,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Adv. Manju K. Nair (Kottarathil) IND,IND,198,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,VEENA GEORGE,CPI(M),74950,46.3,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,Adv. K. SIVADASAN NAIR,INC,55947,34.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,BIJU MATHEW,BJP,29099,17.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,SIVADASAN NAIR S/o RAGHAVAN,IND,629,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,NOTA,NOTA,575,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,OMALLOOR RAMACHANDRAN,APOI,236,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,PRASANTH ARANMULA,IND,143,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,SANTHI OMALLOOR,ADHRMPI,133,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,G. SUGATHAN,IND,87,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,113,113,Aranmula,ARJUNAN C. K IND,IND,67,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,Adv. K.U JENISH KUMAR,CPI(M),62318,41.62,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,ROBIN PETER,INC,53810,35.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,K. SURENDRAN,BJP,32811,21.91,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,NOTA,NOTA,372,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,RAGHU P,ADHRMPI,214,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,SUKU BALAN,APOI,122,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,MANOHARAN IND,IND,75,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,Chittayam Gopakumar,CPI,66569,42.83,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,M. G. Kannan,INC,63650,40.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,Adv. Pandalam Prathapan,BJP,23980,15.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,NOTA,NOTA,594,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,R. Kannan S/o Rajan,IND,218,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,Vipin Kanikonathu,BSP,178,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,Saranyaraj,SUCI,127,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,115,115,Adoor,Rajankulakkada ADHRMPI,ADHRMPI,95,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,C. R Mahesh,INC,94225,54.38,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,R. Ramachandran,CPI,65017,37.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Bitty Sudheer,BJP,12144,7.01,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Adv. Sumayya Najeeb,SDPI,1037,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,NOTA,NOTA,450,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Bhargavan S,SUCI,283,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,116,116,Karunagappally,Madhu ADHRMPI,ADHRMPI,128,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,Dr.SUJITH VIJAYANPILLAI,IND,63282,44.29,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,SHIBU BABY JOHN,RSP,62186,43.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,VIVEK GOPAN,BJP,14211,9.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,JOHNSON KANDACHIRA,IND,1223,0.86,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,SUJITHMON,IND,901,0.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,NOTA,NOTA,701,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,117,117,Chavara,VIJI RATHEESH IND,IND,376,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,KOVOOR KUNJUMON,IND,69531,43.18,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,ULLAS KOVOOR,RSP,66522,41.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,RAJIPRASAD,BJP,21847,13.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,R.S. ANJU,BSP,947,0.59,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,NOTA,NOTA,919,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,MANTHARA VELAYUDHAN,IND,621,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,R. SUKUMARAN,ADHRMPI,326,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,ARUNKUMAR S ULIYACOVIL IND,IND,325,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,K N BALAGOPAL,CPI(M),68770,45.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,R RESMI,INC,57956,38.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,Adv. VAYAKKAL SOMAN,BJP,21223,14.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,NOTA,NOTA,574,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,USHA KOTTARAKKARA,ADHRMPI,460,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,MATHEWS K LUKOSE,IND,136,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,LAL VISWAN,IND,103,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,V VENUGOPAL,DSJP,96,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,EYYAMKODU MANIKUTTAN,IND,90,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,E. KUNJUMON,SUCI,87,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,JAINEENDRAN T SHS,SHS,57,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,K.B. GANESH KUMAR,KEC(B),67276,49.09,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,JYOTHIKUMAR CHAMAKKALA,INC,52940,38.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,V.S. JITHIN DEV,BJP,12398,9.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,P. KRISHNAMMAL,MCPI,2091,1.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,ADV. FAIZY. M. PASHA,SDPI,1192,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,NOTA,NOTA,474,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,BAIJU PATHANAPURAM,ADHRMPI,411,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,AJI KADASSERY IND,IND,254,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,P S SUPAL,CPI,80428,54.99,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,ABDURAHIMAN RANDATHANI,IUML,43371,29.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,AYOOR MURALI,BJP,20069,13.72,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,NOTA,NOTA,688,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,SHIBU M SKARIA,IND,617,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,K MAHESH,SUCI,407,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,PRAKASH ANCHAL,ADHRMPI,407,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,THENMALA NAGARAJAN IND Truck,IND,264,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,J.Chinchurani,CPI,67252,45.69,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,M.M.Naseer,INC,53574,36.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Vishnu Pattathanam,BJP,22238,15.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Sharafath Mallam,SDPI,1879,1.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,NOTA,NOTA,685,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Archana Prajith,WPOI,605,0.41,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Lalu,BSP,406,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Ratheesh Kadakkal,ADHRMPI,280,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,122,122,Chadayamangalam,Shibu.K.Chadayamangalam IND Black Board,IND,258,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,P.C.Vishnunadh,INC,76341,48.83,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,J.Mercykutty Amma,CPI(M),71887,45.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Vanaja Vidyadharan,BDJS,6097,3.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,NOTA,NOTA,709,0.45,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,R.Rahul,SUCI,459,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Santhosh Adooran,IND,260,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Sibu Karamcodu,ADHRMPI,228,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Shiju M Varghese,DSJP,185,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,123,123,Kundara,Vinod Bahuleyan RJD,RJD,170,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,M Mukesh,CPI(M),58524,44.86,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,Adv. BINDHU KRISHNA,INC,56452,43.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,Sunil M,BJP,14252,10.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,NOTA,NOTA,750,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,REMANAN,BSP,290,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,BABY S ADHRMPI,ADHRMPI,183,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,M. Noushad,CPI(M),71573,56.25,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Babudivakaran,RSP,43452,34.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Renjith Ravindran,BDJS,8468,6.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Ayathil Riyas,SDPI,1444,1.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,NOTA,NOTA,931,0.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,Mohanan Mayyanad,BSP,543,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,M. Unnikrishnan,ADHRMPI,430,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,S. Sudhilal,SUCI,213,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,125,125,Eravipuram,N. Shihabudeen IND,IND,187,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,G.S. JAYALAL,CPI,59296,43.12,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,B. B. GOPAKUMAR,BJP,42090,30.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,N. PEETHAMBARAKURUP,INC,34280,24.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,NOTA,NOTA,642,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,SHANMUGHAN PARAVUR,ADHRMPI,524,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,SUNU BHASKARAN,BSP,364,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,SETHU,IND,172,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,126,126,Chathannur,VARINJAM RAJEEV IND,IND,135,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Adv. V Joy,CPI(M),68816,50.89,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Adv. BRM Shafeer,INC,50995,37.71,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Aji S,BDJS,11214,8.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Anu M.C,BSP,1948,1.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,NOTA,NOTA,815,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Prince,IND,658,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Anilkumar P,DHRMP,460,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,127,127,Varkala,Shefeer IND,IND,323,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,O S AMBIKA,CPI(M),69898,47.35,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,ADV. P SUDHEER,BJP,38262,25.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,ADV. A SREEDHARAN,RSP,36938,25.02,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,NOTA,NOTA,1071,0.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,VIPINLAL VIDHYADHARAN,BSP,927,0.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,ASHA PRAKASH,ADHRMPI,339,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,128,128,Attingal,AMBILI IND,IND,191,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,V. Sasi,CPI,62634,43.17,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,B. S. Anoop,INC,48617,33.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Ashanath G. S,BJP,30986,21.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Anil Mangalapuram,BSP,1097,0.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,NOTA,NOTA,758,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Advocate G. Anil Kumar,WPOI,616,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,129,129,Chirayinkeezhu,Anoop Gangan IND,IND,372,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,Adv. G. R. ANIL,CPI,72742,47.54,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,P. S. PRASANTH,INC,49433,32.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,Adv. J. R. PADMAKUMAR,BJP,26861,17.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,IRSHAD KANYAKULANGARA,SDPI,1884,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,NOTA,NOTA,917,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,BIPIN PALLIPURAM,BSP,563,0.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,THATHANKODU KANNAN,IND,170,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,PRASANTH. C S/o CHANDRAN. K,IND,160,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,EBINU. S,IND,146,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,130,130,Nedumangad,HARI VELLANADU IND,IND,126,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Adv. D. K. Murali,CPI(M),73137,49.91,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Anad Jayan,INC,62895,42.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Thazhava Sahadevan,BDJS,5603,3.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Ajmal Ismail,SDPI,2325,1.59,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,NOTA,NOTA,716,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Santhosh T.,BSP,552,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Attukal Aji,IND,420,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,R. Murali,IND,310,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Ashokan T. Vamanapuram,APOI,301,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Navas C. M.,IND,134,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,131,131,Vamanapuram,Bharathanoor Maniraj IND,IND,132,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Kadakampally Surendran,CPI(M),63690,46.04,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Sobha Surendran,BJP,40193,29.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Dr. S. S. Lal,INC,32995,23.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,NOTA,NOTA,668,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Kochumani,BSP,377,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,V. Sasikumaran Nair,IND,129,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Lalumon,IND,112,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Syamlal,IND,85,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,132,132,Kazhakkoottam,Adv. Sen A. G. IND,IND,76,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,Adv.V.K.PRASANTH,CPI(M),61111,44.4,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,Adv.V.V.RAJESH,BJP,39596,28.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,Adv.VEENA.S.NAIR,INC,35455,25.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,NOTA,NOTA,854,0.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,N.MURALI,BSP,419,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,133,133,Vattiyoorkavu,A.SHYJU SUCI,SUCI,201,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,Adv.ANTONY RAJU,JKC,48748,38.01,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,V .S .Sivakumar,INC,41659,32.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,KRISHNAKUMAR G,BJP,34996,27.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,NOTA,NOTA,1054,0.82,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,ABHILASH VADAKKAN,IND,436,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,A .Saboora,SUCI,366,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,RAJU ANTONY,IND,289,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,CHALA MOHANAN D,IND,245,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,ANTONY RAJU S/o Raju,IND,190,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,SIVAKUMAR. K S/o Kumara Swamy,IND,164,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,134,134,Thiruvananthapuram,KRISHNAKUMAR T .S S/o Sankarankutty,IND,89,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,V.Sivankutty,CPI(M),55837,38.24,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Kummanam Rajasekharan,BJP,51888,35.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,K.Muraleedharan,INC,36524,25.01,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,NOTA,NOTA,756,0.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,D.Vijayan,BSP,356,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Jain Wilson,IND,165,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Arampally Vijayaraj,IND,138,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,L Sathyan Nadar,IND,100,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Balachandran Valkannadi,IND,85,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Shine Raj.B,IND,70,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Rajasekharan,IND,50,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,135,135,Nemom,Muraleedharan Nair IND,IND,48,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,136,136,Aruvikkara,Adv. G. Steephen,CPI(M),66776,45.83,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,136,136,Aruvikkara,K. S. Sabarinadhan,INC,61730,42.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,136,136,Aruvikkara,C. Sivankutty,BJP,15379,10.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,136,136,Aruvikkara,Krishnankutty. M,BSP,923,0.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,136,136,Aruvikkara,NOTA,NOTA,900,0.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,C.K.HAREENDRAN,CPI(M),78548,48.16,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,AN SAJITHA RESSAL.R.K,INC,52720,32.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,KARAMANA JAYAN,BJP,29850,18.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,J.R.JAYAKUMAR,BSP,778,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,NOTA,NOTA,630,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,SHAJU PALIYODU,IND,402,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,137,137,Parassala,SELVARAJ.J.R IND,IND,162,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,Adv I B SATHEESH,CPI(M),66293,45.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,MALAYINKEEZHU VENUGOPAL,INC,43062,29.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,P.K KRISHNADAS,BJP,34642,23.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,NOTA,NOTA,701,0.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,KANDALA SURESH,BSP,628,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,SREEKALA NADAR,IND,266,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,138,138,Kattakkada,SYRIAC DAMIAN V. P IND,IND,127,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,Adv. M. VINCENT,INC,74868,47.06,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,NEELALOHITHADASAN NADAR,JD(S),63306,39.79,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,VISHNUPURAM,BJP,18664,11.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,NOTA,NOTA,773,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,KANCHAMPAZHINJI SASIKUMAR,BSP,641,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,PRINCE V.S.,IND,417,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,VENGANOOR ASOKAN,IND,284,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,AJIL R.A. IND,IND,147,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,K. ANSALAN,CPI(M),65497,47.02,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,SELVARAJ. R,INC,51235,36.78,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,CHENKAL. S. RAJASEKHARAN,BJP,21009,15.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,NOTA,NOTA,907,0.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,140,140,Neyyattinkara,PREMAKUMAR. T. R BSP,BSP,643,0.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

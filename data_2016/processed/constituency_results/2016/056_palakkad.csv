@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,56,56,Palakkad,SHAFI PARAMBIL,INC,57559,41.7687,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,SOBHA SURENDRAN,BJP,40076,29.0819,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,N N KRISHNADAS,CPI(M),38675,28.0652,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,NOTA,NOTA,719,0.5218,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,HARI ARUMBIL,BSP,411,0.2982,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,DR M N ANUVARUDHEEN,IND,364,0.2641,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf

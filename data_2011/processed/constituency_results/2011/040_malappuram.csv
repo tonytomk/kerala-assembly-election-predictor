@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,40,40,Malappuram,P. UBAIDULLA,IUML,77928,63.7474,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,MADATHIL SADIKALI,JD [S],33420,27.3385,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,ADVOCATE: SADIK NADUTHODI,SDPI,3968,3.2459,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,K. VELAYUDHAN,BJP,3841,3.1421,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,ABU THWAHIR,IND,2179,1.7825,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40
+2011,Malappuram,40,40,Malappuram,POOKKOTTIL ALI HAJI,IND,909,0.7436,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/40

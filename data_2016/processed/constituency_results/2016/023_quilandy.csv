@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,23,23,Quilandy,K. DASAN,CPI(M),70593,45.9389,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,N. SUBRAMANIAN,INC,57224,37.239,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,K RAJINESH BABU,BJP,22087,14.3733,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,ISMAYIL KAMMANA,SDPI,798,0.5193,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,RASAL. M. K,PDP,703,0.4575,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,PARAPPIL BALAKRISHNAN,BSP,678,0.4412,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,NOTA,NOTA,653,0.4249,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,M.N.SUBRAMANIAN KAKKUDUMBIL MITHAL,IND,489,0.3182,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,P K DASAN PAZHUNTHUM KOOTTATHIL,IND,167,0.1087,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,P M SREEKUMAR,SUCI(C),149,0.097,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,P M KUNHIKANNAN,CPI(ML)REDSTAR,126,0.082,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf

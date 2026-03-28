@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,110,110,Chengannur,ADV. K.K. RAMACHANDRAN NAIR,CPI(M),52880,36.3391,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,P.C. VISHNUNATH,INC,44897,30.8532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,ADV. P.S SREEDHARAN PILLAI,BJP,42682,29.3311,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,SOBHANA GEORGE,IND,3966,2.7254,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,ALEX,BSP,483,0.3319,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,NOTA,NOTA,363,0.2495,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,E.T. SASI,IND,247,0.1697,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf

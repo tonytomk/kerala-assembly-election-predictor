@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,102,102,Aroor,A.M. ARIFF,CPI(M),84720,52.3367,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,ADV. C.R. JAYAPRAKASH,INC,46201,28.5412,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,ANIYAPPAN,BDJS,27753,17.1447,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,MOHAN CHACKO,WPI,761,0.4701,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,NOTA,NOTA,736,0.4547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,K.PRATHAPAN,SUCI(C),556,0.3435,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,LIYAKATHALI,SDPI,434,0.2681,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,FAIZAL,PDP,433,0.2675,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,THURAVOOR RAJASEKHARAN,IND,281,0.1736,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf

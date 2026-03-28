@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Wayanad,18,18,Sulthanbathery,I.C BALAKRISHNAN,INC,71509,49.143,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,18,18,Sulthanbathery,E.A .SANKARAN,CPI(M),63926,43.9318,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,18,18,Sulthanbathery,PALLIYARA RAMAN,BJP,8829,6.0675,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/18
+2011,Wayanad,18,18,Sulthanbathery,MUKUNDAN CHEENGERI,BSP,1248,0.8577,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/18

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,13,13,Thalassery,KODIYERI BALAKRISHNAN,CPI(M),66870,56.7835,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,RIJIL MAKKUTTY,INC,40361,34.2731,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,ADV. V. RATHNAKARAN,BJP,6973,5.9212,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,A.C JALALUDDIN,SDPI,2068,1.7561,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,K.RAGHUNATH,BSP,674,0.5723,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,RIJIL MULIYIL,IND,539,0.4577,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13
+2011,Kannur,13,13,Thalassery,BALAKRISHNAN,IND,278,0.2361,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/13

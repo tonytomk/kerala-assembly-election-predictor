@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kasaragod,5,5,Trikaripur,K KUNHIRAMAN,CPI(M),67871,49.9096,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,K.V.GANGADHARAN,INC,59106,43.4641,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,T.RADHAKRISHNAN,BJP,5450,4.0077,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,RAZAK HAJI PARAMBATH,SDPI,1741,1.2803,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,ARUN KUMAR,BSP,1031,0.7582,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5
+2011,Kasaragod,5,5,Trikaripur,K.K.DILEEP KUMAR,IND,789,0.5802,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/5

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,119,119,Kottarakkara,ADV. P.AISHA POTTY,CPI(M),83443,55.4391,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,ADV.SAVIN SATHYAN,INC,40811,27.1146,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,RAJESWARY RAJENDRAN,BJP,24062,15.9867,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,NOTA,NOTA,742,0.493,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,MADHU.B,IND,491,0.3262,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,R.SUKUMARAN,BSP,386,0.2565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,VELIYAM SHAJI,SHIVSENA,325,0.2159,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,HARIPRASAD,IND,173,0.1149,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,AJAYAKUMAR THANKAPPAN,IND,80,0.0532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf

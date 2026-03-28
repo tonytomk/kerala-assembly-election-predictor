@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,71,71,Puthukkad,C.RAVEENDRANATH,UNKNOWN,73047,52.8365,True,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,K.P.VISWANATHAN,INC,46565,33.6815,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,SOBHA SURENDRAN,UNKNOWN,14425,10.4339,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,P.J.MONSY,UNKNOWN,2084,1.5074,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,P C PUSHPAKARAN,UNKNOWN,1013,0.7327,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,PAULSON KALLOOR,UNKNOWN,622,0.4499,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf
+2011,Thrissur,71,71,Puthukkad,K.V.PURUSHOTHAMAN,OTH,495,0.358,False,https://www.ceo.kerala.gov.in/pdf/form20/071.pdf

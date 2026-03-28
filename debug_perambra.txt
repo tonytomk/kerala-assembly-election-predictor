@@ -1,0 +1,11 @@
+UDF historical vote share in Perambra:
+ year  vote_share
+ 2011   93.635746
+ 2016   92.274871
+ 2021   40.364121
+
+2026 Prediction for Perambra:
+ rank party  predicted_vote_share
+    1   LDF             77.428514
+    2   NDA             13.528324
+    3   IND              6.000087

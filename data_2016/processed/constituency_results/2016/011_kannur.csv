@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,11,11,Kannur,RAMACHANDRAN KADANNAPPALLI,C(S),54347,43.0577,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SATHEESAN PACHENI,INC,53151,42.1101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,K.G. BABU,BJP,13215,10.4699,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SUFIRA K P,SDPI,2551,2.0211,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,C P RAHNA TEACHER,WPI,1134,0.8984,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,N P SATHAR,IND,755,0.5982,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,NOTA,NOTA,517,0.4096,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,K SUDHAKARAN,IND,223,0.1767,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SATHEESAN PAZHAYADATH,IND,97,0.0769,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SATHEESAN EDATHIL VEEDU,IND,79,0.0626,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,RAMACHANDRAN THAYALA PURAYIL,IND,77,0.061,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,RAMACHANDRAN POTHERAVALAPPIL,IND,73,0.0578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf

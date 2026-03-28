@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,124,124,Kollam,M Mukesh,CPI(M),58524,44.86,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,Adv. BINDHU KRISHNA,INC,56452,43.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,Sunil M,BJP,14252,10.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,NOTA,NOTA,750,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,REMANAN,BSP,290,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,124,124,Kollam,BABY S ADHRMPI,ADHRMPI,183,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,139,139,Kovalam,Adv.M Vincent,INC,60268,39.1437,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,JAMEELA PRAKASAM,JD(S),57653,37.4453,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Kovalam T N Suresh,BDJS,30987,20.1259,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Adv.K. R Anish,BSP,996,0.6469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,M.C. JAYALAL,IND,933,0.606,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,NOTA,NOTA,845,0.5488,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Pramod Kumar,IND,564,0.3663,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,SARASAMMA.T,IGP,558,0.3624,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,S Shaji,AKTP,400,0.2598,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,M Sugathan,IND,389,0.2527,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Silvaster,IND,373,0.2423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf

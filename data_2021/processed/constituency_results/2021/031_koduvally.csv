@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,31,31,Koduvally,DR. M.K MUNEER,IUML,72336,47.86,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,KARAT RAZACK,CPI(M),65992,43.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,T BALASOMAN,BJP,9498,6.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,MUSTHAFA KOMMERI,SDPI,1769,1.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,ABDUL RAZAK K S/O AHMAD,IND,381,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,ABDUL RAZAK S/O MUHAMMED,IND,325,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,NOTA,NOTA,269,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,MUNEER M.K S/O MUHAMMED,IND,228,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,,IND,104,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,SALEEM NECHOLE,IND,92,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,ABDUL MUNEER,IND,86,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,31,31,Koduvally,SHAHIN K C SMFB,SMFB,74,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

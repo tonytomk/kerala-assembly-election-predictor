@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,9,9,Irikkur,K C JOSEPH,INC,72548,48.9951,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,K T JOSE,CPI,62901,42.48,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,A P GANGADHARAN,BJP,8294,5.6013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,ADV. BINOY THOMAS,IND,2734,1.8464,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,JOSEPH K C KALAYAKKATTIL,IND,602,0.4066,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,NOTA,NOTA,553,0.3735,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,RIJO,IND,134,0.0905,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,RAJEEV JOSEPH,IND,123,0.0831,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,A K SHAJI,IND,103,0.0696,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,RAVEENDRAN A V,IND,80,0.054,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf

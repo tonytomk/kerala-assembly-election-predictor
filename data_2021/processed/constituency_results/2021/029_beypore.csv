@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,29,29,Beypore,Adv. P. A MOHAMED RIYAS,CPI(M),82165,49.73,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,Adv. P. M NIYAS,INC,53418,32.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,Adv. PRAKASHBABU,BJP,26267,15.9,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,JAMAL CHALIYAM,SDPI,2029,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,NOTA,NOTA,621,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,ABDUL GAFOOR K. K,BSP,272,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,P. P MUHAMMAD RIYAS S/o,IND,165,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,E.M NIYAS S/o SALEEM BABU,IND,162,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,29,29,Beypore,NIYAS K S/o KOYA KUNIYIL IND,IND,111,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

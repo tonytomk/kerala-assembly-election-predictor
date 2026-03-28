@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,68,68,Nattika,GEETHA GOPI,UNKNOWN,64555,50.2053,True,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,VIKAS CHAKRAPANI,UNKNOWN,48501,37.7199,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,SARJU THOYAKKAVU,UNKNOWN,11144,8.6668,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,DINESHKUMAR.E.V,UNKNOWN,1636,1.2723,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,M.S.VASANTHY,UNKNOWN,826,0.6424,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,P K SUBRAMANIAN,UNKNOWN,600,0.4666,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,N.V.MANI,OTH,513,0.399,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,C.K.CHANDRAN,OTH,497,0.3865,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf
+2011,Thrissur,68,68,Nattika,PUSHPAKARAN,OTH,310,0.2411,False,https://www.ceo.kerala.gov.in/pdf/form20/068.pdf

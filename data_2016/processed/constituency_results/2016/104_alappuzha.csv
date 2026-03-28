@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,104,104,Alappuzha,DR. T.M. THOMAS ISAAC,CPI(M),83211,53.2891,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,ADV. LALY VINCENT,INC,52179,33.4159,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,ADV. RANJIT SREENIVAS,BJP,18214,11.6644,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,NOTA,NOTA,856,0.5482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,P.A. SULAIMAN KUNJU,SDPI,703,0.4502,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,K. MUJEEB,PDP,481,0.308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,K.A.VINOD,SUCI(C),244,0.1563,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,PREMJI.K.P,IND,149,0.0954,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,ADV. PRASANTH,IND,113,0.0724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf

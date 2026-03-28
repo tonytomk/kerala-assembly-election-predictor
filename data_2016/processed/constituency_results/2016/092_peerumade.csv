@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Idukki,92,92,Peerumade,E S BIJIMOL,CPI,56584,43.9426,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,ADV. SYRIAC THOMAS,INC,56270,43.6987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,KUMAR,BJP,11833,9.1894,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,ABDUL KADAR,AIADMK,2862,2.2226,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,BENNY THOMAS,BSP,489,0.3798,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,NOTA,NOTA,448,0.3479,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,RAMASWAMY GOVINDAN,IND,175,0.1359,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,JOSEPH M T,IND,107,0.0831,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf

@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,131,131,Vamanapuram,D K MURALI,CPI(M),65848,46.5571,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,T.SARATHCHANDRAPRASAD,INC,56252,39.7723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,R V NIKHIL,BJP,13956,9.8674,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,THACHONAM NIZAMUDEEN,UNKNOWN,1774,1.2543,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,ANIL PALODE,UNKNOWN,901,0.637,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,NOTA,NOTA,789,0.5579,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,SUGATHAN. S,UNKNOWN,517,0.3655,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,G. AJITH,UNKNOWN,515,0.3641,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,Irinchayam Suresh,UNKNOWN,286,0.2022,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,O. BINUMON,UNKNOWN,246,0.1739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,ANIL. K Ponganadu,UNKNOWN,228,0.1612,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,MANIRAJ BHARATHANOOR,UNKNOWN,123,0.087,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf

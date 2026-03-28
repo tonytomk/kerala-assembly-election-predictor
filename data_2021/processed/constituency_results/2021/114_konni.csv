@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Pathanamthitta,114,114,Konni,Adv. K.U JENISH KUMAR,CPI(M),62318,41.62,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,ROBIN PETER,INC,53810,35.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,K. SURENDRAN,BJP,32811,21.91,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,NOTA,NOTA,372,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,RAGHU P,ADHRMPI,214,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,SUKU BALAN,APOI,122,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,114,114,Konni,MANOHARAN IND,IND,75,0.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

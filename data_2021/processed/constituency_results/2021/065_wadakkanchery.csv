@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,65,65,Wadakkanchery,Xavier Chittilappilly,CPI(M),81026,47.7,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,Anil Akkara,INC,65858,38.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,T.S Ullas Babu,BJP,21747,12.8,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,NOTA,NOTA,842,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,65,65,Wadakkanchery,Haji Aboobaker Kundukadan IND,IND,388,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,72,72,Chalakkudy,B D DEVASSY,CPI(M),74251,49.371,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,T U RADHAKRISHNAN,INC,47603,31.6522,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,UNNIKRISHNAN K A,BDJS,26229,17.4402,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,NOTA,NOTA,739,0.4914,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,AYYAPPAN VAZHZVALAPPIL,BSP,561,0.373,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,JIJO,IND,367,0.244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,SABU CHATHELY,IND,304,0.2021,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,A E SABIRA,IND,191,0.127,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,N A DEVASSY NELLIPPILLY,IND,149,0.0991,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf

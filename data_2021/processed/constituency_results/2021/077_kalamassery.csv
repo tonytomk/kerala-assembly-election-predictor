@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,77,77,Kalamassery,P. RAJEEVE,CPI(M),77141,49.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,ADV. V. E. ABDUL GAFOOR,IUML,61805,39.65,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. S. JAYARAJ,BDJS,11179,7.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,V. M. FAISAL,SDPI,2385,1.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,NOTA,NOTA,1518,0.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. S. UNNIKRISHNAN,BSP,857,0.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,P. M. K. BAVA,IND,526,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,77,77,Kalamassery,NAYANA UNNIKRISHNAN IND,IND,452,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

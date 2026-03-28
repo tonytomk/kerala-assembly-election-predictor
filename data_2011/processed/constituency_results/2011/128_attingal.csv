@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,128,128,Attingal,B. SATYAN,UNKNOWN,63558,55.4423,True,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,THANKAMANI DIVAKARAN,INC,33493,29.2163,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,ATTINGAL SURESH,UNKNOWN,7857,6.8537,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,P P VAVA,BJP,4844,4.2255,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,V V SELVARAJ,OTH,1713,1.4943,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,K G SOMAN,UNKNOWN,1561,1.3617,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,M. CHINNAMMA,UNKNOWN,1235,1.0773,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf
+2011,Thiruvananthapuram,128,128,Attingal,G ANIRUDHAN,OTH,377,0.3289,False,https://www.ceo.kerala.gov.in/pdf/form20/128.pdf

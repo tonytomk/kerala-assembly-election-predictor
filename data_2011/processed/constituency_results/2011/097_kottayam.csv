@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,97,97,Kottayam,THIRUVANCHOOR RADHAKRISHNAN,INC,53825,46.8447,True,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,V.N.VASAVAN,UNKNOWN,53114,46.2259,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,NARAYANAN NAMBOOTHIRI,UNKNOWN,5449,4.7423,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,V.S.SHAJAN,UNKNOWN,1737,1.5117,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,RAJEEV ABRAHAM,OTH,387,0.3368,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,N.K.BIJU,UNKNOWN,276,0.2402,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf
+2011,Kottayam,97,97,Kottayam,GEORGE P ELIAS,OTH,113,0.0983,False,https://www.ceo.kerala.gov.in/pdf/form20/097.pdf

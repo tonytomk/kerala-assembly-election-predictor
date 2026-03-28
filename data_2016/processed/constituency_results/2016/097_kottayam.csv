@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,97,97,Kottayam,THIRUVANCHOOR RADHAKRISHNAN,INC,73894,57.459,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ADV. REJI SAKHARIYA,CPI(M),40262,31.3072,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ADV. M S KARUNAKARAN,BJP,12582,9.7836,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ADV. P K GEETHA KRISHNAN,BSP,651,0.5062,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,NOTA,NOTA,483,0.3756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ROY CHEMMANAM,SP,403,0.3134,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,REJITHA JAYARAM,SUCI(C),182,0.1415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,JOHN JOY,IND,88,0.0684,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,PAYAS C P,IND,58,0.0451,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf

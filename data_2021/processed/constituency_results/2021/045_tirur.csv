@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,45,45,Tirur,KURUKKOLI MOIDEEN,IUML,82314,48.21,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,Adv. GAFOOR P LILLIS,CPI(M),75100,43.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,Dr. ABDUL SALAM M,BJP,9097,5.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ASHRAF,SDPI,2712,1.59,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,MOIDEEN MEENTHRATHAKATH,IND,477,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,NOTA,NOTA,417,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABOOBACKER SIDHEEK,IND,240,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,MOIDEEN VALIYAKATH,IND,169,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABDUL MAHROOF A.K,IND,111,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABDUL GAFOOR PULIKKAL,IND,68,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,45,45,Tirur,ABDUL GAFOOR VALIYA Blowing Turha,IND,37,0.02,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

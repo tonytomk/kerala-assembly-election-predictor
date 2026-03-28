@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,25,25,Balusseri,PURUSHUAN KADALUNDY,CPI(M),82914,47.4967,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,U.C RAMAN PADANILAM,IND,67450,38.6382,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,P.K SUPRAN,BJP,19324,11.0696,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,BALAN NADUVANNUR,SDPI,1764,1.0105,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,SASEENDRAN BAPPANKAD,WPI,959,0.5494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,RAMAN THACHAMPOYIL MEETHAL,IND,710,0.4067,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,NOTA,NOTA,638,0.3655,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,K.T SIVAN,IND,497,0.2847,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,JAYARAJAN,IND,312,0.1787,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf

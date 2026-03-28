@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,64,64,Manalur,MURALI PERUNELLY,CPI(M),78337,46.77,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,VIJAY HARI,INC,48461,28.93,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,A.N. RADHAKRISHNAN,BJP,36566,21.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,P.FAISAL IBRAHIM,SDPI,2294,1.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,NOTA,NOTA,712,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,DEVARAJAN MOOKOLA,IND,660,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,64,64,Manalur,ABHAYAN MANALUR BSP,BSP,472,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

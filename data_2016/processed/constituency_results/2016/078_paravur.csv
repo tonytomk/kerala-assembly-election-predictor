@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,78,78,Paravur,V D SATHEESAN,UNKNOWN,74985,46.6975,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SARADA MOHAN,UNKNOWN,54351,33.8475,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,HARI VIJAYAN,UNKNOWN,28097,17.4976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,V M FAIZAL,UNKNOWN,923,0.5748,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,NOTA,NOTA,900,0.5605,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SIJIKUMAR K K,UNKNOWN,557,0.3469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SHINSA SELVARAJ,UNKNOWN,302,0.1881,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SATHYANESAN,UNKNOWN,261,0.1625,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,JOSE THOMAS,UNKNOWN,200,0.1246,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf

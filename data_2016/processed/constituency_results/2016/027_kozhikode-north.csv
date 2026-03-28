@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,27,27,kozhikode north,A PRADEEP KUMAR,CPI(M),64192,48.4041,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,P M SURESH BABU,INC,36319,27.3864,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,K P SREESAN,BJP,29860,22.516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,NOTA,NOTA,770,0.5806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,VELAYUDHAN.K.P,UNKNOWN,457,0.3446,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,ABDUL VAHID,UNKNOWN,351,0.2647,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,S JENNIFER,UNKNOWN,208,0.1568,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,E PRADEEP KUMAR PEEDIKATHODI,UNKNOWN,187,0.141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,T SURESH BABU KAMALADHALAM,UNKNOWN,151,0.1139,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,ABDU SAMAD,UNKNOWN,122,0.092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf

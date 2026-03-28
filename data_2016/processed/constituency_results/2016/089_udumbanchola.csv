@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Idukki,89,89,Udumbanchola,M.M. MANI,CPI(M),50813,40.322,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,ADV. SENAPATHY VENU,INC,49704,39.442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,SAJI PARAMBATHU,BDJS,21799,17.2983,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,B. SOMAN,AIADMK,1651,1.3101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,SHANAVAS BAKER,SDPI,831,0.6594,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,NOTA,NOTA,602,0.4777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,RAJU MANJAKKUNNEL,BSP,486,0.3857,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,M.J. FRANCIS,IND,132,0.1047,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf

@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,130,130,Nedumangad,C DIVAKARAN,CPI,57745,38.1561,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,PALOD RAVI,INC,54124,35.7634,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,ADV. V V RAJESH,BJP,35139,23.2187,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,ABDUL SALAM.A,SDPI,1039,0.6865,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,BIPIN .M.I,BSP,910,0.6013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,NOTA,NOTA,807,0.5332,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,ANDOORKONAM SULFI,PDP,503,0.3324,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,SHIBU. G,IND,318,0.2101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,PERINJAMMALA AJI,SHIVSENA,251,0.1659,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,SOMAN,IND,217,0.1434,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,DIVAKARAN PANI,IND,143,0.0945,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,PARIYARAM RAVEENDRAN,IND,80,0.0529,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,RAVEENDRAN NAIR,IND,63,0.0416,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf

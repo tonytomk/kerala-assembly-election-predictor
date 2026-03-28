@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,95,95,Vaikom,K.AJITH,UNKNOWN,62603,51.625,True,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,A.SANEESHKUMAR,INC,52035,42.9102,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,RAMESH KAVIMATTOM,BJP,4512,3.7208,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,SANESH.K,OTH,691,0.5698,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,P.K.PRAKASAN,UNKNOWN,645,0.5319,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,K.S.SASIKALA,UNKNOWN,412,0.3398,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf
+2011,Kottayam,95,95,Vaikom,M.K.DASAN,UNKNOWN,367,0.3026,False,https://www.ceo.kerala.gov.in/pdf/form20/095.pdf

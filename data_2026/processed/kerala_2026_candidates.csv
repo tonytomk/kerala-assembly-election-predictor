@@ -1,0 +1,475 @@
+district,constituency_no,constituency,alliance,party,candidate_name
+Kasaragod,1,Manjeshwaram,LDF,CPI(M),K. R. Jayanandan
+Kasaragod,1,Manjeshwaram,UDF,IUML,A. K. M. Ashraf
+Kasaragod,1,Manjeshwaram,NDA,BJP,K. Surendran
+Kasaragod,2,Kasaragod,LDF,IND,Shanavas Padhoor
+Kasaragod,2,Kasaragod,UDF,IUML,Kallatra Mahin Haji
+Kasaragod,2,Kasaragod,NDA,BJP,M. L. Ashwini
+Kasaragod,3,Udma,LDF,CPI(M),C. H. Kunhambu
+Kasaragod,3,Udma,UDF,INC,K. Neelakandan
+Kasaragod,3,Udma,NDA,BJP,Manulal Meloth
+Kasaragod,4,Kanhangad,LDF,CPI,Govindan Pallikkappil
+Kasaragod,4,Kanhangad,UDF,KEC,Shyji Ottapalli
+Kasaragod,4,Kanhangad,NDA,BJP,M. Balraj
+Kasaragod,5,Thrikaripur,LDF,CPI(M),V. P. P. Mustafa
+Kasaragod,5,Thrikaripur,UDF,INC,Sandeep Varier
+Kasaragod,5,Thrikaripur,NDA,TTP,Ravi Kulangara
+Kannur,6,Payyanur,LDF,CPI(M),T. I. Madhusoodanan
+Kannur,6,Payyanur,UDF,IND,V. Kunjikrishnan
+Kannur,6,Payyanur,NDA,BJP,A. P. Gangadharan
+Kannur,7,Kalliasseri,LDF,CPI(M),M. Vijin
+Kannur,7,Kalliasseri,UDF,INC,Rajeevan Kappachery
+Kannur,7,Kalliasseri,NDA,BJP,A.V Anilkumar
+Kannur,8,Taliparamba,LDF,CPI(M),P. K. Shyamala
+Kannur,8,Taliparamba,UDF,IND,T. K. Govindan
+Kannur,8,Taliparamba,NDA,BJP,N Haridas
+Kannur,8,Taliparamba,AAP,AAP,Anappally Gopalan
+Kannur,9,Irikkur,LDF,KC(M),Mathew Kunnapally
+Kannur,9,Irikkur,UDF,INC,Sajeev Joseph
+Kannur,9,Irikkur,NDA,TTP,Srinath Padmanabhan
+Kannur,9,Irikkur,AAP,AAP,Joseph. P. V
+Kannur,10,Azhikode,LDF,CPI(M),K. V. Sumesh
+Kannur,10,Azhikode,UDF,IUML,Kareem Cheleri
+Kannur,10,Azhikode,NDA,BJP,K. K. Vinod Kumar
+Kannur,11,Kannur,LDF,Cong(S),Kadanappalli Ramachandran
+Kannur,11,Kannur,UDF,INC,T.O. Mohanan
+Kannur,11,Kannur,NDA,BJP,C. Raghunath
+Kannur,12,Dharmadom,LDF,CPI(M),Pinarayi Vijayan
+Kannur,12,Dharmadom,UDF,INC,Abdul Rasheed
+Kannur,12,Dharmadom,NDA,BJP,K. Ranjith
+Kannur,13,Thalassery,LDF,CPI(M),Karayi Rajan
+Kannur,13,Thalassery,UDF,INC,K. P. Saju
+Kannur,13,Thalassery,NDA,BJP,O. Nidheesh
+Kannur,14,Kuthuparamba,LDF,RJD,P. K. Praveen
+Kannur,14,Kuthuparamba,UDF,IUML,Jayanthi Rajan
+Kannur,14,Kuthuparamba,NDA,BJP,Shijilal
+Kannur,14,Kuthuparamba,AAP,AAP,Rafeed. A. P
+Kannur,15,Mattanur,LDF,CPI(M),V. K. Sanoj
+Kannur,15,Mattanur,UDF,INC,Chandran Thillenkeri
+Kannur,15,Mattanur,NDA,BJP,Biju Elakkuzhi
+Kannur,16,Peravoor,LDF,CPI(M),K. K. Shailaja
+Kannur,16,Peravoor,UDF,INC,Sunny Joseph
+Kannur,16,Peravoor,NDA,BDJS,Paily Vathiatt
+Kannur,16,Peravoor,AAP,AAP,Adv. Henstion George
+Wayanad,17,Mananthavady (ST),LDF,CPI(M),O. R. Kelu
+Wayanad,17,Mananthavady (ST),UDF,INC,Usha Vijayan
+Wayanad,17,Mananthavady (ST),NDA,BJP,P. Shyam Raj
+Wayanad,18,Sulthan Bathery (ST),LDF,CPI(M),M. S. Viswanathan
+Wayanad,18,Sulthan Bathery (ST),UDF,INC,I. C. Balakrishnan
+Wayanad,18,Sulthan Bathery (ST),NDA,BJP,A. S. Kavitha
+Wayanad,18,Sulthan Bathery (ST),AAP,AAP,Prakrithi. N. V
+Wayanad,19,Kalpetta,LDF,RJD,P. K. Anil Kumar
+Wayanad,19,Kalpetta,UDF,INC,T. Siddique
+Wayanad,19,Kalpetta,NDA,BJP,Prashanth Malavayal
+Wayanad,19,Kalpetta,AAP,AAP,Rafeek. C. A
+Kozhikode,20,Vatakara,LDF,RJD,M. K. Bhaskaran
+Kozhikode,20,Vatakara,UDF,RMPI,K. K. Rema
+Kozhikode,20,Vatakara,NDA,BJP,K. Dileep
+Kozhikode,21,Kuttiady,LDF,CPI(M),K. P. Kunhammadkutty
+Kozhikode,21,Kuttiady,UDF,IUML,Parakkal Abdulla
+Kozhikode,21,Kuttiady,NDA,BJP,Ramadas Manaleri
+Kozhikode,22,Nadapuram,LDF,CPI,P. Vasantham
+Kozhikode,22,Nadapuram,UDF,INC,K. M. Abhijith
+Kozhikode,22,Nadapuram,NDA,BJP,C. P. Vipin Chandran
+Kozhikode,23,Koyilandy,LDF,CPI(M),K. Dasan
+Kozhikode,23,Koyilandy,UDF,INC,K. Praveen Kumar
+Kozhikode,23,Koyilandy,NDA,BJP,C. R. Praphul Krishnan
+Kozhikode,23,Koyilandy,AAP,AAP,Musthafa. P. K
+Kozhikode,24,Perambra,LDF,CPI(M),T. P. Ramakrishnan
+Kozhikode,24,Perambra,UDF,IUML,Fathima Thahiliya
+Kozhikode,24,Perambra,NDA,BJP,M. Mohanan Master
+Kozhikode,24,Perambra,AAP,AAP,Ranjith Malayil
+Kozhikode,25,Balussery (SC),LDF,CPI(M),K. M. Sachin Dev
+Kozhikode,25,Balussery (SC),UDF,INC,V. T. Sooraj
+Kozhikode,25,Balussery (SC),NDA,BJP,C. P. Sateeshan
+Kozhikode,26,Elathur,LDF,NCP-SP,A. K. Saseendran
+Kozhikode,26,Elathur,UDF,INC,Vidya Balakrishnan
+Kozhikode,26,Elathur,NDA,BJP,T. Devadas
+Kozhikode,26,Elathur,AAP,AAP,Abdul Basith Atholi
+Kozhikode,27,Kozhikode North,LDF,CPI(M),Thottathil Ravindran
+Kozhikode,27,Kozhikode North,UDF,INC,K. Jayanth
+Kozhikode,27,Kozhikode North,NDA,BJP,Navya Haridas
+Kozhikode,27,Kozhikode North,AAP,AAP,Dr. Alphonsa Mathew
+Kozhikode,28,Kozhikode South,LDF,INL,Ahamed Devarkovil
+Kozhikode,28,Kozhikode South,UDF,IUML,Faisal Babu
+Kozhikode,28,Kozhikode South,NDA,BJP,T. Reneesh
+Kozhikode,29,Beypore,LDF,CPI(M),P. A. Mohammed Riyas
+Kozhikode,29,Beypore,UDF,IND,P. V. Anvar
+Kozhikode,29,Beypore,NDA,BJP,K. P. Prakash Babu
+Kozhikode,30,Kunnamangalam,LDF,IND,P. T. A. Rahim
+Kozhikode,30,Kunnamangalam,UDF,IUML,M. A. Razak Master
+Kozhikode,30,Kunnamangalam,NDA,BJP,V. K. Sajeevan
+Kozhikode,31,Koduvally,LDF,IND,Saleem Madavoor
+Kozhikode,31,Koduvally,UDF,IUML,P. K. Firos
+Kozhikode,31,Koduvally,NDA,BDJS,Giri Pambanal
+Kozhikode,31,Koduvally,AAP,AAP,Bavankutty. K. M
+Kozhikode,32,Thiruvambady,LDF,CPI(M),Linto Joseph
+Kozhikode,32,Thiruvambady,UDF,IUML,C. K. Kasim
+Kozhikode,32,Thiruvambady,NDA,TTP,Sunny Thomas
+Kozhikode,32,Thiruvambady,AAP,AAP,Sunny. V. Joseph
+Malappuram,33,Kondotty,LDF,IND,P. Jiji
+Malappuram,33,Kondotty,UDF,IUML,T. P. Ashrafali
+Malappuram,33,Kondotty,NDA,BJP,P. Subhramanyan
+Malappuram,34,Eranad,LDF,CPI,Shafeer Kizhisery
+Malappuram,34,Eranad,UDF,IUML,P. K. Basheer
+Malappuram,34,Eranad,NDA,BJP,N. Sreeprakash
+Malappuram,35,Nilambur,LDF,IND,U. Sharafali
+Malappuram,35,Nilambur,UDF,INC,Aryadan Shoukath
+Malappuram,35,Nilambur,NDA,BDJS,Gireesh Mekkad
+Malappuram,35,Nilambur,AAP,AAP,Jaisal Maliyekkal
+Malappuram,36,Wandoor (SC),LDF,CPI(M),K. K. Damodaran
+Malappuram,36,Wandoor (SC),UDF,INC,A. P. Anil Kumar
+Malappuram,36,Wandoor (SC),NDA,IND,E. P. Kumaradas
+Malappuram,37,Manjeri,LDF,IND,M. Mustafa
+Malappuram,37,Manjeri,UDF,IUML,M. Rahmathulla
+Malappuram,37,Manjeri,NDA,BJP,Pathmasree M.
+Malappuram,37,Manjeri,AAP,AAP,Adv. PPA Sageer
+Malappuram,38,Perinthalmanna,LDF,CPI(M),V. P. Muhammad Haneefa
+Malappuram,38,Perinthalmanna,UDF,IUML,Najeeb Kanthapuram
+Malappuram,38,Perinthalmanna,NDA,BJP,K.P. Baburaj
+Malappuram,39,Mankada,LDF,IND,Kunnath Muhammed
+Malappuram,39,Mankada,UDF,IUML,Manjalamkuzhi Ali
+Malappuram,39,Mankada,NDA,BJP,Lijoy Paul
+Malappuram,40,Malappuram,LDF,NCP-SP,T. Mujeeb
+Malappuram,40,Malappuram,UDF,IUML,P. K. Kunhalikutty
+Malappuram,40,Malappuram,NDA,BJP,Aswathy Gupthakumar
+Malappuram,40,Malappuram,AAP,AAP,Aboobacker. K. P
+Malappuram,41,Vengara,LDF,IND,Muhammad Sabah Kundukuzhikkal
+Malappuram,41,Vengara,UDF,IUML,K. M. Shaji
+Malappuram,41,Vengara,NDA,BJP,Jayakrishnan V. N.
+Malappuram,42,Vallikkunnu,LDF,IND,C. P. Musthafa
+Malappuram,42,Vallikkunnu,UDF,IUML,T. V. Ibrahim
+Malappuram,42,Vallikkunnu,NDA,BJP,M. Preman Master
+Malappuram,42,Vallikkunnu,AAP,AAP,Abdul Aziz Kadalundi
+Malappuram,43,Tirurangadi,LDF,CPI,Ajit Koladi
+Malappuram,43,Tirurangadi,UDF,IUML,P. M. A. Sameer
+Malappuram,43,Tirurangadi,NDA,BJP,Riju C Raghav
+Malappuram,43,Tirurangadi,AAP,AAP,Moosa Jarathingal
+Malappuram,44,Tanur,LDF,IND,P. Mohammed Sameer
+Malappuram,44,Tanur,UDF,IUML,P. K. Navas
+Malappuram,44,Tanur,NDA,BJP,Deepa Puzhakkal
+Malappuram,45,Tirur,LDF,CPI(M),V. Abdurahiman
+Malappuram,45,Tirur,UDF,IUML,Kurukkoli Moideen
+Malappuram,45,Tirur,NDA,BJP,K. Narayanan Master
+Malappuram,45,Tirur,AAP,AAP,Kabeer Shameer Kuttur
+Malappuram,46,Kottakkal,LDF,CPI(M),Preethi Konchath
+Malappuram,46,Kottakkal,UDF,IUML,K. K. Abid Hussain Thangal
+Malappuram,46,Kottakkal,NDA,BDJS,Subrahmanian Chunkapally
+Malappuram,47,Thavanur,LDF,IND,K. T. Jaleel
+Malappuram,47,Thavanur,UDF,INC,V. S. Joy
+Malappuram,47,Thavanur,NDA,BJP,Ravi Thelath
+Malappuram,48,Ponnani,LDF,CPI(M),M. K. Sakeer
+Malappuram,48,Ponnani,UDF,INC,K. P. Noushad Ali
+Malappuram,48,Ponnani,NDA,BDJS,E. Maneesh
+Palakkad,49,Thrithala,LDF,CPI(M),M. B. Rajesh
+Palakkad,49,Thrithala,UDF,INC,V. T. Balram
+Palakkad,49,Thrithala,NDA,BJP,V. Unnikrishnan Master
+Palakkad,50,Pattambi,LDF,CPI,Muhammed Muhsin
+Palakkad,50,Pattambi,UDF,INC,T.P. Shaji
+Palakkad,50,Pattambi,NDA,BJP,P. Manoj
+Palakkad,51,Shornur,LDF,CPI(M),P. Mammikutty
+Palakkad,51,Shornur,UDF,INC,P. Harigovindan Master
+Palakkad,51,Shornur,NDA,BJP,Sanku T. Das
+Palakkad,52,Ottapalam,LDF,CPI(M),K. Premkumar
+Palakkad,52,Ottapalam,UDF,IND,P. K. Sasi
+Palakkad,52,Ottapalam,NDA,BJP,Major Ravi
+Palakkad,53,Kongad (SC),LDF,CPI(M),K. Shanthakumari
+Palakkad,53,Kongad (SC),UDF,INC,K. A. Thulasi
+Palakkad,53,Kongad (SC),NDA,BJP,Renu Suresh
+Palakkad,54,Mannarkkad,LDF,CPI,Mansil Abubacker
+Palakkad,54,Mannarkkad,UDF,IUML,N. Samsudheen
+Palakkad,54,Mannarkkad,NDA,BDJS,Issac Varghese
+Palakkad,55,Malampuzha,LDF,CPI(M),E. Prabhakaran
+Palakkad,55,Malampuzha,UDF,INC,A. Suresh
+Palakkad,55,Malampuzha,NDA,BJP,C. Krishnakumar
+Palakkad,55,Malampuzha,AAP,AAP,Saji. P. J
+Palakkad,56,Palakkad,LDF,IND,N. M. R. Rasakh
+Palakkad,56,Palakkad,UDF,INC,Ramesh Pisharody
+Palakkad,56,Palakkad,NDA,BJP,Sobha Surendran
+Palakkad,56,Palakkad,AAP,AAP,Udayan Sukumaran
+Palakkad,57,Tarur (SC),LDF,CPI(M),P. P. Sumod
+Palakkad,57,Tarur (SC),UDF,INC,K. C. Subramanian
+Palakkad,57,Tarur (SC),NDA,BJP,Suresh Babu
+Palakkad,58,Chittur,LDF,ISJD,V. Murugadas
+Palakkad,58,Chittur,UDF,INC,Sumesh Achuthan
+Palakkad,58,Chittur,NDA,BJP,Pranesh Rajendran
+Palakkad,59,Nenmara,LDF,CPI(M),K. Preman
+Palakkad,59,Nenmara,UDF,INC,A. Thankappan
+Palakkad,59,Nenmara,NDA,BDJS,A. N. Anurag
+Palakkad,60,Alathur,LDF,CPI(M),T. M. Sasi
+Palakkad,60,Alathur,UDF,INC,K. N. Febin
+Palakkad,60,Alathur,NDA,BJP,K. V. Prasanna Kumar
+Thrissur,61,Chelakkara (SC),LDF,CPI(M),U. R. Pradeep
+Thrissur,61,Chelakkara (SC),UDF,IND,Sivan Veettikkunnu
+Thrissur,61,Chelakkara (SC),NDA,BJP,K. Balakrishnan
+Thrissur,61,Chelakkara (SC),AAP,AAP,K. V. Subramaniyan
+Thrissur,62,Kunnamkulam,LDF,CPI(M),A. C. Moideen
+Thrissur,62,Kunnamkulam,UDF,INC,P. T. Ajay Mohan
+Thrissur,62,Kunnamkulam,NDA,BDJS,Rijil K. R.
+Thrissur,62,Kunnamkulam,AAP,AAP,Rajeev. K. Sivaraman
+Thrissur,63,Guruvayur,LDF,CPI(M),N. K. Akbar
+Thrissur,63,Guruvayur,UDF,IUML,C. H. Rasheed
+Thrissur,63,Guruvayur,NDA,BJP,B. Gopalakrishnan
+Thrissur,63,Guruvayur,AAP,AAP,Pauly Francis Guruvayoor
+Thrissur,64,Manalur,LDF,CPI(M),C. Raveendranath
+Thrissur,64,Manalur,UDF,INC,T. N. Prathapan
+Thrissur,64,Manalur,NDA,BJP,K. K. Aneesh Kumar
+Thrissur,64,Manalur,AAP,AAP,Unnikrishnan. C. S
+Thrissur,65,Wadakkanchery,LDF,CPI(M),Xavier Chittilappilly
+Thrissur,65,Wadakkanchery,UDF,INC,Vyshak Narayanaswami
+Thrissur,65,Wadakkanchery,NDA,BJP,T. S. Ullas Babu
+Thrissur,65,Wadakkanchery,AAP,AAP,Jithin Sadanandan
+Thrissur,66,Ollur,LDF,CPI,K. Rajan
+Thrissur,66,Ollur,UDF,INC,Shaji Kodankandath
+Thrissur,66,Ollur,NDA,BJP,Bijoy Thomas
+Thrissur,66,Ollur,AAP,AAP,V. P. Prinson
+Thrissur,67,Thrissur,LDF,CPI,Alankode Leelakrishnan
+Thrissur,67,Thrissur,UDF,INC,Rajan Pallan
+Thrissur,67,Thrissur,NDA,BJP,Padmaja Venugopal
+Thrissur,67,Thrissur,AAP,AAP,Rani Anto
+Thrissur,68,Nattika (SC),LDF,CPI,Geetha Gopi
+Thrissur,68,Nattika (SC),UDF,INC,Sunil Lalur
+Thrissur,68,Nattika (SC),NDA,BJP,C. C. Mukundan
+Thrissur,69,Kaipamangalam,LDF,CPI,K. K. Valsaraj
+Thrissur,69,Kaipamangalam,UDF,INC,T. M. Nazar
+Thrissur,69,Kaipamangalam,NDA,BDJS,Athulya Ghosh
+Thrissur,69,Kaipamangalam,AAP,AAP,Jayan Erath
+Thrissur,70,Irinjalakuda,LDF,CPI(M),R. Bindu
+Thrissur,70,Irinjalakuda,UDF,KEC,Thomas Unniyadan
+Thrissur,70,Irinjalakuda,NDA,BJP,Santhosh Cherkalam
+Thrissur,70,Irinjalakuda,AAP,AAP,Dr. Shaju. K. Y. (Kavungal)
+Thrissur,71,Puthukkad,LDF,CPI(M),K. K. Ramachandran
+Thrissur,71,Puthukkad,UDF,INC,K. M. Babu Raj
+Thrissur,71,Puthukkad,NDA,BJP,A. Nagesh
+Thrissur,71,Puthukkad,AAP,AAP,Jayakrishnan. P. N
+Thrissur,72,Chalakudy,LDF,KC(M),Biju Chirayath
+Thrissur,72,Chalakudy,UDF,INC,T. J. Saneesh Kumar Joseph
+Thrissur,72,Chalakudy,NDA,TTP,Charly Paul
+Thrissur,72,Chalakudy,AAP,AAP,Wilson Kallen
+Thrissur,73,Kodungallur,LDF,CPI,V. R. Sunil
+Thrissur,73,Kodungallur,UDF,INC,O. J. Janeesh
+Thrissur,73,Kodungallur,NDA,TTP,Varghese George
+Thrissur,73,Kodungallur,AAP,AAP,Dr. K. M. Francis Roy
+Ernakulam,74,Perumbavoor,LDF,KC(M),Basil Paul
+Ernakulam,74,Perumbavoor,UDF,INC,Manoj Moothedan
+Ernakulam,74,Perumbavoor,NDA,TTP,Jibi Pathickal
+Ernakulam,75,Angamaly,LDF,CPI(M),Saju Paul
+Ernakulam,75,Angamaly,UDF,INC,Roji M. John
+Ernakulam,75,Angamaly,NDA,TTP,Promy Kuriakose
+Ernakulam,76,Aluva,LDF,CPI(M),A. M. Ariff
+Ernakulam,76,Aluva,UDF,INC,Anwar Sadath
+Ernakulam,76,Aluva,NDA,BJP,M. A. Brahmaraj
+Ernakulam,76,Aluva,AAP,AAP,Hakkikath Hameed
+Ernakulam,77,Kalamassery,LDF,CPI(M),P. Rajeeve
+Ernakulam,77,Kalamassery,UDF,IUML,V. E. Abdul Gafoor
+Ernakulam,77,Kalamassery,NDA,BDJS,M. P. Binu
+Ernakulam,77,Kalamassery,AAP,AAP,Shamsu. T. K
+Ernakulam,78,Paravur,LDF,CPI,E. T. Taison
+Ernakulam,78,Paravur,UDF,INC,V. D. Satheesan
+Ernakulam,78,Paravur,NDA,BJP,Vathsala Prasanna Kumar
+Ernakulam,79,Vypin,LDF,CPI(M),M. B. Shaini
+Ernakulam,79,Vypin,UDF,INC,Tony Chammany
+Ernakulam,79,Vypin,NDA,TTP,Anitha Thomas
+Ernakulam,79,Vypin,AAP,AAP,Mohandas. P. G
+Ernakulam,80,Kochi,LDF,CPI(M),K. J. Maxi
+Ernakulam,80,Kochi,UDF,INC,Mohammad Shiyas
+Ernakulam,80,Kochi,NDA,TTP,Xavier Joolappan
+Ernakulam,81,Thrippunithura,LDF,CPI(M),K. N. Unnikrishnan
+Ernakulam,81,Thrippunithura,UDF,INC,Deepak Joy
+Ernakulam,81,Thrippunithura,NDA,TTP,Anjali Nair
+Ernakulam,81,Thrippunithura,AAP,AAP,Thomas Paul
+Ernakulam,82,Ernakulam,LDF,ISJD,Sabu George
+Ernakulam,82,Ernakulam,UDF,INC,T. J. Vinod
+Ernakulam,82,Ernakulam,NDA,BJP,P. R. Shivashankaran
+Ernakulam,82,Ernakulam,AAP,AAP,Moses Henry Motha
+Ernakulam,83,Thrikkakara,LDF,CPI(M),Pushpa Das
+Ernakulam,83,Thrikkakara,UDF,INC,Uma Thomas
+Ernakulam,83,Thrikkakara,NDA,TTP,Akhil Marar
+Ernakulam,83,Thrikkakara,AAP,AAP,Jose George
+Ernakulam,84,Kunnathunad (SC),LDF,CPI(M),P. V. Srinijin
+Ernakulam,84,Kunnathunad (SC),UDF,INC,V. P. Sajeendran
+Ernakulam,84,Kunnathunad (SC),NDA,TTP,Babu Divakaran
+Ernakulam,85,Piravom,LDF,KC(M),Sabu K. Jacob
+Ernakulam,85,Piravom,UDF,KC(J),Anoop Jacob
+Ernakulam,85,Piravom,NDA,TTP,Jibi Abraham
+Ernakulam,85,Piravom,AAP,AAP,Eldho Abraham
+Ernakulam,86,Muvattupuzha,LDF,CPI,N. Arun
+Ernakulam,86,Muvattupuzha,UDF,INC,Mathew Kuzhalnadan
+Ernakulam,86,Muvattupuzha,NDA,TTP,Sunny Kadoothazhe
+Ernakulam,87,Kothamangalam,LDF,CPI(M),Antony John
+Ernakulam,87,Kothamangalam,UDF,KEC,Shibu Thekkumpuram
+Ernakulam,87,Kothamangalam,NDA,BDJS,Aji Narayanan
+Idukki,88,Devikulam (SC),LDF,CPI(M),A. Raja
+Idukki,88,Devikulam (SC),UDF,INC,F. Raja
+Idukki,88,Devikulam (SC),NDA,BJP,S. Rajendran
+Idukki,89,Udumbanchola,LDF,CPI(M),K. K. Jayachandran
+Idukki,89,Udumbanchola,UDF,INC,Senapathy Venu
+Idukki,89,Udumbanchola,NDA,BDJS,Sangeetha Viswanathan
+Idukki,90,Thodupuzha,LDF,KC(M),Cyriac Chazhikaadan
+Idukki,90,Thodupuzha,UDF,KEC,Apu John Joseph
+Idukki,90,Thodupuzha,NDA,TTP,Roy A. Varikkadu
+Idukki,90,Thodupuzha,AAP,AAP,Adv. Basil John
+Idukki,91,Idukki,LDF,KC(M),Roshy Augustine
+Idukki,91,Idukki,UDF,INC,Roy K. Paulose
+Idukki,91,Idukki,NDA,BDJS,Pratheesh Prabha
+Idukki,92,Peerumade,LDF,CPI,K. Salim Kumar
+Idukki,92,Peerumade,UDF,INC,Cyriac Thomas
+Idukki,92,Peerumade,NDA,BJP,V. Ratheesh
+Idukki,92,Peerumade,AAP,AAP,Joseph Jacob
+Kottayam,93,Pala,LDF,KC(M),Jose K. Mani
+Kottayam,93,Pala,UDF,IND,Mani C. Kappan
+Kottayam,93,Pala,NDA,BJP,Shone George
+Kottayam,93,Pala,AAP,AAP,Rony Jose Nedumpallil
+Kottayam,94,Kaduthuruthy,LDF,KC(M),Nirmala Jimmy
+Kottayam,94,Kaduthuruthy,UDF,KEC,Mons Joseph
+Kottayam,94,Kaduthuruthy,NDA,BDJS,Suresh Ettikunnel
+Kottayam,94,Kaduthuruthy,AAP,AAP,Dominic Simon
+Kottayam,95,Vaikom (SC),LDF,CPI,P. Pradeep
+Kottayam,95,Vaikom (SC),UDF,INC,K. Binimon
+Kottayam,95,Vaikom (SC),NDA,BJP,K. Ajith
+Kottayam,96,Ettumanoor,LDF,CPI(M),V. N. Vasavan
+Kottayam,96,Ettumanoor,UDF,INC,Nattakom Suresh
+Kottayam,96,Ettumanoor,NDA,TTP,Athira D Nair
+Kottayam,97,Kottayam,LDF,CPI(M),K. Anilkumar
+Kottayam,97,Kottayam,UDF,INC,Thiruvanchoor Radhakrishnan
+Kottayam,97,Kottayam,NDA,BDJS,P. Anilkumar
+Kottayam,97,Kottayam,AAP,AAP,Dr. Celine Philip
+Kottayam,98,Puthuppally,LDF,CPI(M),K. M. Radhakrishnan
+Kottayam,98,Puthuppally,UDF,INC,Chandy Oommen
+Kottayam,98,Puthuppally,NDA,BJP,Ravindranath Vakathanam
+Kottayam,99,Changanassery,LDF,KC(M),Job Michael
+Kottayam,99,Changanassery,UDF,KEC,Vinu Job
+Kottayam,99,Changanassery,NDA,BJP,B. Radhakrishna Menon
+Kottayam,99,Changanassery,AAP,AAP,Prof. (Dr.) Saju Kannanthara
+Kottayam,100,Kanjirappally,LDF,KC(M),N. Jayaraj
+Kottayam,100,Kanjirappally,UDF,INC,Rony K Baby
+Kottayam,100,Kanjirappally,NDA,BJP,George Kurian
+Kottayam,101,Poonjar,LDF,KC(M),Sebastian Kulathunkal
+Kottayam,101,Poonjar,UDF,INC,Sebastian M. J.
+Kottayam,101,Poonjar,NDA,BJP,P. C. George
+Alappuzha,102,Aroor,LDF,CPI(M),Daleema
+Alappuzha,102,Aroor,UDF,INC,Shanimol Usman
+Alappuzha,102,Aroor,NDA,BDJS,P. S. Jyothis
+Alappuzha,103,Cherthala,LDF,CPI,P. Prasad
+Alappuzha,103,Cherthala,UDF,INC,K. R. Rajendra Prasad
+Alappuzha,103,Cherthala,NDA,BDJS,T. P. Anantharaj
+Alappuzha,103,Cherthala,AAP,AAP,Tomy Elachery
+Alappuzha,104,Alappuzha,LDF,CPI(M),P. P. Chitharanjan
+Alappuzha,104,Alappuzha,UDF,INC,A.D. Thomas
+Alappuzha,104,Alappuzha,NDA,BJP,M. J. Job
+Alappuzha,105,Ambalappuzha,LDF,CPI(M),H. Salam
+Alappuzha,105,Ambalappuzha,UDF,IND,G. Sudhakaran
+Alappuzha,105,Ambalappuzha,NDA,BJP,Arun Anirudhan
+Alappuzha,106,Kuttanad,LDF,NCP-SP,Thomas K. Thomas
+Alappuzha,106,Kuttanad,UDF,KEC,Reji Cheriyan
+Alappuzha,106,Kuttanad,NDA,BDJS,Santhosh Santhy
+Alappuzha,106,Kuttanad,AAP,AAP,Joseph Mathew (Roy Muttar)
+Alappuzha,107,Haripad,LDF,CPI,T. T. Jismon
+Alappuzha,107,Haripad,UDF,INC,Ramesh Chennithala
+Alappuzha,107,Haripad,NDA,BJP,Sandeep Vachaspati
+Alappuzha,108,Kayamkulam,LDF,CPI(M),U. Prathibha
+Alappuzha,108,Kayamkulam,UDF,INC,M.Liju
+Alappuzha,108,Kayamkulam,NDA,BDJS,Thambi Mettuthara
+Alappuzha,109,Mavelikara (SC),LDF,CPI(M),M. S. Arun Kumar
+Alappuzha,109,Mavelikara (SC),UDF,INC,Muthara Raj
+Alappuzha,109,Mavelikara (SC),NDA,BJP,Ajimon
+Alappuzha,110,Chengannur,LDF,CPI(M),Saji Cherian
+Alappuzha,110,Chengannur,UDF,INC,Eby Kuriakose
+Alappuzha,110,Chengannur,NDA,BJP,M. V. Gopakumar
+Pathanamthitta,111,Thiruvalla,LDF,ISJD,Mathew T. Thomas
+Pathanamthitta,111,Thiruvalla,UDF,KEC,Varghese Mammen
+Pathanamthitta,111,Thiruvalla,NDA,BJP,Anoop Antony
+Pathanamthitta,112,Ranni,LDF,KC(M),Pramod Narayanan
+Pathanamthitta,112,Ranni,UDF,INC,Pazhakulam Madhu
+Pathanamthitta,112,Ranni,NDA,TTP,Thomas K. Samuel
+Pathanamthitta,113,Aranmula,LDF,CPI(M),Veena George
+Pathanamthitta,113,Aranmula,UDF,INC,Abin Varkey
+Pathanamthitta,113,Aranmula,NDA,BJP,Kummanam Rajasekharan
+Pathanamthitta,114,Konni,LDF,CPI(M),K. U. Jenish Kumar
+Pathanamthitta,114,Konni,UDF,INC,Satheesh Kochuparambil
+Pathanamthitta,114,Konni,NDA,BDJS,T. P. Sundareshan
+Pathanamthitta,115,Adoor (SC),LDF,CPI,Praji Sashidharan
+Pathanamthitta,115,Adoor (SC),UDF,INC,Santhakumar
+Pathanamthitta,115,Adoor (SC),NDA,BJP,Pandalam Prathapan
+Kollam,116,Karunagappally,LDF,CPI,M. S. Thara
+Kollam,116,Karunagappally,UDF,INC,C. R. Mahesh
+Kollam,116,Karunagappally,NDA,BJP,V. S. Jithin Dev
+Kollam,117,Chavara,LDF,IND,Sujith Vijayanpillai
+Kollam,117,Chavara,UDF,RSP,Shibu Baby John
+Kollam,117,Chavara,NDA,BJP,K. R. Rajesh
+Kollam,118,Kunnathur (SC),LDF,RSP(L),Kovoor Kunjumon
+Kollam,118,Kunnathur (SC),UDF,RSP,Ullas Kovoor
+Kollam,118,Kunnathur (SC),NDA,BJP,Raji Prasad
+Kollam,119,Kottarakkara,LDF,CPI(M),K. N. Balagopal
+Kollam,119,Kottarakkara,UDF,INC,P. Aisha Potty
+Kollam,119,Kottarakkara,NDA,BJP,R. Reshmi
+Kollam,119,Kottarakkara,AAP,AAP,Mamachan. D
+Kollam,120,Pathanapuram,LDF,KC(B),K. B. Ganesh Kumar
+Kollam,120,Pathanapuram,UDF,INC,Jyothikumar Chamakkala
+Kollam,120,Pathanapuram,NDA,TTP,Anil Kumar S.
+Kollam,121,Punalur,LDF,CPI,C. Ajaya Prasad
+Kollam,121,Punalur,UDF,IUML,Noushad Yunus
+Kollam,121,Punalur,NDA,TTP,B Raghunathan Pillai
+Kollam,122,Chadayamangalam,LDF,CPI,J. Chinchu Rani
+Kollam,122,Chadayamangalam,UDF,INC,M. M. Nazeer
+Kollam,122,Chadayamangalam,NDA,BJP,R. S. Arun Raj
+Kollam,123,Kundara,LDF,CPI(M),S. L. Sajikumar
+Kollam,123,Kundara,UDF,INC,P. C. Vishnunadh
+Kollam,123,Kundara,NDA,BJP,Robin Radhakrishnan
+Kollam,124,Kollam,LDF,CPI(M),S. Jayamohan
+Kollam,124,Kollam,UDF,INC,Bindhu Krishna
+Kollam,124,Kollam,NDA,BJP,N. Prathap Kumar
+Kollam,124,Kollam,AAP,AAP,Adv. Sinu. L. R
+Kollam,125,Eravipuram,LDF,CPI(M),M. Noushad
+Kollam,125,Eravipuram,UDF,RSP,Vishnu Mohan
+Kollam,125,Eravipuram,NDA,BDJS,Saji D. Anand
+Kollam,126,Chathannoor,LDF,CPI,R. Rajendran
+Kollam,126,Chathannoor,UDF,INC,Sooraj Ravi
+Kollam,126,Chathannoor,NDA,BJP,B. B. Gopakumar
+Kollam,126,Chathannoor,AAP,AAP,Arun. A
+Thiruvananthapuram,127,Varkala,LDF,CPI(M),V. Joy
+Thiruvananthapuram,127,Varkala,UDF,INC,Varkala Kahar
+Thiruvananthapuram,127,Varkala,NDA,BJP,S. Smitha
+Thiruvananthapuram,128,Attingal (SC),LDF,CPI(M),O. S. Ambika
+Thiruvananthapuram,128,Attingal (SC),UDF,RSP,Santhosh Bhadran
+Thiruvananthapuram,128,Attingal (SC),NDA,BJP,P. Sudheer
+Thiruvananthapuram,129,Chirayinkeezhu (SC),LDF,CPI,Manoj Idamana
+Thiruvananthapuram,129,Chirayinkeezhu (SC),UDF,INC,Ramya Haridas
+Thiruvananthapuram,129,Chirayinkeezhu (SC),NDA,BJP,B. S. Anoop
+Thiruvananthapuram,130,Nedumangad,LDF,CPI,G. R. Anil
+Thiruvananthapuram,130,Nedumangad,UDF,INC,Meenankal Kumar
+Thiruvananthapuram,130,Nedumangad,NDA,BJP,Yuvaraj Gokul
+Thiruvananthapuram,131,Vamanapuram,LDF,CPI(M),D. K. Murali
+Thiruvananthapuram,131,Vamanapuram,UDF,INC,Sudheersha Palode
+Thiruvananthapuram,131,Vamanapuram,NDA,BDJS,Venu Karanavar
+Thiruvananthapuram,132,Kazhakkoottam,LDF,CPI(M),Kadakampally Surendran
+Thiruvananthapuram,132,Kazhakkoottam,UDF,INC,Sarathchandra Prasad
+Thiruvananthapuram,132,Kazhakkoottam,NDA,BJP,V. Muraleedharan
+Thiruvananthapuram,133,Vattiyoorkavu,LDF,CPI(M),V. K. Prasanth
+Thiruvananthapuram,133,Vattiyoorkavu,UDF,INC,K. Muraleedharan
+Thiruvananthapuram,133,Vattiyoorkavu,NDA,BJP,R. Sreelekha
+Thiruvananthapuram,134,Thiruvananthapuram,LDF,IND,Sudheer Karamana
+Thiruvananthapuram,134,Thiruvananthapuram,UDF,CMP,C. P. John
+Thiruvananthapuram,134,Thiruvananthapuram,NDA,BJP,Karamana Jayan
+Thiruvananthapuram,134,Thiruvananthapuram,AAP,AAP,Samin Sathyadas
+Thiruvananthapuram,135,Nemom,LDF,CPI(M),V. Sivankutty
+Thiruvananthapuram,135,Nemom,UDF,INC,K. S. Sabarinadhan
+Thiruvananthapuram,135,Nemom,NDA,BJP,Rajeev Chandrasekhar
+Thiruvananthapuram,135,Nemom,AAP,AAP,Vinu. K
+Thiruvananthapuram,136,Aruvikkara,LDF,CPI(M),G. Steephen
+Thiruvananthapuram,136,Aruvikkara,UDF,INC,V. S. Sivakumar
+Thiruvananthapuram,136,Aruvikkara,NDA,BJP,Vivek Gopan
+Thiruvananthapuram,137,Parassala,LDF,CPI(M),C. K. Hareendran
+Thiruvananthapuram,137,Parassala,UDF,INC,Neyyattinkara Sanal
+Thiruvananthapuram,137,Parassala,NDA,BJP,Gireesh Neyyar
+Thiruvananthapuram,137,Parassala,AAP,AAP,Deepumon. N
+Thiruvananthapuram,138,Kattakkada,LDF,CPI(M),I. B. Sathish
+Thiruvananthapuram,138,Kattakkada,UDF,INC,M.R. Baiju
+Thiruvananthapuram,138,Kattakkada,NDA,BJP,P. K. Krishnadas
+Thiruvananthapuram,139,Kovalam,LDF,IND,Bhagat Rufus
+Thiruvananthapuram,139,Kovalam,UDF,INC,M. Vincent
+Thiruvananthapuram,139,Kovalam,NDA,BJP,T. N. Suresh
+Thiruvananthapuram,139,Kovalam,AAP,AAP,Manoj. S. P
+Thiruvananthapuram,140,Neyyattinkara,LDF,CPI(M),K. Ancelan
+Thiruvananthapuram,140,Neyyattinkara,UDF,INC,N. Sakthan
+Thiruvananthapuram,140,Neyyattinkara,NDA,BJP,S. Rajasekharan Nair

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,75,75,Angamaly,ROJI M JOHN,INC,66666,48.9626,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,BENNY MOONJELY,JD(S),57480,42.216,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,P J BABU,KC,9014,6.6203,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,NOTA,NOTA,811,0.5956,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,JAYANTHI AVINASH,BSP,742,0.545,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,M K KANJANAVALLY,SUCI(C),595,0.437,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,P R MANIKYAMANGALAM (P R MOHANAN),IND,385,0.2828,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,SUNNY THOMAS MADASSERY,IND,245,0.1799,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,SHAJAN THATTIL,SP,219,0.1608,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf

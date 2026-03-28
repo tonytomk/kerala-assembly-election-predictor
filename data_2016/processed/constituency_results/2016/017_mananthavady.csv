@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Wayanad,17,17,Mananthavady,O R KELU,CPI(M),62436,42.8842,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,P K JAYALAKSHMI,INC,61129,41.9865,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,K MOHANDAS,BJP,16230,11.1476,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,SOMAN P N,SDPI,1377,0.9458,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,LAKSHMI,IND,1300,0.8929,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,NOTA,NOTA,1050,0.7212,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,ANNAN MADAKKIMALA,BSP,679,0.4664,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,KELU CHAYIMMAL,IND,583,0.4004,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,VIJAYAN,CPI(ML)REDSTAR,224,0.1539,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,USHA K,IND,205,0.1408,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,KELU KOLLIYIL,IND,196,0.1346,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,NITTAMANI K KUNHIRAMAN,IND,183,0.1257,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf

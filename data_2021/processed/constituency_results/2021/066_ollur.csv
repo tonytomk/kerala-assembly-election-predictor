@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,66,66,Ollur,K Rajan,CPI,76657,49.09,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,Jose Valloor,INC,55151,35.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,Adv. B Gopalakrishnan,BJP,22295,14.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,NOTA,NOTA,827,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,K K GEORGE KAKKASSERY,IND,628,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,Benny Kodiyatil,IND,331,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,66,66,Ollur,P K Subramanian BSP,BSP,282,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

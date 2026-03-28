@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,72,72,Chalakkudy,Saneeshkumar Joseph,INC,61888,43.23,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,DENNIES K ANTONY,KEC(M),60831,42.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Unnikrishnan K.A,BDJS,17301,12.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,NOTA,NOTA,1000,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,T N Rajan,IND,713,0.5,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,M S Asokan,BSP,617,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Dharmajan P K,SUCI,253,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Rosilin,IND,248,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Joshy Vattoly,IND,160,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,72,72,Chalakkudy,Cheriya IND,IND,143,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

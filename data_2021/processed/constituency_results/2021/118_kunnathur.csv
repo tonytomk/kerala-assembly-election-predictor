@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,118,118,Kunnathur,KOVOOR KUNJUMON,IND,69531,43.18,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,ULLAS KOVOOR,RSP,66522,41.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,RAJIPRASAD,BJP,21847,13.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,R.S. ANJU,BSP,947,0.59,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,NOTA,NOTA,919,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,MANTHARA VELAYUDHAN,IND,621,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,R. SUKUMARAN,ADHRMPI,326,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,118,118,Kunnathur,ARUNKUMAR S ULIYACOVIL IND,IND,325,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

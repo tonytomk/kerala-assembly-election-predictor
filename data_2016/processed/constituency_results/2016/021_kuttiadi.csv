@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,21,21,Kuttiadi,PARAKKAL ABDULLA,IUML,71809,45.5035,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,K K LATHIKA,CPI(M),70652,44.7703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,RAMADAS MANALERI,BJP,12327,7.8113,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,P C BASKARAN,WPI,1125,0.7129,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,SABU KAKKATTIL,SP,860,0.545,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,NOTA,NOTA,375,0.2376,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,K C KUMARAN,IND,220,0.1394,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,NARANATHU MUHAMMAD,PDP,118,0.0748,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,PARAKKAL ABDULLA PALLIYATH,IND,85,0.0539,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,S R KHAN MANIYOOR,IND,76,0.0482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,PALLIYIL ABDULLA,IND,62,0.0393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,ALUVA ANEESH,IND,57,0.0361,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,PAREMMAL ABDULLA,IND,44,0.0279,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,M. A. VAHEED,INC,50787,46.3817,True,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,C AJAYAKUMAR,CPI(M),48591,44.3762,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,PADMA KUMAR,BJP,7508,6.8567,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,M WAHID,UNKNOWN,986,0.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,K.BHUVANACHANDRAN CHETTIYAR,UNKNOWN,678,0.6192,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,M A JALEEL,UNKNOWN,418,0.3817,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,SUDARSANAN S,OTH,325,0.2968,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf
+2011,Thiruvananthapuram,132,132,Kazhakkoottam,K. AJITH KUMAR,OTH,205,0.1872,False,https://www.ceo.kerala.gov.in/pdf/form20/132.pdf

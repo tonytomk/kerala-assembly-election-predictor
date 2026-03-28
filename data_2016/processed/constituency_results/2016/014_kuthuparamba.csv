@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,14,14,Kuthuparamba,K K SHYLAJA TEACHER,CPI(M),67013,45.6417,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P MOHANAN S/O P R KURUP,JD(U),54722,37.2705,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,C SADANANDAN MASTER,BJP,20787,14.1578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,ADV. MUHAMMAD SHABEER K C,SDPI,1681,1.1449,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P MOHANAN VEDICHALIL,IND,1041,0.709,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,NOTA,NOTA,501,0.3412,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P MOHANAN HRIDYAM,IND,355,0.2418,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K RAGHUNATH,IND,296,0.2016,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P SHYLAJA PRASANTH,IND,265,0.1805,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,SHYLAJA NELLIYULLA PARAMBATH,IND,163,0.111,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf

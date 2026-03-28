@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,97,97,Kottayam,THIRUVANCHOOR,INC,65401,53.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,Adv.K.ANILKUMAR,CPI(M),46658,38.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,MINERVA MOHAN,BJP,8611,7.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,NOTA,NOTA,473,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,SREEKUMAR CHAKKALA,BSP,374,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,M.K.SHAHAZAD,SUCI,144,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,97,97,Kottayam,ARUN MANGATTU ABHM,ABHM,77,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

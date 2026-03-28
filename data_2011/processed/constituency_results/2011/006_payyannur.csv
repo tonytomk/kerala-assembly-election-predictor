@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,6,6,Payyannur,C.KRISHNAN,CPI(M),78116,59.783,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,ADV. K. BRIJESH KUMAR,INC,45992,35.1981,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,C.K.RAMESAN MASTER,BJP,5019,3.8411,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,GEETHA,BSP,625,0.4783,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,T.P.PADMANABHAN,IND,536,0.4102,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6
+2011,Kannur,6,6,Payyannur,KOTTAYODI VISWANATHAN,SHIVSENA,378,0.2893,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/6

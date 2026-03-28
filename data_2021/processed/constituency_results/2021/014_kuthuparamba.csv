@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,14,14,Kuthuparamba,K.P. MOHANAN,LJD,70626,45.36,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,POTTANKANDI ABDULLA,IUML,61085,39.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,C. SADANANDAN MASTER,BJP,21212,13.62,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,MOHANAN KUNHIPARAMBATH,IND,1360,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,MOHANAN K.P. KAITHAVECHA,IND,543,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,NOTA,NOTA,494,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,14,14,Kuthuparamba,ABDULLA PUTHIYAPARAMBATH IND Tongs,IND,389,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

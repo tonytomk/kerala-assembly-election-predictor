@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Pathanamthitta,111,111,Thiruvalla,Adv. MATHEW T THOMAS,JD(S),62178,44.56,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,KUNJU KOSHY PAUL,KEC,50757,36.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,ASHOKAN KULANADA,BJP,22674,16.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,Adv. THOMAS MATHEW (ROY),IND,1461,1.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,RAJENDRADAS,BSP,1074,0.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,NOTA,NOTA,608,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,VINOD KUMAR,DSJP,380,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,SURENDRAN KOTTOORATHIL,IND,216,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,111,111,Thiruvalla,K .P YESUDAS IND,IND,196,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

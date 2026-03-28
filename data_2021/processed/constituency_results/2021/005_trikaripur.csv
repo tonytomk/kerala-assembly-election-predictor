@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kasaragod,5,5,Trikaripur,M RAJAGOPALAN,CPI(M),86151,53.71,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,M P JOSEPH,KEC,60014,37.41,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,SHIBIN T V,BJP,10961,6.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,LIYAKATHALI P,SDPI,1211,0.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,T MAHESH MASTER,WPOI,817,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,NOTA,NOTA,558,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,JOY JOHN,IND,362,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,M V JOSEPH,IND,218,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,5,5,Trikaripur,SUDHAN VELLARIKKUND ADHRMPI,ADHRMPI,116,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

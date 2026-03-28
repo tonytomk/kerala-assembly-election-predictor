@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,26,26,Elathur,A .K Saseendran,NCP,83639,50.89,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,Zulphikar Mayoori,IND,45137,27.46,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,T P Jayachandran Master,BJP,32010,19.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,TAHIR MOKKANDI,WPOI,2000,1.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,NOTA,NOTA,984,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,26,26,Elathur,RADHAKRISHNAN P K IND,IND,580,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

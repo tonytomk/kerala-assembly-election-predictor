@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,135,135,Nemom,V. SIVANKUTTY,CPI(M),50076,42.9439,True,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,O RAJAGOPAL,BJP,43661,37.4425,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,CHARUPARA RAVI,OTH,20248,17.3642,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,JAIN WILSON,OTH,964,0.8267,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,O. MAHEEN,UNKNOWN,667,0.572,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,THIRUVALLAM SREEKANDAN,UNKNOWN,472,0.4048,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,J VIKRAMAN,UNKNOWN,303,0.2598,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf
+2011,Thiruvananthapuram,135,135,Nemom,RAMACHANDRAN,OTH,217,0.1861,False,https://www.ceo.kerala.gov.in/pdf/form20/135.pdf

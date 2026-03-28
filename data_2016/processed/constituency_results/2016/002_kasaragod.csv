@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kasaragod,2,2,Kasaragod,N A NELLIKKUNNU,IUML,64727,44.7167,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,RAVISHA THANTHRI KUNTAR,BJP,56120,38.7706,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,DR.A.A AMEEN,INL,21615,14.9327,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,NOTA,NOTA,661,0.4567,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,VIJAYAKUMAR B,BSP,585,0.4041,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,ROSHANKUMAR,IND,508,0.351,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,A DAMODARAN,IND,283,0.1955,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,MUNEER MUNAMBAM,IND,250,0.1727,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf

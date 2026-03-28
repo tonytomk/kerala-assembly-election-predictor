@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,128,128,Attingal,ADV.B.SATYAN,CPI(M),72808,52.7071,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,K CHANDRABABU,RSP,32425,23.4731,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,RAJI PRASAD,BJP,27602,19.9816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,M.K.MANOJKUMAR,SDPI,1437,1.0403,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,NOTA,NOTA,1267,0.9172,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,K.SIVANANDAN,BSP,789,0.5712,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,RAJESH.R,IND,639,0.4626,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,B JAYANTHAKUMAR,SHIVSENA,597,0.4322,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,C.R.THULASI,IND,411,0.2975,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,PRATHEESHKUMAR.P,IND,162,0.1173,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf

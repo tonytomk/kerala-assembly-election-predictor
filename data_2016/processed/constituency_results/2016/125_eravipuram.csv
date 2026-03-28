@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,125,125,Eravipuram,M. NOUSHAD,CPI(M),65392,52.3257,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,A.A.AZEEZ,RSP,36589,29.278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,AKKAVILA SATHEEK,BDJS,19714,15.7749,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,AYATHIL RAZAK,SDPI,988,0.7906,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,NOTA,NOTA,950,0.7602,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,MUHAMMED ISMAIL,PDP,643,0.5145,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,MANOJ,IND,463,0.3705,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,VINOD B.,SUCI,232,0.1856,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf

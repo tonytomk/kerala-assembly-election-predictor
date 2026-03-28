@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,67,67,Thrissur,P.BALACHANDRAN,CPI,43822,82.9915,True,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,67,67,Thrissur,RAVIKUMAR UPPATH,UNKNOWN,6697,12.683,False,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,67,67,Thrissur,THERAMBIL RAMAKRISHNAN,INC,1405,2.6608,False,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf
+2011,Thrissur,67,67,Thrissur,A JAYARAM,UNKNOWN,879,1.6647,False,https://www.ceo.kerala.gov.in/pdf/form20/067.pdf

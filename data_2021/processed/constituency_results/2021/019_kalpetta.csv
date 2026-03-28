@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Wayanad,19,19,Kalpetta,Adv.T SIDDIQU,INC,70252,46.15,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,M.V.SHREYAMSKUMAR,LJD,64782,42.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,SUBEESH T M,BJP,14113,9.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,ASWIN BHIMNATH,BSP,928,0.61,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,NOTA,NOTA,828,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,T.SIDIQUE S/o ABDULLA,IND,641,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,SUNIL VAIDYAR,ADHRMPI,455,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Wayanad,19,19,Kalpetta,SHYLESH.K IND,IND,210,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

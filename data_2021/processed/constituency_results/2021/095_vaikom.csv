@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,95,95,Vaikom,C.K Asha,CPI,71388,55.96,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Dr.P.R Sona,INC,42266,33.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Ajitha Sabu,BDJS,11953,9.37,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Akhiljith Kallara,BSP,726,0.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,NOTA,NOTA,670,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Bindu,BHUDRP,258,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,Kuttan Kattachira,IND,163,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,95,95,Vaikom,T.K Sabu SUCI,SUCI,152,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Pathanamthitta,112,112,Ranni,RAJU ABRAHAM,CPI(M),58749,43.8664,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,MARIAMMA CHERIAN,INC,44153,32.968,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,K. PADMAKUMAR,BDJS,28201,21.057,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,PRASAD UTHIMOODU,BSP,1072,0.8004,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,FAWSEENA THAKBEER,SDPI,862,0.6436,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,NOTA,NOTA,438,0.327,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,GEETHAMMA MADHAVAN,IND,298,0.2225,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,VARUGHESE THOMAS,IND,154,0.115,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf

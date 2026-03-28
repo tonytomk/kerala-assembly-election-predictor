@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,44,44,Tanur,ABDURAHIMAN RANDATHANI,IUML,51549,49.5159,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,44,44,Tanur,E.JAYAN,CPI(M),42116,40.4549,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,44,44,Tanur,RAVI THELATH,BJP,7304,7.0159,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/44
+2011,Malappuram,44,44,Tanur,K.K.MAJEED KHASIMI,SDPI,3137,3.0133,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/44

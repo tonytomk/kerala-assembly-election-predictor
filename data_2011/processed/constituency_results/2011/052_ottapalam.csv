@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,52,52,Ottapalam,M. HAMZA,CPI(M),65023,49.472,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,V.K. SREEKANDAN,INC,51820,39.4266,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,P. VENUGOPALAN,BJP,9631,7.3276,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,E.S. KAJAHUSSAIN,SDPI,1933,1.4707,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,M. HAMZA,IND,1097,0.8346,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,K.T.PADMINI,BSP,947,0.7205,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,N. HAMZA,IND,604,0.4595,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52
+2011,Palakkad,52,52,Ottapalam,ARAVINDAN KARIMPUZHA,IND,379,0.2884,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/52

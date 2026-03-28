@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,K MURALEEDHARAN,INC,51322,37.4324,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,KUMMANAM RAJASEKHARAN,BJP,43700,31.8731,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,DR. T.N.SEEMA,CPI(M),40441,29.4962,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,NOTA,NOTA,816,0.5952,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,MEKKANSI K JOHN,BSP,399,0.291,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,BINU. D,IND,147,0.1072,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,SAHADEVAN,IND,103,0.0751,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,K.G. MOHANAN,IND,77,0.0562,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,BABY. D,IND,53,0.0387,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,SAJU AMEERDAS,IND,48,0.035,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,33,33,Kondotty,K MUHAMMEDUNNI HAJI,IUML,67998,56.8189,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,P C NAUSHAD,CPI(M),39849,33.2977,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,DR KUMARI SUKUMARAN,BJP,6840,5.7155,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,ABDU RAHIMAN P T (BAPPU),SDPI,2026,1.6929,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,T K MAMMUNNI HAJI,IND,1817,1.5183,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,E P MADHAVAN,BSP,730,0.61,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33
+2011,Malappuram,33,33,Kondotty,NOUSHAD P,IND,415,0.3468,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/33

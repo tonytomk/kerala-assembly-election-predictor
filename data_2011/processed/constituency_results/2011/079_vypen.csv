@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,79,79,Vypen,S.SHARMA,UNKNOWN,60814,50.3736,True,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,AJAY THARAYIL,INC,55572,46.0315,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,T.G SURENDRAN,UNKNOWN,2930,2.427,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,T.K.SIVANANDAN,UNKNOWN,546,0.4523,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,SANTHOSH SARMA,OTH,490,0.4059,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf
+2011,Ernakulam,79,79,Vypen,BENNY JOSEPH,OTH,374,0.3098,False,https://www.ceo.kerala.gov.in/pdf/form20/079.pdf

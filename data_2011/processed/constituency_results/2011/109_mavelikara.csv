@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Alappuzha,109,109,Mavelikara,R.RAJESH,UNKNOWN,65903,49.2969,True,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,K.K.SHAJU,JSS,60754,45.4453,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,S.GIRIJA,UNKNOWN,4984,3.7281,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,RAJEESH.R,OTH,1185,0.8864,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf
+2011,Alappuzha,109,109,Mavelikara,SUBHASH MANKAMKUZHY,UNKNOWN,860,0.6433,False,https://www.ceo.kerala.gov.in/pdf/form20/109.pdf

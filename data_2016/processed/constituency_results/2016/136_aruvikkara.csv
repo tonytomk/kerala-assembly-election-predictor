@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,136,136,Aruvikkara,K S SABARINADHAN,INC,70910,49.3249,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Adv. A A RASHEED,CPI(M),49596,34.4989,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,RAJASENAN,BJP,20294,14.1165,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,M A JALEEL,IND,707,0.4918,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,CHITHRALEKHA. E,BSP,673,0.4681,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,NOTA,NOTA,640,0.4452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Sabarinath,IND,331,0.2302,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Adv. Cherappally Viswanathan,IND,188,0.1308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Rasheed,IND,158,0.1099,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,A P Kakkadu,IND,134,0.0932,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,AJITHA B,IND,130,0.0904,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf

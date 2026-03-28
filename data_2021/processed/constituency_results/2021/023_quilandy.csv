@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,23,23,Quilandy,Kanathil Jameela,CPI(M),75628,46.66,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,N. Subramaniyan,INC,67156,41.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,N.P. Radhakrishnan,BJP,17555,10.83,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Jameela. P.P.,IND,651,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,NOTA,NOTA,492,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Subrahmanyan Kanaran,IND,381,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,23,23,Quilandy,Praveen Cheruvath SUCI,SUCI,221,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

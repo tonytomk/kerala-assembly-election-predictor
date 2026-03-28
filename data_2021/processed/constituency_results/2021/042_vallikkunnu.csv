@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,42,42,Vallikkunnu,ABDUL HAMEED MASTER,IUML,71823,47.43,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,Prof. A.P. ABDUL VAHAB,INL,57707,38.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,PEETHAMBARAN PALAT,BJP,19853,13.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,NOTA,NOTA,1150,0.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,42,42,Vallikkunnu,SASI KIZHAKKAN BSP,BSP,881,0.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

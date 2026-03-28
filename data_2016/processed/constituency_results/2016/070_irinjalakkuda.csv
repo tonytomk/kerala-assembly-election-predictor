@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,70,70,Irinjalakkuda,PROF. K.U. ARUNAN,CPI(M),59730,40.0003,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,ADV. THOMAS UNNIYADAN,KEC(M),57019,38.1848,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,SANTHOSH CHERAKULAM,BJP,30420,20.3718,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,NOTA,NOTA,857,0.5739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,V.C. UNNIKRISHNAN,BSP,639,0.4279,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,DAVIS CHATHELI,IND,345,0.231,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,AYYAPPAN MANAYKAL,CPI(ML)REDSTAR,314,0.2103,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf

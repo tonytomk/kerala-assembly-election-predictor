@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,13,13,Thalassery,Adv. A. N. SHAMSEER,CPI(M),81810,61.52,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,M. P. ARAVINDAKSHAN,INC,45009,33.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,NOTA,NOTA,2313,1.74,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,SHAMSEER IBRAHIM,WPOI,1963,1.48,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,C. O. T. NASEER,IND,1163,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,ARAVINDHAKSHAN S/o KAUSU,IND,533,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,13,13,Thalassery,HARIDASAN IND,IND,198,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

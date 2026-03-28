@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,140,140,Neyyattinkara,K. ANSALAN,CPI(M),63559,47.2049,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,R Selvaraj,INC,54016,40.1173,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,Punchakkari Surendran,BJP,15531,11.5348,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,NOTA,NOTA,693,0.5147,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,Prabhakaran,BSP,566,0.4204,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,Anilkumar,IND,280,0.208,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf

@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,83,83,Thrikkakara,Adv.P.T.THOMAS,INC,59839,43.82,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,Dr.J.JACOB,IND,45510,33.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,S SAJI,BJP,15483,11.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,Dr.TERRY THOMAS,UNKNOWN,13897,10.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,NOTA,NOTA,695,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,P.M.SHIBU,BSP,331,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,RIYAS YUSUF,IND,298,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,KRISHNAPRASAD,DSJP,181,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,JINU,IND,143,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,BINOJ,IND,134,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,83,83,Thrikkakara,SUBIN IND Letter Box,IND,59,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

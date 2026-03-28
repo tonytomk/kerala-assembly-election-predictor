@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,29,29,Beypore,V K C MAMMED KOYA,CPI(M),69114,44.3866,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADAM MULSI M P,INC,54751,35.1624,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADV. PRAKASH BABU,BJP,27958,17.9553,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,P.C MUHAMMEDKUTTY MASTER,WPI,1387,0.8908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,MUSTHAFA KOMMERI,SDPI,1126,0.7231,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,NOTA,NOTA,605,0.3885,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,V K MAMMED KOYA V K HOUSE,IND,355,0.228,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADAM MALIQUE,IND,199,0.1278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADAM K V,IND,109,0.07,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,AJEESH KUMAR ERAKKATHIL,IND,105,0.0674,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf

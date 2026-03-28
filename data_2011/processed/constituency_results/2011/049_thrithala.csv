@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,49,49,Thrithala,ADV.V.T. BALRAM,INC,57848,47.3698,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,MAMMIKUTTY. P,CPI(M),54651,44.7519,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,V. RAMANKUTTY,BJP,5899,4.8305,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,BABURAJAN. O.T,SDPI,1320,1.0809,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,P.MAMMIKUTTY,IND,902,0.7386,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,P. SHAMSUDHEEN,PDP,590,0.4831,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,RAMESAN PERUMANNUR,BSP,543,0.4446,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49
+2011,Palakkad,49,49,Thrithala,K BALARAMAN,IND,367,0.3005,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/49

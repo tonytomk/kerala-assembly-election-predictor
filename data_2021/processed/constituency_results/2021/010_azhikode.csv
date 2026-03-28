@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,10,10,Azhikode,K V Sumesh,CPI(M),65794,45.41,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K M Shaji,IUML,59653,41.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K Ranjith,BJP,15741,10.86,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,ABDUL JABBAR K K,SDPI,2357,1.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,NOTA,NOTA,517,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,K M SHAJI (MAMBA),IND,277,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,RESMI RAVI,SUCI,226,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,Sumesh M (Mauvery House),IND,180,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,Prasad V P,IND,104,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,10,10,Azhikode,Pavithran Kurikkalot IND,IND,48,0.03,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

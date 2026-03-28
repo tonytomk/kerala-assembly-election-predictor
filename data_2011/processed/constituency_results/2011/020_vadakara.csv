@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,20,20,Vadakara,C.K.NANU,JD [S],46912,41.0547,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,ADV.M.K. PREMNATH,SJ [D],46065,40.3135,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,N.VENU,IND,10098,8.8372,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,M.P.RAJAN,BJP,6909,6.0464,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,SAALIM AZHIYUR,SDPI,3488,3.0525,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20
+2011,Kozhikode,20,20,Vadakara,V.K.PREMANATHAN,IND,795,0.6957,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/20

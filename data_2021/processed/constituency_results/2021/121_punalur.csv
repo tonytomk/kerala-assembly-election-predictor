@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,121,121,Punalur,P S SUPAL,CPI,80428,54.99,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,ABDURAHIMAN RANDATHANI,IUML,43371,29.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,AYOOR MURALI,BJP,20069,13.72,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,NOTA,NOTA,688,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,SHIBU M SKARIA,IND,617,0.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,K MAHESH,SUCI,407,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,PRAKASH ANCHAL,ADHRMPI,407,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,121,121,Punalur,THENMALA NAGARAJAN IND Truck,IND,264,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,103,103,Cherthala,P PRASAD,CPI,83702,47.0,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,ADV.S SARATH,INC,77554,43.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,ADV.P S JYOTHIS,BDJS,14562,8.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,VAYALAR JAYAKUMAR,BSP,613,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,NOTA,NOTA,602,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,SARATH S KANNATTUVELI,IND,501,0.28,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,SHAJAHAN V A,IND,201,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,KARTHIKEYAN,IND,193,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,103,103,Cherthala,ADV.SONNYMON K MATHEW IND,IND,169,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

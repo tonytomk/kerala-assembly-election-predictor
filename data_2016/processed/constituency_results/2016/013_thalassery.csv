@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,13,13,Thalassery,ADV. A N SHAMSEER,CPI(M),70741,53.3226,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,A P ABDULLAKUTTY,INC,36624,27.6062,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,V K SAJEEVAN,BJP,22125,16.6772,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,JABEENA IRSHAD,WPI,1337,1.0078,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,A C JALALUDHEEN,SDPI,959,0.7229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,NOTA,NOTA,514,0.3874,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,BALAKRISHNAN KODIYERI,IND,129,0.0972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,THAYYIL VATTAKKANDY SAJEEVAN V K,IND,125,0.0942,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,DANISH MAHAL A P ABDULLAKUTTY,IND,112,0.0844,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf

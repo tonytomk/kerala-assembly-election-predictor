@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,26,26,Elathur,A K SASEENDRAN,NCP,76387,48.6523,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,POTTANGADI KISHAN CHAND,JD(U),47330,30.1453,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,V V RAJAN,BJP,29070,18.5152,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,KOTTEAPPATT KRISHNAN,IND,1724,1.098,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,RAGHU KALLIKKAD,BSP,1142,0.7274,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,NOTA,NOTA,986,0.628,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,USEFFALI P M,IND,367,0.2337,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf

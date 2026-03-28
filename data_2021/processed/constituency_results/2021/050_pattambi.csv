@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Palakkad,50,50,Pattambi,Muhammed Muhassin,CPI,75311,49.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Riyas Mukkoli,INC,57337,37.74,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,K.M.Haridas,BJP,14578,9.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Ameer Ali .S.P,SDPI,2975,1.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,S. Mujeeb Rehman,WPOI,801,0.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,Narayanan. T.P,BSP,517,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Palakkad,50,50,Pattambi,NOTA,NOTA,390,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

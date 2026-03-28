@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,32,32,Thiruvambady,GEORGE M. THOMAS,CPI(M),62324,45.9325,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,V M UMMER MASTER,IUML,59316,43.7156,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,GIRI PAMBANAL,BDJS,8749,6.448,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,RAJU PUNNAKKAL,WPI,2226,1.6406,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,NOTA,NOTA,776,0.5719,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,SIMON THONAKKARA,IND,641,0.4724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,T P MOHAMMED,SDPI,569,0.4194,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,NOUSHAD KODIYATHUR,PDP,517,0.381,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,SIBI VAYALIL,IND,426,0.314,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,C M UMMER CHOKLIYIL,IND,77,0.0567,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,UMMAR VILANGOT,IND,65,0.0479,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf

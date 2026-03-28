@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,95,95,Vaikom,C K ASHA,CPI,61997,46.9504,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,ADV. A SANEESHKUMAR,INC,37413,28.3329,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,N K NEELAKANDAN MASTER,BDJS,30067,22.7698,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,NOTA,NOTA,800,0.6058,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,K C CHANDRASEKHARAN,BSP,540,0.4089,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,SUBEESH SURENDRAN,PDP,489,0.3703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,ANILA BOSE,SUCI(C),420,0.3181,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,K C PRAKASH,CPI(ML)REDSTAR,204,0.1545,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,KUTTAN KATTACHIRA,IND,118,0.0894,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf

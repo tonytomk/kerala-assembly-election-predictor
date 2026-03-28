@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,82,82,Eranakulam,HIBI EDEN,INC,59919,61.5836,True,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,SEBASTIAN PAUL,OTH,27482,28.2455,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,C.G. RAJAGOPAL,UNKNOWN,6362,6.5387,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,SEBASTIAN NJALAMKUNNEL,UNKNOWN,2347,2.4122,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,IQBAL THAMARASSERY,UNKNOWN,742,0.7626,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,T.R.VASUDEVAN,OTH,445,0.4574,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf

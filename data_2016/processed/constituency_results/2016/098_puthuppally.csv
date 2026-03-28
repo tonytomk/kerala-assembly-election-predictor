@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kottayam,98,98,Puthuppally,OOMMEN CHANDY,INC,71597,53.417,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,JAICK C THOMAS,CPI(M),44505,33.2043,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,ADV. GEORGE KURIAN,BJP,15993,11.932,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,SHIBU PARAKADAVAN,BSP,911,0.6797,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,NOTA,NOTA,630,0.47,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,M V CHERIAN,SUCI(C),131,0.0977,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,K M SHIVAPRASAD GANDHI,IND,103,0.0768,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,A K SHAJI,IND,64,0.0477,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,JIJO,IND,51,0.0381,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,JOSEPH T M,IND,49,0.0366,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,121,121,Punalur,ADV.K.RAJU,CPI,82136,56.8529,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,DR.A.YOUNUS KUNJU,IUML,48554,33.6081,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,ADV.SISSIL FERNANDEZ,KC,10558,7.308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,K.SASANKAN,SUCI(C),1117,0.7732,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,NOTA,NOTA,888,0.6147,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,NETTAYAM SUJI,IND,639,0.4423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,SATHEESHKUMAR.B,SHIVSENA,415,0.2873,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,NAVAS.M,IND,164,0.1135,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf

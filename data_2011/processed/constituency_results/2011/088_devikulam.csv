@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Idukki,88,88,Devikulam,S.RAJENDRAN,CPI(M),51849,48.4303,True,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,A.K.MONI,UNKNOWN,47771,44.6212,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,S.RAJAGOPAL,BJP,3582,3.3458,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,SELVARAJ MADASWAMI,UNKNOWN,1060,0.9901,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,T.C.THANKAPPAN,UNKNOWN,913,0.8528,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,MALLIKA,OTH,646,0.6034,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,RAJU AYYAPPAN,UNKNOWN,628,0.5866,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,P.K.MANY,UNKNOWN,336,0.3138,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf
+2011,Idukki,88,88,Devikulam,MANIKANDAN K,UNKNOWN,274,0.2559,False,https://www.ceo.kerala.gov.in/pdf/form20/088.pdf

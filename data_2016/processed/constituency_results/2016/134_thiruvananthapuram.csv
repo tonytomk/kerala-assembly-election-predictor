@@ -1,0 +1,14 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,V.S. SIVAKUMAR,INC,46474,36.8222,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,ADV. ANTONY RAJU,LDF,35569,28.1819,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,SREESANTH,BJP,34764,27.5441,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,Dr. BIJU RAMESH,AIADMK,5762,4.5653,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,NOTA,NOTA,1435,1.137,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,Nandavanam Suseelan,IND,450,0.3565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,ANTONY RAJU NEW COLONY,IND,424,0.3359,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,MOHANAMBIKA. D,BSP,398,0.3153,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,P S GOPAKUMAR,SUCI(C),344,0.2726,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,Sivakumar Raveendran Nair,IND,208,0.1648,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,PRAVEEN ARIMBRATHODIYIL,IND,170,0.1347,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,M S SUBI,IND,113,0.0895,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,SIVAKUMAR PUSHKARAN,IND,101,0.08,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf

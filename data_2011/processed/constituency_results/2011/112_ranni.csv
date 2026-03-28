@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Pathanamthitta,112,112,Ranni,RAJU ABRAHAM,CPI(M),58391,48.5132,True,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,PEELIPOSE THOMAS,INC,51777,43.0181,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,SURESH KADAMBARI,UNKNOWN,7442,6.1831,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,V D SAJI MON,UNKNOWN,1300,1.0801,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,IBRAHIMKUTTY,OTH,905,0.7519,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,S RADHAKRISHNAN,OTH,350,0.2908,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
+2011,Pathanamthitta,112,112,Ranni,ULAKAN THEVAN,OTH,196,0.1628,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf

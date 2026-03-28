@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,22,22,Nadapuram,E K VIJAYAN,CPI,74742,45.874,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,ADV. K. PRAVEENKUMAR,INC,69983,42.9531,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,M P RAJAN,BJP,14493,8.8953,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,ABDUL RAHEEM,SDPI,2183,1.3398,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,NOTA,NOTA,446,0.2737,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,KK VASU,BSP,377,0.2314,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,E K VIJAYAN KOMATH,IND,220,0.135,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,PRAVEEN KUMAR THAYULLATHIL (H),IND,171,0.105,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,PRAVEEN RAYAROTH THAZHIKUNI,IND,163,0.1,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,ALUVA ANEESH,IND,151,0.0927,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf

@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,62,62,Kunnamkulam,BABU.M.PALISSERY,CPI(M),58244,44.3446,True,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,JOHN.C.P,OTH,57763,43.9784,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,K.K.ANEESHKUMAR,UNKNOWN,11725,8.9269,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,PREMAN.K.P,OTH,2059,1.5676,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,JOHN,UNKNOWN,860,0.6548,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf
+2011,Thrissur,62,62,Kunnamkulam,UNNIKRISHNAN VAROLI,UNKNOWN,693,0.5276,False,https://www.ceo.kerala.gov.in/pdf/form20/062.pdf

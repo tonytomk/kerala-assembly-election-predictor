@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,76,76,Aluva,ANWAR SADATH,INC,64244,50.2417,True,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,A.M.YOUSAF,UNKNOWN,51030,39.9077,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,M.N.GOPI,BJP,8264,6.4628,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ROY ARACKAL,UNKNOWN,1684,1.317,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,M.M.YOOSAF MUNDAKKAL,UNKNOWN,829,0.6483,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ANWAR SADATH PANACKAPARAMBIL,UNKNOWN,547,0.4278,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,K.Y KUNJUMON,UNKNOWN,479,0.3746,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ABDUL AZEEZ,BSP,473,0.3699,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,ANTONY JOSEPH MANJOORAN,UNKNOWN,182,0.1423,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf
+2011,Ernakulam,76,76,Aluva,K.K SOBHA,UNKNOWN,138,0.1079,False,https://www.ceo.kerala.gov.in/pdf/form20/076.pdf

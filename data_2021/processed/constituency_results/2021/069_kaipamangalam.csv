@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,69,69,Kaipamangalam,E T TAISON MASTER,CPI,73161,53.76,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,SOBHA SUBIN,INC,50463,37.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,C D SREELAL,BDJS,9066,6.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,M K ASLAM,WPOI,1671,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,M K SHAMEER,SDPI,814,0.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,NOTA,NOTA,466,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,69,69,Kaipamangalam,THANKAMANY THARAYIL BSP,BSP,442,0.32,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Pathanamthitta,112,112,Ranni,Adv. Pramod Narayan,KEC(M),52669,41.22,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Rinku Cherian,INC,51384,40.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,K. Padmakumar,BDJS,19587,15.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Adv. Anumol N.,BSP,1159,0.91,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Asharaf Pezhumkattil,SDPI,886,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Benny Puthenparampil (Thomas Mathew),IND,842,0.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,NOTA,NOTA,431,0.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Jomon Kochethu,RJD,339,0.27,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Aji B. Ranni,IND,282,0.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Pathanamthitta,112,112,Ranni,Adv. Manju K. Nair (Kottarathil) IND,IND,198,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,V.SASI,CPI,59601,52.9302,True,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,K VIDYADHARAN,INC,47376,42.0735,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,AYTHIYOOR SURENDRAN,UNKNOWN,2078,1.8454,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,ANIL MANGALAPURAM,UNKNOWN,1414,1.2557,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,SAJIMON CHELAYAM,UNKNOWN,1277,1.1341,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf
+2011,Thiruvananthapuram,129,129,Chirayinkeezhu,ANILKUMAR B,OTH,857,0.7611,False,https://www.ceo.kerala.gov.in/pdf/form20/129.pdf

@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,94,94,Kaduthuruthy,MONS JOSEPH,UDF,68787,56.3708,True,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,94,94,Kaduthuruthy,STEPHEN GEORGE,LDF,45730,37.4756,False,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,94,94,Kaduthuruthy,P.G.BIJUKUMAR,BJP,5340,4.3761,False,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf
+2011,Kottayam,94,94,Kaduthuruthy,M.D.THOMAS,IND,2169,1.7775,False,https://www.ceo.kerala.gov.in/pdf/form20/094.pdf

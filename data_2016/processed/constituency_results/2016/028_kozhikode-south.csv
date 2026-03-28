@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,28,28,Kozhikode south,DR. M.K.MUNEER,IUML,49863,43.1277,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,PROF.ABDUL VAHAB,INL,43536,37.6554,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,SATHEESH KUTTIYIL,BDJS,19146,16.5598,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,NOTA,NOTA,788,0.6816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,U.K.DEYSI BALASUBRAMANIAN,SDPI,593,0.5129,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,KAMALA PAVITHRAN,BSP,480,0.4152,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,A.P.ABDUL VAHAB,IND,287,0.2482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,SAJAN.A.K,IND,227,0.1963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,ABDUL SATHAR,IND,211,0.1825,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,MUNEER DAVARI,IND,190,0.1643,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,PREMANAND.T,IND,166,0.1436,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,ABDUL MUNEER,IND,130,0.1124,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf

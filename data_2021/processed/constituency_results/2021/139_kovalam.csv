@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thiruvananthapuram,139,139,Kovalam,Adv. M. VINCENT,INC,74868,47.06,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,NEELALOHITHADASAN NADAR,JD(S),63306,39.79,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,VISHNUPURAM,BJP,18664,11.73,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,NOTA,NOTA,773,0.49,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,KANCHAMPAZHINJI SASIKUMAR,BSP,641,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,PRINCE V.S.,IND,417,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,VENGANOOR ASOKAN,IND,284,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thiruvananthapuram,139,139,Kovalam,AJIL R.A. IND,IND,147,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

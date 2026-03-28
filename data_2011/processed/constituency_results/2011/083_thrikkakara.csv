@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Ernakulam,83,83,Thrikkakara,BENNY BEHANAN,INC,65854,55.8781,True,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,M.E.HASSAINAR,CPI(M),43448,36.8663,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,N. SAJI KUMAR,UNKNOWN,5935,5.0359,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,HASSAINAR,OTH,933,0.7917,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,ABDUL SALAM PARAKKADAN,UNKNOWN,869,0.7374,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,BENNY GEORGE,OTH,410,0.3479,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
+2011,Ernakulam,83,83,Thrikkakara,SHEREEF THANKAYATHIL,UNKNOWN,404,0.3428,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf

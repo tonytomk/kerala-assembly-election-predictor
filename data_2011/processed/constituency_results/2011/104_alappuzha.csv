@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Alappuzha,104,104,Alappuzha,T.M.THOMAS ISAAC,UNKNOWN,75857,53.7067,True,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,P.J.MATHEW,INC,59515,42.1366,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,KOTTARAM UNNIKRISHNAN,UNKNOWN,3540,2.5063,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,T.M.SAMAD,UNKNOWN,1158,0.8199,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,SEBASTIAN,UNKNOWN,646,0.4574,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf
+2011,Alappuzha,104,104,Alappuzha,C.P THILAKAN,UNKNOWN,527,0.3731,False,https://www.ceo.kerala.gov.in/pdf/form20/104.pdf

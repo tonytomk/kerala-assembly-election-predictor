@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,120,120,Pathanapuram,K.B. GANESH KUMAR,KEC(B),67276,49.09,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,JYOTHIKUMAR CHAMAKKALA,INC,52940,38.63,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,V.S. JITHIN DEV,BJP,12398,9.05,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,P. KRISHNAMMAL,MCPI,2091,1.53,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,ADV. FAIZY. M. PASHA,SDPI,1192,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,NOTA,NOTA,474,0.35,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,BAIJU PATHANAPURAM,ADHRMPI,411,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,120,120,Pathanapuram,AJI KADASSERY IND,IND,254,0.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

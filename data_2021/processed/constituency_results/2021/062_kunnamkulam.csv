@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,62,62,Kunnamkulam,A.C.MOIDEEN,CPI(M),75532,48.78,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,K.JAYASANKAR,INC,48901,31.58,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,Adv. K.K.ANEESHKUMAR,BJP,27833,17.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,V.S.ABOOBACKER,SDPI,1241,0.8,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,NOTA,NOTA,559,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,MOIDEEN.K.M s/o MUHAMMED,IND,380,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,JAMES PANADAN,IND,265,0.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,62,62,Kunnamkulam,A.K.MOIDHEENKUTTY IND,IND,120,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

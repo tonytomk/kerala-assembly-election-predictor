@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,41,41,Vengara,P.K. KUNHALIKUTTY,IUML,72181,60.0128,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,ADV. P.P. BASHEER,CPI(M),34124,28.3714,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,P.T. ALI HAJI,BJP,7055,5.8657,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,KALLAN ABOOBACKER MASTER,SDPI,3049,2.535,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,SURENDRAN KARIPPUZHA,WPI,1864,1.5498,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,SUBAIR SWABAHI,PDP,1472,1.2239,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,NOTA,NOTA,531,0.4415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf

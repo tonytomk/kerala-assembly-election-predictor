@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,136,136,Aruvikkara,G.KARTHIKEYAN,INC,56797,48.7871,True,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,AMBALATHARA SREEDHARAN NAIR,UNKNOWN,46123,39.6184,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,SIVANKUTTY C,BJP,7694,6.6089,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,A. BALAN,BSP,1746,1.4998,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,POOVATHOOR S RAJEEV,UNKNOWN,972,0.8349,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,SANIL V O,UNKNOWN,913,0.7842,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,R RAJAPPAN,OTH,753,0.6468,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,KARAKULAM SATHYA KUMAR,UNKNOWN,651,0.5592,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,S. SREEKUMAR,OTH,525,0.451,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf
+2011,Thiruvananthapuram,136,136,Aruvikkara,LATHA B VILLUMANNADI,UNKNOWN,244,0.2096,False,https://www.ceo.kerala.gov.in/pdf/form20/136.pdf

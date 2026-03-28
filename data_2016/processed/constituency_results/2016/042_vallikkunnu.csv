@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Malappuram,42,42,Vallikkunnu,ABDUL HAMEED MASTER,IUML,59720,43.4378,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ADV. O.K. THANGAL,INL,47110,34.2658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,JANACHANDRAN MASTER,BJP,22887,16.647,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,NISSAR METHAR,PDP,2975,2.1639,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,HANEEFA HAJI,SDPI,2499,1.8177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,NOTA,NOTA,752,0.547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,PRAVEEN KUMAR,BSP,705,0.5128,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ANSAS KODAKKATTAKATH,CPI(ML)REDSTAR,262,0.1906,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ADV. BALAKRISHNAN MANEERI,IND,192,0.1397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ABOOBACKER ALIAS K K ABOO,IND,176,0.128,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ABDUL NAZER,IND,106,0.0771,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,V.P. PADMAKUMAR,IND,100,0.0727,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf

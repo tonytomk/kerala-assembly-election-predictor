@@ -1,0 +1,11 @@
+{
+  "years": [
+    2011
+  ],
+  "outputs": {
+    "candidate_results": "data_2011\\processed\\kerala_assembly_candidate_results.csv",
+    "constituencies": "data_2011\\processed\\constituencies.csv",
+    "state_summary": "data_2011\\processed\\state_summary.csv",
+    "detail_dir": "data_2011\\processed\\constituency_results"
+  }
+}

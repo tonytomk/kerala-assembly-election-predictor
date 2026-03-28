@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,137,137,Parassala,A T GEORGE,UNKNOWN,60578,44.8026,True,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,ANAVOOR NAGAPPAN,CPI(M),60073,44.4291,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,S SURESH,BJP,10310,7.6251,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,J SUDHAKARAN,BSP,2269,1.6781,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,T K VISWAMBARAN,OTH,1207,0.8927,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
+2011,Thiruvananthapuram,137,137,Parassala,OORUTTUKALA  ANIKUMAR,UNKNOWN,774,0.5724,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf

@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,39,39,Mankada,T.A.AHMED KABEER,IUML,67756,55.8826,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,KADEEJA SATHAR,CPI(M),44163,36.424,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,MANIKANDAN.K,BJP,4387,3.6182,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,DR.C.H.ASHRAF,SDPI,3015,2.4867,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39
+2011,Malappuram,39,39,Mankada,ANWAR BABU,IND,1926,1.5885,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/39

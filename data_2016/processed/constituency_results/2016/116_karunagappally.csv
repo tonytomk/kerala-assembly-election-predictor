@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kollam,116,116,Karunagappally,R.RAMACHANDRAN,CPI,69902,43.0561,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,C.R.MAHESH,INC,68143,41.9726,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,V. SADHASIVAN,BDJS,19115,11.7739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,A.K.SALAHUDHEEN,SDPI,1738,1.0705,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,MYLAKKADU SHAH,PDP,1620,0.9978,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,GOPALAKRISHNAN,BSP,649,0.3998,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,RAMACHANDRAN K S PURAM,IND,594,0.3659,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,NOTA,NOTA,590,0.3634,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf

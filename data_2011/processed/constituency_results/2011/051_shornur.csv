@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,51,51,Shornur,K.S.SALEEKHA,CPI(M),59616,49.5726,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,SANTHA JAYARAM,INC,46123,38.3527,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,V.B.MURALIDHARAN,BJP,10562,8.7826,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,KHALID.A,SDPI,3065,2.5486,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51
+2011,Palakkad,51,51,Shornur,M.C.VELAYUDHAN,BSP,894,0.7434,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/51

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Idukki,91,91,Idukki,ROSHY AUGUSTINE,KEC(M),65734,54.8822,True,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,C.V.VARGHESE,CPI(M),49928,41.6855,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,C.C.KRISHNAN,BJP,3013,2.5156,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,KANCHIYAR PEETHAMBARAN,OTH,389,0.3248,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,P.C.PRABHAKARAN,OTH,325,0.2713,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,M.K.NARAYANAN,OTH,226,0.1887,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf
+2011,Idukki,91,91,Idukki,V.LEKSHMANAN,OTH,158,0.1319,False,https://www.ceo.kerala.gov.in/pdf/form20/091.pdf

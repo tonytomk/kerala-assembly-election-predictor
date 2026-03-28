@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,60,60,Alathur,K.D. PRASENAN,CPI(M),71206,55.3534,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,ADV. K. KUSALAKUMAR,KEC(M),35146,27.3214,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,M.P. SREEKUMAR MASTER,BJP,19610,15.2442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,NOTA,NOTA,1076,0.8364,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,KRISHNANKUTTY K,BSP,1010,0.7851,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,KRISHNANKUTTY KUNISSERY,IND,326,0.2534,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,M. RAJESH,IND,265,0.206,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,87,87,Kothamangalam,ANTONY JOHN,CPI(M),64234,46.99,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,Shibu Thekkumpuram,KEC,57629,42.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,Dr. JOE JOSEPH,UNKNOWN,7978,5.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,SHINE K KRISHNAN,BDJS,4638,3.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,T.M. MOOSA,SDPI,1286,0.94,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,NOTA,NOTA,414,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,Shibu Thekkan,IND,276,0.2,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,ANTO JOHNY,IND,136,0.1,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,87,87,Kothamangalam,SHIBU IND Table,IND,106,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

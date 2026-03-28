@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,59,59,Nenmara,V. CHENTHAMARAKSHAN,CPI(M),64169,47.8609,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,M.V.RAGHAVAN,CMP,55475,41.3764,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,N. SIVARAJAN,BJP,9123,6.8045,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,SAKKEER HUSSAIN,SDPI,1809,1.3493,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,CHANDRAN,BSP,1484,1.1069,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,SUGUNAN.S,AIADMK,1279,0.954,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59
+2011,Palakkad,59,59,Nenmara,JOY PETER.T,CPI [ML],735,0.5482,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/59

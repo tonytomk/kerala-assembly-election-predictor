@@ -1,0 +1,1322 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kasaragod,1,1,Manjeshwar,P B ABDUL RAZAK,IUML,56870,35.7934,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,K SURENDRAN,BJP,56781,35.7374,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,C.H.KUNHAMBU,CPI(M),42565,26.79,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,BASHEER AHAMAD,PDP,759,0.4777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,NOTA,NOTA,646,0.4066,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,K.SUNDARA,IND,467,0.2939,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,RAVICHANDRA,BSP,365,0.2297,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,K P MUNEER,IND,224,0.141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,JOHN D'SOUZA,IND,207,0.1303,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,2,2,Kasaragod,N A NELLIKKUNNU,IUML,64727,44.7167,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,RAVISHA THANTHRI KUNTAR,BJP,56120,38.7706,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,DR.A.A AMEEN,INL,21615,14.9327,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,NOTA,NOTA,661,0.4567,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,VIJAYAKUMAR B,BSP,585,0.4041,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,ROSHANKUMAR,IND,508,0.351,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,A DAMODARAN,IND,283,0.1955,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,2,2,Kasaragod,MUNEER MUNAMBAM,IND,250,0.1727,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/002.pdf
+2016,Kasaragod,3,3,Udma,K KUNHIRAMAN,CPI(M),70679,43.9355,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,K SUDHAKARAN,INC,66847,41.5534,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,ADV.K.SHREEKANTH,BJP,21231,13.1976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,NOTA,NOTA,405,0.2518,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,GOPI KUTHIRAKALLU,PDP,353,0.2194,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,DAMODARAN.P,IND,349,0.2169,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,MOHAMMED PAKYARA,SDPI,331,0.2058,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,SUDHAKARAN CHERUKANAM,IND,208,0.1293,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,GOVINDAN B ALINTHAZHE,APOI,165,0.1026,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,ABBAS MUTHALAPPARA,IND,157,0.0976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,3,3,Udma,K KUNHIRAMAN PERIYANGANANAM,IND,145,0.0901,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/003.pdf
+2016,Kasaragod,4,4,Kanhangad,E.CHANDRASEKHARAN,CPI,80558,49.9774,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,DHANYA SURESH,INC,54547,33.8404,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,M P RAGHAVAN,BDJS,21104,13.0927,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,CHANDRAN PARAPPA,BSP,965,0.5987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,ASSAINAR MUTTUMTHALA,PDP,959,0.595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,NOTA,NOTA,856,0.5311,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,SAJEEVAN R,IND,663,0.4113,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,MUHAMMAD ALI V V,IND,420,0.2606,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,KOOKKAL BALAKRISHNAN,IND,294,0.1824,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,RAGHAVAN B POODAMKALLU,APOI,272,0.1687,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,BALACHANDRAN KARIMBIL,SHIVSENA,260,0.1613,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,K U KRISHNAKUMAR,IND,186,0.1154,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,4,4,Kanhangad,M. DAMODARAN,IND,105,0.0651,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/004.pdf
+2016,Kasaragod,5,5,Trikaripur,M. RAJAGOPALAN,CPI(M),79286,50.9318,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,K.P. KUNHIKANNAN,INC,62327,40.0376,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,M. BHASKARAN,BJP,10767,6.9165,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,C.H. MUTHALIB,WPI,1029,0.661,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,M.V. SHAUKATHALI,SDPI,840,0.5396,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,NOTA,NOTA,774,0.4972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,P.P. PURUSHOTHAMAN,IND,263,0.1689,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,K.P. KUNHIKANNAN KANDOTHUMPURATH,IND,183,0.1176,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,KUNJIKANNAN. P. M KURUVATTU VEEDU,IND,109,0.07,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kasaragod,5,5,Trikaripur,K M SREEDHARAN,IND,93,0.0597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/005.pdf
+2016,Kannur,6,6,Payyannur,C KRISHNAN,CPI(M),83226,58.0207,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,SAJID MAVVAL,INC,42963,29.9515,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,ANIAMMA TEACHER,BJP,15341,10.6949,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,NOTA,NOTA,1042,0.7264,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,6,6,Payyannur,VINOD KUMAR RAMANTHALI,CPI(ML)REDSTAR,870,0.6065,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/006.pdf
+2016,Kannur,7,7,Kalliasseri,T V RAJESH,CPI(M),83006,59.8254,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,AMRITHA RAMAKRISHNAN,INC,40115,28.9123,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,K P ARUN MASTER,BJP,11036,7.954,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,SUNIL KOYILERIAN,IND,1455,1.0487,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,K SUBAIR,SDPI,1435,1.0343,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,SAINUDHEEN KARIVELLUR,WPI,1080,0.7784,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,NOTA,NOTA,620,0.4469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,8,8,Taliparamba,JAMES MATHEW,CPI(M),91106,56.9484,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,RAJESH NAMBIAR,KEC(M),50489,31.5596,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,P BALAKRISHNAN MASTER,BJP,14742,9.2149,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,IBRAHIM THIRUVATTOOR,SDPI,1323,0.827,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,NOTA,NOTA,867,0.5419,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,P K AYYAPPAN MASTER,BSP,675,0.4219,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,K SADANANDAN,IND,288,0.18,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,RAJESH KUMAR,IND,287,0.1794,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,8,8,Taliparamba,P V ANIL,IND,203,0.1269,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/008.pdf
+2016,Kannur,9,9,Irikkur,K C JOSEPH,INC,72548,48.9951,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,K T JOSE,CPI,62901,42.48,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,A P GANGADHARAN,BJP,8294,5.6013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,ADV. BINOY THOMAS,IND,2734,1.8464,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,JOSEPH K C KALAYAKKATTIL,IND,602,0.4066,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,NOTA,NOTA,553,0.3735,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,RIJO,IND,134,0.0905,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,RAJEEV JOSEPH,IND,123,0.0831,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,A K SHAJI,IND,103,0.0696,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,9,9,Irikkur,RAVEENDRAN A V,IND,80,0.054,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/009.pdf
+2016,Kannur,10,10,Azhikode,M V NIKESH KUMAR,CPI(M),60795,77.5288,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,A V KESAVAN,BJP,12580,16.0426,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,K K ABDUL JABBAR,SDPI,1705,2.1743,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,P K RAGESH,IND,1518,1.9358,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,M JOSEPH JOHN,WPI,687,0.8761,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,NOTA,NOTA,453,0.5777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,ADV. P C VIVEK,SUCI(C),235,0.2997,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,K M SHAJI,IUML,196,0.2499,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,K M SHAJI,IUML,160,0.204,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,PRASAD V P,IND,87,0.1109,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,11,11,Kannur,RAMACHANDRAN KADANNAPPALLI,C(S),54347,43.0577,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SATHEESAN PACHENI,INC,53151,42.1101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,K.G. BABU,BJP,13215,10.4699,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SUFIRA K P,SDPI,2551,2.0211,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,C P RAHNA TEACHER,WPI,1134,0.8984,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,N P SATHAR,IND,755,0.5982,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,NOTA,NOTA,517,0.4096,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,K SUDHAKARAN,IND,223,0.1767,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SATHEESAN PAZHAYADATH,IND,97,0.0769,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,SATHEESAN EDATHIL VEEDU,IND,79,0.0626,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,RAMACHANDRAN THAYALA PURAYIL,IND,77,0.061,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,11,11,Kannur,RAMACHANDRAN POTHERAVALAPPIL,IND,73,0.0578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/011.pdf
+2016,Kannur,12,12,Dharmadam,PINARAYI VIJAYAN,CPI(M),87329,56.8448,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,MAMBARAM DIVAKARAN,INC,50424,32.8224,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,MOHANAN MANANTHERI,BJP,12763,8.3078,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,THARAMMAL NIYAS,SDPI,1994,1.2979,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,NOTA,NOTA,615,0.4003,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,DIVAKARAN. M. THIRUVATHIRA,IND,354,0.2304,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,12,12,Dharmadam,DIVAKARAN MOOTTIL HOUSE,IND,148,0.0963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/012.pdf
+2016,Kannur,13,13,Thalassery,ADV. A N SHAMSEER,CPI(M),70741,53.3226,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,A P ABDULLAKUTTY,INC,36624,27.6062,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,V K SAJEEVAN,BJP,22125,16.6772,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,JABEENA IRSHAD,WPI,1337,1.0078,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,A C JALALUDHEEN,SDPI,959,0.7229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,NOTA,NOTA,514,0.3874,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,BALAKRISHNAN KODIYERI,IND,129,0.0972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,THAYYIL VATTAKKANDY SAJEEVAN V K,IND,125,0.0942,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,13,13,Thalassery,DANISH MAHAL A P ABDULLAKUTTY,IND,112,0.0844,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/013.pdf
+2016,Kannur,14,14,Kuthuparamba,K K SHYLAJA TEACHER,CPI(M),67013,45.6417,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P MOHANAN S/O P R KURUP,JD(U),54722,37.2705,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,C SADANANDAN MASTER,BJP,20787,14.1578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,ADV. MUHAMMAD SHABEER K C,SDPI,1681,1.1449,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P MOHANAN VEDICHALIL,IND,1041,0.709,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,NOTA,NOTA,501,0.3412,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P MOHANAN HRIDYAM,IND,355,0.2418,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K RAGHUNATH,IND,296,0.2016,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,K P SHYLAJA PRASANTH,IND,265,0.1805,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,14,14,Kuthuparamba,SHYLAJA NELLIYULLA PARAMBATH,IND,163,0.111,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/014.pdf
+2016,Kannur,15,15,Mattannur,E. P. JAYARAJAN,CPI(M),84030,56.5185,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,K. P. PRASANTH,JD(U),40649,27.3405,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,BIJU ELAKKUZHI,BJP,18620,12.5238,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,RAFEEKH KEECHERI,SDPI,3188,2.1442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,NOTA,NOTA,1420,0.9551,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,15,15,Mattannur,KODIPPADI PRASANTH,IND,770,0.5179,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/015.pdf
+2016,Kannur,16,16,Peravoor,ADV. SUNNY JOSEPH,INC,65659,48.1001,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,ADV. BINOY KURIAN,CPI(M),57670,42.2475,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,PAILY VATHIATTU,BDJS,9129,6.6877,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,P K FAROOKH,SDPI,1935,1.4175,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,PALLIPRAM PRASANNAN,WPI,513,0.3758,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,NOTA,NOTA,458,0.3355,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,SUNNY JOSEPH KALLARAKKAL,IND,389,0.285,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,ADV. K J JOSEPH,IND,241,0.1766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,BIJOY KURIAN,IND,214,0.1568,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,V D BINTO,IND,124,0.0908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,SUNNY,IND,110,0.0806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Kannur,16,16,Peravoor,RADHAMANI NARAYANA KUMAR,IND,63,0.0462,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/016.pdf
+2016,Wayanad,17,17,Mananthavady,O R KELU,CPI(M),62436,42.8842,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,P K JAYALAKSHMI,INC,61129,41.9865,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,K MOHANDAS,BJP,16230,11.1476,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,SOMAN P N,SDPI,1377,0.9458,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,LAKSHMI,IND,1300,0.8929,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,NOTA,NOTA,1050,0.7212,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,ANNAN MADAKKIMALA,BSP,679,0.4664,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,KELU CHAYIMMAL,IND,583,0.4004,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,VIJAYAN,CPI(ML)REDSTAR,224,0.1539,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,USHA K,IND,205,0.1408,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,KELU KOLLIYIL,IND,196,0.1346,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,17,17,Mananthavady,NITTAMANI K KUNHIRAMAN,IND,183,0.1257,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/017.pdf
+2016,Wayanad,18,18,Sulthanbathery,I C BALAKRISHNAN,INC,75747,44.0379,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,RUGMINI SUBRAHMANIAN,CPI(M),64549,37.5276,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,C K JANU,IND,27920,16.2322,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,NOTA,NOTA,1261,0.7331,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,MUKUNDAN CHEENGERI,BSP,791,0.4599,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,MADHAVI,CPI(ML)REDSTAR,609,0.3541,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,K K VASU,SP,478,0.2779,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,BALAKRISHNAN EDAKKAL,IND,387,0.225,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,T R SREEDHARAN,SUCI(C),262,0.1523,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,19,19,Kalpetta,C K SASEENDRAN,CPI(M),72959,48.347,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,M.V SHREYAMS KUMAR,JD(U),59876,39.6774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,K SADANANDAN,BJP,12938,8.5735,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,NOTA,NOTA,1172,0.7766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,JOSEPH AMBALAVAYAL,WPI,900,0.5964,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,ADV. K A AYOOB,SDPI,837,0.5546,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,MADAYI LATHEEF,IND,594,0.3936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,SREYAMS KUMAR ANJANA HOUSE,IND,498,0.33,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,SUJAYAKUMAR,CPI(ML)REDSTAR,468,0.3101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,MOIDEEN CHEMBOTHARA,IND,451,0.2989,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Wayanad,19,19,Kalpetta,SANDHYA N M,IND,214,0.1418,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/019.pdf
+2016,Kozhikode,20,20,Vadakara,C K NANU,JD(S),49211,37.9797,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,MANAYATH CHANDRAN,JD(U),39700,30.6393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,K K REMA T P HOUSE,IND,20504,15.8244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,ADV. M. RAJESH KUMAR,BJP,13937,10.7562,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,P ABDUL HAMEED MASTER,SDPI,2673,2.0629,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,MADAPPARAMBATH CHANDRAN,IND,1648,1.2719,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,NOTA,NOTA,506,0.3905,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,K K REMA KUNIYIL,IND,352,0.2717,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,STALIN P P,CPI(ML)REDSTAR,284,0.2192,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,T K NANU THAZHE KANDOTH,IND,279,0.2153,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,MATHATH CHANDRAN,IND,240,0.1852,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,20,20,Vadakara,T P RAMA VADAKKE EROTH,IND,238,0.1837,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/020.pdf
+2016,Kozhikode,21,21,Kuttiadi,PARAKKAL ABDULLA,IUML,71809,45.5035,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,K K LATHIKA,CPI(M),70652,44.7703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,RAMADAS MANALERI,BJP,12327,7.8113,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,P C BASKARAN,WPI,1125,0.7129,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,SABU KAKKATTIL,SP,860,0.545,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,NOTA,NOTA,375,0.2376,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,K C KUMARAN,IND,220,0.1394,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,NARANATHU MUHAMMAD,PDP,118,0.0748,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,PARAKKAL ABDULLA PALLIYATH,IND,85,0.0539,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,S R KHAN MANIYOOR,IND,76,0.0482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,PALLIYIL ABDULLA,IND,62,0.0393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,ALUVA ANEESH,IND,57,0.0361,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,21,21,Kuttiadi,PAREMMAL ABDULLA,IND,44,0.0279,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/021.pdf
+2016,Kozhikode,22,22,Nadapuram,E K VIJAYAN,CPI,74742,45.874,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,ADV. K. PRAVEENKUMAR,INC,69983,42.9531,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,M P RAJAN,BJP,14493,8.8953,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,ABDUL RAHEEM,SDPI,2183,1.3398,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,NOTA,NOTA,446,0.2737,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,KK VASU,BSP,377,0.2314,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,E K VIJAYAN KOMATH,IND,220,0.135,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,PRAVEEN KUMAR THAYULLATHIL (H),IND,171,0.105,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,PRAVEEN RAYAROTH THAZHIKUNI,IND,163,0.1,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,22,22,Nadapuram,ALUVA ANEESH,IND,151,0.0927,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/022.pdf
+2016,Kozhikode,23,23,Quilandy,K. DASAN,CPI(M),70593,45.9389,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,N. SUBRAMANIAN,INC,57224,37.239,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,K RAJINESH BABU,BJP,22087,14.3733,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,ISMAYIL KAMMANA,SDPI,798,0.5193,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,RASAL. M. K,PDP,703,0.4575,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,PARAPPIL BALAKRISHNAN,BSP,678,0.4412,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,NOTA,NOTA,653,0.4249,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,M.N.SUBRAMANIAN KAKKUDUMBIL MITHAL,IND,489,0.3182,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,P K DASAN PAZHUNTHUM KOOTTATHIL,IND,167,0.1087,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,P M SREEKUMAR,SUCI(C),149,0.097,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,23,23,Quilandy,P M KUNHIKANNAN,CPI(ML)REDSTAR,126,0.082,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/023.pdf
+2016,Kozhikode,24,24,Perambra,T P RAMAKRISHNAN,CPI(M),72359,47.1357,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,ADV. MOHAMMED IKBAL,KEC(M),68258,44.4643,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,SUKUMARAN NAIR,BDJS,8561,5.5768,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,RAZSAQ PALERI,WPI,1673,1.0898,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,K P GOPI,SDPI,1036,0.6749,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,MUHAMMAD IQBAL BAPPU BAITH,IND,637,0.415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,NOTA,NOTA,616,0.4013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,M T MUHAMMED MASTER,CPI(ML)REDSTAR,224,0.1459,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,24,24,Perambra,MUHAMMED IQBAL PALLATH,IND,148,0.0964,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/024.pdf
+2016,Kozhikode,25,25,Balusseri,PURUSHUAN KADALUNDY,CPI(M),82914,47.4967,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,U.C RAMAN PADANILAM,IND,67450,38.6382,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,P.K SUPRAN,BJP,19324,11.0696,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,BALAN NADUVANNUR,SDPI,1764,1.0105,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,SASEENDRAN BAPPANKAD,WPI,959,0.5494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,RAMAN THACHAMPOYIL MEETHAL,IND,710,0.4067,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,NOTA,NOTA,638,0.3655,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,K.T SIVAN,IND,497,0.2847,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,25,25,Balusseri,JAYARAJAN,IND,312,0.1787,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/025.pdf
+2016,Kozhikode,26,26,Elathur,A K SASEENDRAN,NCP,76387,48.6523,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,POTTANGADI KISHAN CHAND,JD(U),47330,30.1453,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,V V RAJAN,BJP,29070,18.5152,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,KOTTEAPPATT KRISHNAN,IND,1724,1.098,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,RAGHU KALLIKKAD,BSP,1142,0.7274,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,NOTA,NOTA,986,0.628,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,26,26,Elathur,USEFFALI P M,IND,367,0.2337,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/026.pdf
+2016,Kozhikode,27,27,kozhikode north,A PRADEEP KUMAR,CPI(M),64192,48.4041,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,P M SURESH BABU,INC,36319,27.3864,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,K P SREESAN,BJP,29860,22.516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,NOTA,NOTA,770,0.5806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,VELAYUDHAN.K.P,UNKNOWN,457,0.3446,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,ABDUL VAHID,UNKNOWN,351,0.2647,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,S JENNIFER,UNKNOWN,208,0.1568,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,E PRADEEP KUMAR PEEDIKATHODI,UNKNOWN,187,0.141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,T SURESH BABU KAMALADHALAM,UNKNOWN,151,0.1139,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,27,27,kozhikode north,ABDU SAMAD,UNKNOWN,122,0.092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/027.pdf
+2016,Kozhikode,28,28,Kozhikode south,DR. M.K.MUNEER,IUML,49863,43.1277,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,PROF.ABDUL VAHAB,INL,43536,37.6554,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,SATHEESH KUTTIYIL,BDJS,19146,16.5598,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,NOTA,NOTA,788,0.6816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,U.K.DEYSI BALASUBRAMANIAN,SDPI,593,0.5129,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,KAMALA PAVITHRAN,BSP,480,0.4152,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,A.P.ABDUL VAHAB,IND,287,0.2482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,SAJAN.A.K,IND,227,0.1963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,ABDUL SATHAR,IND,211,0.1825,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,MUNEER DAVARI,IND,190,0.1643,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,PREMANAND.T,IND,166,0.1436,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,28,28,Kozhikode south,ABDUL MUNEER,IND,130,0.1124,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/028.pdf
+2016,Kozhikode,29,29,Beypore,V K C MAMMED KOYA,CPI(M),69114,44.3866,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADAM MULSI M P,INC,54751,35.1624,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADV. PRAKASH BABU,BJP,27958,17.9553,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,P.C MUHAMMEDKUTTY MASTER,WPI,1387,0.8908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,MUSTHAFA KOMMERI,SDPI,1126,0.7231,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,NOTA,NOTA,605,0.3885,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,V K MAMMED KOYA V K HOUSE,IND,355,0.228,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADAM MALIQUE,IND,199,0.1278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,ADAM K V,IND,109,0.07,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,29,29,Beypore,AJEESH KUMAR ERAKKATHIL,IND,105,0.0674,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/029.pdf
+2016,Kozhikode,30,30,Kunnamangalam,ADV. P.T.A. RAHIM,IND,77410,42.9242,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,ADV. T. SIDDIQU,INC,66205,36.711,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,C.K.PADMANABHAN,BJP,32702,18.1334,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,LATHEEF ANORA,SDPI,1252,0.6942,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,NOTA,NOTA,1148,0.6366,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,K.P. RAHEEM MELE CHETTUKUZHIYIL,IND,726,0.4026,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,P.P. RAJAN,BSP,304,0.1686,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,P. SIDHEEQ PANNIYOOKKIL,IND,212,0.1176,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,T.P. SIDDEEQUE THALAPPOYIL,IND,206,0.1142,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,ABOOBACKER SIDHIQU,IND,176,0.0976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,31,31,Koduvally,KARAT RAZACK,CPI(M),61033,44.4235,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,M. A. RAZAK MASTER,IUML,60460,44.0064,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,ALI AKBAR,BJP,11537,8.3973,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,P. K. ZAKARIYYA,UNKNOWN,1566,1.1398,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,E NAZAR,UNKNOWN,1466,1.067,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,NOTA,NOTA,582,0.4236,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,ABDUL RAZAK K T,UNKNOWN,352,0.2562,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,SAYYID HUSSAIN JIFFIRI THANGAL,UNKNOWN,281,0.2045,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,31,31,Koduvally,K P ABOOBACKER,UNKNOWN,112,0.0815,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/031.pdf
+2016,Kozhikode,32,32,Thiruvambady,GEORGE M. THOMAS,CPI(M),62324,45.9325,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,V M UMMER MASTER,IUML,59316,43.7156,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,GIRI PAMBANAL,BDJS,8749,6.448,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,RAJU PUNNAKKAL,WPI,2226,1.6406,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,NOTA,NOTA,776,0.5719,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,SIMON THONAKKARA,IND,641,0.4724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,T P MOHAMMED,SDPI,569,0.4194,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,NOUSHAD KODIYATHUR,PDP,517,0.381,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,SIBI VAYALIL,IND,426,0.314,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,C M UMMER CHOKLIYIL,IND,77,0.0567,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Kozhikode,32,32,Thiruvambady,UMMAR VILANGOT,IND,65,0.0479,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/032.pdf
+2016,Malappuram,33,33,Kondotty,T.V. IBRAHIM,IUML,69668,46.5838,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,K P BEERANKUTTY,IND,59014,39.46,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,K RAMACHANDRAN,BJP,12513,8.3669,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,NAZARUDHEEN ELAMARAM,SDPI,3667,2.452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,SALEEM VAZHAKKAD,WPI,2344,1.5673,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,NOTA,NOTA,581,0.3885,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,ABDUL GAFFOOR VAVOOR,PDP,566,0.3785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,K P VEERANKUTTY,IND,442,0.2955,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,SULFIKAR ALI AMBAL,IND,316,0.2113,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,KADEEJA,IND,267,0.1785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,33,33,Kondotty,IBRAHIM CHOLAKKAD,IND,176,0.1177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/033.pdf
+2016,Malappuram,34,34,Eranad,P K BASHEER,IUML,69048,50.8266,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,ABDURAHIMAN,IND,56155,41.336,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,K P BABURAJ MASTER THUNDATHIL,BJP,6055,4.4571,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,ADV. UMMER CHELAKKODE,SP,1298,0.9555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,VELAYUDHAN,BSP,885,0.6515,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,K.T. ABDUL RAHIMAN,IND,825,0.6073,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,FAROOQ CHENGARA,PDP,536,0.3946,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,NOTA,NOTA,461,0.3393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,V.K.BASHEER VALLAKKAATT THODI,UNKNOWN,245,0.1803,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,SHAHANAS,IND,193,0.1421,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,34,34,Eranad,P.K.BASHEER PALATTUKUYYAN,UNKNOWN,149,0.1097,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/034.pdf
+2016,Malappuram,35,35,Nilambur,P V ANVAR,IND,77858,47.9117,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,ARYADAN SHOUKATH,INC,66354,40.8325,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,GIRISH MEKKATT,BDJS,12284,7.5592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,K BABU MANI,SDPI,4751,2.9236,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,35,35,Nilambur,NOTA,NOTA,1256,0.7729,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/035.pdf
+2016,Malappuram,36,36,Wandoor,A.P. ANIL KUMAR,INC,81964,52.595,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,K NISHANTH,CPI(M),58100,37.2818,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,SUNITHA MOHANDAS,BJP,9471,6.0774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,KRISHNAN KUNIYIL,WPI,3399,2.1811,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,KRISHNAN ERANHIKKAL,SDPI,1178,0.7559,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,VELAYUDHAN VENNIYUR,PDP,920,0.5903,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,36,36,Wandoor,NOTA,NOTA,808,0.5185,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/036.pdf
+2016,Malappuram,37,37,Manjeri,ADV. M. UMMER,IUML,69779,50.2202,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,ADV. K. MOHANDAS,CPI,50163,36.1025,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,ADV. C. DINESH,BJP,11223,8.0772,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,K.A. SAVAD,WPI,2503,1.8014,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,DR. C.H. ASHRAF,SDPI,2357,1.6963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,MOYIN BAPPU,PDP,1121,0.8068,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,NOTA,NOTA,913,0.6571,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,37,37,Manjeri,V.M. MUSTHAFA,IND,887,0.6384,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/037.pdf
+2016,Malappuram,38,38,Perinthalmanna,MANJALAMKUZHI ALI,IUML,70990,46.8856,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,V. SASIKUMAR,CPI(M),70411,46.5032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,ADV. M.K. SUNIL,BJP,5917,3.9079,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,SALEEM MAMPAD,WPI,1757,1.1604,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,SUNIYA SIRAJ,SDPI,698,0.461,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,PALATHINGAL ABOOBACKER,IND,671,0.4432,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,NOTA,NOTA,507,0.3349,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,SAYYID MUSTHAFA POOKOYA THANGAL,PDP,335,0.2213,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,38,38,Perinthalmanna,ANWAR SHAKEEL OMAR,IND,125,0.0826,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/038.pdf
+2016,Malappuram,39,39,Mankada,T.A. AHAMMED KABEER,IUML,69165,46.0796,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,ADV. T.K. RASHEED ALI,CPI(M),67657,45.0749,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,B. RATHEESH,BJP,6641,4.4244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,HAMEED VANIYAMBALAM,WPI,3999,2.6642,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,A.A. RAHEEM,SDPI,1456,0.97,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,NOTA,NOTA,479,0.3191,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,O.T. SHIHAB,PDP,273,0.1819,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,AHAMED KABEER MUTTENGADAN,IND,218,0.1452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,M.K. AHAMMEDUL KABEER,IND,119,0.0793,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,39,39,Mankada,ANWAR SHAKEEL OMAR,IND,92,0.0613,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/039.pdf
+2016,Malappuram,40,40,Malappuram,P. UBAIDULLA,IUML,81072,57.1602,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,ADV. K P SUMATHI,CPI(M),45400,32.0095,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,BADUSHA THANGAL K.N,BJP,7211,5.0841,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,E.C. AYISHA,WPI,3330,2.3478,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,JALEEL NEELAMBRA,SDPI,2444,1.7232,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,ASHRAF PULPATTA,PDP,1550,1.0928,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,40,40,Malappuram,NOTA,NOTA,826,0.5824,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/040.pdf
+2016,Malappuram,41,41,Vengara,P.K. KUNHALIKUTTY,IUML,72181,60.0128,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,ADV. P.P. BASHEER,CPI(M),34124,28.3714,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,P.T. ALI HAJI,BJP,7055,5.8657,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,KALLAN ABOOBACKER MASTER,SDPI,3049,2.535,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,SURENDRAN KARIPPUZHA,WPI,1864,1.5498,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,SUBAIR SWABAHI,PDP,1472,1.2239,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,41,41,Vengara,NOTA,NOTA,531,0.4415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/041.pdf
+2016,Malappuram,42,42,Vallikkunnu,ABDUL HAMEED MASTER,IUML,59720,43.4378,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ADV. O.K. THANGAL,INL,47110,34.2658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,JANACHANDRAN MASTER,BJP,22887,16.647,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,NISSAR METHAR,PDP,2975,2.1639,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,HANEEFA HAJI,SDPI,2499,1.8177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,NOTA,NOTA,752,0.547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,PRAVEEN KUMAR,BSP,705,0.5128,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ANSAS KODAKKATTAKATH,CPI(ML)REDSTAR,262,0.1906,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ADV. BALAKRISHNAN MANEERI,IND,192,0.1397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ABOOBACKER ALIAS K K ABOO,IND,176,0.128,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,ABDUL NAZER,IND,106,0.0771,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,42,42,Vallikkunnu,V.P. PADMAKUMAR,IND,100,0.0727,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/042.pdf
+2016,Malappuram,43,43,Tirurangadi,P.K. ABDU RABB,IUML,62927,46.5278,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NIYAS PULIKKALAKATH,IND,56884,42.0597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,P.V. GEETHA MADHAVAN,BJP,8046,5.9492,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,ADV. K.C. NASEER,SDPI,2478,1.8322,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,MALIYATT ABDURAZAK HAJI,PDP,1902,1.4063,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,MINU MUMTHAZ,WPI,1270,0.939,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NOTA,NOTA,630,0.4658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NIYAS PAROLI,IND,541,0.4,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,HANEEFA,IND,294,0.2174,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,NIYAS THAZHATHETHIL,IND,181,0.1338,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,43,43,Tirurangadi,YOONUS SALEEM POOZHITHARA,CPI(ML)REDSTAR,93,0.0688,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/043.pdf
+2016,Malappuram,44,44,Tanur,V ABDURAHIMAN,NSC,64472,45.7774,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ABDURAHIMAN RANDATHANI,IUML,59554,42.2855,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,P.R. RASMILNATH,BJP,11051,7.8466,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ASHRAF VAILATHUR,UNKNOWN,1291,0.9167,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,K.K. MAJEED KHASIMI,SDPI,1151,0.8173,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ANWAR PANNIKKANDATHIL,PDP,858,0.6092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,P.T .UNNI,IND,708,0.5027,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,V ABDURAHIMAN VAYANGATIL,IND,672,0.4771,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,NOTA,NOTA,569,0.404,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,V. ABDURAHIMAN VARIKKOTTIL,UNKNOWN,172,0.1221,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,N. RAMAKRISHNAN MASTER,IND,139,0.0987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,THAMI,IND,81,0.0575,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,V. ABDURAHIMAN VAYARAKATH,IND,66,0.0469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,44,44,Tanur,ABDURAHIMAN PUTHANMALIYEKKAL,IND,54,0.0383,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/044.pdf
+2016,Malappuram,45,45,Tirur,C. MAMMUTTY,IUML,73432,46.8454,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,GAFOOR P LILLIS,NSC,66371,42.3409,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,M.K. DEVIDASAN,BJP,9083,5.7944,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,GANESH VADERI,WPI,2001,1.2765,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,IBRAHIM TIRUR,SDPI,1828,1.1662,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,ADV. SHAMEER PAYYANANGADI,PDP,1276,0.814,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,E.K. GAFOOR,IND,791,0.5046,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,NOTA,NOTA,692,0.4415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,MAMMUTTY MUYYARIKANDI,IND,485,0.3094,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,SAHADEVAN,IND,402,0.2565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,MAMMUTTY KOOLIPARAMBAN,IND,201,0.1282,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,MAMMUTTY MANDAMKANDI,IND,132,0.0842,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,45,45,Tirur,BAPPU VADAKKAYIL,IND,60,0.0383,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/045.pdf
+2016,Malappuram,46,46,Kottakkal,ABID HUSSAIN THANGAL,IUML,71768,48.3374,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,N.A. MUHAMMED KUTTY (MAMMOOTY),NCP,56726,38.2063,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,V. UNNIKRISHNAN MASTER,BJP,13205,8.8939,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,NEYYATHOOR KUNHIMOHAMED,PDP,2763,1.8609,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,K.P.O. RAHMATHULLA,SDPI,1719,1.1578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,NOTA,NOTA,806,0.5429,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,C. MUHAMMED KUTTY,IND,579,0.39,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,VILLAN MOHAMMED KUTTY,IND,429,0.2889,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,BINDU DEVARAJAN,IND,223,0.1502,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,SAINUL ABID THANGAL,IND,150,0.101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,46,46,Kottakkal,BEERAN. K,IND,105,0.0707,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
+2016,Malappuram,47,47,Thavanur,DR. K.T. JALEEL,IND,68179,47.9712,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,IFTHIQUARUDHEEN MASTER,INC,51115,35.9648,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,RAVI THELATH,BJP,15801,11.1177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,P.K. JALEEL PARAKKUZHIYIL,SDPI,2649,1.8639,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,ALI KADAMPUZHA,PDP,1077,0.7578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,MUHAMMED PONNANI,WPI,1007,0.7085,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,IFTHIKARUDHEEN. P.P,IND,601,0.4229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,NOTA,NOTA,473,0.3328,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,APPUNNI. O.V,IND,443,0.3117,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,K.T. JALEEL KANHIRATHODIKA,IND,272,0.1914,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,K.A. JALEEL KOTTILIL,IND,251,0.1766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,SONIA PINTO,IND,133,0.0936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,K.T. JALEEL KUNNATHODI,UNKNOWN,124,0.0872,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,48,48,Ponnani,P. SREERAMAKRISHNAN,UNKNOWN,69332,48.907,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,P.T. AJAI MOHAN,UNKNOWN,53692,37.8745,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,K.K. SURENDRAN,UNKNOWN,11662,8.2264,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,M.M. SHAKKIR,UNKNOWN,2048,1.4447,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,M. MOIDUNNI HAJI,UNKNOWN,1857,1.3099,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,ABDUL FATHAH,UNKNOWN,1659,1.1703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,NOTA,NOTA,604,0.4261,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,SINDHUKUMARI P S,UNKNOWN,386,0.2723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,AJAY MOHAN,UNKNOWN,240,0.1693,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,RAMAKRISHNAN PUDUSSERY,UNKNOWN,140,0.0988,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,RAMAKRISHNAN NJAVANENGHAT,UNKNOWN,82,0.0578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Malappuram,48,48,Ponnani,KOYILAN RAMAKRISHNAN,UNKNOWN,61,0.043,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/048.pdf
+2016,Palakkad,49,49,Thrithala,V.T. BALRAM,INC,66505,47.1596,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,SUBAIDA ISHAC,CPI(M),55958,39.6806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,PROF.V.T. REMA,BJP,14510,10.2892,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,C.P. MOHAMMEDALI,SDPI,1313,0.9311,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,SUBAIDA,IND,1080,0.7658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,NOTA,NOTA,549,0.3893,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,MOIDEEN KUTTY POOKKATH,PDP,541,0.3836,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,VINOD PERUMANNOOR,BSP,366,0.2595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,49,49,Thrithala,BALARAM,IND,199,0.1411,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/049.pdf
+2016,Palakkad,50,50,Pattambi,MUHAMMED MUHASSIN,CPI,64025,45.6933,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,C P MOHAMMED,INC,56621,40.4092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,ADV. P. MANOJ,BJP,14824,10.5796,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,ABDUL RAOOF C,SDPI,1848,1.3189,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,M A MOIDEENKUTTY MASTER,WPI,815,0.5816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MUHSIN,IND,525,0.3747,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,NOTA,NOTA,435,0.3105,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,ABOOBACKER P,PDP,422,0.3012,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MUHASIN PACHEERI,UNKNOWN,315,0.2248,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MUHAMMED CHERUVASSERI PALLIYALIL,IND,126,0.0899,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,MOHAMED MUHSIN PALOLI,IND,101,0.0721,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,50,50,Pattambi,NOBY AUGUSTINE,IND,62,0.0442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/050.pdf
+2016,Palakkad,51,51,Shornur,P.K. SASI,CPI(M),66165,46.7062,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,C. SANGEETHA,INC,41618,29.3784,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,V.P. CHANDRAN,BDJS,28836,20.3555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,M SAIDALAVI,SDPI,1246,0.8796,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,HARIS MUHAMMAD,IND,882,0.6226,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,NOTA,NOTA,800,0.5647,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,ANANDAN K K,BSP,764,0.5393,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,A. RADHAKRISHNAN,IND,697,0.492,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,P.K. ANUMON,SHIVSENA,407,0.2873,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,51,51,Shornur,MOIDEENSHA MOLOOR,UNKNOWN,247,0.1744,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/051.pdf
+2016,Palakkad,52,52,Ottapalam,P. UNNI,CPI(M),67161,44.7108,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,ADV. SHANIMOL OSMAN,INC,51073,34.0006,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,P. VENUGOPALAN,BJP,27605,18.3774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,A.A. SULFIKAR,SDPI,1166,0.7762,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,NOTA,NOTA,1013,0.6744,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,K T PADMINI,BSP,811,0.5399,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,S.R. PRAKASH,IND,805,0.5359,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,M.S. SUNEESH,SHIVSENA,399,0.2656,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,52,52,Ottapalam,SURESH VELAYUDHAN,IND,179,0.1192,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/052.pdf
+2016,Palakkad,53,53,Kongad,K.V. VIJAYADAS,CPI(M),60790,45.345,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,PANDALAM SUDHAKARAN,INC,47519,35.4458,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,RENU SURESH,BJP,23800,17.7531,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,NOTA,NOTA,1163,0.8675,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,53,53,Kongad,RAMESH P V KANNAMPARIYARAM,BSP,789,0.5885,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/053.pdf
+2016,Palakkad,54,54,Mannarkad,N. SAMSUDHEEN,UNKNOWN,73163,49.2687,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,K.P. SURESH RAJ,CPI,60838,40.9689,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,KESAVADEV PUTHUMANA,BDJS,10170,6.8486,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,M. SULAIMAN,WPI,1112,0.7488,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,NOTA,NOTA,927,0.6243,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,SHAMSUDHEEN THOTTASSERI,IND,622,0.4189,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,AJIKUMAR. K,CPI(ML)REDSTAR,478,0.3219,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,GEORGE KUTTY. E.V,IND,445,0.2997,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,YOOSAF ALANALLUR,SDPI,412,0.2774,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,54,54,Mannarkad,SURESH BABU. M,SHIVSENA,331,0.2229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/054.pdf
+2016,Palakkad,55,55,Malampuzha,V.S. ACHUTHANANDAN,CPI(M),73299,45.8951,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,C. KRISHNAKUMAR,BJP,46157,28.9005,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,V.S. JOY,INC,35333,22.1232,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,C.P. SREEDHARAN,AIADMK,3154,1.9748,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,NOTA,NOTA,924,0.5785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,RAVI PALLATHERI,BSP,326,0.2041,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,RAMESH PUDUPPARIYARAM,IND,297,0.186,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,S. SARAVANAN,IND,220,0.1377,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,56,56,Palakkad,SHAFI PARAMBIL,INC,57559,41.7687,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,SOBHA SURENDRAN,BJP,40076,29.0819,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,N N KRISHNADAS,CPI(M),38675,28.0652,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,NOTA,NOTA,719,0.5218,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,HARI ARUMBIL,BSP,411,0.2982,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,56,56,Palakkad,DR M N ANUVARUDHEEN,IND,364,0.2641,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/056.pdf
+2016,Palakkad,57,57,Tarur,A.K. BALAN,CPI(M),67047,52.2539,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/057.pdf
+2016,Palakkad,57,57,Tarur,C. PRAKASH,INC,43979,34.2756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/057.pdf
+2016,Palakkad,57,57,Tarur,K.V. DIVAKARAN,BJP,15493,12.0747,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/057.pdf
+2016,Palakkad,57,57,Tarur,NOTA,NOTA,1128,0.8791,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/057.pdf
+2016,Palakkad,57,57,Tarur,NARAYANANKUTTY K T,BSP,663,0.5167,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/057.pdf
+2016,Palakkad,58,58,Chittur,K. KRISHNANKUTTY,JD(S),69270,44.8989,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,K. ACHUTHAN,INC,61985,40.177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,SASIKUMAR M,BJP,12537,8.1261,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,MAYILSAMY ( MAYILSWAMY),UNKNOWN,6212,4.0264,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,NOTA,NOTA,1260,0.8167,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,SANTHA,IND,679,0.4401,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,KRISHNANKUTTY KUNNATH HOUSE,IND,672,0.4356,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,P.C. RAMACHANDRAN,BSP,571,0.3701,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,ACHUTHAN THANKA NIVAS,IND,495,0.3208,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,A. RAJEENA,SUCI(C),442,0.2865,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,58,58,Chittur,A KRISHNANKUTTY ARAMURI,IND,157,0.1018,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/058.pdf
+2016,Palakkad,59,59,Nenmara,K. BABU,CPI(M),66316,42.9013,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,A.V. GOPINATHAN,INC,58908,38.1089,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,N. SIVARAJAN,BJP,23096,14.9413,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,MENAKA. K,AIADMK,2186,1.4142,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,NOTA,NOTA,1053,0.6812,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,AJITH KOLLENGODE,WPI,772,0.4994,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,SAKKIR HUSSAIN S,SDPI,487,0.3151,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,MOHANDASAN,IND,461,0.2982,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,BABU CHATHAN,IND,324,0.2096,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,BABU KUMARAN,IND,239,0.1546,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,BABU THATHAKUTTY,IND,233,0.1507,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,BABU VASU,IND,204,0.132,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,M. VINOD,SHIVSENA,168,0.1087,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,59,59,Nenmara,GOPINATHAN BALAKRISHNAN,IND,131,0.0847,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/059.pdf
+2016,Palakkad,60,60,Alathur,K.D. PRASENAN,CPI(M),71206,55.3534,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,ADV. K. KUSALAKUMAR,KEC(M),35146,27.3214,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,M.P. SREEKUMAR MASTER,BJP,19610,15.2442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,NOTA,NOTA,1076,0.8364,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,KRISHNANKUTTY K,BSP,1010,0.7851,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,KRISHNANKUTTY KUNISSERY,IND,326,0.2534,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Palakkad,60,60,Alathur,M. RAJESH,IND,265,0.206,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/060.pdf
+2016,Thrissur,61,61,Chelakkara,U R PRADEEP,CPI(M),67771,44.8147,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/061.pdf
+2016,Thrissur,61,61,Chelakkara,THULASI TEACHER,INC,57571,38.0698,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/061.pdf
+2016,Thrissur,61,61,Chelakkara,SHAJUMON VATTEKKAD,BJP,23845,15.7679,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/061.pdf
+2016,Thrissur,61,61,Chelakkara,A SUBRAMANNION,SDPI,1116,0.738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/061.pdf
+2016,Thrissur,61,61,Chelakkara,NOTA,NOTA,922,0.6097,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/061.pdf
+2016,Thrissur,62,62,Kunnamkulam,A C MOIDEEN,CPI(M),63274,41.9255,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,C P JOHN,CMP,55492,36.7691,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,ADV.K.K. ANEESHKUMAR,BJP,29325,19.4308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,JILEEF ABDUL KHADAR,SDPI,1204,0.7978,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,SULAIMAN,PDP,710,0.4704,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,NOTA,NOTA,648,0.4294,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,62,62,Kunnamkulam,P C SCHARIACHAN,IND,267,0.1769,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/062.pdf
+2016,Thrissur,63,63,Guruvayoor,K.V. ABDUL KHADER,CPI(M),66088,44.7599,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,ADV. P M SADIQALI,IUML,50990,34.5344,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,ADV. NIVEDIDA,BJP,25490,17.2638,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,P.R. SIYAD,SDPI,1406,0.9523,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,K.G.MOHANAN,WPI,1382,0.936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,MUHAMMED RASHEED ARAKKAL,PDP,915,0.6197,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,NOTA,NOTA,605,0.4098,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,C.V. PREMARAJAN,SUCI(C),314,0.2127,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,ABDULKHADER KUMBILAVALAPPIL,IND,256,0.1734,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,63,63,Guruvayoor,SASI ANJOOR,IND,204,0.1382,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/063.pdf
+2016,Thrissur,65,65,Wadakkanchery,ANIL AKKARA,INC,65535,41.0155,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,MARY THOMAS,CPI(M),65492,40.9886,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,ADV. ULLAS BABU,BJP,26652,16.6803,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,NOTA,NOTA,969,0.6065,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,GADDAFI A K,SDPI,477,0.2985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,P K SUBRAMANIAN,BSP,419,0.2622,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,ANIL,IND,237,0.1483,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,66,66,Ollur,K RAJAN,UNKNOWN,71666,47.5494,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,M P VINCENT,UNKNOWN,58418,38.7595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,P.K. SANTHOSH (LALA),UNKNOWN,17694,11.7397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,NOTA,NOTA,1151,0.7637,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,MAJEED MULLAKARA,UNKNOWN,696,0.4618,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,SAJIMON MANJAMATTAM,UNKNOWN,334,0.2216,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,VINCENT M D MAROTTIKKAL,UNKNOWN,279,0.1851,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,K. G. RAJAN,UNKNOWN,267,0.1772,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,V. N. ASOKAN,UNKNOWN,214,0.142,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,67,67,Thrissur,V S SUNILKUMAR,CPI,53664,42.1917,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,PADMAJA VENUGOPAL,INC,46677,36.6984,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,ADV. B GOPALAKRISHNAN,BJP,24748,19.4574,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,NOTA,NOTA,1128,0.8869,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,DR. ANTONY J MALIAKAL,IND,256,0.2013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,P S UNNIKRISHNAN,SP,226,0.1777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,RAJI MANI,PDP,154,0.1211,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,S T PARAMASIVAN,IND,153,0.1203,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,M PRADEEPAN,SUCI(C),111,0.0873,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,SANTHAKUMARY K V,IGP,74,0.0582,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,68,68,Nattika,GEETHA GOPI,CPI,70218,46.6528,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,K.V. DASAN,INC,43441,28.8622,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,T.V. BABU,BDJS,33650,22.357,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,NOTA,NOTA,903,0.6,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,ARUMUGHAN SNEHATHEERAM,PDP,534,0.3548,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,A K SANTHOSH,BSP,530,0.3521,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,T K PRASAD,IND,502,0.3335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,N.M. PUSHPANGADHAN,CPI(ML)REDSTAR,253,0.1681,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,CHANDRAN VAKEEL,IND,168,0.1116,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,NINU K. B.,IND,163,0.1083,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,SIVADAS N,IGP,150,0.0997,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,69,69,Kaipamangalam,E T TAISON MASTER,CPI,66824,49.5999,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,M T MUHAMMED NAHAS,RSP,33384,24.7792,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,UNNIKRISHNAN THASHNATH,BDJS,30041,22.2978,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,K K SHAJAHAN,WPI,2002,1.486,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,ABDUL KAREEM P M,PDP,624,0.4632,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,NOTA,NOTA,565,0.4194,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,K H MOHAMMED RAFEEK,SDPI,564,0.4186,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,P A KUTTAPPAN,IND,257,0.1908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,BIJU ITTITHARA,IND,238,0.1767,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,69,69,Kaipamangalam,N D VENU,CPI(ML)REDSTAR,227,0.1685,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/069.pdf
+2016,Thrissur,70,70,Irinjalakkuda,PROF. K.U. ARUNAN,CPI(M),59730,40.0003,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,ADV. THOMAS UNNIYADAN,KEC(M),57019,38.1848,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,SANTHOSH CHERAKULAM,BJP,30420,20.3718,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,NOTA,NOTA,857,0.5739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,V.C. UNNIKRISHNAN,BSP,639,0.4279,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,DAVIS CHATHELI,IND,345,0.231,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,70,70,Irinjalakkuda,AYYAPPAN MANAYKAL,CPI(ML)REDSTAR,314,0.2103,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/070.pdf
+2016,Thrissur,71,71,Puthukkad,PROF.C RAVEENDRANATH,CPI(M),79464,50.0652,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,SUNDARAN KUNNATHULLY,INC,40986,25.8227,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,A NAGESH (PARAMESWARAN),BJP,35833,22.5761,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,NOTA,NOTA,779,0.4908,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,ASIF NIYAS,PDP,519,0.327,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,C V VIJAYAN,IND,431,0.2715,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,SANTHOSH POLAKULATH,SHIVSENA,239,0.1506,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,JAYAN KONIKKARA,CPI(M),237,0.1493,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,71,71,Puthukkad,SANTHOSH IYTHADAN,IND,233,0.1468,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/071.pdf
+2016,Thrissur,72,72,Chalakkudy,B D DEVASSY,CPI(M),74251,49.371,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,T U RADHAKRISHNAN,INC,47603,31.6522,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,UNNIKRISHNAN K A,BDJS,26229,17.4402,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,NOTA,NOTA,739,0.4914,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,AYYAPPAN VAZHZVALAPPIL,BSP,561,0.373,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,JIJO,IND,367,0.244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,SABU CHATHELY,IND,304,0.2021,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,A E SABIRA,IND,191,0.127,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,72,72,Chalakkudy,N A DEVASSY NELLIPPILLY,IND,149,0.0991,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/072.pdf
+2016,Thrissur,73,73,Kodungallur,V R SUNILKUMAR,UNKNOWN,67909,45.7063,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,K P DHANAPALAN,INC,45118,30.3667,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,ADV. SANGEETHA VISWANATHAN,BDJS,32793,22.0714,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,NOTA,NOTA,886,0.5963,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,A K MANAF,SDPI,558,0.3756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,ADV.C K RADHAKRISHNAN,IND,411,0.2766,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,P K SUBRAMANIAN,BSP,367,0.247,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,RAJAN PAINAT,IND,210,0.1413,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,C S KRISHNAKUMAR,SUCI(C),200,0.1346,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Thrissur,73,73,Kodungallur,KATTU KANDATHIL JOSHY KUMAR,IND,125,0.0841,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/073.pdf
+2016,Ernakulam,74,74,Perumbavoor,ELDHOSE KUNNAPPILLY,INC,64285,44.1133,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,SAJU PAUL,CPI(M),57197,39.2494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,E S BIJU,BJP,19731,13.5397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,V K SHOUKKATH ALI,SDPI,2061,1.4143,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,THOMAS K GEORGE,WPI,971,0.6663,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,NOTA,NOTA,831,0.5702,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,JOHN PERUVANTHANAM,IND,385,0.2642,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,M M YOOSAF,IND,134,0.092,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,74,74,Perumbavoor,P K SIVAN,IND,132,0.0906,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/074.pdf
+2016,Ernakulam,75,75,Angamaly,ROJI M JOHN,INC,66666,48.9626,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,BENNY MOONJELY,JD(S),57480,42.216,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,P J BABU,KC,9014,6.6203,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,NOTA,NOTA,811,0.5956,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,JAYANTHI AVINASH,BSP,742,0.545,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,M K KANJANAVALLY,SUCI(C),595,0.437,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,P R MANIKYAMANGALAM (P R MOHANAN),IND,385,0.2828,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,SUNNY THOMAS MADASSERY,IND,245,0.1799,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,75,75,Angamaly,SHAJAN THATTIL,SP,219,0.1608,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/075.pdf
+2016,Ernakulam,77,77,Kalamassery,V K EBRAHIM KUNJU,IUML,68726,44.3731,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,A M YOUSAF,CPI(M),56608,36.5491,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,V GOPAKUMAR,BDJS,24244,15.6532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,SHAFEER MUHAMMED,SDPI,1706,1.1015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,PREMA G PISHARADY,WPI,1391,0.8981,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,NOTA,NOTA,1081,0.698,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,V.M. ALIYAR,PDP,634,0.4093,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,UNNIKRISHNAN N A,IND,182,0.1175,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,YUSSUF KODOPPILLY,IND,155,0.1001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,77,77,Kalamassery,P K YOUSEF PANTHALAKKODATH,IND,155,0.1001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/077.pdf
+2016,Ernakulam,78,78,Paravur,V D SATHEESAN,UNKNOWN,74985,46.6975,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SARADA MOHAN,UNKNOWN,54351,33.8475,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,HARI VIJAYAN,UNKNOWN,28097,17.4976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,V M FAIZAL,UNKNOWN,923,0.5748,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,NOTA,NOTA,900,0.5605,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SIJIKUMAR K K,UNKNOWN,557,0.3469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SHINSA SELVARAJ,UNKNOWN,302,0.1881,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,SATHYANESAN,UNKNOWN,261,0.1625,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,78,78,Paravur,JOSE THOMAS,UNKNOWN,200,0.1246,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/078.pdf
+2016,Ernakulam,79,79,Vypen,S SARMA,CPI(M),68526,52.2425,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,K R SUBHASH,INC,49173,37.4883,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,VAMALOCHANAN K K,BDJS,10051,7.6626,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,JYOTHIVAS PARAVUR,WPI,1406,1.0719,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,NOTA,NOTA,910,0.6938,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,MANJULADEVI,CPI(ML)REDSTAR,248,0.1891,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,RAJEEV NAAGAN,APOI,231,0.1761,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,SUBHASH K S KIZHAKKE PADATHARA,IND,217,0.1654,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,K D VISWANATHAN,PDP,183,0.1395,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,KODICKAL SADASIVAN,IND,136,0.1037,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,79,79,Vypen,S D SATHEESH,IND,88,0.0671,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/079.pdf
+2016,Ernakulam,80,80,Kochi,K J MAXI,UNKNOWN,47967,38.6974,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,DOMINIC PRESENTATION,UNKNOWN,46881,37.8213,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,PRAVEEN DHAMODARA PRABHU,UNKNOWN,15212,12.2723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,K J LEENUS,UNKNOWN,7588,6.1216,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,A.S. MUHAMMED,UNKNOWN,2357,1.9015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,SULFIKAR ALI,UNKNOWN,2108,1.7006,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,NOTA,NOTA,1002,0.8084,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,T.P. ANTONY,UNKNOWN,386,0.3114,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,JOHNY STEPHEN,UNKNOWN,180,0.1452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,JAYARAJ K S,UNKNOWN,172,0.1388,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,ABDUL SAMAD,UNKNOWN,101,0.0815,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,81,81,Thripunithura,ADV. M SWARAJ,CPI(M),62697,40.532,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,K BABU,INC,58230,37.6442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,PROF. THURAVOOR VISWAMBHARAN,BJP,29843,19.2928,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,NOTA,NOTA,1028,0.6646,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,T.A. KAMARUDHEEN,BSP,683,0.4415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SUDHEER YUSUF,SDPI,594,0.384,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,PADMINI D NETTOOR,PDP,410,0.2651,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SWARAJ MANICKATHAN,IND,394,0.2547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SAJU KOLATTUKUDI,IND,172,0.1112,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SUDHA M P,SUCI(C),156,0.1009,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,SONIA JOSE,IND,128,0.0827,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,GIREESH BABU,IND,122,0.0789,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,K.N. PRADEEP,IND,116,0.075,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,81,81,Thripunithura,AYYAPPAN,IND,112,0.0724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
+2016,Ernakulam,82,82,Eranakulam,HIBI EADEN,UNKNOWN,57819,52.3211,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,M ANIL KUMAR,UNKNOWN,35870,32.4592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,N K MOHANDAS,UNKNOWN,14878,13.4633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,NOTA,NOTA,940,0.8506,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,IQBAL THAMARASSERY,UNKNOWN,397,0.3593,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,RUBESH JIMMI MADATHIPARAMBAN,UNKNOWN,258,0.2335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,JOSSEY MATHEW,UNKNOWN,117,0.1059,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,ANILKUMAR ANANTHAPURAM,UNKNOWN,115,0.1041,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,ANILKUMAR PULIYOTH,UNKNOWN,114,0.1032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,83,83,Thrikkakara,ADV. P.T. THOMAS,INC,61451,45.417,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,DR. SEBASTIAN PAUL,CPI(M),49455,36.551,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,S. SAJI,BJP,21247,15.7032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,NOTA,NOTA,1275,0.9423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,K.M. SHAJAHAN,SDPI,956,0.7066,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,ADV. SHIBU P.A,BSP,346,0.2557,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,VINOD P K,IND,175,0.1293,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,SILVI SUNIL,IND,147,0.1086,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,SRREDHARAN,IND,82,0.0606,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,LAL VISWAN,IND,60,0.0443,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,RAHUL R,IND,58,0.0429,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,P.H. RAMACHANDRAN,IND,52,0.0384,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,84,84,Kunnathunad,V P SAJEENDRAN,INC,65445,44.1251,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,ADV. SHIJI SHIVAJI,CPI(M),62766,42.3188,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,THURAVOOR SURESH,BDJS,16459,11.0972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,N.O. KUTTAPPAN,SP,1263,0.8516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,NOTA,NOTA,1179,0.7949,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,ORNA KRISHNANKUTTY,PDP,653,0.4403,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,SAJEENDRAN PARAPPURATHU,IND,436,0.294,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,84,84,Kunnathunad,MANOJ,CPI(ML)(LIBERATION),116,0.0782,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/084.pdf
+2016,Ernakulam,85,85,Piravom,ANOOP JACOB,KC(J),73770,45.7715,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,M.J. JACOB,CPI(M),67575,41.9278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,C.P. SATHYAN,BDJS,17503,10.86,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,NOTA,NOTA,964,0.5981,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,GIREESH,PGP,485,0.3009,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,K.O. SUDHEER,SUCI(C),342,0.2122,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,ANOOP,IND,298,0.1849,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,RAJAN,IND,233,0.1446,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,86,86,Muvattupuzha,ELDHO ABRAHAM,CPI,70269,49.2715,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,JOSEPH VAZHACKAN,INC,60894,42.6979,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,ADV. P J THOMAS,BJP,9759,6.8429,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,NOTA,NOTA,633,0.4438,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,P K ABOOBACKAR THANGAL (KHAMARUDHEEN THA,UNKNOWN,513,0.3597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,P P MOIDEENKUNJU,SDPI,428,0.3001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,86,86,Muvattupuzha,JUSTIN T D,IND,120,0.0841,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/086.pdf
+2016,Ernakulam,87,87,Kothamangalam,ANTONY JOHN,CPI(M),65467,50.976,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,T.U.KURUVILLA,UNKNOWN,46185,35.9621,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,P C CYRIAC,UNKNOWN,12926,10.0649,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,PROF. N.A. ANAS,SDPI,1490,1.1602,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,NOTA,NOTA,803,0.6253,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,YAHIYA THANGAL,PDP,775,0.6035,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,T.K.KURUVILA THOTTATHIL,IND,357,0.278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,ADV. CHERIYAN ABRAHAM,IND,261,0.2032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Ernakulam,87,87,Kothamangalam,ANTO JOHNY,IND,163,0.1269,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/087.pdf
+2016,Idukki,88,88,Devikulam,S RAJENDRAN,CPI(M),49510,42.1785,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,A K MONI,INC,43728,37.2527,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,R M DHANALAKSHMI,AIADMK,11613,9.8933,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,N CHANDRAN,BJP,9592,8.1716,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,NOTA,NOTA,921,0.7846,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,J. RAJESWARY,IND,650,0.5537,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,RAJENDRAN R,UNKNOWN,485,0.4132,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,C K GOVINDAN,IND,303,0.2581,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,K. MANIKANDAN,IND,267,0.2275,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,PANDIRAJ,IND,184,0.1568,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,88,88,Devikulam,K P AYYAPPAN,IND,129,0.1099,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/088.pdf
+2016,Idukki,89,89,Udumbanchola,M.M. MANI,CPI(M),50813,40.322,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,ADV. SENAPATHY VENU,INC,49704,39.442,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,SAJI PARAMBATHU,BDJS,21799,17.2983,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,B. SOMAN,AIADMK,1651,1.3101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,SHANAVAS BAKER,SDPI,831,0.6594,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,NOTA,NOTA,602,0.4777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,RAJU MANJAKKUNNEL,BSP,486,0.3857,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,89,89,Udumbanchola,M.J. FRANCIS,IND,132,0.1047,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/089.pdf
+2016,Idukki,90,90,Thodupuzha,P.J. JOSEPH,KEC(M),76564,54.0806,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,ADV. ROY VARICATTU,IND,30977,21.8804,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,ADV. S PRAVEEN,BDJS,28845,20.3745,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,ROY ARACKAL,SDPI,1294,0.914,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,NOTA,NOTA,1219,0.861,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,NISHA JIMMY,SUCI,811,0.5728,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,NAJEEB KALARICKAL,PDP,710,0.5015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,P.J. AMBILY,BSP,440,0.3108,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,SANTHOSH P K,IND,292,0.2063,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,K M VEENAS,IND,228,0.161,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,90,90,Thodupuzha,PAREETH,IND,194,0.137,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/090.pdf
+2016,Idukki,91,91,Idukki,ROSHY AUGUSTINE,KEC(M),60556,42.863,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,ADV. K. FRANCIS GEORGE,IND,51223,36.2569,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,BIJU MADHAVAN,BDJS,27403,19.3965,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,SABU KOCHUPARAMPIL,BSP,566,0.4006,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,P.T. POOMKUDI,IND,436,0.3086,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,NOTA,NOTA,433,0.3065,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,BABU KOZHIMALA,SDPI,411,0.2909,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,IDUKKI RAVI,IND,250,0.177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,92,92,Peerumade,E S BIJIMOL,CPI,56584,43.9426,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,ADV. SYRIAC THOMAS,INC,56270,43.6987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,KUMAR,BJP,11833,9.1894,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,ABDUL KADAR,AIADMK,2862,2.2226,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,BENNY THOMAS,BSP,489,0.3798,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,NOTA,NOTA,448,0.3479,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,RAMASWAMY GOVINDAN,IND,175,0.1359,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Idukki,92,92,Peerumade,JOSEPH M T,IND,107,0.0831,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/092.pdf
+2016,Kottayam,93,93,Pala,K M MANI,KEC(M),58884,42.1277,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,MANI C KAPPEN,NCP,54181,38.763,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,N HARI,BJP,24821,17.7578,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,NOTA,NOTA,907,0.6489,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,ADV. JOSE THOMAS PANDIYAMMAKKAL,IND,489,0.3498,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,ANTONY,IND,217,0.1552,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,SHAIJU PONKUNNAM,IND,103,0.0737,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,HASSAN KUNJU P S,IND,90,0.0644,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,93,93,Pala,BABU,IND,83,0.0594,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/093.pdf
+2016,Kottayam,94,94,Kaduthuruthy,MONS JOSEPH,UDF,73793,58.0261,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,SCARIA THOMAS,LDF,31537,24.7987,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,STEPHEN CHAZHIKADAN,UNKNOWN,17536,13.7892,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,NOTA,NOTA,1533,1.2055,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,GINISH JOHN M,UNKNOWN,1473,1.1583,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,T P KUTTAPPAN KURUPPANTHARA,UNKNOWN,968,0.7612,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,94,94,Kaduthuruthy,RAJEEV KIDANGOOR,UNKNOWN,332,0.2611,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/094.pdf
+2016,Kottayam,95,95,Vaikom,C K ASHA,CPI,61997,46.9504,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,ADV. A SANEESHKUMAR,INC,37413,28.3329,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,N K NEELAKANDAN MASTER,BDJS,30067,22.7698,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,NOTA,NOTA,800,0.6058,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,K C CHANDRASEKHARAN,BSP,540,0.4089,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,SUBEESH SURENDRAN,PDP,489,0.3703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,ANILA BOSE,SUCI(C),420,0.3181,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,K C PRAKASH,CPI(ML)REDSTAR,204,0.1545,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,95,95,Vaikom,KUTTAN KATTACHIRA,IND,118,0.0894,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/095.pdf
+2016,Kottayam,96,96,Ettumanoor,SURESH KURUP,CPI(M),53805,40.6677,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,THOMAS CHAZHIKADAN,KEC(M),44906,33.9415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,A G THANKAPPAN,BDJS,27540,20.8157,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,JOSEMON MUNDACKAL,IND,3774,2.8525,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,ABDUL NAZAR,SDPI,706,0.5336,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,NOTA,NOTA,600,0.4535,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,ADV. C P RAJESH,BSP,453,0.3424,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,M S NOUSHAD,PDP,338,0.2555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,96,96,Ettumanoor,ASHARAJ,SUCI(C),182,0.1376,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/096.pdf
+2016,Kottayam,97,97,Kottayam,THIRUVANCHOOR RADHAKRISHNAN,INC,73894,57.459,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ADV. REJI SAKHARIYA,CPI(M),40262,31.3072,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ADV. M S KARUNAKARAN,BJP,12582,9.7836,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ADV. P K GEETHA KRISHNAN,BSP,651,0.5062,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,NOTA,NOTA,483,0.3756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,ROY CHEMMANAM,SP,403,0.3134,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,REJITHA JAYARAM,SUCI(C),182,0.1415,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,JOHN JOY,IND,88,0.0684,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,97,97,Kottayam,PAYAS C P,IND,58,0.0451,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/097.pdf
+2016,Kottayam,98,98,Puthuppally,OOMMEN CHANDY,INC,71597,53.417,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,JAICK C THOMAS,CPI(M),44505,33.2043,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,ADV. GEORGE KURIAN,BJP,15993,11.932,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,SHIBU PARAKADAVAN,BSP,911,0.6797,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,NOTA,NOTA,630,0.47,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,M V CHERIAN,SUCI(C),131,0.0977,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,K M SHIVAPRASAD GANDHI,IND,103,0.0768,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,A K SHAJI,IND,64,0.0477,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,JIJO,IND,51,0.0381,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,98,98,Puthuppally,JOSEPH T M,IND,49,0.0366,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/098.pdf
+2016,Kottayam,99,99,Changanassery,C F THOMAS,UDF,50371,40.0428,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,K C JOSEPH,LDF,48522,38.5729,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,ETTUMANOOR RADHAKRISHNAN,BJP,21455,17.0558,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,ALTHAPH HASSAN,UNKNOWN,1797,1.4285,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,SOJAN PAVIYANOSE,UNKNOWN,1050,0.8347,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,RAJI RAJAN,UNKNOWN,676,0.5374,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,SURESH K,UNKNOWN,596,0.4738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,NOTA,NOTA,571,0.4539,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,K N RAJAN,UNKNOWN,312,0.248,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,BABU VARGESE,UNKNOWN,292,0.2321,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,99,99,Changanassery,KUNJUMON ABRAHAM,UNKNOWN,151,0.12,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/099.pdf
+2016,Kottayam,100,100,Kanjirappally,DR. N JAYARAJ,KEC(M),53126,38.8609,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,ADV.V. B. BINU,CPI,49236,36.0154,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,V N MANOJ,BJP,31411,22.9767,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,ARUN M JOHN,BSP,1113,0.8141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,MUHAMMED SIYAD,SDPI,839,0.6137,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,NOTA,NOTA,618,0.4521,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,MANOJ ARUVIKKUZHY,IND,138,0.1009,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,ACHUTHAN K P,IND,137,0.1002,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,100,100,Kanjirappally,SAJAN C MADHAVAN,IND,90,0.0658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/100.pdf
+2016,Kottayam,101,101,Poonjar,P C GEORGE PLATHOTTAM,IND,63621,43.6499,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,GEORGEKUTTY AUGUSTY,KEC(M),35800,24.5621,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ADV. P C JOSEPH PONNATTU,IND,22270,15.2793,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,M R ULLAS,BDJS,19966,13.6985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,P A ABDUL HAKKIM,WPI,804,0.5516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,NISHAD NADAKAL,PDP,530,0.3636,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,SAINULLAUDEEN,IND,525,0.3602,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ADV. INDULEKHA JOSEPH,IND,397,0.2724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,GEORGEKUTTY SEBASTIAN,IND,375,0.2573,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,NOTA,NOTA,313,0.2147,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,JOSEPH P C PURATHAYIL,IND,234,0.1605,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,SIYAM P ASHRAF,IND,194,0.1331,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,GEORGE CHACKO,IND,166,0.1139,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,RAJU VATTAPPARA,SUCI(C),148,0.1015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,JAMES JOSEPH,IND,143,0.0981,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,SANTHOSH CHENNADU,KJP,96,0.0659,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,T M SURENDRAN,CPI(ML)REDSTAR,94,0.0645,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ABRAHAM,IND,77,0.0528,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Alappuzha,102,102,Aroor,A.M. ARIFF,CPI(M),84720,52.3367,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,ADV. C.R. JAYAPRAKASH,INC,46201,28.5412,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,ANIYAPPAN,BDJS,27753,17.1447,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,MOHAN CHACKO,WPI,761,0.4701,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,NOTA,NOTA,736,0.4547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,K.PRATHAPAN,SUCI(C),556,0.3435,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,LIYAKATHALI,SDPI,434,0.2681,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,FAIZAL,PDP,433,0.2675,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,102,102,Aroor,THURAVOOR RAJASEKHARAN,IND,281,0.1736,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/102.pdf
+2016,Alappuzha,103,103,Cherthala,P. THILOTHAMAN,CPI,81197,45.7049,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,ADV. S. SARATH,INC,74001,41.6543,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,P.S. RAJEEV,BDJS,19614,11.0405,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,C.P.THILAKAN,BSP,845,0.4756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,NOTA,NOTA,687,0.3867,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,S. SARATH KANNATTUCHIRA NIKARTH,IND,639,0.3597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,SONNYMON K MATHEW,IND,348,0.1959,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,VAYALAR RAJEEVAN,IND,174,0.0979,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,K.V. JOSEPH,IND,150,0.0844,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,104,104,Alappuzha,DR. T.M. THOMAS ISAAC,CPI(M),83211,53.2891,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,ADV. LALY VINCENT,INC,52179,33.4159,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,ADV. RANJIT SREENIVAS,BJP,18214,11.6644,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,NOTA,NOTA,856,0.5482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,P.A. SULAIMAN KUNJU,SDPI,703,0.4502,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,K. MUJEEB,PDP,481,0.308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,K.A.VINOD,SUCI(C),244,0.1563,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,PREMJI.K.P,IND,149,0.0954,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,104,104,Alappuzha,ADV. PRASANTH,IND,113,0.0724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/104.pdf
+2016,Alappuzha,105,105,Ambalapuzha,G.SUDHAKARAN,CPI(M),63069,47.3157,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,SHAIK.P. HARRIZ,JD(U),40448,30.345,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,L.P. JAYACHANDRAN,BJP,22730,17.0525,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,K.S. SHAN,SDPI,1622,1.2169,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,R. ARJUNAN,SUCI(C),1439,1.0796,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,ADV.NASSAR. M. PYNGAMADOM,IND,1053,0.79,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,A.ANSARI,PDP,931,0.6985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,NASAR ARATTUPUZHA,WPI,878,0.6587,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,NOTA,NOTA,627,0.4704,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,JOSEPH KUTTIKKADAN,IND,266,0.1996,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,105,105,Ambalapuzha,P.G. SUGUNAN,IND,231,0.1733,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/105.pdf
+2016,Alappuzha,106,106,Kuttanad,THOMAS CHANDY,UNKNOWN,50114,38.5249,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,JACOB ABRAHAM,UNKNOWN,45223,34.765,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,SUBHASH VASU,UNKNOWN,33044,25.4024,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,NANDANAN VALIYAPARAMBU,UNKNOWN,371,0.2852,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,SANIL.P.M(SUNNY PATHINARIL),UNKNOWN,354,0.2721,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,NOTA,NOTA,346,0.266,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,JOSE KOIPPALLY,UNKNOWN,263,0.2022,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,JACOB ABRAHAM PANAVELIL,UNKNOWN,262,0.2014,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,106,106,Kuttanad,MOHANAN,UNKNOWN,105,0.0807,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/106.pdf
+2016,Alappuzha,107,107,Haripad,RAMESH CHENNITHALA,INC,75980,51.0508,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,P. PRASAD,CPI,57359,38.5394,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,D. ASWANI DEV,BJP,12985,8.7246,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,VARKALA RAJ,PDP,623,0.4186,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,ASHABUL HAQ,SDPI,512,0.344,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,C. BALAKRISHNAN,BSP,417,0.2802,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,NOTA,NOTA,321,0.2157,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,SIDHARTHAN KARUVATTA,IND,149,0.1001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,A. MUHAMMED,SUCI(C),147,0.0988,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,SAMUDAYATHIL RAVI R UNNITHAN,IND,93,0.0625,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,PRADEEP KARIPUZHA,IND,87,0.0585,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,SATHEESHKUMAR B,IND,75,0.0504,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,D PRASOOL PRAKASH,IND,46,0.0309,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,PRASAD UNIKKANTHARA,IND,38,0.0255,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,108,108,Kayamkulam,ADV. U. PRATHIBHA HARI,CPI(M),72956,46.5239,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,ADV. M. LIJU,INC,61099,38.9627,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,SHAJI.M.PANICKER,BDJS,20000,12.754,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,ADV. MUTTOM NAZAR,PDP,1125,0.7174,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,P MANIYAPPAN ACHARY,IND,745,0.4751,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,NOTA,NOTA,466,0.2972,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,G. VEENA,IND,177,0.1129,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,AJITH P,IND,159,0.1014,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,108,108,Kayamkulam,LIJU M VALLIYATHU,IND,87,0.0555,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/108.pdf
+2016,Alappuzha,109,109,Mavelikara,R.RAJESH,CPI(M),74555,49.8069,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,BAIJU KALASALA,INC,43013,28.7351,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,P.M.VELAYUDHAN,BJP,30929,20.6623,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,NOTA,NOTA,523,0.3494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,ASHA.T,SUCI(C),242,0.1617,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,KATTANAM SURESH,BSP,213,0.1423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,AJEESHKUMAR,IND,213,0.1423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,110,110,Chengannur,ADV. K.K. RAMACHANDRAN NAIR,CPI(M),52880,36.3391,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,P.C. VISHNUNATH,INC,44897,30.8532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,ADV. P.S SREEDHARAN PILLAI,BJP,42682,29.3311,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,SOBHANA GEORGE,IND,3966,2.7254,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,ALEX,BSP,483,0.3319,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,NOTA,NOTA,363,0.2495,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Alappuzha,110,110,Chengannur,E.T. SASI,IND,247,0.1697,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/110.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,ADV. MATHEW T THOMAS,JD(S),59660,41.2752,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,JOSEPH M PUTHUSSERY,KEC(M),51398,35.5592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,AKKERAMAN KALIDASAN BHATTATHIRIPAD,BDJS,31439,21.7508,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,SAJI KADAMPANAD,BSP,756,0.523,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,NOTA,NOTA,479,0.3314,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,SIMI M JACOB,SDPI,444,0.3072,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,111,111,Thiruvalla,CHERIAN M V,IND,366,0.2532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/111.pdf
+2016,Pathanamthitta,112,112,Ranni,RAJU ABRAHAM,CPI(M),58749,43.8664,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,MARIAMMA CHERIAN,INC,44153,32.968,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,K. PADMAKUMAR,BDJS,28201,21.057,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,PRASAD UTHIMOODU,BSP,1072,0.8004,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,FAWSEENA THAKBEER,SDPI,862,0.6436,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,NOTA,NOTA,438,0.327,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,GEETHAMMA MADHAVAN,IND,298,0.2225,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,112,112,Ranni,VARUGHESE THOMAS,IND,154,0.115,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/112.pdf
+2016,Pathanamthitta,113,113,Aranmula,VEENA GEORGE,CPI(M),64523,39.9692,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,ADV K SIVADASAN NAIR,INC,56877,35.2328,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,M T RAMESH,BJP,37906,23.4811,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,NOTA,NOTA,569,0.3525,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,T. AMRITHAKUMAR,BSP,548,0.3395,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,SREEKANTH M VALLAKKOTT,SP,252,0.1561,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,CHANDRAN,IND,249,0.1542,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,ANIL KUMAR K G,SUCI(C),217,0.1344,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,HABEEB REHMAN,PDP,187,0.1158,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,SHAJI MEZHUVELI,IND,104,0.0644,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,114,114,Konni,ADOOR PRAKASH,INC,72800,50.8085,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,ADV. R. SANAL KUMAR,CPI(M),52052,36.3281,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,ASOKA KUMAR D,BJP,16713,11.6643,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,NOTA,NOTA,474,0.3308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,REYASH,SDPI,401,0.2799,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,JOSHY JOSEPH,WPI,365,0.2547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,SURESH V,IND,249,0.1738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,BIJU ELAMANNOOR,IND,133,0.0928,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,VISHNU S,SHIVSENA,96,0.067,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,115,115,Adoor,CHITTAYAM GOPAKUMAR,CPI,76034,49.0485,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,K.K. SHAJU,INC,50574,32.6246,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,ADV. P. SUDHEER,BJP,25940,16.7335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,JYOTHISH PERUMPULICKAL,SDPI,673,0.4341,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,NOTA,NOTA,672,0.4335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,PLAVINAL SANTHOSH,BSP,410,0.2645,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,AJITHA P,IND,408,0.2632,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Pathanamthitta,115,115,Adoor,VISHNU RAJ T,PDP,307,0.198,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/115.pdf
+2016,Kollam,116,116,Karunagappally,R.RAMACHANDRAN,CPI,69902,43.0561,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,C.R.MAHESH,INC,68143,41.9726,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,V. SADHASIVAN,BDJS,19115,11.7739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,A.K.SALAHUDHEEN,SDPI,1738,1.0705,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,MYLAKKADU SHAH,PDP,1620,0.9978,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,GOPALAKRISHNAN,BSP,649,0.3998,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,RAMACHANDRAN K S PURAM,IND,594,0.3659,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,116,116,Karunagappally,NOTA,NOTA,590,0.3634,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/116.pdf
+2016,Kollam,117,117,Chavara,N.VIJAYAN PILLAI,CMP,64666,46.7963,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,SHIBU BABYJOHN,RSP,58477,42.3176,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,M.SUNIL,BJP,10276,7.4364,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,SHAHUL THENGUMTHARA,PDP,1439,1.0414,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,ANSAR THEVALAKKARA,SDPI,1106,0.8004,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,NOTA,NOTA,667,0.4827,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,SHIBU,IND,427,0.309,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,THEVALAKKARA MANOJ,BSP,403,0.2916,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,ABU MUHAMMED,IND,228,0.165,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,ANILKUMAR KALLAMBALAM,IND,162,0.1172,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,V.SUBASH,SHIVSENA,121,0.0876,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,CHELLAPPAN,IND,121,0.0876,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,117,117,Chavara,KARAMKODE BALAKRISHNAN,IND,93,0.0673,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/117.pdf
+2016,Kollam,118,118,Kunnathur,KOVOOR KUNJUMON,IND,75725,47.385,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,ULLAS KOVUR,RSP,55196,34.5389,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,THAZHAVA SAHADEVAN,BDJS,21742,13.6051,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,THULASEEDHARAN PALLICKAL,SDPI,1698,1.0625,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,KUNJUMON,IND,1516,0.9486,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,C.K GOPI,PDP,1422,0.8898,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,NOTA,NOTA,1051,0.6577,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,V. REMADEVI,BSP,740,0.4631,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,118,118,Kunnathur,MANILAL M,IND,718,0.4493,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/118.pdf
+2016,Kollam,119,119,Kottarakkara,ADV. P.AISHA POTTY,CPI(M),83443,55.4391,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,ADV.SAVIN SATHYAN,INC,40811,27.1146,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,RAJESWARY RAJENDRAN,BJP,24062,15.9867,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,NOTA,NOTA,742,0.493,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,MADHU.B,IND,491,0.3262,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,R.SUKUMARAN,BSP,386,0.2565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,VELIYAM SHAJI,SHIVSENA,325,0.2159,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,HARIPRASAD,IND,173,0.1149,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,119,119,Kottarakkara,AJAYAKUMAR THANKAPPAN,IND,80,0.0532,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/119.pdf
+2016,Kollam,120,120,Pathanapuram,K.B. GANESH KUMAR,KC(B),74429,52.3934,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,P.V JAGADISHKUMAR,INC,49867,35.1033,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,REGHU DAMODHARAN (BHEEMAN REGHU),BJP,11700,8.2361,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,ADV. FAIZY M PASHA,SDPI,3843,2.7052,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,PERINAD GOPALAKRISHNAN,BSP,846,0.5955,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,NOTA,NOTA,454,0.3196,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,REGHU.P,IND,366,0.2576,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,SUDHEER.M.G,SHIVSENA,254,0.1788,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,CHANDRASEHKARA PILLAI M.G,IND,194,0.1366,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,120,120,Pathanapuram,MADHU.R,IND,105,0.0739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/120.pdf
+2016,Kollam,121,121,Punalur,ADV.K.RAJU,CPI,82136,56.8529,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,DR.A.YOUNUS KUNJU,IUML,48554,33.6081,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,ADV.SISSIL FERNANDEZ,KC,10558,7.308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,K.SASANKAN,SUCI(C),1117,0.7732,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,NOTA,NOTA,888,0.6147,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,NETTAYAM SUJI,IND,639,0.4423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,SATHEESHKUMAR.B,SHIVSENA,415,0.2873,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,121,121,Punalur,NAVAS.M,IND,164,0.1135,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/121.pdf
+2016,Kollam,122,122,Chadayamangalam,MULLAKKARA RETNAKARAN,CPI,71262,49.0985,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,M M HASSAN,INC,49334,33.9904,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,K SIVADASAN,BJP,19259,13.2692,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,JALEEL KADAKKAL,SDPI,1445,0.9956,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,SAJEED KHALEEDU,WPI,1222,0.8419,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,MUHAMMED NAJIM.S,PDP,1098,0.7565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,NOTA,NOTA,699,0.4816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,SUNNY ITTIVA,IND,538,0.3707,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,122,122,Chadayamangalam,SREEJITH S,SHIVSENA,284,0.1957,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/122.pdf
+2016,Kollam,123,123,Kundara,J.MERCY KUTTY AMMA,CPI(M),79047,51.8144,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,RAJMOHAN UNNITHAN,INC,48587,31.8482,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,M S SYAM KUMAR,UNKNOWN,20257,13.2782,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,SHARAFATH MALLAM,SDPI,1325,0.8685,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,KABEER KUTTY.I.PUTHEZHAM,PDP,1132,0.742,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,S.M.JABER,BSP,698,0.4575,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,NOTA,NOTA,687,0.4503,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,VIJAYAKUMAR,IND,485,0.3179,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,123,123,Kundara,V ANTONY,SUCI,340,0.2229,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/123.pdf
+2016,Kollam,124,124,Kollam,M MUKESH,CPI(M),63103,48.81,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,SOORAJ RAVI,INC,45492,35.1879,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,PROF. K. SASIKUMAR,IND,17409,13.4658,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,JOHNSON KANDACHIRA,SDPI,1576,1.219,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,NOTA,NOTA,889,0.6876,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,K. BALAKRISHNAN,BSP,431,0.3334,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,NARAYANAN NAIR,IND,209,0.1617,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,124,124,Kollam,S. CHANDRAN,IND,174,0.1346,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/124.pdf
+2016,Kollam,125,125,Eravipuram,M. NOUSHAD,CPI(M),65392,52.3257,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,A.A.AZEEZ,RSP,36589,29.278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,AKKAVILA SATHEEK,BDJS,19714,15.7749,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,AYATHIL RAZAK,SDPI,988,0.7906,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,NOTA,NOTA,950,0.7602,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,MUHAMMED ISMAIL,PDP,643,0.5145,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,MANOJ,IND,463,0.3705,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,125,125,Eravipuram,VINOD B.,SUCI,232,0.1856,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/125.pdf
+2016,Kollam,126,126,Chathannur,G.S.JAYALAL,CPI,67606,50.7556,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,B B GOPAKUMAR,BJP,33199,24.9244,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,DR. SOORANAD RAJASEKHARAN,INC,30139,22.627,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,RAJU T,IND,658,0.494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,NOTA,NOTA,604,0.4535,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,SALIMRAJ A,BSP,491,0.3686,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,VELAYUDHAN PILLAI,SHIVSENA,290,0.2177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Kollam,126,126,Chathannur,JAYAKALA L,APOI,212,0.1592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/126.pdf
+2016,Thiruvananthapuram,127,127,Varkala,ADV. V JOY,CPI(M),53102,41.4286,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VARKALA KAHAR,INC,50716,39.5672,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,AJI S R M,BDJS,19872,15.5036,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VARKALA R LINEES,BSP,1888,1.473,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,NOTA,NOTA,628,0.4899,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,ABDUL SALAM,SDPI,466,0.3636,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,SUNILKUMAR S,IND,357,0.2785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,SUDEVAN,IND,351,0.2738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,NADAYARA JABBAR,PDP,297,0.2317,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,BHASIDHARAN NAIR,IND,138,0.1077,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,SALU R,IND,135,0.1053,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VARKALA SABESAN,IND,126,0.0983,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,127,127,Varkala,VIVEKANANDAN,IND,101,0.0788,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/127.pdf
+2016,Thiruvananthapuram,128,128,Attingal,ADV.B.SATYAN,CPI(M),72808,52.7071,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,K CHANDRABABU,RSP,32425,23.4731,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,RAJI PRASAD,BJP,27602,19.9816,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,M.K.MANOJKUMAR,SDPI,1437,1.0403,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,NOTA,NOTA,1267,0.9172,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,K.SIVANANDAN,BSP,789,0.5712,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,RAJESH.R,IND,639,0.4626,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,B JAYANTHAKUMAR,SHIVSENA,597,0.4322,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,C.R.THULASI,IND,411,0.2975,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,128,128,Attingal,PRATHEESHKUMAR.P,IND,162,0.1173,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/128.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,V SASI,CPI,64692,46.7495,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,K.S.AJITH KUMAR,INC,50370,36.3998,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,DR.P.P.VAVA,BJP,19478,14.0757,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,NOTA,NOTA,1092,0.7891,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,SASI PANTHALAM,WPI,955,0.6901,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,SANTHINI,IND,639,0.4618,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,AMBILI.V,PDP,589,0.4256,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,AJITH NANDANCODE,IND,226,0.1633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,SHIBU (ROY KORANI),IND,206,0.1489,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,AJITH,IND,133,0.0961,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,C DIVAKARAN,CPI,57745,38.1561,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,PALOD RAVI,INC,54124,35.7634,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,ADV. V V RAJESH,BJP,35139,23.2187,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,ABDUL SALAM.A,SDPI,1039,0.6865,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,BIPIN .M.I,BSP,910,0.6013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,NOTA,NOTA,807,0.5332,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,ANDOORKONAM SULFI,PDP,503,0.3324,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,SHIBU. G,IND,318,0.2101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,PERINJAMMALA AJI,SHIVSENA,251,0.1659,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,SOMAN,IND,217,0.1434,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,DIVAKARAN PANI,IND,143,0.0945,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,PARIYARAM RAVEENDRAN,IND,80,0.0529,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,130,130,Nedumangad,RAVEENDRAN NAIR,IND,63,0.0416,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/130.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,D K MURALI,UNKNOWN,65848,46.5571,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,T.SARATHCHANDRAPRASAD,UNKNOWN,56252,39.7723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,R V NIKHIL,UNKNOWN,13956,9.8674,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,THACHONAM NIZAMUDEEN,UNKNOWN,1774,1.2543,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,ANIL PALODE,UNKNOWN,901,0.637,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,NOTA,NOTA,789,0.5579,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,SUGATHAN. S,UNKNOWN,517,0.3655,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,G. AJITH,UNKNOWN,515,0.3641,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,Irinchayam Suresh,UNKNOWN,286,0.2022,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,O. BINUMON,UNKNOWN,246,0.1739,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,ANIL. K Ponganadu,UNKNOWN,228,0.1612,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,131,131,Vamanapuram,MANIRAJ BHARATHANOOR,UNKNOWN,123,0.087,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/131.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,KADAKAMPALLY SURENDRAN,CPI(M),50079,37.3838,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,V.MURALEEDHARAN,BJP,42732,31.8993,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,M.A.VAHEED,INC,38602,28.8163,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,NOTA,NOTA,822,0.6136,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,KOCHUMANI,BSP,496,0.3703,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,N.A.VAHID PUTHUMANGALAM,IND,412,0.3076,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,ANEESH,IND,370,0.2762,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,SURENDRAN PILLAI,IND,108,0.0806,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,MANIMEKHALA,IND,84,0.0627,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,SASIKALA,IND,83,0.062,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,MURUKAN.A,IND,59,0.044,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,MURALEEDHARAN VAISHNAVAM,IND,58,0.0433,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,132,132,Kazhakkoottam,PRASAD.P,IND,54,0.0403,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/132.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,K MURALEEDHARAN,INC,51322,37.4324,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,KUMMANAM RAJASEKHARAN,BJP,43700,31.8731,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,DR. T.N.SEEMA,CPI(M),40441,29.4962,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,NOTA,NOTA,816,0.5952,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,MEKKANSI K JOHN,BSP,399,0.291,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,BINU. D,IND,147,0.1072,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,SAHADEVAN,IND,103,0.0751,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,K.G. MOHANAN,IND,77,0.0562,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,BABY. D,IND,53,0.0387,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,133,133,Vattiyoorkavu,SAJU AMEERDAS,IND,48,0.035,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/133.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,V.S. SIVAKUMAR,INC,46474,36.8222,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,ADV. ANTONY RAJU,IND,35569,28.1819,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,SREESANTH,BJP,34764,27.5441,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,Dr. BIJU RAMESH,AIADMK,5762,4.5653,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,NOTA,NOTA,1435,1.137,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,Nandavanam Suseelan,IND,450,0.3565,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,ANTONY RAJU NEW COLONY,IND,424,0.3359,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,MOHANAMBIKA. D,BSP,398,0.3153,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,P S GOPAKUMAR,SUCI(C),344,0.2726,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,Sivakumar Raveendran Nair,IND,208,0.1648,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,PRAVEEN ARIMBRATHODIYIL,IND,170,0.1347,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,M S SUBI,IND,113,0.0895,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,134,134,Thiruvananthapuram,SIVAKUMAR PUSHKARAN,IND,101,0.08,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/134.pdf
+2016,Thiruvananthapuram,135,135,Nemom,O Rajagopal,BJP,67813,47.4608,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,V.SIVANKUTTY,CPI(M),59142,41.3922,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,V.SURENDRAN PILLAI,JD(U),13860,9.7003,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,NOTA,NOTA,884,0.6187,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,A.NOUSHAD,AKTP,406,0.2842,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,SHAMLAJA BEEVI.B,IND,330,0.231,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,J.VIKRAMAN Prachalloor,IND,170,0.119,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,JAIN WILSON,IND,163,0.1141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,SAILESWARA BABU.N,IND,114,0.0798,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,K S SABARINADHAN,INC,70910,49.3249,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Adv. A A RASHEED,CPI(M),49596,34.4989,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,RAJASENAN,BJP,20294,14.1165,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,M A JALEEL,IND,707,0.4918,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,CHITHRALEKHA. E,BSP,673,0.4681,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,NOTA,NOTA,640,0.4452,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Sabarinath,IND,331,0.2302,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Adv. Cherappally Viswanathan,IND,188,0.1308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,Rasheed,IND,158,0.1099,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,A P Kakkadu,IND,134,0.0932,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,136,136,Aruvikkara,AJITHA B,IND,130,0.0904,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/136.pdf
+2016,Thiruvananthapuram,137,137,Parassala,C.K. HARINDRAN,CPI(M),70156,44.4082,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,A.T. GEORGE,INC,51590,32.656,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Karamana Jayan,BJP,33028,20.9064,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Binoy S,BSP,745,0.4716,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,NOTA,NOTA,742,0.4697,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Shaju Paliyodu,IND,732,0.4633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Dalumugham Johny Thampy,IND,294,0.1861,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Vellarada Mohanraj,IND,287,0.1817,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,V Selvan,IND,243,0.1538,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,137,137,Parassala,Shajahan Kudappanamoodu,IND,163,0.1032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/137.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,I.B. SATHEESH,CPI(M),51614,35.9344,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,N SHAKTHAN,INC,50765,35.3433,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,P.K. KRISHNADAS,BJP,38700,26.9435,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,NOTA,NOTA,732,0.5096,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,Biju S R,BSP,709,0.4936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,ASHRAF PRAVACHAMBALAM,SDPI,627,0.4365,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,S Mini,SUCI(C),295,0.2054,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,K Sasikumar,IND,192,0.1337,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Adv.M Vincent,INC,60268,39.1437,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,JAMEELA PRAKASAM,JD(S),57653,37.4453,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Kovalam T N Suresh,BDJS,30987,20.1259,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Adv.K. R Anish,BSP,996,0.6469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,M.C. JAYALAL,IND,933,0.606,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,NOTA,NOTA,845,0.5488,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Pramod Kumar,IND,564,0.3663,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,SARASAMMA.T,IGP,558,0.3624,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,S Shaji,AKTP,400,0.2598,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,M Sugathan,IND,389,0.2527,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,139,139,Kovalam,Silvaster,IND,373,0.2423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/139.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,K. ANSALAN,CPI(M),63559,47.2049,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,R Selvaraj,INC,54016,40.1173,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,Punchakkari Surendran,BJP,15531,11.5348,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,NOTA,NOTA,693,0.5147,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,Prabhakaran,BSP,566,0.4204,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf
+2016,Thiruvananthapuram,140,140,Neyyattinkara,Anilkumar,IND,280,0.208,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/140.pdf

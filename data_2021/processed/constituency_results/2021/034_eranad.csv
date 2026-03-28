@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Malappuram,34,34,Eranad,P.K. Basheer,IUML,78076,54.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,K.T. Abdurahiman,IND,55530,38.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,Adv. C. Dinesh,BJP,6683,4.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,Velayudhan,BSP,1247,0.87,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,Adv. Sebastian,IND,1100,0.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,34,34,Eranad,NOTA,NOTA,636,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

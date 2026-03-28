@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kasaragod,1,1,Manjeshwar,P B ABDUL RAZAK,IUML,49817,37.464,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,K SURENDRAN,BJP,43989,33.0812,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ADV. C H KUNHAMBU,CPI(M),35067,26.3715,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,HAFSA MUNEER,IND,1076,0.8092,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDUL MAJEED,BSP,869,0.6535,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDULLA TIMBER,IND,547,0.4114,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,KUNHAMBU,IND,490,0.3685,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDUL RAZAK K,IND,465,0.3497,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABBAS M,IND,391,0.294,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1
+2011,Kasaragod,1,1,Manjeshwar,ABDULLA P M,IND,262,0.197,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/1

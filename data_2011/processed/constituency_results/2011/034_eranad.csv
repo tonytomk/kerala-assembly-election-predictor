@@ -1,0 +1,6 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,34,34,Eranad,P.K.BASHEER,IUML,58698,51.2937,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,ANVER.P.V,IND,47452,41.4663,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,K.P. BABURAJ MASTER,BJP,3448,3.0131,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,ASHRAFALI KALIYATH,CPI,2700,2.3594,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34
+2011,Malappuram,34,34,Eranad,P.P.SHOWKATHALI,SDPI,2137,1.8674,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/34

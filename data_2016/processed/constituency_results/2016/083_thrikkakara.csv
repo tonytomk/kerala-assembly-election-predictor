@@ -1,0 +1,13 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,83,83,Thrikkakara,ADV. P.T. THOMAS,INC,61451,45.417,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,DR. SEBASTIAN PAUL,CPI(M),49455,36.551,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,S. SAJI,BJP,21247,15.7032,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,NOTA,NOTA,1275,0.9423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,K.M. SHAJAHAN,SDPI,956,0.7066,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,ADV. SHIBU P.A,BSP,346,0.2557,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,VINOD P K,IND,175,0.1293,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,SILVI SUNIL,IND,147,0.1086,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,SRREDHARAN,IND,82,0.0606,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,LAL VISWAN,IND,60,0.0443,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,RAHUL R,IND,58,0.0429,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf
+2016,Ernakulam,83,83,Thrikkakara,P.H. RAMACHANDRAN,IND,52,0.0384,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/083.pdf

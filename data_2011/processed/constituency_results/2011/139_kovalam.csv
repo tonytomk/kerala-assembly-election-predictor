@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,139,139,Kovalam,JAMEELA  PRAKASAM,JD[S],59510,47.605,True,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,GEORGE MERCIER,INC,52305,41.8413,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,VENGANOOR SATHEESH,UNKNOWN,9127,7.3011,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,THANKA BAI. T,OTH,1231,0.9847,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,A M NIZAM,UNKNOWN,1193,0.9543,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,MURALEEDHARAN,BSP,1157,0.9255,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf
+2011,Thiruvananthapuram,139,139,Kovalam,VAZHAMUTTOM RAJENDRAN,UNKNOWN,485,0.388,False,https://www.ceo.kerala.gov.in/pdf/form20/139.pdf

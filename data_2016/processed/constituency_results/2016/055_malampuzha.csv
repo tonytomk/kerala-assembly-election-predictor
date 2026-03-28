@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Palakkad,55,55,Malampuzha,V.S. ACHUTHANANDAN,CPI(M),73299,45.8951,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,C. KRISHNAKUMAR,BJP,46157,28.9005,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,V.S. JOY,INC,35333,22.1232,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,C.P. SREEDHARAN,AIADMK,3154,1.9748,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,NOTA,NOTA,924,0.5785,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,RAVI PALLATHERI,BSP,326,0.2041,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,RAMESH PUDUPPARIYARAM,IND,297,0.186,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf
+2016,Palakkad,55,55,Malampuzha,S. SARAVANAN,IND,220,0.1377,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/055.pdf

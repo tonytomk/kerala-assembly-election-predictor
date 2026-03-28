@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,71,71,Puthukkad,K.K. Ramachandran,CPI(M),73365,46.94,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,Sunil Anthikkad (Sunilkumar. P.V),INC,46012,29.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,A. Nagesh (Parameswaran.A),BJP,34893,22.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,NOTA,NOTA,1069,0.68,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,Rajesh Appatt,CPIM,489,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,71,71,Puthukkad,P.C. Pushpakaran BSP,BSP,455,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

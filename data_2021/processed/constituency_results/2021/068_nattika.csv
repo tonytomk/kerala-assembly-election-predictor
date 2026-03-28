@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Thrissur,68,68,Nattika,C C MUKUNDHAN,CPI,72930,47.49,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,ADV. SUNIL LALOOR,INC,44499,28.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,LOJANAN AMBATT,BJP,33716,21.96,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,NOTA,NOTA,830,0.54,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,C S JITHESHKUMAR,IND,617,0.4,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,SIVARATHNAN ALATHI,IND,595,0.39,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Thrissur,68,68,Nattika,VIMAL MALLIKA VIJAYAN BSP,BSP,367,0.24,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

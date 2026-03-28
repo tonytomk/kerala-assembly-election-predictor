@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Wayanad,18,18,Sulthanbathery,I C BALAKRISHNAN,INC,75747,44.0379,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,RUGMINI SUBRAHMANIAN,CPI(M),64549,37.5276,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,C K JANU,IND,27920,16.2322,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,NOTA,NOTA,1261,0.7331,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,MUKUNDAN CHEENGERI,BSP,791,0.4599,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,MADHAVI,CPI(ML)REDSTAR,609,0.3541,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,K K VASU,SP,478,0.2779,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,BALAKRISHNAN EDAKKAL,IND,387,0.225,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf
+2016,Wayanad,18,18,Sulthanbathery,T R SREEDHARAN,SUCI(C),262,0.1523,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/018.pdf

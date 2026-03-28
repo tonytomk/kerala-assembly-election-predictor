@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,67,67,Thrissur,V S SUNILKUMAR,CPI,53664,42.1917,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,PADMAJA VENUGOPAL,INC,46677,36.6984,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,ADV. B GOPALAKRISHNAN,BJP,24748,19.4574,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,NOTA,NOTA,1128,0.8869,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,DR. ANTONY J MALIAKAL,IND,256,0.2013,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,P S UNNIKRISHNAN,SP,226,0.1777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,RAJI MANI,PDP,154,0.1211,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,S T PARAMASIVAN,IND,153,0.1203,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,M PRADEEPAN,SUCI(C),111,0.0873,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf
+2016,Thrissur,67,67,Thrissur,SANTHAKUMARY K V,IGP,74,0.0582,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/067.pdf

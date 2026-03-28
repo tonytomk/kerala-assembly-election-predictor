@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,10,10,Azhikode,K.M.SHAJI,IUML,55077,45.2073,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,M.PRAKASHAN MASTER,CPI(M),54584,44.8027,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,M.K.SASEENDRAN MASTER,BJP,7540,6.1889,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,NOUSHAD PUNNAKKAL,IND,2935,2.4091,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,SHAJI.K.M.,IND,602,0.4941,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,C.BALAKRISHNAN,BSP,458,0.3759,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,PAUL T SAMUEL,SUCI [C],414,0.3398,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10
+2011,Kannur,10,10,Azhikode,PRAKASHAN KUZHIPARAMBIL,IND,222,0.1822,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/10

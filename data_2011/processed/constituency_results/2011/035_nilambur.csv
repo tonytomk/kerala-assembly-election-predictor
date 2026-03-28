@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,35,35,Nilambur,ARYADAN MOHAMMED,INC,66331,48.6447,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,PROFESSOR.M.THOMAS MATHEW,IND,60733,44.5394,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,K.C.VELAYUDHAN,BJP,4425,3.2451,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,C.G.UNNI,SDPI,2566,1.8818,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,THARIYAN KILIYAN,BSP,1291,0.9468,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35
+2011,Malappuram,35,35,Nilambur,THOMAS MATHEW,IND,1012,0.7422,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/35

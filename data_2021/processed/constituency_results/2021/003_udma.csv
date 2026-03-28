@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kasaragod,3,3,Udma,C H KUNHAMBU,CPI(M),78664,47.58,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,BALAKRISHNAN PERIYE,INC,65342,39.52,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,A VELAYUDHAN,BJP,20360,12.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,NOTA,NOTA,434,0.26,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,RAMESHAN K,IND,207,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,GOVINDAN B ALINTHAZE,APOI,194,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,3,3,Udma,KUNHAMBU K S/o Kuttappan K C IND,IND,140,0.08,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

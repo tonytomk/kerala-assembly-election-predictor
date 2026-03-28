@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kozhikode,22,22,Nadapuram,E. K. VIJAYAN,CPI,83293,47.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,ADV. K. PRAVEEN KUMAR,INC,79257,45.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,M. P. RAJAN,BJP,10538,6.0,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,K. K. NASAR MASTER,SDPI,1676,0.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,NOTA,NOTA,316,0.18,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,T.PRAVEEN KUMAR S/O KANNAN,IND,258,0.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kozhikode,22,22,Nadapuram,SREEDHARAN K K NALAP Table,NALAP,165,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

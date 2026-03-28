@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kannur,9,9,Irikkur,K. C. JOSEPH,INC,68503,52.4112,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,ADV. P. SANTHOSH KUMAR,CPI,56746,43.416,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,M. G. RAMAKRISHNAN NAIR,BJP,3529,2.7,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,JOSEPH,IND,740,0.5662,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,AMMINI KRISHNAN,IND,633,0.4843,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9
+2011,Kannur,9,9,Irikkur,BIJU THOMAS,BSP,552,0.4223,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/9

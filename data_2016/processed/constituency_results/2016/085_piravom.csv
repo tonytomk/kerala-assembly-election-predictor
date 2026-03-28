@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Ernakulam,85,85,Piravom,ANOOP JACOB,KC(J),73770,45.7715,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,M.J. JACOB,CPI(M),67575,41.9278,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,C.P. SATHYAN,BDJS,17503,10.86,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,NOTA,NOTA,964,0.5981,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,GIREESH,PGP,485,0.3009,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,K.O. SUDHEER,SUCI(C),342,0.2122,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,ANOOP,IND,298,0.1849,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf
+2016,Ernakulam,85,85,Piravom,RAJAN,IND,233,0.1446,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/085.pdf

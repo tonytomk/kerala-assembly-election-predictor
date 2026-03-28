@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Pathanamthitta,114,114,Konni,ADOOR PRAKASH,INC,72800,50.8085,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,ADV. R. SANAL KUMAR,CPI(M),52052,36.3281,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,ASOKA KUMAR D,BJP,16713,11.6643,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,NOTA,NOTA,474,0.3308,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,REYASH,SDPI,401,0.2799,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,JOSHY JOSEPH,WPI,365,0.2547,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,SURESH V,IND,249,0.1738,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,BIJU ELAMANNOOR,IND,133,0.0928,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf
+2016,Pathanamthitta,114,114,Konni,VISHNU S,SHIVSENA,96,0.067,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/114.pdf

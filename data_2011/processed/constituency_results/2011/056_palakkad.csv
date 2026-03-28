@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Palakkad,56,56,Palakkad,SHAFI PARAMBIL,INC,47641,42.4052,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,K. K. DIVAKARAN,CPI(M),40238,35.8158,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,C. UDAYBHASKAR,BJP,22317,19.8643,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,SHAJI ABRAHAM,IND,637,0.567,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,HARI ARUMBIL,BSP,490,0.4361,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,MUHAMMED SHAFI (SHAFI PURAKARA),IND,377,0.3356,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,C.SAMPATH,AIADMK,337,0.3,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56
+2011,Palakkad,56,56,Palakkad,DIVAKARAN,IND,310,0.2759,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/56

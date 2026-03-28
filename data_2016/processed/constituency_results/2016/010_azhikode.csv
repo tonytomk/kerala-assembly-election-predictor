@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,10,10,Azhikode,M V NIKESH KUMAR,CPI(M),60795,77.5288,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,A V KESAVAN,BJP,12580,16.0426,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,K K ABDUL JABBAR,SDPI,1705,2.1743,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,P K RAGESH,IND,1518,1.9358,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,M JOSEPH JOHN,WPI,687,0.8761,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,NOTA,NOTA,453,0.5777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,ADV. P C VIVEK,SUCI(C),235,0.2997,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,K M SHAJI,IUML,196,0.2499,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,K M SHAJI,IUML,160,0.204,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf
+2016,Kannur,10,10,Azhikode,PRASAD V P,IND,87,0.1109,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/010.pdf

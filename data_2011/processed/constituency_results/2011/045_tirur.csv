@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,45,45,Tirur,C MAMMOOTTY,IUML,69305,54.8503,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,P P ABDULLAKUTTY,CPI(M),45739,36.1994,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,P T ALI HAJI,BJP,5543,4.3869,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,A.K MAJEED MASTER,SDPI,2696,2.1337,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,ALIKUTTY ALIAS BAPPU PUTHANATHANI,PDP,1802,1.4262,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,MOHANDAS,IND,781,0.6181,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45
+2011,Malappuram,45,45,Tirur,T AYYAPPAN,BSP,487,0.3854,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/45

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thiruvananthapuram,138,138,Kattakkada,SAKTHAN N,INC,52368,44.6266,True,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,M V JAYADALI,OTH,39452,33.6199,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,P K KRISHNA DAS,BJP,22550,19.2165,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,VENGODU SUNIL KUMAR,UNKNOWN,1303,1.1104,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,KATTAKADA RAJAN,UNKNOWN,613,0.5224,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,SUCHITHRA S,OTH,586,0.4994,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,MALAYINKEEZH RAJESH,OTH,475,0.4048,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf

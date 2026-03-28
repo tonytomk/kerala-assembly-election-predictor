@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Ernakulam,85,85,Piravom,ANOOP JACOB,KEC(J),85056,53.8,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,Dr. SINDHUMOL JACOB,KEC(M),59692,37.76,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,M ASHISH,BJP,11021,6.97,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,NOTA,NOTA,1109,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,SINDHUMOL C,IND,563,0.36,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,C N MUKUNDAN,SUCI,454,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,85,85,Piravom,RENJU P B IND Pen Drive,IND,202,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

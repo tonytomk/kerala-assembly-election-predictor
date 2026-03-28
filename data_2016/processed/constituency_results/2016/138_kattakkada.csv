@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,138,138,Kattakkada,I.B. SATHEESH,CPI(M),51614,35.9344,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,N SHAKTHAN,INC,50765,35.3433,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,P.K. KRISHNADAS,BJP,38700,26.9435,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,NOTA,NOTA,732,0.5096,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,Biju S R,BSP,709,0.4936,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,ASHRAF PRAVACHAMBALAM,SDPI,627,0.4365,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,S Mini,SUCI(C),295,0.2054,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf
+2016,Thiruvananthapuram,138,138,Kattakkada,K Sasikumar,IND,192,0.1337,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/138.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Mons Joseph,KEC,59666,45.4,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Stephen George,KEC(M),55410,42.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Ligin Lal,BJP,11670,8.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Vinod K Jose,IND,2425,1.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Anju Mathew,BSP,1207,0.92,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,NOTA,NOTA,731,0.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Jaimon Thankachan SWJP,SWJP,302,0.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

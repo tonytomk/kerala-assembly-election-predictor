@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,104,104,Alappuzha,P.P Chitharanjan,CPI(M),73412,46.33,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Dr.K.S Manoj,INC,61768,38.98,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Sandeep Vachaspati,BJP,21650,13.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,NOTA,NOTA,1089,0.69,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Subeendran K.C,BSP,207,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,K.A Vinod,SUCI,205,0.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,104,104,Alappuzha,Shylendran BHUDRP,BHUDRP,115,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

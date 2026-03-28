@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kottayam,96,96,Ettumanoor,K.SURESH KURUP,UNKNOWN,57381,48.5223,True,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,THOMAS CHAZHIKADAN,KEC(M),55580,46.9993,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,V.G.GOPAKUMAR,UNKNOWN,3385,2.8624,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,K.T.THOMAS,UNKNOWN,763,0.6452,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,JUSTIN MATHEW,OTH,466,0.3941,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,E.V.PRAKASH,UNKNOWN,454,0.3839,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf
+2011,Kottayam,96,96,Ettumanoor,ANISH KUMAR,OTH,228,0.1928,False,https://www.ceo.kerala.gov.in/pdf/form20/096.pdf

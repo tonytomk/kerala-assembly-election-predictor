@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,36,36,Wandoor,A.P.ANILKUMAR,INC,77580,58.5024,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,V. RAMESAN,CPI(M),48661,36.6948,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,KOTHERI AYYAPPAN,BJP,2885,2.1756,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,KRISHNAN ERANHIKKAL,SDPI,1682,1.2684,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,P. ANILKUMAR,IND,953,0.7186,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36
+2011,Malappuram,36,36,Wandoor,T.C.THEYYAN,IND,849,0.6402,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/36

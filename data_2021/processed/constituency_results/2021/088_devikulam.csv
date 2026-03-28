@@ -1,0 +1,5 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Idukki,88,88,Devikulam,Adv. A. Raja,CPI(M),59049,51.0,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,D. Kumar,INC,51201,44.22,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,Ganesan. S,IND,4717,4.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Idukki,88,88,Devikulam,NOTA,NOTA,807,0.7,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

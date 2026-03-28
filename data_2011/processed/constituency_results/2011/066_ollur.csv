@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Thrissur,66,66,Ollur,M.P.VINCENT,INC,64823,49.2135,True,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,RAJAJI MATHEW THOMAS,CPI,58576,44.4708,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,SUNDARARAJAN MASTER,UNKNOWN,6761,5.1329,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,SURESH.M.R,OTH,717,0.5443,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,SUNNY.K.JOHN,BSP,434,0.3295,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf
+2011,Thrissur,66,66,Ollur,RATHEESH .T.NAIR,OTH,407,0.309,False,https://www.ceo.kerala.gov.in/pdf/form20/066.pdf

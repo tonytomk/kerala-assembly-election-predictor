@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Pathanamthitta,113,113,Aranmula,VEENA GEORGE,CPI(M),64523,39.9692,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,ADV K SIVADASAN NAIR,INC,56877,35.2328,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,M T RAMESH,BJP,37906,23.4811,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,NOTA,NOTA,569,0.3525,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,T. AMRITHAKUMAR,BSP,548,0.3395,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,SREEKANTH M VALLAKKOTT,SP,252,0.1561,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,CHANDRAN,IND,249,0.1542,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,ANIL KUMAR K G,SUCI(C),217,0.1344,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,HABEEB REHMAN,PDP,187,0.1158,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf
+2016,Pathanamthitta,113,113,Aranmula,SHAJI MEZHUVELI,IND,104,0.0644,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/113.pdf

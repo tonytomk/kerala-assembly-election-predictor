@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kasaragod,1,1,Manjeshwar,P B ABDUL RAZAK,IUML,56870,35.7934,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,K SURENDRAN,BJP,56781,35.7374,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,C.H.KUNHAMBU,CPI(M),42565,26.79,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,BASHEER AHAMAD,PDP,759,0.4777,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,NOTA,NOTA,646,0.4066,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,K.SUNDARA,IND,467,0.2939,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,RAVICHANDRA,BSP,365,0.2297,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,K P MUNEER,IND,224,0.141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf
+2016,Kasaragod,1,1,Manjeshwar,JOHN D'SOUZA,IND,207,0.1303,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/001.pdf

@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,65,65,Wadakkanchery,ANIL AKKARA,INC,65535,41.0155,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,MARY THOMAS,CPI(M),65492,40.9886,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,ADV. ULLAS BABU,BJP,26652,16.6803,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,NOTA,NOTA,969,0.6065,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,GADDAFI A K,SDPI,477,0.2985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,P K SUBRAMANIAN,BSP,419,0.2622,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf
+2016,Thrissur,65,65,Wadakkanchery,ANIL,IND,237,0.1483,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/065.pdf

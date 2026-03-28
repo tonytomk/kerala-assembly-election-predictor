@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kannur,12,12,Dharmadam,Pinarayi Vijayan,CPI(M),95522,59.61,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,C. Raghunathan,INC,45399,28.33,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,C. K. Padmanabhan,BJP,14623,9.13,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Basheer Kannadiparamba,SDPI,2280,1.42,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Valayar Bhagyavathi,IND,1753,1.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,NOTA,NOTA,400,0.25,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Chovva Raghunathan,IND,137,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,C. P. Maharoof,IND,72,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kannur,12,12,Dharmadam,Vadi Harindran IND Jackfruit,IND,61,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

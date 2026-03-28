@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kollam,119,119,Kottarakkara,K N BALAGOPAL,CPI(M),68770,45.98,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,R RESMI,INC,57956,38.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,Adv. VAYAKKAL SOMAN,BJP,21223,14.19,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,NOTA,NOTA,574,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,USHA KOTTARAKKARA,ADHRMPI,460,0.31,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,MATHEWS K LUKOSE,IND,136,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,LAL VISWAN,IND,103,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,V VENUGOPAL,DSJP,96,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,EYYAMKODU MANIKUTTAN,IND,90,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,E. KUNJUMON,SUCI,87,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kollam,119,119,Kottarakkara,JAINEENDRAN T SHS,SHS,57,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

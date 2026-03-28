@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Alappuzha,105,105,Ambalapuzha,H.Salam,CPI(M),61365,44.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Adv.M.Liju,INC,50240,36.67,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Anoop Antony,BJP,22389,16.34,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,M.M.Thahir,SDPI,1690,1.23,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,NOTA,NOTA,591,0.43,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Subhadramma Thottappally,WPOI,525,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Alappuzha,105,105,Ambalapuzha,Subaida SUCI,SUCI,221,0.16,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

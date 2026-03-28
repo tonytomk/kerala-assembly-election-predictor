@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,135,135,Nemom,O Rajagopal,BJP,67813,47.4608,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,V.SIVANKUTTY,CPI(M),59142,41.3922,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,V.SURENDRAN PILLAI,JD(U),13860,9.7003,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,NOTA,NOTA,884,0.6187,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,A.NOUSHAD,AKTP,406,0.2842,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,SHAMLAJA BEEVI.B,IND,330,0.231,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,J.VIKRAMAN Prachalloor,IND,170,0.119,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,JAIN WILSON,IND,163,0.1141,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf
+2016,Thiruvananthapuram,135,135,Nemom,SAILESWARA BABU.N,IND,114,0.0798,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/135.pdf

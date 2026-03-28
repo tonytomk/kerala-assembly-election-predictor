@@ -1,0 +1,12 @@
+[
+  {
+    "constituency_number": 64,
+    "constituency": "Manalur",
+    "error": "parse_form20_totals failed: No extractable text in data_2016\\raw\\pdfs\\2016\\064.pdf"
+  },
+  {
+    "constituency_number": 76,
+    "constituency": "Aluva",
+    "error": "parse_form20_totals failed: No extractable text in data_2016\\raw\\pdfs\\2016\\076.pdf"
+  }
+]

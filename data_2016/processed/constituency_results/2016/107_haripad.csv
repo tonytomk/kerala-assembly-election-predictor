@@ -1,0 +1,15 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,107,107,Haripad,RAMESH CHENNITHALA,INC,75980,51.0508,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,P. PRASAD,CPI,57359,38.5394,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,D. ASWANI DEV,BJP,12985,8.7246,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,VARKALA RAJ,PDP,623,0.4186,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,ASHABUL HAQ,SDPI,512,0.344,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,C. BALAKRISHNAN,BSP,417,0.2802,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,NOTA,NOTA,321,0.2157,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,SIDHARTHAN KARUVATTA,IND,149,0.1001,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,A. MUHAMMED,SUCI(C),147,0.0988,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,SAMUDAYATHIL RAVI R UNNITHAN,IND,93,0.0625,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,PRADEEP KARIPUZHA,IND,87,0.0585,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,SATHEESHKUMAR B,IND,75,0.0504,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,D PRASOOL PRAKASH,IND,46,0.0309,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf
+2016,Alappuzha,107,107,Haripad,PRASAD UNIKKANTHARA,IND,38,0.0255,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/107.pdf

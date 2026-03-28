@@ -1,0 +1,7 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Malappuram,43,43,Tirurangadi,P.K.ABDU RABB,IUML,58666,58.4771,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,ADV.K.K.ABDU SAMAD,CPI,28458,28.3664,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,SASIDHARAN PUNNASSERY,BJP,5480,5.4624,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,IBRAHIM THIRURANGADI,PDP,4281,4.2672,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,ADV.A.A.RAHIM,SDPI,2945,2.9355,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43
+2011,Malappuram,43,43,Tirurangadi,ABUYAZAR,BSP,493,0.4914,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/43

@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kozhikode,30,30,Kunnamangalam,ADV. P.T.A. RAHIM,IND,77410,42.9242,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,ADV. T. SIDDIQU,INC,66205,36.711,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,C.K.PADMANABHAN,BJP,32702,18.1334,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,LATHEEF ANORA,SDPI,1252,0.6942,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,NOTA,NOTA,1148,0.6366,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,K.P. RAHEEM MELE CHETTUKUZHIYIL,IND,726,0.4026,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,P.P. RAJAN,BSP,304,0.1686,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,P. SIDHEEQ PANNIYOOKKIL,IND,212,0.1176,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,T.P. SIDDEEQUE THALAPPOYIL,IND,206,0.1142,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf
+2016,Kozhikode,30,30,Kunnamangalam,ABOOBACKER SIDHIQU,IND,176,0.0976,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/030.pdf

@@ -1,0 +1,9 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2021,Kasaragod,2,2,Kasaragod,N A NELLIKKUNNU,IUML,63296,43.8,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,ADV K SHREEKANTH,BJP,50395,34.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,M A LATHEEF,INL,28323,19.6,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,VIJAYA K P,BSP,679,0.47,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,NOTA,NOTA,639,0.44,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,RANJITH RAJ M,ADHRMPI,555,0.38,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,NISHANTH KUMAR I B,IND,417,0.29,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kasaragod,2,2,Kasaragod,SUDHAKARAN K IND,IND,196,0.14,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

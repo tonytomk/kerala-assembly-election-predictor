@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Idukki,90,90,Thodupuzha,P.J.JOSEPH,OTH,66325,51.9227,True,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,JOSEPH AUGUSTINE,UNKNOWN,43457,34.0204,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,P.M.VELAYUDHAN,BJP,10049,7.8669,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,M.A.NAJEEB,UNKNOWN,5386,4.2164,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,BINU SEBASTIAN,BSP,677,0.53,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,C.R.DILEEP KUMAR,UNKNOWN,655,0.5128,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,T.S.SREENIVASAN,UNKNOWN,482,0.3773,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,JOMON JOHN,OTH,282,0.2208,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,SIBY C MATHEW,OTH,246,0.1926,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf
+2011,Idukki,90,90,Thodupuzha,SHIBUMON,OTH,179,0.1401,False,https://www.ceo.kerala.gov.in/pdf/form20/090.pdf

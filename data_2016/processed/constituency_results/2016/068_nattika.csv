@@ -1,0 +1,12 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thrissur,68,68,Nattika,GEETHA GOPI,CPI,70218,46.6528,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,K.V. DASAN,INC,43441,28.8622,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,T.V. BABU,BDJS,33650,22.357,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,NOTA,NOTA,903,0.6,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,ARUMUGHAN SNEHATHEERAM,PDP,534,0.3548,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,A K SANTHOSH,BSP,530,0.3521,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,T K PRASAD,IND,502,0.3335,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,N.M. PUSHPANGADHAN,CPI(ML)REDSTAR,253,0.1681,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,CHANDRAN VAKEEL,IND,168,0.1116,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,NINU K. B.,IND,163,0.1083,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf
+2016,Thrissur,68,68,Nattika,SIVADAS N,IGP,150,0.0997,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/068.pdf

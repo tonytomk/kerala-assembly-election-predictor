@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,109,109,Mavelikara,R.RAJESH,CPI(M),74555,49.8069,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,BAIJU KALASALA,INC,43013,28.7351,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,P.M.VELAYUDHAN,BJP,30929,20.6623,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,NOTA,NOTA,523,0.3494,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,ASHA.T,SUCI(C),242,0.1617,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,KATTANAM SURESH,BSP,213,0.1423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf
+2016,Alappuzha,109,109,Mavelikara,AJEESHKUMAR,IND,213,0.1423,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/109.pdf

@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Alappuzha,103,103,Cherthala,P. THILOTHAMAN,CPI,81197,45.7049,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,ADV. S. SARATH,INC,74001,41.6543,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,P.S. RAJEEV,BDJS,19614,11.0405,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,C.P.THILAKAN,BSP,845,0.4756,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,NOTA,NOTA,687,0.3867,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,S. SARATH KANNATTUCHIRA NIKARTH,IND,639,0.3597,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,SONNYMON K MATHEW,IND,348,0.1959,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,VAYALAR RAJEEVAN,IND,174,0.0979,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf
+2016,Alappuzha,103,103,Cherthala,K.V. JOSEPH,IND,150,0.0844,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/103.pdf

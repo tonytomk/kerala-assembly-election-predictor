@@ -1,0 +1,10 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2011,Kozhikode,23,23,Quilandy,K.DASAN,CPI(M),64374,47.1971,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,AD.K.P.ANIL KUMAR,INC,60235,44.1625,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,T.P.JAYACHANDRAN MASTER,BJP,8086,5.9284,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,"RASHID,P.T",SDPI,985,0.7222,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,C.MUNEER,IND,985,0.7222,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,K.P.ANILKUMAR,IND,520,0.3812,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,"K.V.KRISHNAN,KODUVAYAL",BSP,466,0.3417,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,"DASAN,V.K",IND,418,0.3065,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23
+2011,Kozhikode,23,23,Quilandy,DASAN M.K,IND,325,0.2383,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/23

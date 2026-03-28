@@ -1,0 +1,8 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Kannur,7,7,Kalliasseri,T V RAJESH,CPI(M),83006,59.8254,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,AMRITHA RAMAKRISHNAN,INC,40115,28.9123,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,K P ARUN MASTER,BJP,11036,7.954,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,SUNIL KOYILERIAN,IND,1455,1.0487,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,K SUBAIR,SDPI,1435,1.0343,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,SAINUDHEEN KARIVELLUR,WPI,1080,0.7784,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf
+2016,Kannur,7,7,Kalliasseri,NOTA,NOTA,620,0.4469,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/007.pdf

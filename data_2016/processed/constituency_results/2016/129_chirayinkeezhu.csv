@@ -1,0 +1,11 @@
+year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,V SASI,CPI,64692,46.7495,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,K.S.AJITH KUMAR,INC,50370,36.3998,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,DR.P.P.VAVA,BJP,19478,14.0757,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,NOTA,NOTA,1092,0.7891,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,SASI PANTHALAM,WPI,955,0.6901,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,SANTHINI,IND,639,0.4618,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,AMBILI.V,PDP,589,0.4256,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,AJITH NANDANCODE,IND,226,0.1633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,SHIBU (ROY KORANI),IND,206,0.1489,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
+2016,Thiruvananthapuram,129,129,Chirayinkeezhu,AJITH,IND,133,0.0961,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/129.pdf
