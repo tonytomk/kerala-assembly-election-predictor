@@ -1,0 +1,141 @@
+year,district,district_id,constituency_id,constituency_number,constituency,candidate,party,alliance,votes,margin,round_status,is_winner,source_url
+2026,Kasaragod,1,1,1,Manjeshwar,A K M ASHRAF,IUML,UDF,96948.0,29252.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kasaragod,1,2,2,Kasaragod,KALLATRA MAHIN,IUML,UDF,76396.0,22698.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kasaragod,1,3,3,Udma,NEELAKANDAN,INC,UDF,78910.0,4847.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kasaragod,1,4,4,Kanhangad,ADV. GOVINDAN PALLIKAPPIL,CPI,LDF,79920.0,15316.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kasaragod,1,5,5,Trikaripur,SANDEEP VARIER,INC,UDF,83109.0,4431.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,6,6,Payyannur,V. KUNHIKRISHNAN,IND,OTHER,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,7,7,Kalliasseri,M.VIJIN,CPI(M),LDF,81428.0,18433.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,8,8,Taliparamba,T K GOVINDAN MASTER S/O KUNHIKKANNAN NAMBIAR,IND,OTHER,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,9,9,Irikkur,ADV. SAJEEV JOSEPH,INC,UDF,90895.0,42426.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,10,10,Azhikode,K. V. SUMESH,CPI(M),LDF,64951.0,349.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,11,11,Kannur,ADV.T.O. MOHANAN,INC,UDF,70620.0,18551.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,12,12,Dharmadam,PINARAYI VIJAYAN,CPI(M),LDF,85614.0,19247.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,13,13,Thalassery,KARAYI RAJAN,CPI(M),LDF,69743.0,20523.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,14,14,Kuthuparamba,P K PRAVEEN,RJD,LDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,15,15,Mattannur,V K SANOJ,CPI(M),LDF,81456.0,14168.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kannur,2,16,16,Peravoor,ADV. SUNNY JOSEPH,INC,UDF,76140.0,14453.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Wayanad,3,17,17,Mananthavady,USHA VIJAYAN,INC,UDF,77425.0,10543.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Wayanad,3,18,18,Sulthanbathery,I C BALAKRISHNAN,INC,UDF,78936.0,16597.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Wayanad,3,19,19,Kalpetta,ADV. T SIDDIQUE,INC,UDF,97379.0,45031.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,20,20,Vadakara,K K REMA,RMPOI,UDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,21,21,Kuttiadi,PARAKKAL ABDULLA,IUML,UDF,88197.0,10922.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,22,22,Nadapuram,K.M. ABHIJITH,INC,UDF,99763.0,23600.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,23,23,Quilandy,ADV. K. PRAVEEN KUMAR,INC,UDF,79913.0,12070.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,24,24,Perambra,ADV. FATHIMA THAHILIYA,IUML,UDF,81429.0,5087.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,25,25,Balusseri,V.T. SOORAJ,INC,UDF,94804.0,16980.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,26,26,Elathur,ADV.VIDYA BALAKRISHNAN,INC,UDF,77662.0,12162.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,27,27,kozhikode north,ADV.K JAYANTH,INC,UDF,50636.0,1483.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,28,28,Kozhikode south,ADV. FYZAL BABU,IUML,UDF,52680.0,10795.0,12/12,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,29,29,Beypore,P.A MOHAMED RIYAS,CPI(M),LDF,81849.0,7487.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,30,30,Kunnamangalam,M.A. RAZAK MASTER,IUML,UDF,91598.0,13313.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,31,31,Koduvally,P K FIROS,IUML,UDF,95164.0,36682.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kozhikode,4,32,32,Thiruvambady,C K KASIM,IUML,UDF,77140.0,6741.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,33,33,Kondotty,T.P. ASHRAFALI,IUML,UDF,114997.0,56017.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,34,34,Eranad,P.K.BASHEER,IUML,UDF,98547.0,41289.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,35,35,Nilambur,ARYADAN SHOUKATH,INC,UDF,113586.0,54851.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,36,36,Wandoor,A.P ANILKUMAR,INC,UDF,121074.0,47939.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,37,37,Manjeri,ADV. M. RAHMATHULLA,IUML,UDF,113622.0,57887.0,21/21,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,38,38,Perinthalmanna,NAJEEB KANTHAPURAM,IUML,UDF,104888.0,32431.0,22/22,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,39,39,Mankada,MANJALAMKUZHI ALI,IUML,UDF,110692.0,45609.0,22/22,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,40,40,Malappuram,P.K KUNHALIKUTTY,IUML,UDF,131632.0,85327.0,26/26,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,41,41,Vengara,K.M. SHAJI,IUML,UDF,95863.0,30325.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,42,42,Vallikkunnu,T V IBRAHIM,IUML,UDF,100718.0,51289.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,43,43,Tirurangadi,P M A SAMEER,IUML,UDF,111869.0,63387.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,44,44,Tanur,P K NAVAS,IUML,UDF,91992.0,27131.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,45,45,Tirur,KURUKKOLI MOIDEEN,IUML,UDF,106108.0,24137.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,46,46,Kottakkal,PROF. ABID HUSSAIN THANGAL,IUML,UDF,118111.0,62638.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,47,47,Thavanur,ADV. V S JOY,INC,UDF,79661.0,14647.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Malappuram,5,48,48,Ponnani,K.P NOUSHAD ALI,INC,UDF,80674.0,13267.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,49,49,Thrithala,V T BALRAM,INC,UDF,76427.0,8385.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,50,50,Pattambi,MUHAMMED MUHASSIN,CPI,LDF,80062.0,9442.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,51,51,Shornur,P.MAMMIKUTTY,CPI(M),LDF,70583.0,16517.0,12/12,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,52,52,Ottapalam,ADV. K. PREMKUMAR,CPI(M),LDF,75362.0,26777.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,53,53,Kongad,THULASI TEACHER,INC,UDF,62734.0,3706.0,10/10,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,54,54,Mannarkad,ADV. N. SAMSUDHEEN,IUML,UDF,90606.0,25903.0,12/12,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,55,55,Malampuzha,A PRABHAKARAN,CPI(M),LDF,68629.0,19721.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,56,56,Palakkad,RAMESH PISHARODY,INC,UDF,62199.0,13147.0,11/11,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,57,57,Tarur,SUMOD,CPI(M),LDF,60557.0,11910.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,58,58,Chittur,ADV. SUMESH ACHUTHAN,INC,UDF,65325.0,6510.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,59,59,Nenmara,K PREMAN,CPI(M),LDF,66521.0,3305.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Palakkad,6,60,60,Alathur,T M SASI,CPI(M),LDF,61564.0,8553.0,13/13,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,61,61,Chelakkara,U R PRADEEP,CPI(M),LDF,76073.0,29386.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,62,62,Kunnamkulam,A C MOIDEEN,CPI(M),LDF,69522.0,4563.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,63,63,Guruvayoor,N. K. AKBAR,CPI(M),LDF,66069.0,1998.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,64,64,Manalur,PROF C RAVINDRANATH,CPI(M),LDF,65337.0,126.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,65,65,Wadakkanchery,XAVIER CHITTILAPPILLY,CPI(M),LDF,70725.0,5690.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,66,66,Ollur,K RAJAN,CPI,LDF,69703.0,8884.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,67,67,Thrissur,RAJAN. J. PALLAN,INC,UDF,60290.0,26803.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,68,68,Nattika,GEETHAGOPI,CPI,LDF,58979.0,7093.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,69,69,Kaipamangalam,K.K. VALSARAJ,CPI,LDF,65448.0,9944.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,70,70,Irinjalakkuda,ADV. THOMAS UNNIYADAN,KEC,UDF,66282.0,10212.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,71,71,Puthukkad,K K RAMACHANDRAN,CPI(M),LDF,63136.0,2853.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,72,72,Chalakkudy,SANEESHKUMAR JOSEPH,INC,UDF,71202.0,23156.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thrissur,7,73,73,Kodungallur,ADV. O J JANEESH,INC,UDF,65162.0,8308.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,74,74,Perumbavoor,MANOJ MOOTHEDAN,INC,UDF,75088.0,28434.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,75,75,Angamaly,ROJI M JOHN,INC,UDF,78331.0,37008.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,76,76,Aluva,ANWAR SADATH,INC,UDF,83899.0,29143.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,77,77,Kalamassery,ADV. V E ABDUL GAFOOR,IUML,UDF,80606.0,16312.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,78,78,Paravur,ADV.V.D.SATHEESAN,INC,UDF,78658.0,20600.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,79,79,Vypen,TONY CHAMMANY,INC,UDF,66112.0,15648.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,80,80,Kochi,MOHAMMED SHIYAS,INC,UDF,64318.0,8188.0,22/22,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,81,81,Thripunithura,DEEPAK JOY,INC,UDF,70256.0,18468.0,22/22,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,82,82,Eranakulam,T.J VINOD,INC,UDF,61296.0,36163.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,83,83,Thrikkakara,UMA THOMAS,INC,UDF,83375.0,50211.0,20/20,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,84,84,Kunnathunad,V. P. SAJEENDRAN,INC,UDF,70292.0,21283.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,85,85,Piravom,ANOOP JACOB,KEC(J),UDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,86,86,Muvattupuzha,DR. MATHEW KUZHALNADAN,INC,UDF,89914.0,42829.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Ernakulam,8,87,87,Kothamangalam,SHIBU THECKUMPURAM,KEC,UDF,73479.0,16859.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Idukki,9,88,88,Devikulam,F. RAJA,INC,UDF,50590.0,5233.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Idukki,9,89,89,Udumbanchola,ADV. SENAPATHY VENU,INC,UDF,64916.0,20021.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Idukki,9,90,90,Thodupuzha,APU JOHN JOSEPH,KEC,UDF,84796.0,44291.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Idukki,9,91,91,Idukki,ROY K PAULOSE,INC,UDF,70562.0,23822.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Idukki,9,92,92,Peerumade,ADV.CYRIAC THOMAS,INC,UDF,69672.0,27634.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,93,93,Pala,MANI C KAPPEN,IND,OTHER,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,94,94,Kaduthuruthy,ADV.MONS JOSEPH,KEC,UDF,70353.0,31300.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,95,95,Vaikom,K BINIMON,INC,UDF,52944.0,1360.0,13/13,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,96,96,Ettumanoor,NATTAKOM SURESH,INC,UDF,64077.0,19752.0,13/13,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,97,97,Kottayam,THIRUVANCHOOR RADHAKRISHNAN,INC,UDF,68893.0,35986.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,98,98,Puthuppally,ADV. CHANDY OOMMEN,INC,UDF,84031.0,52907.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,99,99,Changanassery,VINU JOB KUZHIMANNIL,KEC,UDF,55991.0,8368.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,100,100,Kanjirappally,RONY K BABY,INC,UDF,56646.0,5772.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kottayam,10,101,101,Poonjar,ADV.SEBASTIAN M.J,INC,UDF,56900.0,6693.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,102,102,Aroor,ADV. SHANIMOL OSMAN,INC,UDF,74469.0,9324.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,103,103,Cherthala,P. PRASAD,CPI,LDF,83216.0,14489.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,104,104,Alappuzha,A.D THOMAS,INC,UDF,81065.0,21015.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,105,105,Ambalapuzha,G.SUDHAKARAN,IND,OTHER,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,106,106,Kuttanad,REJI CHERIYAN,KEC,UDF,56594.0,20600.0,13/13,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,107,107,Haripad,RAMESH CHENNITHALA,INC,UDF,68184.0,23377.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,108,108,Kayamkulam,ADV.M.LIJU,INC,UDF,76651.0,15572.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,109,109,Mavelikara,M.S. ARUN KUMAR,CPI(M),LDF,67180.0,15736.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Alappuzha,11,110,110,Chengannur,SAJI CHERIAN,CPI(M),LDF,57859.0,10292.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Pathanamthitta,12,111,111,Thiruvalla,ADV.VARGHESE MAMMEN,KEC,UDF,53224.0,10146.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Pathanamthitta,12,112,112,Ranni,ADV. PAZHAKULAM MADHU,INC,UDF,54652.0,4344.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Pathanamthitta,12,113,113,Aranmula,ABIN VARKEY KODIYATTU,INC,UDF,70083.0,18985.0,21/21,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Pathanamthitta,12,114,114,Konni,ADV K U JENISH KUMAR,CPI(M),LDF,60380.0,1838.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Pathanamthitta,12,115,115,Adoor,ADVOCATE C V SANTHAKUMAR,INC,UDF,66153.0,10332.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,116,116,Karunagappally,C.R. MAHESH,INC,UDF,82593.0,26618.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,117,117,Chavara,SHIBU BABY JOHN,RSP,UDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,118,118,Kunnathur,ULLAS KOVUR,RSP,UDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,119,119,Kottarakkara,K.N. BALAGOPAL,CPI(M),LDF,63926.0,1012.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,120,120,Pathanapuram,JYOTHI KUMAR CHAMAKKALA,INC,UDF,68275.0,8310.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,121,121,Punalur,C. AJAYAPRASAD,CPI,LDF,71944.0,21529.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,122,122,Chadayamangalam,M. M. NASEER,INC,UDF,68281.0,7486.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,123,123,Kundara,P. C. VISHNUNADH,INC,UDF,87862.0,32564.0,20/20,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,124,124,Kollam,ADV. BINDHU KRISHNA,INC,UDF,63416.0,16830.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,125,125,Eravipuram,ADV.VISHNU MOHAN,RSP,UDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Kollam,13,126,126,Chathannur,B.B.GOPAKUMAR,BJP,NDA,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,127,127,Varkala,ADV.V JOY,CPI(M),LDF,55365.0,2050.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,128,128,Attingal,O.S AMBIKA,CPI(M),LDF,59163.0,13375.0,16/16,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,129,129,Chirayinkeezhu,RAMYA HARIDAS,INC,UDF,56833.0,1422.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,130,130,Nedumangad,G R ANIL,CPI,LDF,69206.0,21583.0,19/19,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,131,131,Vamanapuram,MUHAMMED SUDHEERSHA S,INC,UDF,73590.0,12185.0,20/20,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,132,132,Kazhakkoottam,V. MURALEEDHARAN,BJP,NDA,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,133,133,Vattiyoorkavu,K. MURALEEDHARAN,INC,UDF,48338.0,5425.0,20/20,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,134,134,Thiruvananthapuram,C P JOHN,CMPKSC,UDF,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,135,135,Nemom,RAJEEV CHANDRASEKHAR,BJP,NDA,,,,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,136,136,Aruvikkara,ADV. G. STEEPHEN,CPI(M),LDF,61907.0,2843.0,20/20,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,137,137,Parassala,C K HAREENDRAN,CPI(M),LDF,69149.0,15013.0,21/21,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,138,138,Kattakkada,M. R. BAIJU,INC,UDF,56846.0,7136.0,17/17,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,139,139,Kovalam,ADV. M.VINCENT,INC,UDF,79661.0,32709.0,21/21,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm
+2026,Thiruvananthapuram,14,140,140,Neyyattinkara,N. SHAKTHAN,INC,UDF,58760.0,6966.0,18/18,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm

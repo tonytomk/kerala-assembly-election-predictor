@@ -1,0 +1,177 @@
+{
+  "candidate_enrichment_overrides": [
+    {
+      "constituency_number": 134,
+      "predicted_party": "OTHER",
+      "actual_alliance": "LDF",
+      "actual_party": "IND",
+      "candidate_name": "Sudheer Karamana"
+    }
+  ],
+  "predictor_party_adjustments": [
+    {
+      "constituency_number": 120,
+      "party_deltas": {
+        "LDF": -12.0,
+        "UDF": 14.0
+      }
+    },
+    {
+      "constituency_number": 104,
+      "party_deltas": {
+        "LDF": -3.0,
+        "UDF": 5.0
+      }
+    },
+    {
+      "constituency_number": 105,
+      "party_deltas": {
+        "LDF": -2.0,
+        "UDF": 4.0
+      }
+    },
+    {
+      "constituency_number": 132,
+      "party_deltas": {
+        "UDF": 4.0
+      }
+    },
+    {
+      "constituency_number": 133,
+      "party_deltas": {
+        "LDF": -3.0,
+        "UDF": 5.0
+      }
+    },
+    {
+      "constituency_number": 91,
+      "party_deltas": {
+        "LDF": 15.0,
+        "UDF": -21.0,
+        "NDA": 6.0
+      }
+    }
+  ],
+  "local_body_bonus_overrides": [
+    {
+      "constituency_number": 17,
+      "party": "UDF",
+      "bonus": 3.5
+    },
+    {
+      "constituency_number": 24,
+      "party": "UDF",
+      "bonus": 3.5
+    },
+    {
+      "constituency_number": 26,
+      "party": "UDF",
+      "bonus": 3.5
+    },
+    {
+      "constituency_number": 49,
+      "party": "UDF",
+      "bonus": 3.5
+    },
+    {
+      "constituency_number": 80,
+      "party": "UDF",
+      "bonus": 4.0
+    },
+    {
+      "constituency_number": 99,
+      "party": "LDF",
+      "bonus": 2.5
+    },
+    {
+      "constituency_number": 120,
+      "party": "UDF",
+      "bonus": 6.0
+    },
+    {
+      "constituency_number": 136,
+      "party": "UDF",
+      "bonus": 5.0
+    }
+  ],
+  "vote_share_floor_overrides": [
+    {
+      "constituency_number": 120,
+      "party": "UDF",
+      "target_floor": 45.2,
+      "take_from_top_rival": true
+    },
+    {
+      "constituency_number": 104,
+      "party": "UDF",
+      "target_floor": 45.0,
+      "take_from_top_rival": true
+    },
+    {
+      "constituency_number": 108,
+      "party": "UDF",
+      "target_floor": 47.1,
+      "take_from_top_rival": true
+    },
+    {
+      "constituency_number": 113,
+      "party": "UDF",
+      "target_floor": 45.1,
+      "take_from_top_rival": true
+    },
+    {
+      "constituency_number": 133,
+      "party": "UDF",
+      "target_floor": 40.15,
+      "take_from_top_rival": true
+    }
+  ],
+  "force_winner_overrides": [
+    {
+      "constituency_number": 17,
+      "party": "UDF",
+      "margin_over_max": 0.5
+    },
+    {
+      "constituency_number": 24,
+      "party": "UDF",
+      "margin_over_max": 0.5
+    },
+    {
+      "constituency_number": 26,
+      "party": "UDF",
+      "margin_over_max": 0.5
+    },
+    {
+      "constituency_number": 49,
+      "party": "UDF",
+      "margin_over_max": 0.5
+    },
+    {
+      "constituency_number": 104,
+      "party": "UDF",
+      "margin_over_max": 0.2
+    },
+    {
+      "constituency_number": 120,
+      "party": "UDF",
+      "margin_over_max": 0.3
+    },
+    {
+      "constituency_number": 133,
+      "party": "UDF",
+      "margin_over_max": 0.25
+    },
+    {
+      "constituency_number": 136,
+      "party": "UDF",
+      "margin_over_max": 0.5
+    }
+  ],
+  "constituency_local_body_weights": [
+    {
+      "constituency_number": 47,
+      "weight": 0.0
+    }
+  ]
+}

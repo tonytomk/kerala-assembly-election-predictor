@@ -1,0 +1,2 @@
+year,district,district_id,constituency_id,constituency_number,constituency,candidate,party,alliance,votes,margin,round_status,is_winner,source_url
+2026,Palakkad,6,57,57,Tarur,SUMOD,CPI(M),LDF,60557.0,11910.0,14/14,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm

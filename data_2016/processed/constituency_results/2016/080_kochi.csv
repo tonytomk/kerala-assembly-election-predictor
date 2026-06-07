@@ -1,7 +1,7 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
-2016,Ernakulam,80,80,Kochi,K J MAXI,UNKNOWN,47967,38.6974,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
-2016,Ernakulam,80,80,Kochi,DOMINIC PRESENTATION,UNKNOWN,46881,37.8213,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
-2016,Ernakulam,80,80,Kochi,PRAVEEN DHAMODARA PRABHU,UNKNOWN,15212,12.2723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,K J MAXI,CPI(M),47967,38.6974,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,DOMINIC PRESENTATION,INC,46881,37.8213,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
+2016,Ernakulam,80,80,Kochi,PRAVEEN DHAMODARA PRABHU,NDA,15212,12.2723,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
 2016,Ernakulam,80,80,Kochi,K J LEENUS,UNKNOWN,7588,6.1216,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
 2016,Ernakulam,80,80,Kochi,A.S. MUHAMMED,UNKNOWN,2357,1.9015,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf
 2016,Ernakulam,80,80,Kochi,SULFIKAR ALI,UNKNOWN,2108,1.7006,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/080.pdf

@@ -1,0 +1,1006 @@
+body_type,body_type_name,local_body_code,local_body_name,assembly_constituency_no,assembly_constituency,mapped_wards_in_constituency,total_mapped_wards,dominant_share,split_constituencies,udf_wins,ldf_wins,nda_wins,oth_wins,ruling_front,ruling_front_count,second_front,second_front_count,third_front,third_front_count
+C,Corporation,C01001,Thiruvananthapuram,132,Kazhakkoottam,31,101,0.3069,6,19,29,50,2,NDA,50,LDF,29,UDF,19
+C,Corporation,C02002,Kollam,125,Eravipuram,24,56,0.4286,3,27,16,12,1,UDF,27,LDF,16,NDA,12
+C,Corporation,C07003,Kochi,80,Kochi,32,76,0.4211,5,46,20,6,4,UDF,46,LDF,20,NDA,6
+C,Corporation,C08004,Thrissur,67,Thrissur,40,56,0.7143,2,33,11,8,4,UDF,33,LDF,11,NDA,8
+C,Corporation,C11005,Kozhikode,27,Kozhikode North,36,75,0.4800,4,26,35,13,2,LDF,35,UDF,26,NDA,13
+C,Corporation,C13006,Kannur,11,Kannur,41,56,0.7321,2,36,15,4,1,UDF,36,LDF,15,NDA,4
+G,Grama Panchayat,G01001,Parassala Gramapanchayath,137,Parassala,23,23,1.0000,1,10,9,3,2,UDF,10,LDF,9,NDA,3
+G,Grama Panchayat,G01002,Karode Gramapanchayath,140,Neyyattinkara,20,20,1.0000,1,9,7,2,2,UDF,9,LDF,7,NDA,2
+G,Grama Panchayat,G01003,Kulathoor Grampanchayat,140,Neyyattinkara,21,21,1.0000,1,13,6,0,2,UDF,13,LDF,6,OTH,2
+G,Grama Panchayat,G01004,Chenkal Gramapanchayat,140,Neyyattinkara,22,22,1.0000,1,13,8,1,0,UDF,13,LDF,8,NDA,1
+G,Grama Panchayat,G01005,Thirupuram Gramapanchayath,140,Neyyattinkara,9,15,0.6000,2,11,4,0,0,UDF,11,LDF,4,,
+G,Grama Panchayat,G01006,Poovar Grampanchayat,139,Kovalam,15,15,1.0000,1,8,4,2,1,UDF,8,LDF,4,NDA,2
+G,Grama Panchayat,G01007,Vellarada Gramapanchayath,137,Parassala,23,23,1.0000,1,7,14,2,1,LDF,14,UDF,7,NDA,2
+G,Grama Panchayat,G01008,Kunnathukal Gramapanchayat,137,Parassala,23,23,1.0000,1,10,10,3,0,UDF,10,LDF,10,NDA,3
+G,Grama Panchayat,G01009,Kollayil Gramapanchayath,137,Parassala,18,18,1.0000,1,4,10,4,0,LDF,10,UDF,4,NDA,4
+G,Grama Panchayat,G01010,Perumkadavila Gramapanchayath,137,Parassala,17,17,1.0000,1,8,6,3,0,UDF,8,LDF,6,NDA,3
+G,Grama Panchayat,G01011,Aryancode Gramapanchayath,137,Parassala,17,17,1.0000,1,5,8,3,1,LDF,8,UDF,5,NDA,3
+G,Grama Panchayat,G01012,Ottasekaramangalam Gramapanchayath,137,Parassala,15,15,1.0000,1,5,7,3,0,LDF,7,UDF,5,NDA,3
+G,Grama Panchayat,G01013,Kallikkadu Gramapanchayath,137,Parassala,14,14,1.0000,1,5,8,1,0,LDF,8,UDF,5,NDA,1
+G,Grama Panchayat,G01014,Amboori Gramapanchayath,137,Parassala,14,14,1.0000,1,8,6,0,0,UDF,8,LDF,6,,
+G,Grama Panchayat,G01016,Kanjiramkulam Gramapanchayath,139,Kovalam,15,15,1.0000,1,11,4,0,0,UDF,11,LDF,4,,
+G,Grama Panchayat,G01017,Karumkulam Gramapanchayath,139,Kovalam,18,18,1.0000,1,11,6,0,2,UDF,11,LDF,6,OTH,2
+G,Grama Panchayat,G01018,Kottukal Gramapanchayat,139,Kovalam,21,21,1.0000,1,11,9,1,0,UDF,11,LDF,9,NDA,1
+G,Grama Panchayat,G01019,Venganoor Gramapanchayat,139,Kovalam,20,22,0.9091,2,7,8,6,1,LDF,8,UDF,7,NDA,6
+G,Grama Panchayat,G01020,Maranalloor Gramapanchayat,138,Kattakkada,22,22,1.0000,1,2,8,11,1,NDA,11,LDF,8,UDF,2
+G,Grama Panchayat,G01021,Balaramapuram Gramapanchayath,139,Kovalam,14,22,0.6364,3,8,9,4,1,LDF,9,UDF,8,NDA,4
+G,Grama Panchayat,G01022,Pallichal Gramapanchayat,138,Kattakkada,21,24,0.8750,2,6,12,6,0,LDF,12,UDF,6,NDA,6
+G,Grama Panchayat,G01023,Malayinkeezhu Grampanchayat,138,Kattakkada,22,22,1.0000,1,8,6,7,1,UDF,8,NDA,7,LDF,6
+G,Grama Panchayat,G01024,Vilappil Gramapanchayat,138,Kattakkada,22,22,1.0000,1,4,7,11,0,NDA,11,LDF,7,UDF,4
+G,Grama Panchayat,G01025,Vilavoorkkal Gramapanchayat,138,Kattakkada,20,20,1.0000,1,6,6,6,2,UDF,6,LDF,6,NDA,6
+G,Grama Panchayat,G01026,Kalliyoor Gramapanchayath,139,Kovalam,20,24,0.8333,2,5,8,10,1,NDA,10,LDF,8,UDF,5
+G,Grama Panchayat,G01027,Andoorkonam Grampanchayat,130,Nedumangad,20,20,1.0000,1,8,7,4,1,UDF,8,LDF,7,NDA,4
+G,Grama Panchayat,G01028,Kadinamkulam Gramapanchayath,129,Chirayinkeezhu,24,24,1.0000,1,13,7,1,3,UDF,13,LDF,7,OTH,3
+G,Grama Panchayat,G01029,Mangalapuram Gramapanchayath,129,Chirayinkeezhu,22,22,1.0000,1,6,7,7,2,LDF,7,NDA,7,UDF,6
+G,Grama Panchayat,G01030,Pothencode Gramapanchayath,130,Nedumangad,19,19,1.0000,1,3,9,6,1,LDF,9,NDA,6,UDF,3
+G,Grama Panchayat,G01031,Azhoor Grampanchayat,129,Chirayinkeezhu,18,18,1.0000,1,5,4,9,0,NDA,9,UDF,5,LDF,4
+G,Grama Panchayat,G01032,Kattakada Gramapanchayath,138,Kattakkada,24,24,1.0000,1,4,16,4,0,LDF,16,UDF,4,NDA,4
+G,Grama Panchayat,G01033,Vellanad Gramapanchayat,136,Aruvikkara,20,20,1.0000,1,4,9,5,2,LDF,9,NDA,5,UDF,4
+G,Grama Panchayat,G01034,Poovachal Gramapanchayath,136,Aruvikkara,24,24,1.0000,1,9,8,6,1,UDF,9,LDF,8,NDA,6
+G,Grama Panchayat,G01035,Aryanad Gramapanchayath,136,Aruvikkara,18,18,1.0000,1,11,7,0,0,UDF,11,LDF,7,,
+G,Grama Panchayat,G01036,Vithura Gramapanchayath,136,Aruvikkara,15,18,0.8333,2,6,9,3,0,LDF,9,UDF,6,NDA,3
+G,Grama Panchayat,G01037,Kuttichal Grampanchayat,136,Aruvikkara,14,15,0.9333,2,8,5,1,1,UDF,8,LDF,5,NDA,1
+G,Grama Panchayat,G01038,Uzhamalakkal Gramapanchayath,136,Aruvikkara,16,16,1.0000,1,3,9,4,0,LDF,9,NDA,4,UDF,3
+G,Grama Panchayat,G01039,Tholicode Gramapanchayath,136,Aruvikkara,18,18,1.0000,1,11,6,1,0,UDF,11,LDF,6,NDA,1
+G,Grama Panchayat,G01040,Karakulam Gramapanchayath,130,Nedumangad,24,24,1.0000,1,8,15,0,1,LDF,15,UDF,8,OTH,1
+G,Grama Panchayat,G01041,Aruvikkara Gramapanchayath,136,Aruvikkara,21,21,1.0000,1,6,11,3,1,LDF,11,UDF,6,NDA,3
+G,Grama Panchayat,G01042,Vembayam Gramapanchayat,130,Nedumangad,23,23,1.0000,1,8,8,5,2,UDF,8,LDF,8,NDA,5
+G,Grama Panchayat,G01043,Anad Gramapanchayath,131,Vamanapuram,19,20,0.9500,2,6,11,2,1,LDF,11,UDF,6,NDA,2
+G,Grama Panchayat,G01044,Panavoor Gramapanchayat,131,Vamanapuram,16,16,1.0000,1,4,9,2,1,LDF,9,UDF,4,NDA,2
+G,Grama Panchayat,G01045,Vamanapuram Gramapanchayath,131,Vamanapuram,16,16,1.0000,1,8,6,1,1,UDF,8,LDF,6,NDA,1
+G,Grama Panchayat,G01046,Manickal Gramapanchayath,130,Nedumangad,23,23,1.0000,1,10,11,2,0,LDF,11,UDF,10,NDA,2
+G,Grama Panchayat,G01047,Nellanad Gramapanchayath,131,Vamanapuram,18,18,1.0000,1,8,10,0,0,LDF,10,UDF,8,,
+G,Grama Panchayat,G01048,Pullampara Gramapanchayath,131,Vamanapuram,16,16,1.0000,1,7,7,1,1,UDF,7,LDF,7,NDA,1
+G,Grama Panchayat,G01049,Nanniyode Gramapanchayath,131,Vamanapuram,18,18,1.0000,1,7,9,2,0,LDF,9,UDF,7,NDA,2
+G,Grama Panchayat,G01050,Peringamala Gramapanchayath,131,Vamanapuram,19,19,1.0000,1,12,7,0,0,UDF,12,LDF,7,,
+G,Grama Panchayat,G01051,Kallara Grampanchayat,95,Vaikom,14,14,1.0000,1,11,3,4,0,UDF,11,NDA,4,LDF,3
+G,Grama Panchayat,G01052,Pangode Gramapanchayath,131,Vamanapuram,19,19,1.0000,1,6,7,2,4,LDF,7,UDF,6,OTH,4
+G,Grama Panchayat,G01053,Pulimath Gramapanchayath,128,Attingal,20,20,1.0000,1,7,12,1,0,LDF,12,UDF,7,NDA,1
+G,Grama Panchayat,G01054,Karavaram Gramapanchayath,128,Attingal,20,20,1.0000,1,2,13,1,4,LDF,13,OTH,4,UDF,2
+G,Grama Panchayat,G01055,Nagaroor Grampanchayat,128,Attingal,18,18,1.0000,1,3,13,1,1,LDF,13,UDF,3,NDA,1
+G,Grama Panchayat,G01056,Pazhayakunnummel Gramapanchayath,128,Attingal,17,17,1.0000,1,7,10,0,0,LDF,10,UDF,7,,
+G,Grama Panchayat,G01057,Kilimanoor Grama Panchayath,128,Attingal,16,16,1.0000,1,5,9,2,0,LDF,9,UDF,5,NDA,2
+G,Grama Panchayat,G01058,Navaikulam Gramapanchayath,127,Varkala,24,24,1.0000,1,12,6,6,0,UDF,12,LDF,6,NDA,6
+G,Grama Panchayat,G01059,Madavoor Grampanchayat,127,Varkala,16,16,1.0000,1,7,3,6,0,UDF,7,NDA,6,LDF,3
+G,Grama Panchayat,G01060,Pallikkal Grampanchayat,127,Varkala,14,14,1.0000,1,5,6,1,2,LDF,6,UDF,5,OTH,2
+G,Grama Panchayat,G01061,Anjuthengu Grampanchayat,129,Chirayinkeezhu,14,14,1.0000,1,7,7,0,0,UDF,7,LDF,7,,
+G,Grama Panchayat,G01062,Vakkom Gramapanchayath,128,Attingal,14,14,1.0000,1,5,8,1,0,LDF,8,UDF,5,NDA,1
+G,Grama Panchayat,G01063,Chirayinkeezhu Gramapanchayath,129,Chirayinkeezhu,19,19,1.0000,1,5,12,2,0,LDF,12,UDF,5,NDA,2
+G,Grama Panchayat,G01064,Kizhuvilam Gramapanchayat,129,Chirayinkeezhu,20,21,0.9524,2,11,6,2,2,UDF,11,LDF,6,NDA,2
+G,Grama Panchayat,G01065,Mudakkal Gramapanchayath,129,Chirayinkeezhu,20,22,0.9091,2,4,5,12,1,NDA,12,LDF,5,UDF,4
+G,Grama Panchayat,G01066,Kadakkavoor Gramapanchayath,128,Attingal,11,17,0.6471,2,4,9,4,0,LDF,9,UDF,4,NDA,4
+G,Grama Panchayat,G01067,Vettoor Gramapanchayath,127,Varkala,13,15,0.8667,2,10,4,1,0,UDF,10,LDF,4,NDA,1
+G,Grama Panchayat,G01068,Cherunniyoor Grampanchayat,128,Attingal,15,15,1.0000,1,2,9,4,0,LDF,9,NDA,4,UDF,2
+G,Grama Panchayat,G01069,Edava Gramapanchayath,127,Varkala,17,17,1.0000,1,6,10,1,1,LDF,10,UDF,6,NDA,1
+G,Grama Panchayat,G01070,Elakamon Gramapanchayath,127,Varkala,18,18,1.0000,1,6,10,1,1,LDF,10,UDF,6,NDA,1
+G,Grama Panchayat,G01071,Chemmaruthy Gramapanchayath,127,Varkala,20,20,1.0000,1,9,9,1,1,UDF,9,LDF,9,NDA,1
+G,Grama Panchayat,G01072,Manampoor Gramapanchayat,128,Attingal,17,17,1.0000,1,5,6,5,1,LDF,6,UDF,5,NDA,5
+G,Grama Panchayat,G02001,Oachira Gramapanchayath,116,Karunagapally,19,19,1.0000,1,11,3,4,1,UDF,11,NDA,4,LDF,3
+G,Grama Panchayat,G02002,Kulasekharapuram Grama Panchayat,116,Karunagapally,24,24,1.0000,1,10,7,4,3,UDF,10,LDF,7,NDA,4
+G,Grama Panchayat,G02003,Thazhava Grama Panchayat,116,Karunagapally,24,24,1.0000,1,9,10,5,0,LDF,10,UDF,9,NDA,5
+G,Grama Panchayat,G02004,Clappana Gramapanchayat,116,Karunagapally,16,16,1.0000,1,10,6,0,0,UDF,10,LDF,6,,
+G,Grama Panchayat,G02006,Thodiyoor Grama Panchayat,116,Karunagapally,24,24,1.0000,1,9,13,2,0,LDF,13,UDF,9,NDA,2
+G,Grama Panchayat,G02007,Sasthamcotta Gramapanchayath,118,Kunnathur,21,21,1.0000,1,9,11,0,1,LDF,11,UDF,9,OTH,1
+G,Grama Panchayat,G02008,West Kallada Gramapanchayat,118,Kunnathur,15,15,1.0000,1,5,7,2,1,LDF,7,UDF,5,NDA,2
+G,Grama Panchayat,G02009,Sooranad South Grama Panchayat,118,Kunnathur,17,17,1.0000,1,8,7,2,0,UDF,8,LDF,7,NDA,2
+G,Grama Panchayat,G02010,Poruvazhi Gramapanchayath,118,Kunnathur,19,19,1.0000,1,4,8,4,3,LDF,8,UDF,4,NDA,4
+G,Grama Panchayat,G02012,Sooranad North Grama Panchayat,118,Kunnathur,19,19,1.0000,1,8,7,2,2,UDF,8,LDF,7,NDA,2
+G,Grama Panchayat,G02013,Mynagappally Grama Panchayat,118,Kunnathur,24,24,1.0000,1,7,12,2,3,LDF,12,UDF,7,OTH,3
+G,Grama Panchayat,G02014,Ummannoor Gramapanchayath,119,Kottarakkara,20,21,0.9524,2,9,9,3,0,UDF,9,LDF,9,NDA,3
+G,Grama Panchayat,G02015,Vettikavala Gramapanchayath,120,Pathanapuram,22,22,1.0000,1,9,11,2,0,LDF,11,UDF,9,NDA,2
+G,Grama Panchayat,G02016,Melila Gramapanchayath,120,Pathanapuram,16,16,1.0000,1,11,5,0,0,UDF,11,LDF,5,,
+G,Grama Panchayat,G02017,Mylom Gramapanchayath,119,Kottarakkara,21,21,1.0000,1,4,11,5,1,LDF,11,NDA,5,UDF,4
+G,Grama Panchayat,G02018,Kulakkada Gramapanchayath,119,Kottarakkara,20,20,1.0000,1,8,9,1,2,LDF,9,UDF,8,OTH,2
+G,Grama Panchayat,G02019,Pavithreswaram Gramapanchayath,118,Kunnathur,16,20,0.8000,2,12,5,3,0,UDF,12,LDF,5,NDA,3
+G,Grama Panchayat,G02020,Vilakkudy Grama Panchayat,120,Pathanapuram,21,21,1.0000,1,9,11,0,1,LDF,11,UDF,9,OTH,1
+G,Grama Panchayat,G02021,Talavoor Gramapanchayat,120,Pathanapuram,21,21,1.0000,1,9,8,4,0,UDF,9,LDF,8,NDA,4
+G,Grama Panchayat,G02022,Piravanthur Gramapanchayat,120,Pathanapuram,20,20,1.0000,1,11,7,3,0,UDF,11,LDF,7,NDA,3
+G,Grama Panchayat,G02023,Pattazhi Vadakkekara Gramapanchayath,120,Pathanapuram,14,14,1.0000,1,5,4,4,1,UDF,5,LDF,4,NDA,4
+G,Grama Panchayat,G02024,Pattazhi Gramapanchayath,120,Pathanapuram,15,15,1.0000,1,7,5,3,0,UDF,7,LDF,5,NDA,3
+G,Grama Panchayat,G02025,Pathanapuram Gramapanchayath,120,Pathanapuram,20,20,1.0000,1,10,7,0,3,UDF,10,LDF,7,OTH,3
+G,Grama Panchayat,G02026,Kulathupuzha Gramapanchayath,121,Punalur,20,21,0.9524,2,12,7,0,2,UDF,12,LDF,7,OTH,2
+G,Grama Panchayat,G02027,Yeroor Gramapanchayath,121,Punalur,20,21,0.9524,2,4,16,1,0,LDF,16,UDF,4,NDA,1
+G,Grama Panchayat,G02028,Alayaman Gramapanchayath,122,Chadayamangalam,16,16,1.0000,1,9,3,3,1,UDF,9,LDF,3,NDA,3
+G,Grama Panchayat,G02029,Anchal Gramapanchayath,121,Punalur,21,21,1.0000,1,3,11,6,1,LDF,11,NDA,6,UDF,3
+G,Grama Panchayat,G02030,Edamulakkal Gramapanchayath,121,Punalur,23,23,1.0000,1,12,9,1,1,UDF,12,LDF,9,NDA,1
+G,Grama Panchayat,G02031,Karavaloor Gramapanchayath,121,Punalur,17,17,1.0000,1,7,9,0,1,LDF,9,UDF,7,OTH,1
+G,Grama Panchayat,G02032,Thenmala Gramapanchayath,121,Punalur,17,17,1.0000,1,4,12,0,1,LDF,12,UDF,4,OTH,1
+G,Grama Panchayat,G02033,Aryankavu Gramapanchayat,121,Punalur,14,14,1.0000,1,5,6,2,1,LDF,6,UDF,5,NDA,2
+G,Grama Panchayat,G02034,Veliyam Gramapanchayath,119,Kottarakkara,20,20,1.0000,1,3,16,1,0,LDF,16,UDF,3,NDA,1
+G,Grama Panchayat,G02035,Pooyappally Grama Panchayath,126,Chathannoor,17,17,1.0000,1,9,8,0,0,UDF,9,LDF,8,,
+G,Grama Panchayat,G02036,Kareepra Gramapanchayath,119,Kottarakkara,19,19,1.0000,1,3,10,4,2,LDF,10,NDA,4,UDF,3
+G,Grama Panchayat,G02037,Ezhukone Gramapanchayath,119,Kottarakkara,17,17,1.0000,1,10,6,0,1,UDF,10,LDF,6,OTH,1
+G,Grama Panchayat,G02038,Neduvathoor Grama Panchayat,119,Kottarakkara,19,19,1.0000,1,3,7,8,1,NDA,8,LDF,7,UDF,3
+G,Grama Panchayat,G02041,Thrikkaruva Gramapanchayath,124,Kollam,18,18,1.0000,1,9,7,2,0,UDF,9,LDF,7,NDA,2
+G,Grama Panchayat,G02042,Panayam Gramapanchayath,124,Kollam,17,18,0.9444,2,2,10,4,2,LDF,10,NDA,4,UDF,2
+G,Grama Panchayat,G02043,Perinad Gramapanchayath,123,Kundara,21,21,1.0000,1,4,10,7,0,LDF,10,NDA,7,UDF,4
+G,Grama Panchayat,G02044,Kundara Gramapanchayath,123,Kundara,14,14,1.0000,1,8,3,1,2,UDF,8,LDF,3,OTH,2
+G,Grama Panchayat,G02045,Perayam Gramapanchayath,123,Kundara,16,16,1.0000,1,5,10,0,1,LDF,10,UDF,5,OTH,1
+G,Grama Panchayat,G02047,Munroethuruth Grama Panchayat,118,Kunnathur,14,14,1.0000,1,5,9,0,0,LDF,9,UDF,5,,
+G,Grama Panchayat,G02048,Thekkumbhagam Gramapanchayath,117,Chavara,14,14,1.0000,1,5,6,3,0,LDF,6,UDF,5,NDA,3
+G,Grama Panchayat,G02049,Chavara Gramapanchayath,117,Chavara,24,24,1.0000,1,12,9,1,2,UDF,12,LDF,9,OTH,2
+G,Grama Panchayat,G02050,Thevalakkara Gramapanchayat,117,Chavara,24,24,1.0000,1,14,9,0,1,UDF,14,LDF,9,OTH,1
+G,Grama Panchayat,G02051,Panmana Gramapanchayath,117,Chavara,23,24,0.9583,2,22,2,0,0,UDF,22,LDF,2,,
+G,Grama Panchayat,G02052,Neendakara Gramapanchayat,117,Chavara,13,13,1.0000,1,7,5,2,0,UDF,7,LDF,5,NDA,2
+G,Grama Panchayat,G02053,Mayyanad Grama Panchayat,125,Eravipuram,24,24,1.0000,1,15,9,0,0,UDF,15,LDF,9,,
+G,Grama Panchayat,G02054,Elampalloor Grama Panchayat,123,Kundara,23,23,1.0000,1,9,6,7,1,UDF,9,NDA,7,LDF,6
+G,Grama Panchayat,G02055,Thrikkovilvattom Gramapanchayat,123,Kundara,24,24,1.0000,1,10,8,4,2,UDF,10,LDF,8,NDA,4
+G,Grama Panchayat,G02056,Kottamkara Grama Panchayat,123,Kundara,23,23,1.0000,1,8,9,5,1,LDF,9,UDF,8,NDA,5
+G,Grama Panchayat,G02057,Nedumbana Gramapanchayath,123,Kundara,24,24,1.0000,1,12,11,1,0,UDF,12,LDF,11,NDA,1
+G,Grama Panchayat,G02058,Chithara Gramapanchayath,122,Chadayamangalam,24,24,1.0000,1,13,10,0,1,UDF,13,LDF,10,OTH,1
+G,Grama Panchayat,G02059,Kadakkal Gramapanchayath,122,Chadayamangalam,20,20,1.0000,1,2,16,1,1,LDF,16,UDF,2,NDA,1
+G,Grama Panchayat,G02060,Chadayamangalam Gramapanchayath,122,Chadayamangalam,16,16,1.0000,1,2,13,1,0,LDF,13,UDF,2,NDA,1
+G,Grama Panchayat,G02061,Ittiva Gramapanchayath,122,Chadayamangalam,22,22,1.0000,1,6,11,3,2,LDF,11,UDF,6,NDA,3
+G,Grama Panchayat,G02062,Velinalloor Grama Panchayat,122,Chadayamangalam,19,19,1.0000,1,6,10,2,1,LDF,10,UDF,6,NDA,2
+G,Grama Panchayat,G02063,Elamadu Grama Panchayat,122,Chadayamangalam,18,18,1.0000,1,9,8,1,0,UDF,9,LDF,8,NDA,1
+G,Grama Panchayat,G02064,Nilamel Gramapanchayat,122,Chadayamangalam,14,14,1.0000,1,13,1,0,0,UDF,13,LDF,1,,
+G,Grama Panchayat,G02065,Kummil Gramapanchayath,122,Chadayamangalam,16,16,1.0000,1,9,7,0,0,UDF,9,LDF,7,,
+G,Grama Panchayat,G02066,Poothakkulam Gramapanchayath,126,Chathannoor,19,19,1.0000,1,4,9,6,0,LDF,9,NDA,6,UDF,4
+G,Grama Panchayat,G02067,Kalluvaathukkal Grama Panchayath,126,Chathannoor,24,24,1.0000,1,8,9,7,0,LDF,9,UDF,8,NDA,7
+G,Grama Panchayat,G02069,Adichanalloor Gramapanchayat,126,Chathannoor,17,21,0.8095,2,6,8,7,0,LDF,8,NDA,7,UDF,6
+G,Grama Panchayat,G02070,Chirakkara Gramapanchayath,126,Chathannoor,17,17,1.0000,1,5,5,6,1,NDA,6,UDF,5,LDF,5
+G,Grama Panchayat,G03001,Anikkadu Gramapanchayath,111,Thiruvalla,14,14,1.0000,1,9,2,2,1,UDF,9,LDF,2,NDA,2
+G,Grama Panchayat,G03002,Kaviyoor Gramapanchayath,111,Thiruvalla,14,14,1.0000,1,4,5,5,0,LDF,5,NDA,5,UDF,4
+G,Grama Panchayat,G03003,Kottanad Gramapanchayath,112,Ranni,14,14,1.0000,1,7,2,2,3,UDF,7,OTH,3,LDF,2
+G,Grama Panchayat,G03004,Kallooppara Gramapanchayath,111,Thiruvalla,14,14,1.0000,1,9,2,2,1,UDF,9,LDF,2,NDA,2
+G,Grama Panchayat,G03005,Kottangal Gramapanchayath,112,Ranni,13,14,0.9286,2,5,1,4,4,UDF,5,NDA,4,OTH,4
+G,Grama Panchayat,G03006,Kunnanthanam Gramapanchayath,111,Thiruvalla,16,16,1.0000,1,5,9,1,1,LDF,9,UDF,5,NDA,1
+G,Grama Panchayat,G03007,Mallappally Gramapanchayath,111,Thiruvalla,15,15,1.0000,1,8,2,3,2,UDF,8,NDA,3,LDF,2
+G,Grama Panchayat,G03008,Kadapra Gramapanchayath,111,Thiruvalla,16,16,1.0000,1,10,5,0,1,UDF,10,LDF,5,OTH,1
+G,Grama Panchayat,G03009,Kuttoor Gramapanchayath,111,Thiruvalla,11,15,0.7333,2,5,2,6,2,NDA,6,UDF,5,LDF,2
+G,Grama Panchayat,G03010,Niranam Gramapanchayath,111,Thiruvalla,14,14,1.0000,1,6,6,0,2,UDF,6,LDF,6,OTH,2
+G,Grama Panchayat,G03011,Nedumpram Gramapanchayath,111,Thiruvalla,14,14,1.0000,1,1,6,6,1,LDF,6,NDA,6,UDF,1
+G,Grama Panchayat,G03012,Peringara Gramapanchayath,111,Thiruvalla,16,16,1.0000,1,8,3,4,1,UDF,8,NDA,4,LDF,3
+G,Grama Panchayat,G03013,Ayiroor Gramapanchayath,112,Ranni,16,16,1.0000,1,5,2,6,3,NDA,6,UDF,5,OTH,3
+G,Grama Panchayat,G03014,Eraviperoor Gramapanchayath,113,Aranmula,18,18,1.0000,1,8,6,3,1,UDF,8,LDF,6,NDA,3
+G,Grama Panchayat,G03015,Koipram Gramapanchayath,113,Aranmula,18,18,1.0000,1,7,5,5,1,UDF,7,LDF,5,NDA,5
+G,Grama Panchayat,G03016,Thottappuzhassery Gramapanchayath,113,Aranmula,14,14,1.0000,1,8,1,2,3,UDF,8,OTH,3,NDA,2
+G,Grama Panchayat,G03017,Ezhumattoor Gramapanchayath,112,Ranni,15,15,1.0000,1,7,1,2,5,UDF,7,OTH,5,NDA,2
+G,Grama Panchayat,G03018,Puramattam Gramapanchayath,111,Thiruvalla,13,14,0.9286,2,7,5,0,2,UDF,7,LDF,5,OTH,2
+G,Grama Panchayat,G03019,Omalloor Gramapanchayath,113,Aranmula,15,15,1.0000,1,6,2,7,0,NDA,7,UDF,6,LDF,2
+G,Grama Panchayat,G03020,Chenneerkara Gramapanchayath,113,Aranmula,15,15,1.0000,1,10,4,1,0,UDF,10,LDF,4,NDA,1
+G,Grama Panchayat,G03021,Elanthoor Gramapanchayath,113,Aranmula,14,14,1.0000,1,9,1,4,0,UDF,9,NDA,4,LDF,1
+G,Grama Panchayat,G03022,Cherukole Gramapanchayath,112,Ranni,14,14,1.0000,1,2,6,5,1,LDF,6,NDA,5,UDF,2
+G,Grama Panchayat,G03023,Kozhanchery Gramapanchayath,113,Aranmula,14,14,1.0000,1,6,3,2,3,UDF,6,LDF,3,OTH,3
+G,Grama Panchayat,G03024,Mallappuzhassery Gramapanchayath,113,Aranmula,14,14,1.0000,1,8,1,3,2,UDF,8,NDA,3,OTH,2
+G,Grama Panchayat,G03025,Naranganam Gramapanchayath,113,Aranmula,14,14,1.0000,1,6,2,6,0,UDF,6,NDA,6,LDF,2
+G,Grama Panchayat,G03026,Ranni Pazhavangadi Gramapanchayath,112,Ranni,17,17,1.0000,1,10,3,1,3,UDF,10,LDF,3,OTH,3
+G,Grama Panchayat,G03027,Ranni Gramapanchayath,112,Ranni,14,14,1.0000,1,3,9,1,1,LDF,9,UDF,3,NDA,1
+G,Grama Panchayat,G03028,Ranni Angadi Gramapanchayath,112,Ranni,14,14,1.0000,1,9,2,0,3,UDF,9,OTH,3,LDF,2
+G,Grama Panchayat,G03029,Ranni Perunadu Grama Panchayat,112,Ranni,16,16,1.0000,1,3,10,3,0,LDF,10,UDF,3,NDA,3
+G,Grama Panchayat,G03030,Vadasserikkara Gramapanchayath,112,Ranni,16,16,1.0000,1,12,2,2,0,UDF,12,LDF,2,NDA,2
+G,Grama Panchayat,G03031,Chittar Gramapanchayath,114,Konni,14,14,1.0000,1,6,7,0,1,LDF,7,UDF,6,OTH,1
+G,Grama Panchayat,G03032,Seethathodu Gramapanchayath,114,Konni,14,14,1.0000,1,3,10,0,1,LDF,10,UDF,3,OTH,1
+G,Grama Panchayat,G03033,Naranammuzhi Gramapanchayath,112,Ranni,14,14,1.0000,1,10,3,1,0,UDF,10,LDF,3,NDA,1
+G,Grama Panchayat,G03034,Vechoochira Gramapanchayath,112,Ranni,16,16,1.0000,1,12,3,1,0,UDF,12,LDF,3,NDA,1
+G,Grama Panchayat,G03035,Konni Gramapanchayath,114,Konni,20,20,1.0000,1,11,6,2,1,UDF,11,LDF,6,NDA,2
+G,Grama Panchayat,G03036,Aruvappulam Gramapanchayath,114,Konni,15,15,1.0000,1,8,4,2,1,UDF,8,LDF,4,NDA,2
+G,Grama Panchayat,G03037,Pramadam Gramapanchayath,114,Konni,20,20,1.0000,1,10,5,3,2,UDF,10,LDF,5,NDA,3
+G,Grama Panchayat,G03038,Mylapra Gramapanchayath,114,Konni,10,14,0.7143,2,8,2,3,1,UDF,8,NDA,3,LDF,2
+G,Grama Panchayat,G03039,Vallikkodu Gramapanchayath,114,Konni,16,16,1.0000,1,9,5,2,0,UDF,9,LDF,5,NDA,2
+G,Grama Panchayat,G03040,Thannithodu Gramapanchayath,114,Konni,14,14,1.0000,1,11,2,0,1,UDF,11,LDF,2,OTH,1
+G,Grama Panchayat,G03041,Malayalapuzha Gramapanchayath,114,Konni,14,14,1.0000,1,3,8,2,1,LDF,8,UDF,3,NDA,2
+G,Grama Panchayat,G03042,Panthalam Thekkekkara Grampanchayat,115,Adoor,15,15,1.0000,1,2,4,9,0,NDA,9,LDF,4,UDF,2
+G,Grama Panchayat,G03044,Thumpamon Grampanchayat,115,Adoor,14,14,1.0000,1,12,0,1,1,UDF,12,NDA,1,OTH,1
+G,Grama Panchayat,G03045,Kulanada Gramapanchayath,113,Aranmula,17,17,1.0000,1,1,8,4,4,LDF,8,NDA,4,OTH,4
+G,Grama Panchayat,G03046,Aranmula Gramapanchayath,113,Aranmula,19,19,1.0000,1,8,6,5,0,UDF,8,LDF,6,NDA,5
+G,Grama Panchayat,G03047,Mezhuvely Gramapanchayath,113,Aranmula,14,14,1.0000,1,9,5,0,0,UDF,9,LDF,5,,
+G,Grama Panchayat,G03048,Enadimangalam Gramapanchayath,114,Konni,15,16,0.9375,2,7,6,3,0,UDF,7,LDF,6,NDA,3
+G,Grama Panchayat,G03049,Earathu Gramapanchayath,115,Adoor,17,17,1.0000,1,8,5,3,1,UDF,8,LDF,5,NDA,3
+G,Grama Panchayat,G03050,Ezhamkulam Gramapanchayath,115,Adoor,21,21,1.0000,1,13,6,2,0,UDF,13,LDF,6,NDA,2
+G,Grama Panchayat,G03051,Kadambanad Gramapanchayath,115,Adoor,17,17,1.0000,1,7,10,0,1,LDF,10,UDF,7,OTH,1
+G,Grama Panchayat,G03052,Kalanjoor Gramapanchayath,114,Konni,20,20,1.0000,1,7,9,4,0,LDF,9,UDF,7,NDA,4
+G,Grama Panchayat,G03053,Kodumon Gramapanchayath,115,Adoor,10,19,0.5263,2,9,8,1,1,UDF,9,LDF,8,NDA,1
+G,Grama Panchayat,G03054,Pallikkal Grampanchayat,115,Adoor,24,24,1.0000,1,6,12,6,0,LDF,12,UDF,6,NDA,6
+G,Grama Panchayat,G04001,Arukutty Grama Panchayath,102,Aroor,15,15,1.0000,1,6,7,1,1,LDF,7,UDF,6,NDA,1
+G,Grama Panchayat,G04002,Chennam Pallipuram grama panchayat,102,Aroor,19,19,1.0000,1,7,5,7,0,UDF,7,NDA,7,LDF,5
+G,Grama Panchayat,G04003,Panavalli grama panchayat,102,Aroor,20,20,1.0000,1,3,12,4,1,LDF,12,NDA,4,UDF,3
+G,Grama Panchayat,G04004,Perumbalam Grama Panchayat,102,Aroor,14,14,1.0000,1,1,11,2,0,LDF,11,NDA,2,UDF,1
+G,Grama Panchayat,G04005,Thaikkattussery Grama Panchayath,102,Aroor,16,16,1.0000,1,6,7,3,0,LDF,7,UDF,6,NDA,3
+G,Grama Panchayat,G04006,Aroor Grama Panchayath,102,Aroor,24,24,1.0000,1,16,6,1,1,UDF,16,LDF,6,NDA,1
+G,Grama Panchayat,G04007,Ezhupunna gram panchayat,102,Aroor,16,16,1.0000,1,9,5,1,1,UDF,9,LDF,5,NDA,1
+G,Grama Panchayat,G04008,Kuthiyathodu grama panchayat,102,Aroor,17,17,1.0000,1,6,7,4,0,LDF,7,UDF,6,NDA,4
+G,Grama Panchayat,G04009,Kodamthuruthu gram panchayat,102,Aroor,18,18,1.0000,1,1,10,6,1,LDF,10,NDA,6,UDF,1
+G,Grama Panchayat,G04010,Thuravoor Gramapanchayat,75,Angamaly,16,16,1.0000,1,6,10,3,0,LDF,10,UDF,6,NDA,3
+G,Grama Panchayat,G04011,Pattanakkad Grama Panchayat,103,Cherthala,21,21,1.0000,1,13,8,0,0,UDF,13,LDF,8,,
+G,Grama Panchayat,G04012,Vayalar Grama Panchayath,103,Cherthala,17,17,1.0000,1,3,14,0,0,LDF,14,UDF,3,,
+G,Grama Panchayat,G04013,Kanjikuzhi grama panchayat,103,Cherthala,19,19,1.0000,1,2,17,0,0,LDF,17,UDF,2,,
+G,Grama Panchayat,G04014,Cherthala south Grama Panchayat,103,Cherthala,24,24,1.0000,1,13,10,1,0,UDF,13,LDF,10,NDA,1
+G,Grama Panchayat,G04015,Mararikulam North Grama Panchayat,104,Alappuzha,20,20,1.0000,1,9,10,1,0,LDF,10,UDF,9,NDA,1
+G,Grama Panchayat,G04016,Kadakarappally Grama Panchayat,103,Cherthala,14,14,1.0000,1,7,5,1,1,UDF,7,LDF,5,NDA,1
+G,Grama Panchayat,G04017,Thanneermukkam grama panchayat,103,Cherthala,24,24,1.0000,1,6,15,3,0,LDF,15,UDF,6,NDA,3
+G,Grama Panchayat,G04018,Aryad gram panchayat,104,Alappuzha,20,20,1.0000,1,3,16,0,1,LDF,16,UDF,3,OTH,1
+G,Grama Panchayat,G04019,Mannancherry Grama Panchayat,104,Alappuzha,24,24,1.0000,1,8,12,0,4,LDF,12,UDF,8,OTH,4
+G,Grama Panchayat,G04020,Mararikulam South Grama Panchayat,104,Alappuzha,24,24,1.0000,1,7,15,1,1,LDF,15,UDF,7,NDA,1
+G,Grama Panchayat,G04021,Muhamma gram panchayat,103,Cherthala,18,18,1.0000,1,5,12,0,1,LDF,12,UDF,5,OTH,1
+G,Grama Panchayat,G04022,Ambalapuzha South Grama Panchayat,105,Ambalappuzha,17,17,1.0000,1,5,7,4,1,LDF,7,UDF,5,NDA,4
+G,Grama Panchayat,G04023,Ambalapuzha North Grama Panchayat,105,Ambalappuzha,20,20,1.0000,1,3,9,1,7,LDF,9,OTH,7,UDF,3
+G,Grama Panchayat,G04024,Punnapra South grama panchayat,105,Ambalappuzha,19,19,1.0000,1,11,4,4,0,UDF,11,LDF,4,NDA,4
+G,Grama Panchayat,G04025,Punnapra North grama panchayat,105,Ambalappuzha,19,19,1.0000,1,3,10,6,0,LDF,10,NDA,6,UDF,3
+G,Grama Panchayat,G04026,Purakkad Grama Panchayat,105,Ambalappuzha,19,19,1.0000,1,9,6,3,1,UDF,9,LDF,6,NDA,3
+G,Grama Panchayat,G04027,Edathwa grama panchayat,106,Kuttanad,15,15,1.0000,1,10,1,1,3,UDF,10,OTH,3,LDF,1
+G,Grama Panchayat,G04028,Kainakari gram panchayat,106,Kuttanad,15,15,1.0000,1,7,6,0,2,UDF,7,LDF,6,OTH,2
+G,Grama Panchayat,G04029,Champakulam Grama Panchayath,106,Kuttanad,14,14,1.0000,1,9,3,1,1,UDF,9,LDF,3,NDA,1
+G,Grama Panchayat,G04030,Thakazhy Grama Panchayat,106,Kuttanad,12,15,0.8000,2,5,4,5,1,UDF,5,NDA,5,LDF,4
+G,Grama Panchayat,G04031,Thalavady Grama Panchayat,106,Kuttanad,15,15,1.0000,1,7,6,3,0,UDF,7,LDF,6,NDA,3
+G,Grama Panchayat,G04032,Nedumudi village panchayat,106,Kuttanad,15,15,1.0000,1,6,9,0,0,LDF,9,UDF,6,,
+G,Grama Panchayat,G04033,Kavalam gram panchayat,106,Kuttanad,14,14,1.0000,1,2,9,1,2,LDF,9,UDF,2,OTH,2
+G,Grama Panchayat,G04034,Pulinkunnu grama panchayat,106,Kuttanad,16,16,1.0000,1,6,5,3,2,UDF,6,LDF,5,NDA,3
+G,Grama Panchayat,G04035,Neelamperoor gram panchayat,106,Kuttanad,14,14,1.0000,1,2,4,7,1,NDA,7,LDF,4,UDF,2
+G,Grama Panchayat,G04036,Muttar Grama Panchayat,106,Kuttanad,14,14,1.0000,1,9,4,1,0,UDF,9,LDF,4,NDA,1
+G,Grama Panchayat,G04037,Ramankari Grama Panchayat,106,Kuttanad,14,14,1.0000,1,6,4,3,1,UDF,6,LDF,4,NDA,3
+G,Grama Panchayat,G04038,Veliyanadu grama panchayat,106,Kuttanad,14,14,1.0000,1,5,8,1,0,LDF,8,UDF,5,NDA,1
+G,Grama Panchayat,G04040,Ala Grama Panchayat,110,Chengannur,14,14,1.0000,1,5,3,4,2,UDF,5,NDA,4,LDF,3
+G,Grama Panchayat,G04042,Budhanoor Grama Panchayat,110,Chengannur,15,15,1.0000,1,2,5,7,1,NDA,7,LDF,5,UDF,2
+G,Grama Panchayat,G04043,Pandanad grama panchayat,110,Chengannur,14,14,1.0000,1,6,2,3,3,UDF,6,NDA,3,OTH,3
+G,Grama Panchayat,G04044,Thiruvnavandoor Grama Panchayat,110,Chengannur,14,14,1.0000,1,4,2,5,3,NDA,5,UDF,4,OTH,3
+G,Grama Panchayat,G04045,Mulakkuzha grama panchayat,110,Chengannur,19,19,1.0000,1,5,8,6,0,LDF,8,NDA,6,UDF,5
+G,Grama Panchayat,G04046,Venmony gram panchayat,110,Chengannur,15,15,1.0000,1,2,8,4,1,LDF,8,NDA,4,UDF,2
+G,Grama Panchayat,G04047,Karthikapally gram panchayat,107,Haripad,14,14,1.0000,1,3,4,6,1,NDA,6,LDF,4,UDF,3
+G,Grama Panchayat,G04048,Trikkunnappuzha grama panchayath,107,Haripad,18,18,1.0000,1,8,7,1,2,UDF,8,LDF,7,OTH,2
+G,Grama Panchayat,G04049,Kumarapuram gram panchayat,107,Haripad,16,16,1.0000,1,5,8,3,0,LDF,8,UDF,5,NDA,3
+G,Grama Panchayat,G04050,Karuvatta Grama Panchayath,107,Haripad,16,16,1.0000,1,7,7,2,0,UDF,7,LDF,7,NDA,2
+G,Grama Panchayat,G04053,Cheruthana Grama Panchayath,107,Haripad,14,14,1.0000,1,4,7,3,0,LDF,7,UDF,4,NDA,3
+G,Grama Panchayat,G04054,Veeyapuram Grama Panchayath,106,Kuttanad,14,14,1.0000,1,6,4,3,1,UDF,6,LDF,4,NDA,3
+G,Grama Panchayat,G04055,Mavelikkara Thekkakkara Grama Panchayat,109,Mavelikara,20,20,1.0000,1,0,14,5,1,LDF,14,NDA,5,OTH,1
+G,Grama Panchayat,G04056,Chettikulangara Grama Panchayat,108,Kayamkulam,22,22,1.0000,1,2,11,8,1,LDF,11,NDA,8,UDF,2
+G,Grama Panchayat,G04057,Chennithala Thripperumthura gram panchayat,110,Chengannur,19,19,1.0000,1,5,6,7,1,NDA,7,LDF,6,UDF,5
+G,Grama Panchayat,G04058,Thazhakkara grama panchayat,109,Mavelikara,22,22,1.0000,1,5,11,4,2,LDF,11,UDF,5,NDA,4
+G,Grama Panchayat,G04059,Mannar grama panchayat,110,Chengannur,19,19,1.0000,1,5,8,5,1,LDF,8,UDF,5,NDA,5
+G,Grama Panchayat,G04060,Chunakkara grama panchayat,109,Mavelikara,17,17,1.0000,1,4,9,3,1,LDF,9,UDF,4,NDA,3
+G,Grama Panchayat,G04061,Nooranadu grama panchayat,109,Mavelikara,18,18,1.0000,1,5,11,1,1,LDF,11,UDF,5,NDA,1
+G,Grama Panchayat,G04062,Palamel gram panchayat,109,Mavelikara,21,21,1.0000,1,8,8,2,3,UDF,8,LDF,8,OTH,3
+G,Grama Panchayat,G04063,Bharanikkavu Gram Panchayat,108,Kayamkulam,22,22,1.0000,1,7,14,1,0,LDF,14,UDF,7,NDA,1
+G,Grama Panchayat,G04065,Vallikkunnam grama panchayat,109,Mavelikara,20,20,1.0000,1,7,7,5,1,UDF,7,LDF,7,NDA,5
+G,Grama Panchayat,G04066,Pathiyoor gram panchayat,108,Kayamkulam,21,21,1.0000,1,3,18,0,0,LDF,18,UDF,3,,
+G,Grama Panchayat,G04067,Kandalloor Grama Panchayat,108,Kayamkulam,15,15,1.0000,1,4,10,1,0,LDF,10,UDF,4,NDA,1
+G,Grama Panchayat,G04068,Cheppad Grama Panchayat,107,Haripad,16,16,1.0000,1,7,7,1,1,UDF,7,LDF,7,NDA,1
+G,Grama Panchayat,G04069,Muthukulam gram panchayat,107,Haripad,16,16,1.0000,1,10,5,1,0,UDF,10,LDF,5,NDA,1
+G,Grama Panchayat,G04070,Arattupuzha grama panchayath,107,Haripad,19,19,1.0000,1,10,6,2,1,UDF,10,LDF,6,NDA,2
+G,Grama Panchayat,G04071,Krishnapuram Gram panchayat,108,Kayamkulam,18,18,1.0000,1,8,5,5,0,UDF,8,LDF,5,NDA,5
+G,Grama Panchayat,G04072,Devikulangara Grama Panchayat,108,Kayamkulam,16,16,1.0000,1,6,7,3,0,LDF,7,UDF,6,NDA,3
+G,Grama Panchayat,G04073,Chingoli gram panchayat,107,Haripad,14,14,1.0000,1,5,6,2,1,LDF,6,UDF,5,NDA,2
+G,Grama Panchayat,G05001,Thalayazham Gramapanchayath,95,Vaikom,16,16,1.0000,1,5,10,0,1,LDF,10,UDF,5,OTH,1
+G,Grama Panchayat,G05002,Chempu Gramapanchayath,95,Vaikom,16,16,1.0000,1,9,7,0,0,UDF,9,LDF,7,,
+G,Grama Panchayat,G05003,Maravanthuruthu Grama Panchayat,95,Vaikom,16,16,1.0000,1,7,8,0,1,LDF,8,UDF,7,OTH,1
+G,Grama Panchayat,G05004,TV Puram Grama Panchayat,95,Vaikom,15,15,1.0000,1,4,11,0,0,LDF,11,UDF,4,,
+G,Grama Panchayat,G05005,Vechoor Grampanchayat,95,Vaikom,14,14,1.0000,1,4,9,0,1,LDF,9,UDF,4,OTH,1
+G,Grama Panchayat,G05006,Udayanapuram Gramapanchayath,95,Vaikom,18,18,1.0000,1,5,11,1,1,LDF,11,UDF,5,NDA,1
+G,Grama Panchayat,G05007,Kaduthuruthy Gramapanchayath,94,Kaduthuruthy,20,20,1.0000,1,9,7,1,3,UDF,9,LDF,7,OTH,3
+G,Grama Panchayat,G05008,Kallara Grampanchayat,131,Vamanapuram,18,18,1.0000,1,6,4,3,1,UDF,6,LDF,4,NDA,3
+G,Grama Panchayat,G05009,Mulakkulam Gramapanchayath,94,Kaduthuruthy,18,18,1.0000,1,10,6,1,1,UDF,10,LDF,6,NDA,1
+G,Grama Panchayat,G05010,Njeezhoor Gramapanchayat,94,Kaduthuruthy,15,15,1.0000,1,11,2,0,2,UDF,11,LDF,2,OTH,2
+G,Grama Panchayat,G05011,Thalayolaparambu Gramapanchayath,95,Vaikom,17,17,1.0000,1,12,2,0,3,UDF,12,OTH,3,LDF,2
+G,Grama Panchayat,G05012,Velloor Grama Panchayat,95,Vaikom,17,17,1.0000,1,6,8,1,2,LDF,8,UDF,6,OTH,2
+G,Grama Panchayat,G05013,Neendoor Gramapanchayat,96,Ettumanoor,15,15,1.0000,1,8,5,1,1,UDF,8,LDF,5,NDA,1
+G,Grama Panchayat,G05014,Kumarakom Gramapanchayath,96,Ettumanoor,16,16,1.0000,1,4,8,3,1,LDF,8,UDF,4,NDA,3
+G,Grama Panchayat,G05015,Thiruvarppu Gramapanchayat,96,Ettumanoor,18,19,0.9474,2,5,13,0,1,LDF,13,UDF,5,OTH,1
+G,Grama Panchayat,G05016,Arpookkara Gramapanchayath,96,Ettumanoor,17,17,1.0000,1,13,1,2,1,UDF,13,NDA,2,LDF,1
+G,Grama Panchayat,G05017,Athirampuzha Gramapanchayath,96,Ettumanoor,24,24,1.0000,1,18,4,0,2,UDF,18,LDF,4,OTH,2
+G,Grama Panchayat,G05019,Aymanam Gramapanchayath,96,Ettumanoor,21,21,1.0000,1,5,7,9,0,NDA,9,LDF,7,UDF,5
+G,Grama Panchayat,G05020,Kadaplamattom Gramapanchayath,94,Kaduthuruthy,13,14,0.9286,2,3,9,0,2,LDF,9,UDF,3,OTH,2
+G,Grama Panchayat,G05021,Marangattupally Gramapanchayath,94,Kaduthuruthy,15,15,1.0000,1,5,4,3,3,UDF,5,LDF,4,NDA,3
+G,Grama Panchayat,G05022,Kanakkary Gramapanchayath,94,Kaduthuruthy,17,17,1.0000,1,10,4,3,0,UDF,10,LDF,4,NDA,3
+G,Grama Panchayat,G05023,Veliyannoor Grampanchayath,94,Kaduthuruthy,13,14,0.9286,2,6,6,0,2,UDF,6,LDF,6,OTH,2
+G,Grama Panchayat,G05024,Kuravilangadu Gramapanchayath,94,Kaduthuruthy,15,15,1.0000,1,5,8,0,2,LDF,8,UDF,5,OTH,2
+G,Grama Panchayat,G05025,Uzhavoor Gramapanchayath,94,Kaduthuruthy,14,14,1.0000,1,8,2,2,2,UDF,8,LDF,2,NDA,2
+G,Grama Panchayat,G05026,Ramapuram Gramapanchayath,93,Pala,19,19,1.0000,1,11,5,2,1,UDF,11,LDF,5,NDA,2
+G,Grama Panchayat,G05027,Manjoor Gramapanchayath,94,Kaduthuruthy,19,19,1.0000,1,16,1,0,2,UDF,16,OTH,2,LDF,1
+G,Grama Panchayat,G05028,Bharananganam Gramapanchayath,93,Pala,14,14,1.0000,1,6,3,2,3,UDF,6,LDF,3,OTH,3
+G,Grama Panchayat,G05029,Karoor Grampanchayath,93,Pala,17,17,1.0000,1,6,5,0,6,UDF,6,OTH,6,LDF,5
+G,Grama Panchayat,G05030,Kozhuvanal Gramapanchayath,93,Pala,14,14,1.0000,1,7,3,0,4,UDF,7,OTH,4,LDF,3
+G,Grama Panchayat,G05031,Kadanadu Gramapanchayath,93,Pala,15,15,1.0000,1,8,5,0,2,UDF,8,LDF,5,OTH,2
+G,Grama Panchayat,G05032,Meenachil gramapanchayath,93,Pala,14,14,1.0000,1,6,3,3,2,UDF,6,LDF,3,NDA,3
+G,Grama Panchayat,G05033,Mutholy Gramapanchayath,93,Pala,14,14,1.0000,1,1,9,2,2,LDF,9,NDA,2,OTH,2
+G,Grama Panchayat,G05034,Melukavu Gramapanchayath,93,Pala,14,14,1.0000,1,7,4,1,2,UDF,7,LDF,4,OTH,2
+G,Grama Panchayat,G05035,Moonnilavu Gramapanchayath,93,Pala,14,14,1.0000,1,6,3,0,5,UDF,6,OTH,5,LDF,3
+G,Grama Panchayat,G05036,Poonjar Grampanchayath,101,Poonjar,14,14,1.0000,1,5,3,4,2,UDF,5,NDA,4,LDF,3
+G,Grama Panchayat,G05037,Poonjar Thekkekara Grama Panchayat,101,Poonjar,15,15,1.0000,1,2,5,7,1,NDA,7,LDF,5,UDF,2
+G,Grama Panchayat,G05039,Teekoy Gramapanchayath,101,Poonjar,12,14,0.8571,2,5,5,1,3,UDF,5,LDF,5,OTH,3
+G,Grama Panchayat,G05040,Thalanadu Gramapanchayath,93,Pala,14,14,1.0000,1,2,6,1,5,LDF,6,OTH,5,UDF,2
+G,Grama Panchayat,G05041,Thalappalam Gramapanchayath,93,Pala,9,14,0.6429,2,7,1,4,2,UDF,7,NDA,4,OTH,2
+G,Grama Panchayat,G05042,Thidanadu Gramapanchayath,101,Poonjar,16,16,1.0000,1,6,4,4,2,UDF,6,LDF,4,NDA,4
+G,Grama Panchayat,G05043,Akalakkunnam Gramapanchayath,98,Puthuppally,15,15,1.0000,1,8,5,0,2,UDF,8,LDF,5,OTH,2
+G,Grama Panchayat,G05044,Elikkulam Gramapanchayath,93,Pala,17,17,1.0000,1,8,4,2,3,UDF,8,LDF,4,OTH,3
+G,Grama Panchayat,G05045,Kooroppada Gramapanchayath,98,Puthuppally,19,19,1.0000,1,7,6,3,3,UDF,7,LDF,6,NDA,3
+G,Grama Panchayat,G05046,Pampady Gramapanchayath,98,Puthuppally,21,21,1.0000,1,16,4,0,1,UDF,16,LDF,4,OTH,1
+G,Grama Panchayat,G05048,Manarcadu Gramapanchayath,98,Puthuppally,19,19,1.0000,1,12,4,2,1,UDF,12,LDF,4,NDA,2
+G,Grama Panchayat,G05049,Kidangoor Gramapanchayath,94,Kaduthuruthy,16,16,1.0000,1,5,4,7,0,NDA,7,UDF,5,LDF,4
+G,Grama Panchayat,G05050,Meenadom Gramapanchayath,98,Puthuppally,14,14,1.0000,1,12,2,0,0,UDF,12,LDF,2,,
+G,Grama Panchayat,G05051,Madappally Gramapanchayath,99,Changanassery,22,22,1.0000,1,14,4,4,0,UDF,14,LDF,4,NDA,4
+G,Grama Panchayat,G05052,Paippadu Gramapanchayath,99,Changanassery,17,17,1.0000,1,4,6,1,6,LDF,6,OTH,6,UDF,4
+G,Grama Panchayat,G05053,Thrikkodithanam Gramapanchayath,99,Changanassery,22,22,1.0000,1,12,9,0,1,UDF,12,LDF,9,OTH,1
+G,Grama Panchayat,G05054,Vakathanam Gramapanchayath,98,Puthuppally,21,21,1.0000,1,14,6,0,1,UDF,14,LDF,6,OTH,1
+G,Grama Panchayat,G05055,Vazhapally gram panchayat,99,Changanassery,22,22,1.0000,1,12,5,0,5,UDF,12,LDF,5,OTH,5
+G,Grama Panchayat,G05056,Chirakkadavu Gramapanchayath,100,Kanjirappally,22,22,1.0000,1,3,10,8,1,LDF,10,NDA,8,UDF,3
+G,Grama Panchayat,G05057,Kangazha Gramapanchayath,100,Kanjirappally,16,16,1.0000,1,7,6,2,1,UDF,7,LDF,6,NDA,2
+G,Grama Panchayat,G05058,Nedumkunnam Grampanchayath,100,Kanjirappally,16,16,1.0000,1,8,6,0,2,UDF,8,LDF,6,OTH,2
+G,Grama Panchayat,G05060,Vazhoor Grampanchayat,100,Kanjirappally,18,18,1.0000,1,5,11,2,0,LDF,11,UDF,5,NDA,2
+G,Grama Panchayat,G05061,Karukachal Gramapanchayath,100,Kanjirappally,17,17,1.0000,1,8,8,1,0,UDF,8,LDF,8,NDA,1
+G,Grama Panchayat,G05062,Manimala Gramapanchayath,100,Kanjirappally,16,16,1.0000,1,11,4,0,1,UDF,11,LDF,4,OTH,1
+G,Grama Panchayat,G05063,Erumely Gramapanchayath,101,Poonjar,22,22,1.0000,1,12,6,2,4,UDF,12,LDF,6,OTH,4
+G,Grama Panchayat,G05064,Kanjirappally Grampanchayath,100,Kanjirappally,24,24,1.0000,1,12,7,1,4,UDF,12,LDF,7,OTH,4
+G,Grama Panchayat,G05065,Koottickal Gramapanchayath,101,Poonjar,14,14,1.0000,1,9,2,1,2,UDF,9,LDF,2,OTH,2
+G,Grama Panchayat,G05066,Mundakayam Gramapanchayath,101,Poonjar,23,23,1.0000,1,12,7,0,4,UDF,12,LDF,7,OTH,4
+G,Grama Panchayat,G05067,Koruthode Gramapanchayath,101,Poonjar,14,14,1.0000,1,4,7,2,1,LDF,7,UDF,4,NDA,2
+G,Grama Panchayat,G05068,Parathodu Gramapanchayath,101,Poonjar,15,21,0.7143,2,8,10,1,2,LDF,10,UDF,8,OTH,2
+G,Grama Panchayat,G05069,Kurichy Gramapanchayath,99,Changanassery,22,22,1.0000,1,7,15,0,0,LDF,15,UDF,7,,
+G,Grama Panchayat,G05070,Panachikadu Gramapanchayath,97,Kottayam,24,24,1.0000,1,9,10,3,2,LDF,10,UDF,9,NDA,3
+G,Grama Panchayat,G05071,Puthuppally Gramapanchayath,98,Puthuppally,19,19,1.0000,1,14,2,3,0,UDF,14,NDA,3,LDF,2
+G,Grama Panchayat,G05072,Vijayapuram Gramapanchayath,97,Kottayam,20,20,1.0000,1,13,3,2,2,UDF,13,LDF,3,NDA,2
+G,Grama Panchayat,G05073,Ayarkunnam Gramapanchayath,98,Puthuppally,21,21,1.0000,1,14,4,3,0,UDF,14,LDF,4,NDA,3
+G,Grama Panchayat,G051004,Vellavoor Gramapanchayat,100,Kanjirappally,14,14,1.0000,1,0,0,0,0,,,,,,
+G,Grama Panchayat,G06001,Adimali Gramapanchayath,88,Devikulam,24,24,1.0000,1,17,5,0,2,UDF,17,LDF,5,OTH,2
+G,Grama Panchayat,G06002,Konnathady Gramapanchayath,91,Idukki,19,19,1.0000,1,14,3,0,2,UDF,14,LDF,3,OTH,2
+G,Grama Panchayat,G06003,Baisonvalley Gramapanchayat,88,Devikulam,13,14,0.9286,2,5,7,1,1,LDF,7,UDF,5,NDA,1
+G,Grama Panchayat,G06004,Vellathooval Gramapanchayat,88,Devikulam,18,18,1.0000,1,10,4,0,4,UDF,10,LDF,4,OTH,4
+G,Grama Panchayat,G06005,Pallivasal Gramapanchayat,88,Devikulam,14,14,1.0000,1,6,6,0,2,UDF,6,LDF,6,OTH,2
+G,Grama Panchayat,G06006,Marayoor Gramapanchayat,88,Devikulam,14,14,1.0000,1,10,4,0,0,UDF,10,LDF,4,,
+G,Grama Panchayat,G06007,Munnar Grampanchayat,88,Devikulam,20,20,1.0000,1,14,6,0,0,UDF,14,LDF,6,,
+G,Grama Panchayat,G06008,Kanthalloor Gramapanchayath,88,Devikulam,14,14,1.0000,1,5,8,1,0,LDF,8,UDF,5,NDA,1
+G,Grama Panchayat,G06009,Vattavada Gramapanchayath,88,Devikulam,14,14,1.0000,1,1,9,4,0,LDF,9,NDA,4,UDF,1
+G,Grama Panchayat,G06010,Santhanpara Gramapanchayat,89,Udumbanchola,14,14,1.0000,1,3,11,0,0,LDF,11,UDF,3,,
+G,Grama Panchayat,G06011,Chinnakkanal Grampanchayat,88,Devikulam,14,14,1.0000,1,3,9,1,1,LDF,9,UDF,3,NDA,1
+G,Grama Panchayat,G06012,Mankulam Gramapanchayath,88,Devikulam,14,14,1.0000,1,10,3,0,1,UDF,10,LDF,3,OTH,1
+G,Grama Panchayat,G06013,Devikulam Gramapanchayath,88,Devikulam,17,17,1.0000,1,7,10,0,0,LDF,10,UDF,7,,
+G,Grama Panchayat,G06015,Pampadumpara Gramapanchayath,89,Udumbanchola,16,16,1.0000,1,13,3,0,0,UDF,13,LDF,3,,
+G,Grama Panchayat,G06016,Senapathy Gramapanchayath,89,Udumbanchola,14,14,1.0000,1,3,11,0,0,LDF,11,UDF,3,,
+G,Grama Panchayat,G06017,Karunapuram Gramapanchayath,89,Udumbanchola,17,17,1.0000,1,7,10,0,1,LDF,10,UDF,7,OTH,1
+G,Grama Panchayat,G06018,Rajakkad Gramapanchayath,89,Udumbanchola,14,14,1.0000,1,10,3,0,1,UDF,10,LDF,3,OTH,1
+G,Grama Panchayat,G06019,Nedumkandom Gramapanchayath,89,Udumbanchola,23,24,0.9583,2,15,6,1,2,UDF,15,LDF,6,OTH,2
+G,Grama Panchayat,G06020,Udumbanchola Gramapanchayath,89,Udumbanchola,14,14,1.0000,1,2,11,0,1,LDF,11,UDF,2,OTH,1
+G,Grama Panchayat,G06021,Rajakumary Gramapanchayat,89,Udumbanchola,14,14,1.0000,1,7,7,0,0,UDF,7,LDF,7,,
+G,Grama Panchayat,G06022,Vannappuram Gramapanchayath,90,Thodupuzha,19,19,1.0000,1,14,2,0,3,UDF,14,OTH,3,LDF,2
+G,Grama Panchayat,G06023,Udumbannoor Gramapanchayath,90,Thodupuzha,17,17,1.0000,1,14,1,0,2,UDF,14,OTH,2,LDF,1
+G,Grama Panchayat,G06024,Kodikulam Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,10,2,0,2,UDF,10,LDF,2,OTH,2
+G,Grama Panchayat,G06025,Alakode Gramapanchayat,90,Thodupuzha,14,14,1.0000,1,8,4,0,2,UDF,8,LDF,4,OTH,2
+G,Grama Panchayat,G06026,Velliyamattom Gramapanchayat,90,Thodupuzha,14,16,0.8750,2,11,2,1,2,UDF,11,LDF,2,OTH,2
+G,Grama Panchayat,G06027,Karimannoor Gramapanchayath,90,Thodupuzha,15,15,1.0000,1,12,1,0,2,UDF,12,OTH,2,LDF,1
+G,Grama Panchayat,G06028,Kudayathoor Grampanchayat,91,Idukki,11,14,0.7857,2,6,2,4,2,UDF,6,NDA,4,LDF,2
+G,Grama Panchayat,G06029,Kanjikkuzhy Gramapanchayath,90,Thodupuzha,18,18,1.0000,1,14,3,1,0,UDF,14,LDF,3,NDA,1
+G,Grama Panchayat,G06030,Vathikudy Gramapanchayath,91,Idukki,19,19,1.0000,1,16,2,0,1,UDF,16,LDF,2,OTH,1
+G,Grama Panchayat,G06031,Arakulam Gramapanchayath,91,Idukki,15,15,1.0000,1,10,3,2,0,UDF,10,LDF,3,NDA,2
+G,Grama Panchayat,G06032,Kamakshy Gramapanchayath,91,Idukki,15,15,1.0000,1,12,3,0,0,UDF,12,LDF,3,,
+G,Grama Panchayat,G06033,Vazhathope Gramapanchayath,90,Thodupuzha,11,15,0.7333,2,10,5,0,0,UDF,10,LDF,5,,
+G,Grama Panchayat,G06034,Mariyapuram Gramapanchayath,91,Idukki,14,14,1.0000,1,12,2,0,0,UDF,12,LDF,2,,
+G,Grama Panchayat,G06036,Upputhara Gramapanchayath,92,Peerumade,14,18,0.7778,2,8,8,1,1,UDF,8,LDF,8,NDA,1
+G,Grama Panchayat,G06037,Vandanmedu Gramapanchayat,89,Udumbanchola,16,20,0.8000,3,9,6,2,3,UDF,9,LDF,6,OTH,3
+G,Grama Panchayat,G06038,Kanchiyar Gramapanchayath,91,Idukki,17,17,1.0000,1,10,6,0,1,UDF,10,LDF,6,OTH,1
+G,Grama Panchayat,G06039,Erattayar Gramapanchayath,89,Udumbanchola,8,15,0.5333,2,8,6,0,1,UDF,8,LDF,6,OTH,1
+G,Grama Panchayat,G06040,Ayyappankovil Grampanchayat,92,Peerumade,14,14,1.0000,1,9,5,0,0,UDF,9,LDF,5,,
+G,Grama Panchayat,G06041,Chakkupallam Gramapanchayath,92,Peerumade,10,16,0.6250,2,11,5,0,0,UDF,11,LDF,5,,
+G,Grama Panchayat,G06042,Kumaramangalam Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,10,1,0,3,UDF,10,OTH,3,LDF,1
+G,Grama Panchayat,G06043,Muttom Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,5,4,0,5,UDF,5,OTH,5,LDF,4
+G,Grama Panchayat,G06044,Edavetty Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,7,4,2,1,UDF,7,LDF,4,NDA,2
+G,Grama Panchayat,G06045,Karimkunnam Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,11,0,1,2,UDF,11,OTH,2,NDA,1
+G,Grama Panchayat,G06046,Manakkad Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,5,3,0,6,OTH,6,UDF,5,LDF,3
+G,Grama Panchayat,G06047,Purapuzha Gramapanchayath,90,Thodupuzha,14,14,1.0000,1,12,1,1,0,UDF,12,LDF,1,NDA,1
+G,Grama Panchayat,G06048,Peruvanthanam Gramapanchayath,92,Peerumade,14,14,1.0000,1,10,4,0,0,UDF,10,LDF,4,,
+G,Grama Panchayat,G06049,Kumily Gramapanchayath,92,Peerumade,22,22,1.0000,1,17,3,0,2,UDF,17,LDF,3,OTH,2
+G,Grama Panchayat,G06050,Kokkayar Gramapanchayath,92,Peerumade,14,14,1.0000,1,7,6,0,1,UDF,7,LDF,6,OTH,1
+G,Grama Panchayat,G06051,Peermade Gramapanchayath,92,Peerumade,16,16,1.0000,1,10,6,0,0,UDF,10,LDF,6,,
+G,Grama Panchayat,G06052,Elappara Gramapanchayath,92,Peerumade,17,17,1.0000,1,9,8,0,0,UDF,9,LDF,8,,
+G,Grama Panchayat,G06053,Vandiperiyar Grampanchayat,92,Peerumade,24,24,1.0000,1,8,14,1,1,LDF,14,UDF,8,NDA,1
+G,Grama Panchayat,G07001,Chendamangalam Gramapanchayath,78,Paravur,19,19,1.0000,1,9,7,0,3,UDF,9,LDF,7,OTH,3
+G,Grama Panchayat,G07002,Kottuvally Gramapanchayath,78,Paravur,24,24,1.0000,1,10,5,3,6,UDF,10,OTH,6,LDF,5
+G,Grama Panchayat,G07003,Ezhikkara Gramapanchayath,78,Paravur,15,15,1.0000,1,13,1,1,0,UDF,13,LDF,1,NDA,1
+G,Grama Panchayat,G07004,Vadakkekkara Gramapanchayath,78,Paravur,21,21,1.0000,1,9,10,2,0,LDF,10,UDF,9,NDA,2
+G,Grama Panchayat,G07005,Chittattukara Gramapanchayath,78,Paravur,21,21,1.0000,1,15,3,1,1,UDF,15,LDF,3,NDA,1
+G,Grama Panchayat,G07006,Karumalloor Gramapanchayath,77,Kalamassery,17,22,0.7727,3,13,6,3,0,UDF,13,LDF,6,NDA,3
+G,Grama Panchayat,G07007,Varapuzha Gramapanchayath,78,Paravur,18,18,1.0000,1,13,3,2,0,UDF,13,LDF,3,NDA,2
+G,Grama Panchayat,G07008,Alangad Gramapanchayath,77,Kalamassery,24,24,1.0000,1,18,5,0,1,UDF,18,LDF,5,OTH,1
+G,Grama Panchayat,G07009,Kadungalloor Gramapanchayath,77,Kalamassery,22,24,0.9167,2,13,6,1,4,UDF,13,LDF,6,OTH,4
+G,Grama Panchayat,G07010,Mookkannoor Gramapanchayath,75,Angamaly,15,15,1.0000,1,13,1,0,1,UDF,13,LDF,1,OTH,1
+G,Grama Panchayat,G07011,Thuravoor grama panchayat,102,Aroor,19,19,1.0000,1,9,6,1,0,UDF,9,LDF,6,NDA,1
+G,Grama Panchayat,G07012,Manjapra Gramapanchayath,75,Angamaly,14,14,1.0000,1,8,4,0,2,UDF,8,LDF,4,OTH,2
+G,Grama Panchayat,G07013,Karukutty Gramapanchayath,75,Angamaly,19,19,1.0000,1,13,6,0,0,UDF,13,LDF,6,,
+G,Grama Panchayat,G07014,Ayyampuzha Gramapanchayath,75,Angamaly,14,14,1.0000,1,5,9,0,0,LDF,9,UDF,5,,
+G,Grama Panchayat,G07015,Kanjoor Gramapanchayath,76,Aluva,17,17,1.0000,1,10,4,0,3,UDF,10,LDF,4,OTH,3
+G,Grama Panchayat,G07017,Malayattoor-Neeleswaram Gramapanchayath,75,Angamaly,18,18,1.0000,1,12,2,0,4,UDF,12,OTH,4,LDF,2
+G,Grama Panchayat,G07019,Mudakkuzha Gramapanchayath,74,Perumbavoor,14,14,1.0000,1,6,4,3,1,UDF,6,LDF,4,NDA,3
+G,Grama Panchayat,G07020,Vengoor Gramapanchayath,74,Perumbavoor,16,17,0.9412,2,11,3,0,2,UDF,11,LDF,3,OTH,2
+G,Grama Panchayat,G07021,Rayamangalam Gramapanchayath,74,Perumbavoor,22,22,1.0000,1,14,8,0,0,UDF,14,LDF,8,,
+G,Grama Panchayat,G07022,Koovappady Gramapanchayath,74,Perumbavoor,22,22,1.0000,1,10,5,4,3,UDF,10,LDF,5,NDA,4
+G,Grama Panchayat,G07023,Okkal Gramapanchayath,74,Perumbavoor,17,17,1.0000,1,9,5,0,3,UDF,9,LDF,5,OTH,3
+G,Grama Panchayat,G07024,Vengola Gramapanchayath,74,Perumbavoor,24,24,1.0000,1,9,7,0,8,UDF,9,OTH,8,LDF,7
+G,Grama Panchayat,G07025,Vazhakkulam Gramapanchayath,84,Kunnathunad,24,24,1.0000,1,15,2,2,5,UDF,15,OTH,5,LDF,2
+G,Grama Panchayat,G07026,Kizhakkambalam Gramapanchayath,84,Kunnathunad,21,21,1.0000,1,1,0,0,20,OTH,20,UDF,1,,
+G,Grama Panchayat,G07027,Choornikkara Gramapanchayath,76,Aluva,21,21,1.0000,1,13,5,0,3,UDF,13,LDF,5,OTH,3
+G,Grama Panchayat,G07028,Edathala Gramapanchayath,76,Aluva,24,24,1.0000,1,13,6,2,3,UDF,13,LDF,6,OTH,3
+G,Grama Panchayat,G07029,Keezhmadu Gramapanchayath,76,Aluva,22,22,1.0000,1,12,3,0,7,UDF,12,OTH,7,LDF,3
+G,Grama Panchayat,G07030,Kadamakkudy Gramapanchayath,79,Vypin,14,14,1.0000,1,7,2,0,5,UDF,7,OTH,5,LDF,2
+G,Grama Panchayat,G07031,Cherannalloor Gramapanchayat,82,Ernakulam,20,20,1.0000,1,12,1,3,4,UDF,12,OTH,4,NDA,3
+G,Grama Panchayat,G07032,Mulavukadu Gramapanchayath,79,Vypin,16,16,1.0000,1,9,4,1,2,UDF,9,LDF,4,OTH,2
+G,Grama Panchayat,G07033,Elamkunnapuzha Gramapanchayath,79,Vypin,22,22,1.0000,1,13,7,2,2,UDF,13,LDF,7,NDA,2
+G,Grama Panchayat,G07034,Njarackal Gramapanchayath,79,Vypin,17,17,1.0000,1,8,5,1,3,UDF,8,LDF,5,OTH,3
+G,Grama Panchayat,G07035,Nayarambalam Gramapanchayath,79,Vypin,17,17,1.0000,1,10,5,1,1,UDF,10,LDF,5,NDA,1
+G,Grama Panchayat,G07036,Edavanakad Gramapanchayath,79,Vypin,16,16,1.0000,1,6,9,1,0,LDF,9,UDF,6,NDA,1
+G,Grama Panchayat,G07037,Pallippuram Gramapanchayath,79,Vypin,24,24,1.0000,1,9,13,2,0,LDF,13,UDF,9,NDA,2
+G,Grama Panchayat,G07038,Kuzhuppilly Gramapanchayath,79,Vypin,14,14,1.0000,1,10,2,1,1,UDF,10,LDF,2,NDA,1
+G,Grama Panchayat,G07039,Chellanam Gramapanchayath,80,Kochi,22,22,1.0000,1,15,7,0,0,UDF,15,LDF,7,,
+G,Grama Panchayat,G07040,Kumbalanghy Gramapanchayath,80,Kochi,19,19,1.0000,1,14,2,0,3,UDF,14,OTH,3,LDF,2
+G,Grama Panchayat,G07041,Kumbalam Gramapanchayath,81,Thrippunithura,19,19,1.0000,1,14,3,1,1,UDF,14,LDF,3,NDA,1
+G,Grama Panchayat,G07042,Udayamperoor Gramapanchayath,81,Thrippunithura,23,23,1.0000,1,13,8,1,1,UDF,13,LDF,8,NDA,1
+G,Grama Panchayat,G07043,Mulamthuruthy Gramapanchayath,85,Piravom,18,18,1.0000,1,7,9,0,2,LDF,9,UDF,7,OTH,2
+G,Grama Panchayat,G07044,Chottanikara Gramapanchayath,85,Piravom,17,17,1.0000,1,12,4,0,1,UDF,12,LDF,4,OTH,1
+G,Grama Panchayat,G07045,Edakkattuvayal Gramapanchayath,85,Piravom,15,15,1.0000,1,13,0,1,1,UDF,13,NDA,1,OTH,1
+G,Grama Panchayat,G07046,Amballur Gramapanchayath,85,Piravom,18,18,1.0000,1,8,9,0,1,LDF,9,UDF,8,OTH,1
+G,Grama Panchayat,G07047,Maneedu Gramapanchayath,85,Piravom,14,14,1.0000,1,11,2,0,1,UDF,11,LDF,2,OTH,1
+G,Grama Panchayat,G07048,Poothrika Gramapanchayath,84,Kunnathunad,16,16,1.0000,1,7,2,0,7,UDF,7,OTH,7,LDF,2
+G,Grama Panchayat,G07049,Thiruvaniyoor Gramapanchayath,84,Kunnathunad,18,18,1.0000,1,4,5,0,9,OTH,9,LDF,5,UDF,4
+G,Grama Panchayat,G07051,Mazhuvanoor Gramapanchayath,84,Kunnathunad,21,21,1.0000,1,7,3,1,10,OTH,10,UDF,7,LDF,3
+G,Grama Panchayat,G07052,Aikkaranadu Gramapanchayath,84,Kunnathunad,16,16,1.0000,1,0,0,0,16,OTH,16,,,,
+G,Grama Panchayat,G07053,Kunnathunad Gramapanchayath,84,Kunnathunad,21,21,1.0000,1,11,1,0,9,UDF,11,OTH,9,LDF,1
+G,Grama Panchayat,G07054,Paingottoor Gramapanchayath,86,Muvattupuzha,14,14,1.0000,1,10,3,0,1,UDF,10,LDF,3,OTH,1
+G,Grama Panchayat,G07055,Nellikuzhy Gramapanchayath,87,Kothamangalam,24,24,1.0000,1,13,6,2,3,UDF,13,LDF,6,OTH,3
+G,Grama Panchayat,G07056,Pindimana Gramapanchayath,87,Kothamangalam,14,14,1.0000,1,8,3,2,1,UDF,8,LDF,3,NDA,2
+G,Grama Panchayat,G07057,Kavalangad Gramapanchayath,87,Kothamangalam,19,19,1.0000,1,9,6,0,4,UDF,9,LDF,6,OTH,4
+G,Grama Panchayat,G07058,Varapetty Gramapanchayath,87,Kothamangalam,15,15,1.0000,1,9,4,1,1,UDF,9,LDF,4,NDA,1
+G,Grama Panchayat,G07059,Keerampaara Gramapanchayath,87,Kothamangalam,14,14,1.0000,1,12,2,0,0,UDF,12,LDF,2,,
+G,Grama Panchayat,G07060,Pothanikkad Gramapanchayath,86,Muvattupuzha,14,14,1.0000,1,6,2,0,6,UDF,6,OTH,6,LDF,2
+G,Grama Panchayat,G07061,Pallarimangalam Gramapanchayath,87,Kothamangalam,11,14,0.7857,2,13,1,0,0,UDF,13,LDF,1,,
+G,Grama Panchayat,G07062,Kuttampuzha Gramapanchayath,87,Kothamangalam,17,17,1.0000,1,12,4,0,1,UDF,12,LDF,4,OTH,1
+G,Grama Panchayat,G07063,Kottappady Grama Panchayath,87,Kothamangalam,15,15,1.0000,1,11,0,0,4,UDF,11,OTH,4,,
+G,Grama Panchayat,G07064,Elanji Gramapanchayath,85,Piravom,14,14,1.0000,1,9,2,0,3,UDF,9,OTH,3,LDF,2
+G,Grama Panchayat,G07066,Thirumaradi Gramapanchayath,85,Piravom,15,15,1.0000,1,11,4,0,0,UDF,11,LDF,4,,
+G,Grama Panchayat,G07068,Palakuzha Gramapanchayath,86,Muvattupuzha,14,14,1.0000,1,13,1,0,0,UDF,13,LDF,1,,
+G,Grama Panchayat,G07069,Pampakuda Gramapanchayath,85,Piravom,15,15,1.0000,1,9,1,0,4,UDF,9,OTH,4,LDF,1
+G,Grama Panchayat,G07070,Ramamangalam Gramapanchayath,85,Piravom,14,14,1.0000,1,7,5,1,1,UDF,7,LDF,5,NDA,1
+G,Grama Panchayat,G07071,Chengamanadu Gramapanchayath,76,Aluva,19,19,1.0000,1,6,5,6,2,UDF,6,NDA,6,LDF,5
+G,Grama Panchayat,G07072,Nedumbassery Gramapanchayath,76,Aluva,20,20,1.0000,1,14,5,0,1,UDF,14,LDF,5,OTH,1
+G,Grama Panchayat,G07073,Parakkadavu Gramapanchayath,75,Angamaly,19,20,0.9500,2,10,7,1,2,UDF,10,LDF,7,OTH,2
+G,Grama Panchayat,G07074,Kunnukara Gramapanchayath,77,Kalamassery,12,15,0.8000,2,9,5,1,1,UDF,9,LDF,5,NDA,1
+G,Grama Panchayat,G07075,Sreemoolanagaram Gramapanchayath,76,Aluva,18,18,1.0000,1,15,2,0,1,UDF,15,LDF,2,OTH,1
+G,Grama Panchayat,G07076,Puthenvelikkara Gramapanchayath,78,Paravur,19,19,1.0000,1,10,8,0,1,UDF,10,LDF,8,OTH,1
+G,Grama Panchayat,G07077,Avoly Gramapanchayath,86,Muvattupuzha,15,15,1.0000,1,9,3,0,3,UDF,9,LDF,3,OTH,3
+G,Grama Panchayat,G07078,Arakkuzha Gramapanchayath,86,Muvattupuzha,14,14,1.0000,1,9,0,0,5,UDF,9,OTH,5,,
+G,Grama Panchayat,G07079,Paipra Gramapanchayath,86,Muvattupuzha,24,24,1.0000,1,18,4,0,2,UDF,18,LDF,4,OTH,2
+G,Grama Panchayat,G07080,Kalloorkaad Gramapanchayath,86,Muvattupuzha,14,14,1.0000,1,5,4,0,5,UDF,5,OTH,5,LDF,4
+G,Grama Panchayat,G07081,Ayavana Gramapanchayath,86,Muvattupuzha,16,16,1.0000,1,11,2,0,3,UDF,11,OTH,3,LDF,2
+G,Grama Panchayat,G07082,Manjalloor Gramapanchayath,86,Muvattupuzha,14,14,1.0000,1,8,2,1,3,UDF,8,OTH,3,LDF,2
+G,Grama Panchayat,G07083,Marady Gramapanchayath,86,Muvattupuzha,11,14,0.7857,2,9,3,0,2,UDF,9,LDF,3,OTH,2
+G,Grama Panchayat,G07084,Valakom Gramapanchayath,86,Muvattupuzha,15,15,1.0000,1,9,5,0,1,UDF,9,LDF,5,OTH,1
+G,Grama Panchayat,G08001,Kadappuram Grama Panchayat,63,Guruvayur,18,18,1.0000,1,12,4,2,0,UDF,12,LDF,4,NDA,2
+G,Grama Panchayat,G08002,Orumanayoor Grama Panchayat,63,Guruvayur,14,14,1.0000,1,10,2,1,1,UDF,10,LDF,2,NDA,1
+G,Grama Panchayat,G08003,Punnayoor Grama Panchayat,63,Guruvayur,22,22,1.0000,1,17,5,0,0,UDF,17,LDF,5,,
+G,Grama Panchayat,G08004,Punnayoorkulam Grama Panchayat,63,Guruvayur,21,21,1.0000,1,9,7,4,1,UDF,9,LDF,7,NDA,4
+G,Grama Panchayat,G08005,Vadakkekkad Grama Panchayat,63,Guruvayur,18,18,1.0000,1,12,6,0,0,UDF,12,LDF,6,,
+G,Grama Panchayat,G08006,Choondal Grama Panchayat,64,Manalur,20,20,1.0000,1,7,13,0,0,LDF,13,UDF,7,,
+G,Grama Panchayat,G08007,Chowannur Grama Panchayat,62,Kunnamkulam,14,14,1.0000,1,5,6,1,2,LDF,6,UDF,5,OTH,2
+G,Grama Panchayat,G08008,Kadavalloor Grama Panchayat,62,Kunnamkulam,22,22,1.0000,1,6,16,0,0,LDF,16,UDF,6,,
+G,Grama Panchayat,G08009,Kandanassery Grama Panchayat,64,Manalur,17,17,1.0000,1,4,13,0,0,LDF,13,UDF,4,,
+G,Grama Panchayat,G08010,Kattakampal Grama Panchayat,62,Kunnamkulam,18,18,1.0000,1,9,8,1,0,UDF,9,LDF,8,NDA,1
+G,Grama Panchayat,G08011,Porkulam Grama Panchayat,62,Kunnamkulam,14,14,1.0000,1,8,5,1,0,UDF,8,LDF,5,NDA,1
+G,Grama Panchayat,G08012,Kadangode Grama Panchayat,62,Kunnamkulam,21,21,1.0000,1,8,11,1,1,LDF,11,UDF,8,NDA,1
+G,Grama Panchayat,G08013,Velur Grama Panchayat,62,Kunnamkulam,19,19,1.0000,1,9,8,1,1,UDF,9,LDF,8,NDA,1
+G,Grama Panchayat,G08014,Desamangalam Grama Panchayat,61,Chelakkara,16,16,1.0000,1,10,6,0,0,UDF,10,LDF,6,,
+G,Grama Panchayat,G08015,Erumapetty Grama Panchayat,62,Kunnamkulam,19,19,1.0000,1,8,10,0,1,LDF,10,UDF,8,OTH,1
+G,Grama Panchayat,G08017,Mullurkkara Grama Panchayat,61,Chelakkara,15,16,0.9375,2,9,7,0,0,UDF,9,LDF,7,,
+G,Grama Panchayat,G08018,Thekkumkara Grama Panchayat,65,Wadakkanchery,16,19,0.8421,2,6,10,2,1,LDF,10,UDF,6,NDA,2
+G,Grama Panchayat,G08019,Varavoor Grama Panchayat,61,Chelakkara,16,16,1.0000,1,4,9,2,1,LDF,9,UDF,4,NDA,2
+G,Grama Panchayat,G08021,Chelakkara Grama Panchayat,61,Chelakkara,24,24,1.0000,1,12,12,0,0,UDF,12,LDF,12,,
+G,Grama Panchayat,G08022,Vallathole Nagar Grama Panchayat,61,Chelakkara,18,18,1.0000,1,1,14,1,2,LDF,14,OTH,2,UDF,1
+G,Grama Panchayat,G08023,Kondazhy Grama Panchayat,61,Chelakkara,16,16,1.0000,1,2,7,6,1,LDF,7,NDA,6,UDF,2
+G,Grama Panchayat,G08024,Panjal Grama Panchayat,61,Chelakkara,18,18,1.0000,1,5,9,2,2,LDF,9,UDF,5,NDA,2
+G,Grama Panchayat,G08025,Pazhayannur Grama Panchayat,61,Chelakkara,24,24,1.0000,1,9,12,3,0,LDF,12,UDF,9,NDA,3
+G,Grama Panchayat,G08026,Thiruvilwamala Grama Panchayat,61,Chelakkara,19,19,1.0000,1,0,7,10,2,NDA,10,LDF,7,OTH,2
+G,Grama Panchayat,G08027,Madakkathara Grama Panchayat,66,Ollur,15,18,0.8333,2,2,15,1,0,LDF,15,UDF,2,NDA,1
+G,Grama Panchayat,G08028,Nadathara Grama Panchayat,66,Ollur,20,20,1.0000,1,9,11,0,0,LDF,11,UDF,9,,
+G,Grama Panchayat,G08029,Pananchery Grama Panchayat,66,Ollur,23,24,0.9583,2,13,10,0,1,UDF,13,LDF,10,OTH,1
+G,Grama Panchayat,G08030,Puthur Grama Panchayat,66,Ollur,23,24,0.9583,2,13,10,1,0,UDF,13,LDF,10,NDA,1
+G,Grama Panchayat,G08031,Adat Grama Panchayat,65,Wadakkanchery,20,20,1.0000,1,9,7,4,0,UDF,9,LDF,7,NDA,4
+G,Grama Panchayat,G08032,Avanur Grama Panchayat,65,Wadakkanchery,16,16,1.0000,1,5,8,1,2,LDF,8,UDF,5,OTH,2
+G,Grama Panchayat,G08033,Kaiparambu Grama Panchayat,65,Wadakkanchery,20,20,1.0000,1,10,7,3,0,UDF,10,LDF,7,NDA,3
+G,Grama Panchayat,G08034,Mulamkunnathukavu Grama Panchayat,65,Wadakkanchery,16,16,1.0000,1,7,8,1,0,LDF,8,UDF,7,NDA,1
+G,Grama Panchayat,G08035,Tholur Grama Panchayat,65,Wadakkanchery,15,15,1.0000,1,8,5,1,1,UDF,8,LDF,5,NDA,1
+G,Grama Panchayat,G08036,Kolazhy Grama Panchayat,65,Wadakkanchery,20,20,1.0000,1,11,7,2,0,UDF,11,LDF,7,NDA,2
+G,Grama Panchayat,G08037,Elavally Grama Panchayat,64,Manalur,18,18,1.0000,1,5,11,1,1,LDF,11,UDF,5,NDA,1
+G,Grama Panchayat,G08038,Mullassery Grama Panchayat,64,Manalur,16,16,1.0000,1,1,11,2,2,LDF,11,NDA,2,OTH,2
+G,Grama Panchayat,G08039,Pavaratty Grama Panchayat,64,Manalur,16,16,1.0000,1,12,1,2,1,UDF,12,NDA,2,LDF,1
+G,Grama Panchayat,G08040,Venkitangu Grama Panchayat,64,Manalur,18,18,1.0000,1,11,6,0,1,UDF,11,LDF,6,OTH,1
+G,Grama Panchayat,G08041,Engandiyoor Grama Panchayat,63,Guruvayur,17,17,1.0000,1,6,7,4,0,LDF,7,UDF,6,NDA,4
+G,Grama Panchayat,G08042,Vadanappilly Grama Panchayat,64,Manalur,20,20,1.0000,1,2,10,6,2,LDF,10,NDA,6,UDF,2
+G,Grama Panchayat,G08043,Thalikulam Grama Panchayat,68,Nattika,18,18,1.0000,1,5,5,4,4,UDF,5,LDF,5,NDA,4
+G,Grama Panchayat,G08044,Nattika Grama Panchayat,68,Nattika,15,15,1.0000,1,8,4,3,0,UDF,8,LDF,4,NDA,3
+G,Grama Panchayat,G08045,Valappad Grama Panchayat,68,Nattika,21,21,1.0000,1,7,9,5,1,LDF,9,UDF,7,NDA,5
+G,Grama Panchayat,G08046,Edathiruthy Grama Panchayat,69,Kaipamangalam,18,19,0.9474,2,5,14,0,0,LDF,14,UDF,5,,
+G,Grama Panchayat,G08047,Kaipamangalam Grama Panchayat,69,Kaipamangalam,22,22,1.0000,1,16,5,1,0,UDF,16,LDF,5,NDA,1
+G,Grama Panchayat,G08048,Mathilakam Grama Panchayat,69,Kaipamangalam,19,19,1.0000,1,4,12,1,2,LDF,12,UDF,4,OTH,2
+G,Grama Panchayat,G08049,Perinjanam Grama Panchayat,69,Kaipamangalam,16,16,1.0000,1,1,13,2,0,LDF,13,NDA,2,UDF,1
+G,Grama Panchayat,G08050,Sree Narayanapuram Grama Panchayat,69,Kaipamangalam,23,23,1.0000,1,5,13,5,0,LDF,13,UDF,5,NDA,5
+G,Grama Panchayat,G08051,Edavilangu Grama Panchayat,69,Kaipamangalam,16,16,1.0000,1,0,10,6,0,LDF,10,NDA,6,,
+G,Grama Panchayat,G08052,Eriyad Grama Panchayat,69,Kaipamangalam,24,24,1.0000,1,5,17,0,2,LDF,17,UDF,5,OTH,2
+G,Grama Panchayat,G08053,Anthikkad Grama Panchayat,68,Nattika,16,16,1.0000,1,6,8,1,1,LDF,8,UDF,6,NDA,1
+G,Grama Panchayat,G08054,Thanniam Grama Panchayat,68,Nattika,19,19,1.0000,1,1,17,1,0,LDF,17,UDF,1,NDA,1
+G,Grama Panchayat,G08055,Chazhur Grama Panchayat,68,Nattika,19,19,1.0000,1,6,12,1,0,LDF,12,UDF,6,NDA,1
+G,Grama Panchayat,G08056,Manalur Grama Panchayat,64,Manalur,21,21,1.0000,1,6,14,1,0,LDF,14,UDF,6,NDA,1
+G,Grama Panchayat,G08057,Arimbur Grama Panchayat,64,Manalur,20,20,1.0000,1,10,8,0,2,UDF,10,LDF,8,OTH,2
+G,Grama Panchayat,G08058,Avinissery Grama Panchayat,68,Nattika,16,16,1.0000,1,7,2,7,0,UDF,7,NDA,7,LDF,2
+G,Grama Panchayat,G08059,Cherpu Grama Panchayat,68,Nattika,22,22,1.0000,1,11,6,4,1,UDF,11,LDF,6,NDA,4
+G,Grama Panchayat,G08060,Paralam Grama Panchayat,68,Nattika,17,17,1.0000,1,6,5,6,0,UDF,6,NDA,6,LDF,5
+G,Grama Panchayat,G08061,Vallachira Grama Panchayat,71,Puthukkad,16,16,1.0000,1,4,6,6,0,LDF,6,NDA,6,UDF,4
+G,Grama Panchayat,G08062,Alagappanagar Grama Panchayat,71,Puthukkad,19,19,1.0000,1,12,7,0,0,UDF,12,LDF,7,,
+G,Grama Panchayat,G08063,Kodakara Grama Panchayat,72,Chalakudy,20,20,1.0000,1,7,7,5,1,UDF,7,LDF,7,NDA,5
+G,Grama Panchayat,G08064,Mattathur Grama Panchayat,15,Mattanur,36,60,0.6000,3,8,10,4,2,LDF,10,UDF,8,NDA,4
+G,Grama Panchayat,G08065,Nenmanikkara Grama Panchayat,71,Puthukkad,15,16,0.9375,2,2,13,0,1,LDF,13,UDF,2,OTH,1
+G,Grama Panchayat,G08066,Pudukkad Grama Panchayat,71,Puthukkad,17,17,1.0000,1,8,4,4,1,UDF,8,LDF,4,NDA,4
+G,Grama Panchayat,G08067,Thrikkur Grama Panchayat,71,Puthukkad,19,19,1.0000,1,12,6,1,0,UDF,12,LDF,6,NDA,1
+G,Grama Panchayat,G08068,Varantharappilly Grama Panchayat,71,Puthukkad,24,24,1.0000,1,10,7,5,2,UDF,10,LDF,7,NDA,5
+G,Grama Panchayat,G08069,Karalam Grama Panchayat,70,Irinjalakuda,16,16,1.0000,1,2,8,6,0,LDF,8,NDA,6,UDF,2
+G,Grama Panchayat,G08070,Kattoor Grama Panchayat,70,Irinjalakuda,15,15,1.0000,1,5,10,0,0,LDF,10,UDF,5,,
+G,Grama Panchayat,G08071,Muriyad Grama Panchayat,70,Irinjalakuda,18,18,1.0000,1,5,11,1,1,LDF,11,UDF,5,NDA,1
+G,Grama Panchayat,G08072,Parappookkara Grama Panchayat,71,Puthukkad,19,19,1.0000,1,5,9,2,3,LDF,9,UDF,5,OTH,3
+G,Grama Panchayat,G08074,Poomangalam Grama Panchayat,70,Irinjalakuda,14,14,1.0000,1,4,8,1,1,LDF,8,UDF,4,NDA,1
+G,Grama Panchayat,G08075,Puthenchira Grama Panchayat,73,Kodungallur,16,16,1.0000,1,5,10,1,0,LDF,10,UDF,5,NDA,1
+G,Grama Panchayat,G08076,Vellangalur Grama Panchayat,73,Kodungallur,22,23,0.9565,2,11,10,2,0,UDF,11,LDF,10,NDA,2
+G,Grama Panchayat,G08077,Velookkara Grama Panchayat,70,Irinjalakuda,19,19,1.0000,1,6,12,1,0,LDF,12,UDF,6,NDA,1
+G,Grama Panchayat,G08079,Annamanada Grama Panchayat,73,Kodungallur,20,20,1.0000,1,14,5,0,1,UDF,14,LDF,5,OTH,1
+G,Grama Panchayat,G08080,Kuzhur Grama Panchayat,73,Kodungallur,15,15,1.0000,1,11,2,2,0,UDF,11,LDF,2,NDA,2
+G,Grama Panchayat,G08081,Mala Grama Panchayat,73,Kodungallur,21,21,1.0000,1,8,8,4,1,UDF,8,LDF,8,NDA,4
+G,Grama Panchayat,G08082,Poyya Grama Panchayat,73,Kodungallur,16,16,1.0000,1,9,6,0,1,UDF,9,LDF,6,OTH,1
+G,Grama Panchayat,G08083,Kadukutty Grama Panchayat,72,Chalakudy,18,18,1.0000,1,16,2,0,0,UDF,16,LDF,2,,
+G,Grama Panchayat,G08084,Kodassery Grama Panchayat,72,Chalakudy,21,21,1.0000,1,11,8,1,1,UDF,11,LDF,8,NDA,1
+G,Grama Panchayat,G08085,Koratty Grama Panchayat,72,Chalakudy,21,21,1.0000,1,13,3,0,5,UDF,13,OTH,5,LDF,3
+G,Grama Panchayat,G08087,Pariyaram Grama Panchayat,72,Chalakudy,17,17,1.0000,1,8,9,0,0,LDF,9,UDF,8,,
+G,Grama Panchayat,G08088,Athirappilly Grama Panchayat,72,Chalakudy,11,11,1.0000,1,4,8,2,0,LDF,8,UDF,4,NDA,2
+G,Grama Panchayat,G09001,Anakkara Gramapanchayath,49,Thrithala,17,17,1.0000,1,8,7,1,1,UDF,8,LDF,7,NDA,1
+G,Grama Panchayat,G09002,Chalissery Gramapanchayath,49,Thrithala,17,17,1.0000,1,9,8,0,0,UDF,9,LDF,8,,
+G,Grama Panchayat,G09003,Kappoor Gramapanchayath,49,Thrithala,20,20,1.0000,1,12,6,0,2,UDF,12,LDF,6,OTH,2
+G,Grama Panchayat,G09004,Nagalassery Grampanchayat,49,Thrithala,19,19,1.0000,1,3,16,0,0,LDF,16,UDF,3,,
+G,Grama Panchayat,G09005,Pattithara Gramapanchayath,49,Thrithala,21,21,1.0000,1,13,8,0,0,UDF,13,LDF,8,,
+G,Grama Panchayat,G09006,Thirumittacode Gramapanchayath,49,Thrithala,20,20,1.0000,1,9,11,0,0,LDF,11,UDF,9,,
+G,Grama Panchayat,G09007,Thrithala Grampanchayat,49,Thrithala,19,19,1.0000,1,13,6,0,0,UDF,13,LDF,6,,
+G,Grama Panchayat,G09008,Koppam Gramapanchayath,50,Pattambi,20,20,1.0000,1,6,9,0,5,LDF,9,UDF,6,OTH,5
+G,Grama Panchayat,G09009,Kulukkallur Gramapanchayath,50,Pattambi,19,19,1.0000,1,9,5,0,5,UDF,9,LDF,5,OTH,5
+G,Grama Panchayat,G09010,Muthuthala Gramapanchayath,50,Pattambi,17,17,1.0000,1,9,7,0,1,UDF,9,LDF,7,OTH,1
+G,Grama Panchayat,G09011,Ongallur Gramapanchayath,50,Pattambi,24,24,1.0000,1,8,10,0,6,LDF,10,UDF,8,OTH,6
+G,Grama Panchayat,G09013,Thiruvegappura Gramapanchayath,50,Pattambi,21,21,1.0000,1,15,5,0,1,UDF,15,LDF,5,OTH,1
+G,Grama Panchayat,G09014,Vilayur Gramapanchayath,50,Pattambi,17,17,1.0000,1,7,3,0,7,UDF,7,OTH,7,LDF,3
+G,Grama Panchayat,G09015,Parathur Gramapanchayath,49,Thrithala,18,18,1.0000,1,8,10,0,0,LDF,10,UDF,8,,
+G,Grama Panchayat,G09016,Ambalapara Gramapanchayath,52,Ottapalam,23,23,1.0000,1,1,17,3,2,LDF,17,NDA,3,OTH,2
+G,Grama Panchayat,G09017,Ananganadi Gramapanchayath,51,Shornur,17,17,1.0000,1,7,9,1,0,LDF,9,UDF,7,NDA,1
+G,Grama Panchayat,G09018,Chalavara Gramapanchayath,51,Shornur,17,17,1.0000,1,8,8,1,0,UDF,8,LDF,8,NDA,1
+G,Grama Panchayat,G09019,Lakkidi Peroor Gram Panchayat,52,Ottapalam,21,21,1.0000,1,2,13,3,3,LDF,13,NDA,3,OTH,3
+G,Grama Panchayat,G09020,Vaniyamkulam Gramapanchayath,51,Shornur,20,20,1.0000,1,0,14,6,0,LDF,14,NDA,6,,
+G,Grama Panchayat,G09021,Thrikkadeeri Grampanchayat,51,Shornur,15,16,0.9375,2,3,8,2,3,LDF,8,UDF,3,OTH,3
+G,Grama Panchayat,G09022,Vallapuzha Gramapanchayat,50,Pattambi,19,19,1.0000,1,11,6,0,2,UDF,11,LDF,6,OTH,2
+G,Grama Panchayat,G09023,Nellaya Gramapanchayath,51,Shornur,22,22,1.0000,1,10,8,0,4,UDF,10,LDF,8,OTH,4
+G,Grama Panchayat,G09025,Kadampazhipuram Gramapanchayath,52,Ottapalam,20,20,1.0000,1,4,15,1,0,LDF,15,UDF,4,NDA,1
+G,Grama Panchayat,G09026,Karimpuzha Gramapanchayath,52,Ottapalam,20,20,1.0000,1,12,4,2,2,UDF,12,LDF,4,NDA,2
+G,Grama Panchayat,G09027,Sreekrishnapuram Grampanchayat,52,Ottapalam,16,16,1.0000,1,3,12,1,0,LDF,12,UDF,3,NDA,1
+G,Grama Panchayat,G09028,Vellinezhi Gramapanchayath,51,Shornur,14,14,1.0000,1,2,12,0,0,LDF,12,UDF,2,,
+G,Grama Panchayat,G09029,Karakurussi Gramapanchayath,53,Kongad,10,19,0.5263,2,9,6,1,3,UDF,9,LDF,6,OTH,3
+G,Grama Panchayat,G09030,Thachanattukara Gramapanchayath,52,Ottapalam,18,18,1.0000,1,13,3,0,2,UDF,13,LDF,3,OTH,2
+G,Grama Panchayat,G09031,Pookottukavu Gramapanchayath,52,Ottapalam,9,14,0.6429,2,2,12,0,0,LDF,12,UDF,2,,
+G,Grama Panchayat,G09032,Alanallur Gramapanchayath,54,Mannarkkad,24,24,1.0000,1,18,4,0,2,UDF,18,LDF,4,OTH,2
+G,Grama Panchayat,G09033,Karimba Gramapanchayath,53,Kongad,15,18,0.8333,3,8,7,2,1,UDF,8,LDF,7,NDA,2
+G,Grama Panchayat,G09034,Kottappadam Gramapanchayath,54,Mannarkkad,24,24,1.0000,1,18,3,0,3,UDF,18,LDF,3,OTH,3
+G,Grama Panchayat,G09035,Kumaramputhur gram panchayat,54,Mannarkkad,21,21,1.0000,1,8,10,0,3,LDF,10,UDF,8,OTH,3
+G,Grama Panchayat,G09036,Kanhirapuzha Grama Panchayat,53,Kongad,16,21,0.7619,2,7,6,2,6,UDF,7,LDF,6,OTH,6
+G,Grama Panchayat,G09038,Thachampara Gramapanchayath,53,Kongad,11,15,0.7333,2,9,2,0,4,UDF,9,OTH,4,LDF,2
+G,Grama Panchayat,G09039,Thenkara Gramapanchayath,54,Mannarkkad,18,18,1.0000,1,7,7,3,1,UDF,7,LDF,7,NDA,3
+G,Grama Panchayat,G09040,Agali Gramapanchayath,54,Mannarkkad,21,21,1.0000,1,10,9,2,0,UDF,10,LDF,9,NDA,2
+G,Grama Panchayat,G09041,Puthur Gramapanchayat,54,Mannarkkad,14,14,1.0000,1,6,0,8,0,NDA,8,UDF,6,,
+G,Grama Panchayat,G09042,Sholayar gram panchayat,54,Mannarkkad,14,14,1.0000,1,11,3,0,0,UDF,11,LDF,3,,
+G,Grama Panchayat,G09043,Pirayiri Gramapanchayath,56,Palakkad,24,24,1.0000,1,11,8,4,1,UDF,11,LDF,8,NDA,4
+G,Grama Panchayat,G09044,Mundur Gramapanchayath,55,Malampuzha,20,20,1.0000,1,2,16,2,0,LDF,16,UDF,2,NDA,2
+G,Grama Panchayat,G09045,Kongad Gramapanchayath,53,Kongad,20,20,1.0000,1,4,16,0,0,LDF,16,UDF,4,,
+G,Grama Panchayat,G09046,Keralasseri Gramapanchayath,53,Kongad,14,14,1.0000,1,0,12,2,0,LDF,12,NDA,2,,
+G,Grama Panchayat,G09047,Mannoor Grampanchayat,53,Kongad,15,15,1.0000,1,3,7,2,3,LDF,7,UDF,3,OTH,3
+G,Grama Panchayat,G09048,Mankara Gramapanchayath,53,Kongad,15,15,1.0000,1,2,11,2,0,LDF,11,UDF,2,NDA,2
+G,Grama Panchayat,G09049,Parli Gramapanchayath,53,Kongad,21,21,1.0000,1,5,8,8,0,LDF,8,NDA,8,UDF,5
+G,Grama Panchayat,G09050,Kottayi Gramapanchayath,57,Tarur,16,16,1.0000,1,6,6,4,0,UDF,6,LDF,6,NDA,4
+G,Grama Panchayat,G09051,Kuthanur Grampanchayat,57,Tarur,17,17,1.0000,1,9,7,1,0,UDF,9,LDF,7,NDA,1
+G,Grama Panchayat,G09052,Kuzhalmannam Gramapanchayath,60,Alathur,18,18,1.0000,1,7,11,0,0,LDF,11,UDF,7,,
+G,Grama Panchayat,G09054,Peringottukurissi Gramapanchayath,57,Tarur,18,18,1.0000,1,7,5,2,4,UDF,7,LDF,5,OTH,4
+G,Grama Panchayat,G09055,Thenkurissi Grampanchayat,60,Alathur,18,18,1.0000,1,1,13,4,0,LDF,13,NDA,4,UDF,1
+G,Grama Panchayat,G09056,Kannadi Gramapanchayath,56,Palakkad,17,17,1.0000,1,5,12,0,0,LDF,12,UDF,5,,
+G,Grama Panchayat,G09057,Eruthampathy Gramapanchayath,58,Chittur,15,15,1.0000,1,5,5,3,2,UDF,5,LDF,5,NDA,3
+G,Grama Panchayat,G09058,Kozhinjampara Gramapanchayath,58,Chittur,19,19,1.0000,1,13,4,2,0,UDF,13,LDF,4,NDA,2
+G,Grama Panchayat,G09059,Nalleppilly Gramapanchayath,58,Chittur,21,21,1.0000,1,2,16,3,0,LDF,16,NDA,3,UDF,2
+G,Grama Panchayat,G09060,Perumatty Gramapanchayath,58,Chittur,20,20,1.0000,1,3,17,0,0,LDF,17,UDF,3,,
+G,Grama Panchayat,G09061,Vadakarapathy Grampanchayat,58,Chittur,18,18,1.0000,1,10,4,0,4,UDF,10,LDF,4,OTH,4
+G,Grama Panchayat,G09062,Elappully Gramapanchayath,55,Malampuzha,23,23,1.0000,1,4,14,5,0,LDF,14,NDA,5,UDF,4
+G,Grama Panchayat,G09063,Polppulli Grampanchayat,58,Chittur,14,14,1.0000,1,5,9,0,0,LDF,9,UDF,5,,
+G,Grama Panchayat,G09064,Kollengode Gramapanchayat,59,Nenmara,19,19,1.0000,1,3,12,4,0,LDF,12,NDA,4,UDF,3
+G,Grama Panchayat,G09065,Koduvayur Gramapanchayath,59,Nenmara,19,19,1.0000,1,4,9,5,1,LDF,9,NDA,5,UDF,4
+G,Grama Panchayat,G09066,Muthalamada Gramapanchayath,59,Nenmara,21,21,1.0000,1,2,14,5,1,LDF,14,NDA,5,UDF,2
+G,Grama Panchayat,G09067,Pudunagaram Gramapanchayath,59,Nenmara,15,15,1.0000,1,9,4,2,0,UDF,9,LDF,4,NDA,2
+G,Grama Panchayat,G09068,Vadavannur gramapanchayat,59,Nenmara,14,14,1.0000,1,7,5,2,0,UDF,7,LDF,5,NDA,2
+G,Grama Panchayat,G09069,Peruvemba Gramapanchayath,58,Chittur,15,15,1.0000,1,5,9,0,1,LDF,9,UDF,5,OTH,1
+G,Grama Panchayat,G09070,Pattanchery Gramapanchayath,58,Chittur,18,18,1.0000,1,9,8,1,0,UDF,9,LDF,8,NDA,1
+G,Grama Panchayat,G09071,Ayiloor Gramapanchayath,59,Nenmara,19,19,1.0000,1,8,8,2,1,UDF,8,LDF,8,NDA,2
+G,Grama Panchayat,G09072,Nelliyampathy Gramapanchayath,59,Nenmara,14,14,1.0000,1,2,9,1,2,LDF,9,UDF,2,OTH,2
+G,Grama Panchayat,G09073,Elavanchery Gramapanchayath,59,Nenmara,15,15,1.0000,1,3,11,1,0,LDF,11,UDF,3,NDA,1
+G,Grama Panchayat,G09074,Pallassena Grampanchayat,59,Nenmara,17,17,1.0000,1,4,11,2,0,LDF,11,UDF,4,NDA,2
+G,Grama Panchayat,G09075,Melarcode Grampanchayat,60,Alathur,18,18,1.0000,1,7,9,1,1,LDF,9,UDF,7,NDA,1
+G,Grama Panchayat,G09076,Nemmara Grampanchayat,59,Nenmara,21,22,0.9545,2,13,5,3,1,UDF,13,LDF,5,NDA,3
+G,Grama Panchayat,G09077,Vandazhy Gramapanchayath,60,Alathur,20,20,1.0000,1,6,11,2,1,LDF,11,UDF,6,NDA,2
+G,Grama Panchayat,G09078,Akathethara Gramapanchayath,55,Malampuzha,19,19,1.0000,1,1,8,10,0,NDA,10,LDF,8,UDF,1
+G,Grama Panchayat,G09079,Malampuzha Gramapanchayath,55,Malampuzha,14,14,1.0000,1,3,6,5,0,LDF,6,NDA,5,UDF,3
+G,Grama Panchayat,G09080,Marutharode Gramapanchayath,55,Malampuzha,21,21,1.0000,1,12,8,1,0,UDF,12,LDF,8,NDA,1
+G,Grama Panchayat,G09081,Puduppariyaram Gramapanchayath,55,Malampuzha,23,23,1.0000,1,7,14,2,0,LDF,14,UDF,7,NDA,2
+G,Grama Panchayat,G09082,Pudusserri Gramapanchayath,55,Malampuzha,24,24,1.0000,1,6,17,1,0,LDF,17,UDF,6,NDA,1
+G,Grama Panchayat,G09083,Kodumbu Gramapanchayath,55,Malampuzha,15,17,0.8824,2,4,10,3,0,LDF,10,UDF,4,NDA,3
+G,Grama Panchayat,G09084,Alathur Gramapanchayath,60,Alathur,18,18,1.0000,1,5,12,0,1,LDF,12,UDF,5,OTH,1
+G,Grama Panchayat,G09085,Erimayur Gramapanchayat,60,Alathur,20,20,1.0000,1,5,15,0,0,LDF,15,UDF,5,,
+G,Grama Panchayat,G09086,Kavassery Gramapanchayath,57,Tarur,19,19,1.0000,1,6,12,1,0,LDF,12,UDF,6,NDA,1
+G,Grama Panchayat,G09087,Kizhakkanchery Gramapanchayath,60,Alathur,24,24,1.0000,1,7,17,0,0,LDF,17,UDF,7,,
+G,Grama Panchayat,G09088,Puthukode Gramapanchayath,57,Tarur,16,16,1.0000,1,10,5,1,0,UDF,10,LDF,5,NDA,1
+G,Grama Panchayat,G09089,Tarur Grampanchayat,57,Tarur,18,18,1.0000,1,7,8,3,0,LDF,8,UDF,7,NDA,3
+G,Grama Panchayat,G09091,Kannambra Gramapanchayath,57,Tarur,18,18,1.0000,1,0,18,0,0,LDF,18,,,,
+G,Grama Panchayat,G10001,Vazhikkadavu Grama Panchayat,35,Nilambur,24,24,1.0000,1,15,5,0,4,UDF,15,LDF,5,OTH,4
+G,Grama Panchayat,G10002,Pothukal Grama Panchayat,35,Nilambur,18,18,1.0000,1,11,2,0,6,UDF,11,OTH,6,LDF,2
+G,Grama Panchayat,G10003,Edakkara Grama Panchayat,35,Nilambur,19,19,1.0000,1,12,4,0,3,UDF,12,LDF,4,OTH,3
+G,Grama Panchayat,G10004,Moothedam Grama Panchayat,35,Nilambur,18,18,1.0000,1,15,1,0,1,UDF,15,LDF,1,OTH,1
+G,Grama Panchayat,G10005,Chungathara Grama Panchayat,35,Nilambur,22,22,1.0000,1,15,4,1,2,UDF,15,LDF,4,OTH,2
+G,Grama Panchayat,G10006,Chaliyar Grama Panchayat,35,Nilambur,13,16,0.8125,2,11,4,0,1,UDF,11,LDF,4,OTH,1
+G,Grama Panchayat,G10008,Cherukavu Grama Panchayat,33,Kondotty,21,22,0.9545,2,14,6,1,1,UDF,14,LDF,6,NDA,1
+G,Grama Panchayat,G10009,Pallikkal Grama Panchayat,42,Vallikkunnu,24,24,1.0000,1,22,1,0,1,UDF,22,LDF,1,OTH,1
+G,Grama Panchayat,G10010,Vazhayoor Grama Panchayat,33,Kondotty,20,20,1.0000,1,6,10,0,4,LDF,10,UDF,6,OTH,4
+G,Grama Panchayat,G10011,Vazhakkad Grama Panchayat,33,Kondotty,22,22,1.0000,1,16,1,0,5,UDF,16,OTH,5,LDF,1
+G,Grama Panchayat,G10012,Pulikkal Grama Panchayat,33,Kondotty,24,24,1.0000,1,21,1,0,2,UDF,21,OTH,2,LDF,1
+G,Grama Panchayat,G10014,Muthuvallur Grama Panchayat,33,Kondotty,18,18,1.0000,1,12,2,0,4,UDF,12,OTH,4,LDF,2
+G,Grama Panchayat,G10015,Chelembra Grama Panchayat,42,Vallikkunnu,21,21,1.0000,1,17,2,2,0,UDF,17,LDF,2,NDA,2
+G,Grama Panchayat,G10016,Wandoor Grama Panchayat,36,Wandoor,22,24,0.9167,2,11,8,0,5,UDF,11,LDF,8,OTH,5
+G,Grama Panchayat,G10017,Thiruvali Grama Panchayat,36,Wandoor,19,19,1.0000,1,8,6,0,5,UDF,8,LDF,6,OTH,5
+G,Grama Panchayat,G10018,Mampad Grama Panchayat,36,Wandoor,21,22,0.9545,2,14,4,0,4,UDF,14,LDF,4,OTH,4
+G,Grama Panchayat,G10019,Porur Grama Panchayat,36,Wandoor,19,19,1.0000,1,12,5,0,2,UDF,12,LDF,5,OTH,2
+G,Grama Panchayat,G10020,Pandikkad Grama Panchayat,37,Manjeri,24,24,1.0000,1,17,6,0,1,UDF,17,LDF,6,OTH,1
+G,Grama Panchayat,G10021,Thrikkalangode Grama Panchayat,37,Manjeri,24,24,1.0000,1,16,4,0,4,UDF,16,LDF,4,OTH,4
+G,Grama Panchayat,G10022,Kalikavu Grama Panchayat,36,Wandoor,22,22,1.0000,1,19,3,0,0,UDF,19,LDF,3,,
+G,Grama Panchayat,G10023,Chokkad Grama Panchayat,36,Wandoor,20,20,1.0000,1,13,4,0,3,UDF,13,LDF,4,OTH,3
+G,Grama Panchayat,G10024,Karuvarakundu Grama Panchayat,36,Wandoor,24,24,1.0000,1,19,2,0,3,UDF,19,OTH,3,LDF,2
+G,Grama Panchayat,G10025,Thuvoor Grama Panchayat,36,Wandoor,19,19,1.0000,1,12,4,0,3,UDF,12,LDF,4,OTH,3
+G,Grama Panchayat,G10026,Amarambalam Grama Panchayat,35,Nilambur,22,22,1.0000,1,16,4,0,2,UDF,16,LDF,4,OTH,2
+G,Grama Panchayat,G10027,Karulai Grama Panchayat,35,Nilambur,17,17,1.0000,1,9,5,0,3,UDF,9,LDF,5,OTH,3
+G,Grama Panchayat,G10028,Edapatta Grama Panchayat,37,Manjeri,17,17,1.0000,1,13,3,0,1,UDF,13,LDF,3,OTH,1
+G,Grama Panchayat,G10030,Urangattiri Grama Panchayat,34,Eranad,24,24,1.0000,1,15,5,0,4,UDF,15,LDF,5,OTH,4
+G,Grama Panchayat,G10031,Kavanur Grama Panchayat,34,Eranad,23,23,1.0000,1,17,5,0,1,UDF,17,LDF,5,OTH,1
+G,Grama Panchayat,G10032,Keezhuparamba Grama Panchayat,34,Eranad,16,16,1.0000,1,9,3,0,4,UDF,9,OTH,4,LDF,3
+G,Grama Panchayat,G10033,Kuzhimanna Grama Panchayat,34,Eranad,21,21,1.0000,1,20,0,0,1,UDF,20,OTH,1,,
+G,Grama Panchayat,G10034,Cheekkode Grama Panchayat,33,Kondotty,21,21,1.0000,1,14,1,0,6,UDF,14,OTH,6,LDF,1
+G,Grama Panchayat,G10035,Pulpatta Grama Panchayat,40,Malappuram,24,24,1.0000,1,17,4,0,3,UDF,17,LDF,4,OTH,3
+G,Grama Panchayat,G10036,Edavanna Grama Panchayat,34,Eranad,24,24,1.0000,1,16,3,0,5,UDF,16,OTH,5,LDF,3
+G,Grama Panchayat,G10037,Anakayam Grama Panchayat,40,Malappuram,23,24,0.9583,2,19,2,0,3,UDF,19,OTH,3,LDF,2
+G,Grama Panchayat,G10038,Morayur Grama Panchayat,40,Malappuram,21,21,1.0000,1,20,0,0,1,UDF,20,OTH,1,,
+G,Grama Panchayat,G10039,Ponmala Grama Panchayat,46,Kottakkal,21,21,1.0000,1,15,2,0,4,UDF,15,OTH,4,LDF,2
+G,Grama Panchayat,G10040,Pookkottur Grama Panchayat,40,Malappuram,23,23,1.0000,1,21,1,0,1,UDF,21,LDF,1,OTH,1
+G,Grama Panchayat,G10041,Othukkungal Grama Panchayat,41,Vengara,23,23,1.0000,1,15,1,0,7,UDF,15,OTH,7,LDF,1
+G,Grama Panchayat,G10042,Kodur Grama Panchayat,40,Malappuram,23,23,1.0000,1,18,1,0,4,UDF,18,OTH,4,LDF,1
+G,Grama Panchayat,G10043,Aliparamba Grama Panchayat,38,Perinthalmanna,24,24,1.0000,1,15,4,0,5,UDF,15,OTH,5,LDF,4
+G,Grama Panchayat,G10044,Elamkulam Grama Panchayat,38,Perinthalmanna,18,18,1.0000,1,7,8,0,3,LDF,8,UDF,7,OTH,3
+G,Grama Panchayat,G10045,Melattur Grama Panchayat,37,Manjeri,11,18,0.6111,2,11,6,0,1,UDF,11,LDF,6,OTH,1
+G,Grama Panchayat,G10046,Keezhattur Grama Panchayat,37,Manjeri,22,22,1.0000,1,17,2,0,3,UDF,17,OTH,3,LDF,2
+G,Grama Panchayat,G10048,Vettattur Grama Panchayat,38,Perinthalmanna,19,19,1.0000,1,12,4,0,3,UDF,12,LDF,4,OTH,3
+G,Grama Panchayat,G10049,Pulamanthole Grama Panchayat,38,Perinthalmanna,23,23,1.0000,1,8,8,0,7,UDF,8,LDF,8,OTH,7
+G,Grama Panchayat,G10050,Angadippuram Grama Panchayat,39,Mankada,24,24,1.0000,1,13,5,1,5,UDF,13,LDF,5,OTH,5
+G,Grama Panchayat,G10051,Kuruva Grama Panchayat,39,Mankada,24,24,1.0000,1,17,3,0,4,UDF,17,OTH,4,LDF,3
+G,Grama Panchayat,G10052,Koottilangadi Grama Panchayat,39,Mankada,22,22,1.0000,1,16,2,0,4,UDF,16,OTH,4,LDF,2
+G,Grama Panchayat,G10053,Puzhakkatiri Grama Panchayat,39,Mankada,19,19,1.0000,1,16,1,0,2,UDF,16,OTH,2,LDF,1
+G,Grama Panchayat,G10054,Moorkanade Grama Panchayat,39,Mankada,22,22,1.0000,1,11,7,1,3,UDF,11,LDF,7,OTH,3
+G,Grama Panchayat,G10055,Makkaraparamba Grama Panchayat,39,Mankada,15,15,1.0000,1,9,0,0,6,UDF,9,OTH,6,,
+G,Grama Panchayat,G10056,Mankada Grama Panchayat,39,Mankada,21,21,1.0000,1,15,4,0,2,UDF,15,LDF,4,OTH,2
+G,Grama Panchayat,G10057,Athavanad Grama Panchayat,45,Tirur,23,24,0.9583,2,19,2,0,3,UDF,19,OTH,3,LDF,2
+G,Grama Panchayat,G10058,Edayur Grama Panchayat,46,Kottakkal,22,22,1.0000,1,16,4,0,2,UDF,16,LDF,4,OTH,2
+G,Grama Panchayat,G10059,Irumbiliyum Grama Panchayat,46,Kottakkal,20,20,1.0000,1,15,2,0,3,UDF,15,OTH,3,LDF,2
+G,Grama Panchayat,G10060,Marakkara Grama Panchayat,46,Kottakkal,24,24,1.0000,1,16,3,0,5,UDF,16,OTH,5,LDF,3
+G,Grama Panchayat,G10061,Kuttippuram Grama Panchayat,46,Kottakkal,24,24,1.0000,1,18,1,0,5,UDF,18,OTH,5,LDF,1
+G,Grama Panchayat,G10063,Kalpakancheri Grama Panchayat,45,Tirur,21,21,1.0000,1,16,1,0,4,UDF,16,OTH,4,LDF,1
+G,Grama Panchayat,G10065,Ponmundam Grama Panchayat,44,Tanur,18,18,1.0000,1,4,0,0,14,OTH,14,UDF,4,,
+G,Grama Panchayat,G10066,Cheriyamundam Grama Panchayat,44,Tanur,20,20,1.0000,1,17,1,0,2,UDF,17,OTH,2,LDF,1
+G,Grama Panchayat,G10067,Ozhoor Grama Panchayat,44,Tanur,20,21,0.9524,2,10,8,1,2,UDF,10,LDF,8,OTH,2
+G,Grama Panchayat,G10068,Niramarutur Grama Panchayat,44,Tanur,19,19,1.0000,1,8,11,0,0,LDF,11,UDF,8,,
+G,Grama Panchayat,G10069,Thanalur Grama Panchayat,44,Tanur,24,24,1.0000,1,14,7,0,3,UDF,14,LDF,7,OTH,3
+G,Grama Panchayat,G10070,Valavannur Grama Panchayat,45,Tirur,21,21,1.0000,1,15,4,0,2,UDF,15,LDF,4,OTH,2
+G,Grama Panchayat,G10071,Perumanna Klari Grama Panchayat,43,Tirurangadi,18,18,1.0000,1,12,0,0,6,UDF,12,OTH,6,,
+G,Grama Panchayat,G10072,Abdurahiman Nagar Grama Panchayat,41,Vengara,24,24,1.0000,1,22,0,0,2,UDF,22,OTH,2,,
+G,Grama Panchayat,G10073,Parappoor Grama Panchayat,41,Vengara,22,22,1.0000,1,17,0,0,5,UDF,17,OTH,5,,
+G,Grama Panchayat,G10074,Thennela Grama Panchayat,43,Tirurangadi,19,19,1.0000,1,14,1,0,4,UDF,14,OTH,4,LDF,1
+G,Grama Panchayat,G10075,Vengara Grama Panchayat,41,Vengara,24,24,1.0000,1,20,0,0,4,UDF,20,OTH,4,,
+G,Grama Panchayat,G10076,Kannamangalam Grama Panchayat,41,Vengara,24,24,1.0000,1,20,0,0,4,UDF,20,OTH,4,,
+G,Grama Panchayat,G10077,Oorakam Grama Panchayat,41,Vengara,19,19,1.0000,1,16,0,0,3,UDF,16,OTH,3,,
+G,Grama Panchayat,G10078,Edarikkode Grama Panchayat,43,Tirurangadi,18,18,1.0000,1,14,3,0,1,UDF,14,LDF,3,OTH,1
+G,Grama Panchayat,G10080,Nannambra Grama Panchayat,43,Tirurangadi,24,24,1.0000,1,17,0,0,7,UDF,17,OTH,7,,
+G,Grama Panchayat,G10081,Moonniyur Grama Panchayat,42,Vallikkunnu,24,24,1.0000,1,20,3,0,1,UDF,20,LDF,3,OTH,1
+G,Grama Panchayat,G10082,Thenhippalam Grama Panchayat,42,Vallikkunnu,20,20,1.0000,1,18,2,0,0,UDF,18,LDF,2,,
+G,Grama Panchayat,G10084,Vallikkunnu Grama Panchayat,42,Vallikkunnu,24,24,1.0000,1,12,7,1,4,UDF,12,LDF,7,OTH,4
+G,Grama Panchayat,G10085,Peruvalloor Grama Panchayat,42,Vallikkunnu,21,21,1.0000,1,20,0,1,0,UDF,20,NDA,1,,
+G,Grama Panchayat,G10086,Purathoor Grama Panchayat,47,Thavanur,20,20,1.0000,1,10,9,0,1,UDF,10,LDF,9,OTH,1
+G,Grama Panchayat,G10087,Mangalam Grama Panchayat,47,Thavanur,21,21,1.0000,1,16,3,0,2,UDF,16,LDF,3,OTH,2
+G,Grama Panchayat,G10088,Thrippengode Grama Panchayat,47,Thavanur,24,24,1.0000,1,14,10,0,0,UDF,14,LDF,10,,
+G,Grama Panchayat,G10089,Vettom Grama Panchayat,45,Tirur,22,22,1.0000,1,15,4,0,3,UDF,15,LDF,4,OTH,3
+G,Grama Panchayat,G10090,Thalakkad Grama Panchayat,45,Tirur,22,22,1.0000,1,11,7,1,3,UDF,11,LDF,7,OTH,3
+G,Grama Panchayat,G10091,Thirunavaya Grama Panchayat,45,Tirur,24,24,1.0000,1,16,5,0,3,UDF,16,LDF,5,OTH,3
+G,Grama Panchayat,G10092,Tavanur Grama Panchayat,47,Thavanur,21,21,1.0000,1,11,8,0,2,UDF,11,LDF,8,OTH,2
+G,Grama Panchayat,G10093,Vattamkulam Grama Panchayat,47,Thavanur,22,22,1.0000,1,13,6,0,3,UDF,13,LDF,6,OTH,3
+G,Grama Panchayat,G10094,Edappal Grama Panchayat,47,Thavanur,21,21,1.0000,1,7,7,5,2,UDF,7,LDF,7,NDA,5
+G,Grama Panchayat,G10095,Kalady Gramapanchayath,75,Angamaly,19,19,1.0000,1,13,4,0,1,UDF,13,LDF,4,OTH,1
+G,Grama Panchayat,G10096,Alamkode Grama Panchayat,48,Ponnani,21,21,1.0000,1,14,5,0,2,UDF,14,LDF,5,OTH,2
+G,Grama Panchayat,G10097,Maranchery Grama Panchayat,48,Ponnani,22,22,1.0000,1,11,10,0,1,UDF,11,LDF,10,OTH,1
+G,Grama Panchayat,G10098,Nannamukku Grama Panchayat,48,Ponnani,19,19,1.0000,1,11,6,1,1,UDF,11,LDF,6,NDA,1
+G,Grama Panchayat,G10099,Perumbadappu Grama Panchayat,48,Ponnani,19,19,1.0000,1,12,6,0,1,UDF,12,LDF,6,OTH,1
+G,Grama Panchayat,G10100,Veliyancode Grama Panchayat,48,Ponnani,21,21,1.0000,1,10,11,0,0,LDF,11,UDF,10,,
+G,Grama Panchayat,G11001,Azhiyur Grama Panchayat,20,Vatakara,20,20,1.0000,1,7,7,2,4,UDF,7,LDF,7,OTH,4
+G,Grama Panchayat,G11002,Chorode Grama Panchayat,20,Vatakara,23,23,1.0000,1,6,13,1,3,LDF,13,UDF,6,OTH,3
+G,Grama Panchayat,G11003,Eramala Grama Panchayat,20,Vatakara,21,21,1.0000,1,7,8,0,6,LDF,8,UDF,7,OTH,6
+G,Grama Panchayat,G11004,Onchiyam Grama Panchayat,20,Vatakara,19,19,1.0000,1,5,7,0,7,LDF,7,OTH,7,UDF,5
+G,Grama Panchayat,G11005,Chekkiad Grama Panchayat,22,Nadapuram,17,17,1.0000,1,15,1,0,1,UDF,15,LDF,1,OTH,1
+G,Grama Panchayat,G11006,Purameri Grama Panchayat,21,Kuttiady,19,19,1.0000,1,12,7,0,0,UDF,12,LDF,7,,
+G,Grama Panchayat,G11007,Tuneri Grama Panchayat,22,Nadapuram,17,17,1.0000,1,12,5,0,0,UDF,12,LDF,5,,
+G,Grama Panchayat,G11008,Valayam Grama Panchayat,22,Nadapuram,15,15,1.0000,1,4,11,0,0,LDF,11,UDF,4,,
+G,Grama Panchayat,G11009,Vanimal Grama Panchayat,22,Nadapuram,18,18,1.0000,1,8,9,0,1,LDF,9,UDF,8,OTH,1
+G,Grama Panchayat,G11010,Edacheri Grama Panchayat,22,Nadapuram,18,18,1.0000,1,4,14,0,0,LDF,14,UDF,4,,
+G,Grama Panchayat,G11011,Nadapuram Grama Panchayat,22,Nadapuram,24,24,1.0000,1,17,5,0,2,UDF,17,LDF,5,OTH,2
+G,Grama Panchayat,G11012,Kunnummal Grama Panchayat,21,Kuttiady,15,15,1.0000,1,6,9,0,0,LDF,9,UDF,6,,
+G,Grama Panchayat,G11013,Velom Grama Panchayat,21,Kuttiady,18,18,1.0000,1,13,4,0,1,UDF,13,LDF,4,OTH,1
+G,Grama Panchayat,G11014,Kayakkody Grama Panchayat,22,Nadapuram,17,17,1.0000,1,9,8,0,0,UDF,9,LDF,8,,
+G,Grama Panchayat,G11015,Kavilumpara Grama Panchayat,22,Nadapuram,17,17,1.0000,1,7,10,0,0,LDF,10,UDF,7,,
+G,Grama Panchayat,G11016,Kuttiadi Grama Panchayat,21,Kuttiady,14,15,0.9333,2,7,8,0,0,LDF,8,UDF,7,,
+G,Grama Panchayat,G11017,Maruthonkara Grama Panchayat,22,Nadapuram,13,15,0.8667,2,5,9,0,1,LDF,9,UDF,5,OTH,1
+G,Grama Panchayat,G11019,Ayancheri Grama Panchayat,21,Kuttiady,18,18,1.0000,1,12,6,0,0,UDF,12,LDF,6,,
+G,Grama Panchayat,G11020,Villiappally Grama Panchayat,21,Kuttiady,21,21,1.0000,1,9,12,0,0,LDF,12,UDF,9,,
+G,Grama Panchayat,G11021,Maniyur Grama Panchayat,21,Kuttiady,23,23,1.0000,1,10,11,0,2,LDF,11,UDF,10,OTH,2
+G,Grama Panchayat,G11022,Thiruvallur Grama Panchayat,21,Kuttiady,22,22,1.0000,1,11,11,0,0,UDF,11,LDF,11,,
+G,Grama Panchayat,G11023,Thurayur Grama Panchayat,24,Perambra,14,14,1.0000,1,9,5,0,0,UDF,9,LDF,5,,
+G,Grama Panchayat,G11024,Keezhariyur Grama Panchayat,24,Perambra,14,14,1.0000,1,5,9,0,0,LDF,9,UDF,5,,
+G,Grama Panchayat,G11025,Thikkodi Grama Panchayat,23,Koyilandy,18,18,1.0000,1,12,5,0,1,UDF,12,LDF,5,OTH,1
+G,Grama Panchayat,G11027,Meppayur Grama Panchayat,24,Perambra,19,19,1.0000,1,6,13,0,0,LDF,13,UDF,6,,
+G,Grama Panchayat,G11028,Cheruvannur Grama Panchayat,24,Perambra,17,17,1.0000,1,12,5,0,0,UDF,12,LDF,5,,
+G,Grama Panchayat,G11029,Nochad Grama Panchayat,24,Perambra,18,18,1.0000,1,6,12,0,0,LDF,12,UDF,6,,
+G,Grama Panchayat,G11030,Changaroth Grama Panchayat,24,Perambra,20,20,1.0000,1,17,1,0,2,UDF,17,OTH,2,LDF,1
+G,Grama Panchayat,G11031,Kayanna Grama Panchayat,25,Balussery,13,14,0.9286,2,3,10,0,1,LDF,10,UDF,3,OTH,1
+G,Grama Panchayat,G11032,Koothali Grama Panchayat,24,Perambra,14,14,1.0000,1,10,2,0,2,UDF,10,LDF,2,OTH,2
+G,Grama Panchayat,G11033,Perambra Grama Panchayat,24,Perambra,21,21,1.0000,1,10,8,1,2,UDF,10,LDF,8,OTH,2
+G,Grama Panchayat,G11034,Chakkittapara Grama Panchayat,24,Perambra,16,16,1.0000,1,9,7,0,0,UDF,9,LDF,7,,
+G,Grama Panchayat,G11035,Balussery Grama Panchayat,25,Balussery,18,18,1.0000,1,7,7,2,2,UDF,7,LDF,7,NDA,2
+G,Grama Panchayat,G11036,Naduvannur Grama Panchayat,25,Balussery,18,18,1.0000,1,10,7,0,1,UDF,10,LDF,7,OTH,1
+G,Grama Panchayat,G11037,Kottur Grama Panchayat,25,Balussery,20,20,1.0000,1,7,10,0,3,LDF,10,UDF,7,OTH,3
+G,Grama Panchayat,G11038,Ulliyeri Grama Panchayat,25,Balussery,21,21,1.0000,1,6,15,0,0,LDF,15,UDF,6,,
+G,Grama Panchayat,G11039,Unnikulam Grama Panchayat,25,Balussery,24,24,1.0000,1,13,9,2,0,UDF,13,LDF,9,NDA,2
+G,Grama Panchayat,G11040,Panangad Grama Panchayat,25,Balussery,21,21,1.0000,1,8,13,0,0,LDF,13,UDF,8,,
+G,Grama Panchayat,G11041,Koorachundu Grama Panchayat,25,Balussery,14,14,1.0000,1,9,4,0,1,UDF,9,LDF,4,OTH,1
+G,Grama Panchayat,G11042,Chemanchery Grama Panchayat,23,Koyilandy,21,21,1.0000,1,10,9,1,1,UDF,10,LDF,9,NDA,1
+G,Grama Panchayat,G11043,Arikkulam Grama Panchayat,24,Perambra,15,15,1.0000,1,5,8,0,2,LDF,8,UDF,5,OTH,2
+G,Grama Panchayat,G11044,Moodadi Grama Panchayat,23,Koyilandy,20,20,1.0000,1,9,10,0,1,LDF,10,UDF,9,OTH,1
+G,Grama Panchayat,G11045,Chengottukavu Grama Panchayat,23,Koyilandy,18,18,1.0000,1,9,5,4,0,UDF,9,LDF,5,NDA,4
+G,Grama Panchayat,G11046,Atholi Grama Panchayat,25,Balussery,19,19,1.0000,1,6,12,0,1,LDF,12,UDF,6,OTH,1
+G,Grama Panchayat,G11047,Kakkodi Grama Panchayat,26,Elathur,24,24,1.0000,1,6,17,0,1,LDF,17,UDF,6,OTH,1
+G,Grama Panchayat,G11048,Chelannur Grama Panchayat,26,Elathur,24,24,1.0000,1,11,12,0,1,LDF,12,UDF,11,OTH,1
+G,Grama Panchayat,G11049,Kakkur Grama Panchayat,26,Elathur,17,17,1.0000,1,10,5,1,1,UDF,10,LDF,5,NDA,1
+G,Grama Panchayat,G11050,Nanminda Grama Panchayat,26,Elathur,18,18,1.0000,1,8,8,2,0,UDF,8,LDF,8,NDA,2
+G,Grama Panchayat,G11051,Narikunni Grama Panchayat,31,Koduvally,17,17,1.0000,1,13,2,0,2,UDF,13,LDF,2,OTH,2
+G,Grama Panchayat,G11052,Thalakulathur Grama Panchayat,26,Elathur,19,19,1.0000,1,12,7,0,0,UDF,12,LDF,7,,
+G,Grama Panchayat,G11053,Thiruvambadi Grama Panchayat,32,Thiruvambady,19,19,1.0000,1,9,8,0,2,UDF,9,LDF,8,OTH,2
+G,Grama Panchayat,G11054,Koodaranhi Grama Panchayat,32,Thiruvambady,15,15,1.0000,1,8,6,0,1,UDF,8,LDF,6,OTH,1
+G,Grama Panchayat,G11055,Kizhakkoth Grama Panchayat,31,Koduvally,20,20,1.0000,1,14,1,0,5,UDF,14,OTH,5,LDF,1
+G,Grama Panchayat,G11056,Madavoor Grama Panchayat,31,Koduvally,19,19,1.0000,1,13,5,0,1,UDF,13,LDF,5,OTH,1
+G,Grama Panchayat,G11058,Puthuppadi Grama Panchayat,32,Thiruvambady,24,24,1.0000,1,19,2,0,3,UDF,19,OTH,3,LDF,2
+G,Grama Panchayat,G11059,Thamarassery Grama Panchayat,31,Koduvally,22,22,1.0000,1,16,4,0,2,UDF,16,LDF,4,OTH,2
+G,Grama Panchayat,G11060,Omassery Grama Panchayat,31,Koduvally,20,22,0.9091,3,16,5,0,1,UDF,16,LDF,5,OTH,1
+G,Grama Panchayat,G11061,Kattippara Grama Panchayat,31,Koduvally,12,17,0.7059,2,9,8,0,0,UDF,9,LDF,8,,
+G,Grama Panchayat,G11062,Kodanchery Grama Panchayat,32,Thiruvambady,17,21,0.8095,2,18,3,0,0,UDF,18,LDF,3,,
+G,Grama Panchayat,G11063,Kodiyathur Grama Panchayat,32,Thiruvambady,19,19,1.0000,1,11,4,0,4,UDF,11,LDF,4,OTH,4
+G,Grama Panchayat,G11064,Kuruvattoor Grama Panchayat,26,Elathur,21,21,1.0000,1,10,9,1,1,UDF,10,LDF,9,NDA,1
+G,Grama Panchayat,G11065,Mavoor Grama Panchayat,30,Kunnamangalam,19,19,1.0000,1,10,5,0,4,UDF,10,LDF,5,OTH,4
+G,Grama Panchayat,G11066,Karassery Grama Panchayat,32,Thiruvambady,20,20,1.0000,1,6,11,0,3,LDF,11,UDF,6,OTH,3
+G,Grama Panchayat,G11067,Kunnamangalam Grama Panchayat,30,Kunnamangalam,24,24,1.0000,1,16,5,2,1,UDF,16,LDF,5,NDA,2
+G,Grama Panchayat,G11068,Chathamangalam Grama Panchayat,30,Kunnamangalam,24,24,1.0000,1,10,8,2,4,UDF,10,LDF,8,OTH,4
+G,Grama Panchayat,G11070,Peruvayal Grama Panchayat,30,Kunnamangalam,22,24,0.9167,3,12,9,0,3,UDF,12,LDF,9,OTH,3
+G,Grama Panchayat,G11071,Perumanna Grama Panchayat,30,Kunnamangalam,22,22,1.0000,1,14,7,0,1,UDF,14,LDF,7,OTH,1
+G,Grama Panchayat,G11072,Kadalundi Grama Panchayat,29,Beypore,23,23,1.0000,1,9,13,1,1,LDF,13,UDF,9,NDA,1
+G,Grama Panchayat,G11075,Olavanna Grama Panchayat,30,Kunnamangalam,24,24,1.0000,1,8,15,1,0,LDF,15,UDF,8,NDA,1
+G,Grama Panchayat,G12002,Vellamunda Grama Panchayat,17,Mananthavady,24,24,1.0000,1,16,7,0,1,UDF,16,LDF,7,OTH,1
+G,Grama Panchayat,G12003,Thirunelly Grama Panchayat,17,Mananthavady,19,19,1.0000,1,2,15,1,1,LDF,15,UDF,2,NDA,1
+G,Grama Panchayat,G12004,Thondernad Grama Panchayat,17,Mananthavady,17,17,1.0000,1,13,3,1,0,UDF,13,LDF,3,NDA,1
+G,Grama Panchayat,G12005,Edavaka Grama Panchayat,17,Mananthavady,21,21,1.0000,1,15,6,0,0,UDF,15,LDF,6,,
+G,Grama Panchayat,G12006,Thavinhal Grama Panchayat,17,Mananthavady,23,23,1.0000,1,15,8,0,0,UDF,15,LDF,8,,
+G,Grama Panchayat,G12008,Noolpuzha Grama Panchayat,18,Sulthan Bathery,19,19,1.0000,1,10,7,2,0,UDF,10,LDF,7,NDA,2
+G,Grama Panchayat,G12009,Nenmeni Grama Panchayat,18,Sulthan Bathery,24,24,1.0000,1,12,10,1,1,UDF,12,LDF,10,NDA,1
+G,Grama Panchayat,G12010,Ambalavayal Grama Panchayat,18,Sulthan Bathery,21,22,0.9545,2,16,5,1,0,UDF,16,LDF,5,NDA,1
+G,Grama Panchayat,G12011,Meenangadi Grama Panchayat,18,Sulthan Bathery,20,21,0.9524,2,7,12,0,2,LDF,12,UDF,7,OTH,2
+G,Grama Panchayat,G12012,Vengappally Grama Panchayat,19,Kalpetta,14,14,1.0000,1,9,3,1,1,UDF,9,LDF,3,NDA,1
+G,Grama Panchayat,G12013,Vythiri Grama Panchayat,19,Kalpetta,15,15,1.0000,1,5,6,0,4,LDF,6,UDF,5,OTH,4
+G,Grama Panchayat,G12014,Pozhuthana Grama Panchayat,19,Kalpetta,15,15,1.0000,1,9,6,0,0,UDF,9,LDF,6,,
+G,Grama Panchayat,G12015,Thariode Grama Panchayat,19,Kalpetta,14,14,1.0000,1,9,3,0,2,UDF,9,LDF,3,OTH,2
+G,Grama Panchayat,G12016,Meppadi Grama Panchayat,19,Kalpetta,23,23,1.0000,1,13,9,0,1,UDF,13,LDF,9,OTH,1
+G,Grama Panchayat,G12018,Kottathara Grama Panchayat,19,Kalpetta,14,14,1.0000,1,6,4,1,3,UDF,6,LDF,4,OTH,3
+G,Grama Panchayat,G12019,Muttil Grama Panchayat,19,Kalpetta,22,22,1.0000,1,10,11,0,1,LDF,11,UDF,10,OTH,1
+G,Grama Panchayat,G12020,Padinharathara Grama Panchayat,19,Kalpetta,18,18,1.0000,1,13,2,0,3,UDF,13,OTH,3,LDF,2
+G,Grama Panchayat,G12021,Panamaram Grama Panchayat,17,Mananthavady,24,24,1.0000,1,15,8,1,0,UDF,15,LDF,8,NDA,1
+G,Grama Panchayat,G12022,Kaniyambetta Grama Panchayat,19,Kalpetta,21,21,1.0000,1,17,2,1,1,UDF,17,LDF,2,NDA,1
+G,Grama Panchayat,G12023,Poothadi Grama Panchayat,18,Sulthan Bathery,23,23,1.0000,1,8,9,3,3,LDF,9,UDF,8,NDA,3
+G,Grama Panchayat,G12024,Pulpally Grama Panchayat,18,Sulthan Bathery,21,21,1.0000,1,8,8,4,1,UDF,8,LDF,8,NDA,4
+G,Grama Panchayat,G12025,Mullankolly Grama Panchayat,18,Sulthan Bathery,19,19,1.0000,1,13,2,1,3,UDF,13,OTH,3,LDF,2
+G,Grama Panchayat,G13001,Cheruthazham Grama Panchayat,7,Kalliasseri,19,19,1.0000,1,0,19,0,0,LDF,19,,,,
+G,Grama Panchayat,G13002,Madayi Grama Panchayat,7,Kalliasseri,22,22,1.0000,1,17,4,0,1,UDF,17,LDF,4,OTH,1
+G,Grama Panchayat,G13003,Ezhome Grama Panchayat,7,Kalliasseri,15,15,1.0000,1,2,13,0,0,LDF,13,UDF,2,,
+G,Grama Panchayat,G13004,Cherukunnu Grama Panchayat,7,Kalliasseri,14,14,1.0000,1,2,12,0,0,LDF,12,UDF,2,,
+G,Grama Panchayat,G13005,Mattool Grama Panchayat,7,Kalliasseri,17,17,1.0000,1,18,1,0,0,UDF,18,LDF,1,,
+G,Grama Panchayat,G13006,Kannapuram Grama Panchayat,7,Kalliasseri,15,15,1.0000,1,0,15,0,0,LDF,15,,,,
+G,Grama Panchayat,G13007,Kalliasseri Grama Panchayat,7,Kalliasseri,20,20,1.0000,1,0,20,0,0,LDF,20,,,,
+G,Grama Panchayat,G13008,Narath Grama Panchayat,10,Azhikode,18,18,1.0000,1,11,7,0,0,UDF,11,LDF,7,,
+G,Grama Panchayat,G13009,Cherupuzha Grama Panchayat,6,Payyanur,20,20,1.0000,1,13,6,0,1,UDF,13,LDF,6,OTH,1
+G,Grama Panchayat,G13010,Perongome Vayakkara Grama Panchayat,6,Payyanur,19,19,1.0000,1,7,12,0,0,LDF,12,UDF,7,,
+G,Grama Panchayat,G13011,Eramam Kuttur Grama Panchayat,6,Payyanur,19,19,1.0000,1,1,17,0,1,LDF,17,UDF,1,OTH,1
+G,Grama Panchayat,G13012,Kankol-Alappadamba Grama Panchayat,6,Payyanur,15,15,1.0000,1,0,15,0,0,LDF,15,,,,
+G,Grama Panchayat,G13013,Karvellur-Peralam Grama Panchayat,6,Payyanur,15,15,1.0000,1,0,16,0,0,LDF,16,,,,
+G,Grama Panchayat,G13014,Kunhimangalam Grama Panchayat,7,Kalliasseri,15,15,1.0000,1,4,11,0,0,LDF,11,UDF,4,,
+G,Grama Panchayat,G13015,Ramanthali Grama Panchayat,6,Payyanur,18,18,1.0000,1,7,11,0,0,LDF,11,UDF,7,,
+G,Grama Panchayat,G13016,Udayagiri Grama Panchayat,9,Irikkur,15,15,1.0000,1,11,3,0,1,UDF,11,LDF,3,OTH,1
+G,Grama Panchayat,G13017,Alakode Grama Panchayat,9,Irikkur,21,21,1.0000,1,14,5,1,1,UDF,14,LDF,5,NDA,1
+G,Grama Panchayat,G13018,Naduvil Grama Panchayat,9,Irikkur,20,20,1.0000,1,14,4,0,2,UDF,14,LDF,4,OTH,2
+G,Grama Panchayat,G13019,Chapparapadavu Grama Panchayat,8,Taliparamba,12,20,0.6000,2,11,8,0,1,UDF,11,LDF,8,OTH,1
+G,Grama Panchayat,G13020,Chengalayi Grama Panchayat,9,Irikkur,20,20,1.0000,1,9,11,0,0,LDF,11,UDF,9,,
+G,Grama Panchayat,G13021,Kurumathur Grama Panchayat,8,Taliparamba,20,20,1.0000,1,5,14,0,1,LDF,14,UDF,5,OTH,1
+G,Grama Panchayat,G13022,Pariyaram Grama Panchayat,8,Taliparamba,21,21,1.0000,1,8,13,0,0,LDF,13,UDF,8,,
+G,Grama Panchayat,G13023,Pattuvam Grama Panchayat,7,Kalliasseri,14,14,1.0000,1,5,9,0,0,LDF,9,UDF,5,,
+G,Grama Panchayat,G13024,Kadannappally Panapuzha Grama Panchayat,7,Kalliasseri,16,16,1.0000,1,1,15,0,0,LDF,15,UDF,1,,
+G,Grama Panchayat,G13025,Irikkur Grama Panchayat,9,Irikkur,13,14,0.9286,2,12,1,0,1,UDF,12,LDF,1,OTH,1
+G,Grama Panchayat,G13026,Eruvessy Grama Panchayat,9,Irikkur,15,15,1.0000,1,8,2,0,5,UDF,8,OTH,5,LDF,2
+G,Grama Panchayat,G13027,Malappattam Grama Panchayat,8,Taliparamba,14,14,1.0000,1,1,13,0,0,LDF,13,UDF,1,,
+G,Grama Panchayat,G13028,Payyavoor Grama Panchayat,9,Irikkur,17,17,1.0000,1,13,4,0,0,UDF,13,LDF,4,,
+G,Grama Panchayat,G13029,Mayyil Grama Panchayat,8,Taliparamba,19,19,1.0000,1,4,14,0,1,LDF,14,UDF,4,OTH,1
+G,Grama Panchayat,G13032,Ulikkal Grama Panchayat,9,Irikkur,22,22,1.0000,1,15,5,0,2,UDF,15,LDF,5,OTH,2
+G,Grama Panchayat,G13033,Kuttiatoor Grama Panchayat,8,Taliparamba,18,18,1.0000,1,2,15,0,1,LDF,15,UDF,2,OTH,1
+G,Grama Panchayat,G13034,Chirakkal Grama Panchayat,10,Azhikode,24,24,1.0000,1,8,14,1,1,LDF,14,UDF,8,NDA,1
+G,Grama Panchayat,G13037,Valapattanam Grama Panchayat,10,Azhikode,14,14,1.0000,1,10,1,1,2,UDF,10,OTH,2,LDF,1
+G,Grama Panchayat,G13038,Azhikode Grama Panchayat,10,Azhikode,22,22,1.0000,1,7,15,1,1,LDF,15,UDF,7,NDA,1
+G,Grama Panchayat,G13039,Pappinisseri Grama Panchayat,10,Azhikode,22,22,1.0000,1,4,16,1,1,LDF,16,UDF,4,NDA,1
+G,Grama Panchayat,G13040,Kolacherry Grama Panchayat,8,Taliparamba,19,19,1.0000,1,13,5,1,0,UDF,13,LDF,5,NDA,1
+G,Grama Panchayat,G13041,Munderi Grama Panchayat,11,Kannur,22,22,1.0000,1,11,11,0,0,UDF,11,LDF,11,,
+G,Grama Panchayat,G13045,Chembilode Grama Panchayat,12,Dharmadom,21,21,1.0000,1,10,11,0,0,LDF,11,UDF,10,,
+G,Grama Panchayat,G13046,Kadambur Grama Panchayat,12,Dharmadom,14,15,0.9333,2,7,7,0,1,UDF,7,LDF,7,OTH,1
+G,Grama Panchayat,G13047,Peralassery Grama Panchayat,12,Dharmadom,19,19,1.0000,1,4,15,0,0,LDF,15,UDF,4,,
+G,Grama Panchayat,G13048,Muzhappilangad Grama Panchayat,12,Dharmadom,16,16,1.0000,1,2,11,0,4,LDF,11,OTH,4,UDF,2
+G,Grama Panchayat,G13049,Vengad Grama Panchayat,12,Dharmadom,23,23,1.0000,1,7,16,0,0,LDF,16,UDF,7,,
+G,Grama Panchayat,G13050,Dharmadam Grama Panchayat,12,Dharmadom,20,20,1.0000,1,2,15,3,0,LDF,15,NDA,3,UDF,2
+G,Grama Panchayat,G13051,Eranholi Grama Panchayat,13,Thalassery,18,18,1.0000,1,2,16,0,0,LDF,16,UDF,2,,
+G,Grama Panchayat,G13052,Pinarayi Grama Panchayat,12,Dharmadom,21,21,1.0000,1,0,21,0,0,LDF,21,,,,
+G,Grama Panchayat,G13053,New Mahe Grama Panchayat,13,Thalassery,14,14,1.0000,1,5,9,0,0,LDF,9,UDF,5,,
+G,Grama Panchayat,G13054,Anjarakandy Grama Panchayat,12,Dharmadom,17,17,1.0000,1,6,11,0,0,LDF,11,UDF,6,,
+G,Grama Panchayat,G13055,Triprangottoor Grama Panchayat,14,Kuthuparamba,19,19,1.0000,1,10,4,4,1,UDF,10,LDF,4,NDA,4
+G,Grama Panchayat,G13056,Chittariparamba Grama Panchayat,15,Mattanur,16,17,0.9412,2,2,14,1,0,LDF,14,UDF,2,NDA,1
+G,Grama Panchayat,G13057,Pattiam Grama Panchayat,14,Kuthuparamba,20,20,1.0000,1,2,16,2,0,LDF,16,UDF,2,NDA,2
+G,Grama Panchayat,G13058,Kunnothuparamba Grama Panchayat,14,Kuthuparamba,23,23,1.0000,1,11,9,3,0,UDF,11,LDF,9,NDA,3
+G,Grama Panchayat,G13059,Mangattidam Grama Panchayat,15,Mattanur,21,21,1.0000,1,1,19,0,1,LDF,19,UDF,1,OTH,1
+G,Grama Panchayat,G13060,Kottayam Grama Panchayat,14,Kuthuparamba,15,15,1.0000,1,1,14,0,0,LDF,14,UDF,1,,
+G,Grama Panchayat,G13061,Chokli Grama Panchayat,13,Thalassery,19,19,1.0000,1,1,18,0,0,LDF,18,UDF,1,,
+G,Grama Panchayat,G13065,Panniyannur Grama Panchayat,13,Thalassery,16,16,1.0000,1,0,16,0,0,LDF,16,,,,
+G,Grama Panchayat,G13066,Mokeri Grama Panchayat,14,Kuthuparamba,15,15,1.0000,1,2,12,1,0,LDF,12,UDF,2,NDA,1
+G,Grama Panchayat,G13067,Kadirur Grama Panchayat,13,Thalassery,20,20,1.0000,1,0,20,0,0,LDF,20,,,,
+G,Grama Panchayat,G13068,Aralam Grama Panchayat,16,Peravoor,19,19,1.0000,1,13,6,0,0,UDF,13,LDF,6,,
+G,Grama Panchayat,G13069,Ayyankunnu Grama Panchayat,16,Peravoor,16,16,1.0000,1,14,1,1,0,UDF,14,LDF,1,NDA,1
+G,Grama Panchayat,G13070,Keezhallur Grama Panchayat,15,Mattanur,16,16,1.0000,1,4,12,0,0,LDF,12,UDF,4,,
+G,Grama Panchayat,G13071,Thillankery Grama Panchayat,15,Mattanur,14,14,1.0000,1,2,10,2,0,LDF,10,UDF,2,NDA,2
+G,Grama Panchayat,G13072,Koodali Grama Panchayat,15,Mattanur,20,20,1.0000,1,8,12,0,0,LDF,12,UDF,8,,
+G,Grama Panchayat,G13073,Payam Grama Panchayat,16,Peravoor,19,19,1.0000,1,6,13,0,0,LDF,13,UDF,6,,
+G,Grama Panchayat,G13075,Kanichar Grama Panchayat,16,Peravoor,14,14,1.0000,1,12,2,0,0,UDF,12,LDF,2,,
+G,Grama Panchayat,G13076,Kelakam Grama Panchayat,16,Peravoor,14,14,1.0000,1,9,5,0,0,UDF,9,LDF,5,,
+G,Grama Panchayat,G13077,Kottiyoor Grama Panchayat,16,Peravoor,14,14,1.0000,1,11,2,1,0,UDF,11,LDF,2,NDA,1
+G,Grama Panchayat,G13078,Muzhakkunnu Grama Panchayat,16,Peravoor,16,16,1.0000,1,5,8,2,1,LDF,8,UDF,5,NDA,2
+G,Grama Panchayat,G13079,Kolayad Grama Panchayat,15,Mattanur,12,15,0.8000,2,7,8,0,0,LDF,8,UDF,7,,
+G,Grama Panchayat,G13080,Malur Grama Panchayat,15,Mattanur,16,16,1.0000,1,4,11,0,1,LDF,11,UDF,4,OTH,1
+G,Grama Panchayat,G13081,Peravoor Grama Panchayat,16,Peravoor,17,18,0.9444,2,6,10,1,0,LDF,10,UDF,6,NDA,1
+G,Grama Panchayat,G14001,Kumbadaje Grama Panchayat,2,Kasaragod,14,14,1.0000,1,5,1,7,1,NDA,7,UDF,5,LDF,1
+G,Grama Panchayat,G14002,Beloor Grama Panchayat,2,Kasaragod,14,14,1.0000,1,0,2,6,6,NDA,6,OTH,6,LDF,2
+G,Grama Panchayat,G14003,Karaduka Grama Panchayat,2,Kasaragod,14,16,0.8750,2,4,3,8,1,NDA,8,UDF,4,LDF,3
+G,Grama Panchayat,G14004,Muliyar Grama Panchayat,3,Udma,18,18,1.0000,1,12,3,3,0,UDF,12,LDF,3,NDA,3
+G,Grama Panchayat,G14005,Delampadi Grama Panchayat,3,Udma,17,17,1.0000,1,4,5,5,3,LDF,5,NDA,5,UDF,4
+G,Grama Panchayat,G14006,Bedadka Grama Panchayat,3,Udma,19,19,1.0000,1,2,17,0,0,LDF,17,UDF,2,,
+G,Grama Panchayat,G14007,Kuttikol Grama Panchayat,3,Udma,17,17,1.0000,1,5,10,2,0,LDF,10,UDF,5,NDA,2
+G,Grama Panchayat,G14008,Manjeswaram Grama Panchayat,1,Manjeshwaram,24,24,1.0000,1,13,0,6,5,UDF,13,NDA,6,OTH,5
+G,Grama Panchayat,G14009,Vorkady Grama Panchayat,1,Manjeshwaram,18,18,1.0000,1,10,4,2,2,UDF,10,LDF,4,NDA,2
+G,Grama Panchayat,G14010,Meenja Grama Panchayat,1,Manjeshwaram,17,17,1.0000,1,9,1,7,0,UDF,9,NDA,7,LDF,1
+G,Grama Panchayat,G14011,Mangalpaddy Grama Panchayat,1,Manjeshwaram,24,24,1.0000,1,19,2,3,0,UDF,19,NDA,3,LDF,2
+G,Grama Panchayat,G14012,Paivalike Grama Panchayat,1,Manjeshwaram,21,21,1.0000,1,7,5,5,4,UDF,7,LDF,5,NDA,5
+G,Grama Panchayat,G14013,Puthige Grama Panchayat,1,Manjeshwaram,16,16,1.0000,1,5,5,2,4,UDF,5,LDF,5,OTH,4
+G,Grama Panchayat,G14014,Enmakaje Grama Panchayat,1,Manjeshwaram,17,17,1.0000,1,8,4,6,0,UDF,8,NDA,6,LDF,4
+G,Grama Panchayat,G14015,Kumbala Grama Panchayat,1,Manjeshwaram,24,24,1.0000,1,15,3,5,1,UDF,15,NDA,5,LDF,3
+G,Grama Panchayat,G14016,Badiadka Grama Panchayat,2,Kasaragod,21,21,1.0000,1,10,1,10,0,UDF,10,NDA,10,LDF,1
+G,Grama Panchayat,G14017,Mogral-Puthur Grama Panchayat,2,Kasaragod,17,17,1.0000,1,8,2,4,3,UDF,8,NDA,4,OTH,3
+G,Grama Panchayat,G14018,Madhur Grama Panchayat,2,Kasaragod,24,24,1.0000,1,9,0,15,0,NDA,15,UDF,9,,
+G,Grama Panchayat,G14019,Chemnad Grama Panchayat,3,Udma,24,24,1.0000,1,18,4,1,1,UDF,18,LDF,4,NDA,1
+G,Grama Panchayat,G14020,Chengala Grama Panchayat,2,Kasaragod,24,24,1.0000,1,19,4,0,1,UDF,19,LDF,4,OTH,1
+G,Grama Panchayat,G14021,Uduma Grama Panchayat,3,Udma,22,22,1.0000,1,12,11,0,0,UDF,12,LDF,11,,
+G,Grama Panchayat,G14022,Pallikkara Grama Panchayat,3,Udma,24,24,1.0000,1,11,12,1,0,LDF,12,UDF,11,NDA,1
+G,Grama Panchayat,G14023,Ajanur Grama Panchayat,4,Kanhangad,24,24,1.0000,1,8,12,4,0,LDF,12,UDF,8,NDA,4
+G,Grama Panchayat,G14024,Pullur-Periya Grama Panchayat,3,Udma,19,19,1.0000,1,9,9,1,0,UDF,9,LDF,9,NDA,1
+G,Grama Panchayat,G14025,Madikai Grama Panchayat,4,Kanhangad,16,16,1.0000,1,0,15,1,0,LDF,15,NDA,1,,
+G,Grama Panchayat,G14026,Kodom-Belur Grama Panchayat,4,Kanhangad,21,21,1.0000,1,4,15,1,1,LDF,15,UDF,4,NDA,1
+G,Grama Panchayat,G14027,Kallar Grama Panchayat,4,Kanhangad,15,15,1.0000,1,12,1,1,1,UDF,12,LDF,1,NDA,1
+G,Grama Panchayat,G14029,Balal Grama Panchayat,4,Kanhangad,17,17,1.0000,1,14,2,0,1,UDF,14,LDF,2,OTH,1
+G,Grama Panchayat,G14030,Kinanur-Karindalam Grama Panchayat,4,Kanhangad,19,19,1.0000,1,5,14,0,0,LDF,14,UDF,5,,
+G,Grama Panchayat,G14031,West Eleri Grama Panchayat,5,Thrikaripur,18,19,0.9474,2,9,10,0,0,LDF,10,UDF,9,,
+G,Grama Panchayat,G14032,East Eleri Grama Panchayat,5,Thrikaripur,18,18,1.0000,1,11,2,0,5,UDF,11,OTH,5,LDF,2
+G,Grama Panchayat,G14033,Kayyur-Chimeni Grama Panchayat,5,Thrikaripur,17,17,1.0000,1,1,16,0,0,LDF,16,UDF,1,,
+G,Grama Panchayat,G14034,Cheruvathur Grama Panchayat,5,Thrikaripur,18,18,1.0000,1,5,13,0,0,LDF,13,UDF,5,,
+G,Grama Panchayat,G14035,Valiyaparampa Grama Panchayat,5,Thrikaripur,5,5,1.0000,1,8,6,0,0,UDF,8,LDF,6,,
+G,Grama Panchayat,G14036,Padanna Grama Panchayat,5,Thrikaripur,16,16,1.0000,1,7,9,0,0,LDF,9,UDF,7,,
+G,Grama Panchayat,G14037,Pilicode Grama Panchayat,5,Thrikaripur,18,18,1.0000,1,0,18,0,0,LDF,18,,,,
+G,Grama Panchayat,G14038,Thrikkarippur Grama Panchayat,5,Thrikaripur,23,23,1.0000,1,20,3,0,0,UDF,20,LDF,3,,
+M,Municipality,M01001,Neyyattinkara Municipality,140,Neyyattinkara,39,46,0.8478,2,12,25,7,2,LDF,25,UDF,12,NDA,7
+M,Municipality,M01002,Nedumangad Municipality,130,Nedumangad,24,42,0.5714,2,10,29,3,0,LDF,29,UDF,10,NDA,3
+M,Municipality,M01003,Attingal Municipality,128,Attingal,27,32,0.8438,2,7,16,7,2,LDF,16,UDF,7,NDA,7
+M,Municipality,M01004,Varkala Municipality,127,Varkala,34,34,1.0000,1,6,16,10,2,LDF,16,NDA,10,UDF,6
+M,Municipality,M02005,Paravoor Municipality,126,Chathannoor,31,31,1.0000,1,5,20,6,1,LDF,20,NDA,6,UDF,5
+M,Municipality,M02006,Punalur Municipality,121,Punalur,36,36,1.0000,1,14,21,1,0,LDF,21,UDF,14,NDA,1
+M,Municipality,M02007,Karunagappally Municipality,116,Karunagapally,37,37,1.0000,1,19,12,6,0,UDF,19,LDF,12,NDA,6
+M,Municipality,M02087,Kottarakara Municipality,119,Kottarakkara,30,30,1.0000,1,7,17,5,1,LDF,17,UDF,7,NDA,5
+M,Municipality,M03008,Adoor Municipality,115,Adoor,29,29,1.0000,1,16,8,4,1,UDF,16,LDF,8,NDA,4
+M,Municipality,M03009,Pathanamthitta Municipality,113,Aranmula,33,33,1.0000,1,17,12,1,3,UDF,17,LDF,12,OTH,3
+M,Municipality,M03010,Thiruvalla Municipality,111,Thiruvalla,39,39,1.0000,1,18,11,7,3,UDF,18,LDF,11,NDA,7
+M,Municipality,M03061,Pandalam Municipality,115,Adoor,34,34,1.0000,1,11,14,9,0,LDF,14,UDF,11,NDA,9
+M,Municipality,M04011,Kayamkulam Municipality,108,Kayamkulam,45,45,1.0000,1,21,13,5,6,UDF,21,LDF,13,OTH,6
+M,Municipality,M04012,Mavelikkara Municipality,109,Mavelikara,22,28,0.7857,2,15,4,8,1,UDF,15,NDA,8,LDF,4
+M,Municipality,M04013,Chengannur Municipality,110,Chengannur,26,26,1.0000,1,13,5,6,3,UDF,13,NDA,6,LDF,5
+M,Municipality,M04014,Alappuzha Municipality,104,Alappuzha,28,53,0.5283,2,23,22,5,3,UDF,23,LDF,22,NDA,5
+M,Municipality,M04015,Cherthala Municipality,103,Cherthala,36,36,1.0000,1,10,20,4,2,LDF,20,UDF,10,NDA,4
+M,Municipality,M04062,Haripad Municipality,107,Haripad,30,30,1.0000,1,16,7,6,1,UDF,16,LDF,7,NDA,6
+M,Municipality,M05016,Changanassery Municipality,99,Changanassery,37,37,1.0000,1,13,9,8,7,UDF,13,LDF,9,NDA,8
+M,Municipality,M05017,Kottayam Municipality,97,Kottayam,53,53,1.0000,1,31,15,6,1,UDF,31,LDF,15,NDA,6
+M,Municipality,M05018,Vaikom Municipality,95,Vaikom,27,27,1.0000,1,13,7,3,4,UDF,13,LDF,7,OTH,4
+M,Municipality,M05019,Pala Municipality,93,Pala,26,26,1.0000,1,10,11,0,5,LDF,11,UDF,10,OTH,5
+M,Municipality,M05063,Ettumanoor Municipality,96,Ettumanoor,36,36,1.0000,1,20,5,6,5,UDF,20,NDA,6,LDF,5
+M,Municipality,M05064,Erattupetta Municipality,101,Poonjar,29,29,1.0000,1,8,7,0,14,OTH,14,UDF,8,LDF,7
+M,Municipality,M06020,Thodupuzha Municipality,90,Thodupuzha,38,38,1.0000,1,19,3,9,7,UDF,19,NDA,9,OTH,7
+M,Municipality,M06065,Kattappana Municipality,91,Idukki,35,35,1.0000,1,20,12,0,3,UDF,20,LDF,12,OTH,3
+M,Municipality,M07021,Thrippunithura Municipality,81,Thrippunithura,40,53,0.7547,3,12,20,21,0,NDA,21,LDF,20,UDF,12
+M,Municipality,M07022,Muvattupuzha Municipality,86,Muvattupuzha,30,30,1.0000,1,17,7,1,5,UDF,17,LDF,7,OTH,5
+M,Municipality,M07023,Kothamangalam Municipality,87,Kothamangalam,33,33,1.0000,1,20,4,1,8,UDF,20,OTH,8,LDF,4
+M,Municipality,M07024,Perumbavoor Municipality,74,Perumbavoor,29,29,1.0000,1,14,8,2,5,UDF,14,LDF,8,OTH,5
+M,Municipality,M07025,Aluva Municipality,76,Aluva,26,26,1.0000,1,16,2,4,4,UDF,16,NDA,4,OTH,4
+M,Municipality,M07026,Kalamassery Municipality,77,Kalamassery,46,46,1.0000,1,28,11,1,6,UDF,28,LDF,11,OTH,6
+M,Municipality,M07028,Angamaly Municipality,75,Angamaly,31,31,1.0000,1,12,9,2,8,UDF,12,LDF,9,OTH,8
+M,Municipality,M07029,Eloor Municipality,77,Kalamassery,32,32,1.0000,1,11,7,5,9,UDF,11,OTH,9,LDF,7
+M,Municipality,M07030,Thrikkakara Municipality,83,Thrikkakara,34,48,0.7083,2,26,15,0,7,UDF,26,LDF,15,OTH,7
+M,Municipality,M07031,Maradu Municipality,81,Thrippunithura,35,35,1.0000,1,19,7,0,9,UDF,19,OTH,9,LDF,7
+M,Municipality,M07066,Piravom Municipality,85,Piravom,24,24,1.0000,1,21,1,1,5,UDF,21,OTH,5,LDF,1
+M,Municipality,M07067,Koothattukulam Municipality,85,Piravom,26,26,1.0000,1,16,8,0,2,UDF,16,LDF,8,OTH,2
+M,Municipality,M08032,Chalakudy Municipality,72,Chalakudy,37,37,1.0000,1,21,5,1,10,UDF,21,OTH,10,LDF,5
+M,Municipality,M08033,Irinjalakuda Municipality,70,Irinjalakuda,43,43,1.0000,1,22,12,6,3,UDF,22,LDF,12,NDA,6
+M,Municipality,M08034,Kodungallur Municipality,73,Kodungallur,46,46,1.0000,1,3,25,18,0,LDF,25,NDA,18,UDF,3
+M,Municipality,M08035,Chavakkad Municipality,63,Guruvayur,33,33,1.0000,1,11,20,0,2,LDF,20,UDF,11,OTH,2
+M,Municipality,M08036,Guruvayoor Municipality,63,Guruvayur,33,46,0.7174,2,16,23,2,5,LDF,23,UDF,16,OTH,5
+M,Municipality,M08037,Kunnamkulam Municipality,62,Kunnamkulam,39,39,1.0000,1,9,18,7,5,LDF,18,UDF,9,NDA,7
+M,Municipality,M08068,Wadakanchery Municipality,65,Wadakkanchery,41,42,0.9762,2,17,22,2,1,LDF,22,UDF,17,NDA,2
+M,Municipality,M09038,Shoranur Municipality,51,Shornur,35,35,1.0000,1,5,17,12,1,LDF,17,NDA,12,UDF,5
+M,Municipality,M09039,Ottappalam Municipality,52,Ottapalam,38,39,0.9744,2,7,19,12,1,LDF,19,NDA,12,UDF,7
+M,Municipality,M09040,Palakkad Municipality,56,Palakkad,51,53,0.9623,2,17,8,25,3,NDA,25,UDF,17,LDF,8
+M,Municipality,M09041,ChitturThathamangalam Municipality,58,Chittur,30,30,1.0000,1,19,6,0,5,UDF,19,LDF,6,OTH,5
+M,Municipality,M09069,Pattambi Municipality,50,Pattambi,29,29,1.0000,1,15,7,1,6,UDF,15,LDF,7,OTH,6
+M,Municipality,M09070,Cherpulassery Municipality,51,Shornur,33,33,1.0000,1,12,11,1,9,UDF,12,LDF,11,OTH,9
+M,Municipality,M09071,Mannarkad Municipality,54,Mannarkkad,30,30,1.0000,1,17,4,1,8,UDF,17,OTH,8,LDF,4
+M,Municipality,M10042,Ponnani Municipality,48,Ponnani,51,51,1.0000,1,16,31,2,4,LDF,31,UDF,16,OTH,4
+M,Municipality,M10043,Tirur Municipality,45,Tirur,40,40,1.0000,1,28,7,1,4,UDF,28,LDF,7,OTH,4
+M,Municipality,M10044,Perinthalmanna Municipality,38,Perinthalmanna,37,37,1.0000,1,15,14,0,8,UDF,15,LDF,14,OTH,8
+M,Municipality,M10045,Malappuram Municipality,40,Malappuram,45,45,1.0000,1,35,6,0,4,UDF,35,LDF,6,OTH,4
+M,Municipality,M10046,Manjeri Municipality,37,Manjeri,53,53,1.0000,1,34,11,1,7,UDF,34,LDF,11,OTH,7
+M,Municipality,M10047,Kottakkal Municipality,46,Kottakkal,35,35,1.0000,1,25,5,2,3,UDF,25,LDF,5,OTH,3
+M,Municipality,M10048,Nilambur Municipality,35,Nilambur,36,36,1.0000,1,26,6,0,4,UDF,26,LDF,6,OTH,4
+M,Municipality,M10072,Tanur Municipality,44,Tanur,43,43,1.0000,1,31,0,8,6,UDF,31,NDA,8,OTH,6
+M,Municipality,M10073,Parappanangadi Municipality,43,Tirurangadi,46,46,1.0000,1,33,3,3,7,UDF,33,OTH,7,LDF,3
+M,Municipality,M10074,Valanchery Municipality,46,Kottakkal,34,34,1.0000,1,25,2,0,7,UDF,25,OTH,7,LDF,2
+M,Municipality,M10075,Tirurangadi Municipality,43,Tirurangadi,39,40,0.9750,2,34,1,0,5,UDF,34,OTH,5,LDF,1
+M,Municipality,M10088,Kondotty Municipality,33,Kondotty,41,41,1.0000,1,31,2,0,8,UDF,31,OTH,8,LDF,2
+M,Municipality,M11049,Koyilandy Municipality,23,Koyilandy,40,46,0.8696,2,19,22,4,1,LDF,22,UDF,19,NDA,4
+M,Municipality,M11050,Vatakara Municipality,20,Vatakara,48,48,1.0000,1,15,28,3,2,LDF,28,UDF,15,NDA,3
+M,Municipality,M11076,Payyoli Municipality,23,Koyilandy,37,37,1.0000,1,21,14,1,1,UDF,21,LDF,14,NDA,1
+M,Municipality,M11077,Ramanattukara Municipality,29,Beypore,32,32,1.0000,1,22,9,0,1,UDF,22,LDF,9,OTH,1
+M,Municipality,M11078,Koduvally Municipality,31,Koduvally,37,37,1.0000,1,21,3,0,13,UDF,21,OTH,13,LDF,3
+M,Municipality,M11079,Mukkam Municipality,32,Thiruvambady,32,34,0.9412,2,10,16,1,7,LDF,16,UDF,10,OTH,7
+M,Municipality,M11080,Feroke Municipality,29,Beypore,39,39,1.0000,1,23,15,1,0,UDF,23,LDF,15,NDA,1
+M,Municipality,M12051,Kalpetta Municipality,19,Kalpetta,30,30,1.0000,1,8,15,2,5,LDF,15,UDF,8,OTH,5
+M,Municipality,M12081,Mananthavady Municipality,17,Mananthavady,37,37,1.0000,1,21,15,0,1,UDF,21,LDF,15,OTH,1
+M,Municipality,M12082,Sulthan Bathery Municipality,18,Sulthan Bathery,36,36,1.0000,1,19,14,1,2,UDF,19,LDF,14,OTH,2
+M,Municipality,M13053,Thaliparambu Municipality,8,Taliparamba,35,35,1.0000,1,17,15,3,0,UDF,17,LDF,15,NDA,3
+M,Municipality,M13054,Koothuparamba Municipality,14,Kuthuparamba,29,29,1.0000,1,4,23,1,1,LDF,23,UDF,4,NDA,1
+M,Municipality,M13055,Thalassery Municipality,13,Thalassery,53,53,1.0000,1,13,32,6,2,LDF,32,UDF,13,NDA,6
+M,Municipality,M13056,Payyannur Municipality,6,Payyanur,46,46,1.0000,1,9,35,0,2,LDF,35,UDF,9,OTH,2
+M,Municipality,M13083,Iritty Municipality,16,Peravoor,33,34,0.9706,2,13,16,4,1,LDF,16,UDF,13,NDA,4
+M,Municipality,M13084,Panoor Municipality,14,Kuthuparamba,41,41,1.0000,1,23,14,3,1,UDF,23,LDF,14,NDA,3
+M,Municipality,M13085,Sreekandapuram Municipality,9,Irikkur,31,31,1.0000,1,18,13,0,0,UDF,18,LDF,13,,
+M,Municipality,M13086,Anthoor Municipality,8,Taliparamba,29,29,1.0000,1,0,29,0,0,LDF,29,,,,
+M,Municipality,M14058,Kanhangad Municipality,4,Kanhangad,47,47,1.0000,1,20,20,4,3,UDF,20,LDF,20,NDA,4
+M,Municipality,M14059,Kasaragod Municipality,2,Kasaragod,35,35,1.0000,1,24,1,12,2,UDF,24,NDA,12,OTH,2

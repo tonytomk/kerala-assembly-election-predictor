@@ -302,7 +302,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2011,Malappuram,46,46,Kottakkal,ADV.K.C.NASEER,SDPI,2650,2.2393,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
 2011,Malappuram,46,46,Kottakkal,KADAMPUZHA BINDHU DEVARAJAN,IND,894,0.7554,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
 2011,Malappuram,46,46,Kottakkal,MADATHIL MUHAMMAD ELLIAS,BSP,458,0.387,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/46
-2011,Malappuram,47,47,Thavanur,DR.K.T. JALEEL,IND,57729,47.2039,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,DR.K.T. JALEEL,CPI(M),57729,47.2039,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
 2011,Malappuram,47,47,Thavanur,ADV. V.V. PRAKASH,INC,50875,41.5995,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
 2011,Malappuram,47,47,Thavanur,NIRMALA KUTTIKRISHNAN PUNNAKKAL,BJP,7107,5.8113,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
 2011,Malappuram,47,47,Thavanur,NURUL HACK,SDPI,3116,2.5479,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
@@ -542,7 +542,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2011,Ernakulam,81,81,Thripunithura,P.K.THANKAMANI,OTH,137,0.1046,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
 2011,Ernakulam,81,81,Thripunithura,K.P.AYYAPPAN,UNKNOWN,105,0.0802,False,https://www.ceo.kerala.gov.in/pdf/form20/081.pdf
 2011,Ernakulam,82,82,Eranakulam,HIBI EDEN,INC,59919,61.5836,True,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
-2011,Ernakulam,82,82,Eranakulam,SEBASTIAN PAUL,OTH,27482,28.2455,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
+2011,Ernakulam,82,82,Eranakulam,SEBASTIAN PAUL,CPI(M),27482,28.2455,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
 2011,Ernakulam,82,82,Eranakulam,C.G. RAJAGOPAL,UNKNOWN,6362,6.5387,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
 2011,Ernakulam,82,82,Eranakulam,SEBASTIAN NJALAMKUNNEL,UNKNOWN,2347,2.4122,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
 2011,Ernakulam,82,82,Eranakulam,IQBAL THAMARASSERY,UNKNOWN,742,0.7626,False,https://www.ceo.kerala.gov.in/pdf/form20/082.pdf
@@ -554,9 +554,9 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2011,Ernakulam,83,83,Thrikkakara,ABDUL SALAM PARAKKADAN,UNKNOWN,869,0.7374,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
 2011,Ernakulam,83,83,Thrikkakara,BENNY GEORGE,OTH,410,0.3479,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
 2011,Ernakulam,83,83,Thrikkakara,SHEREEF THANKAYATHIL,UNKNOWN,404,0.3428,False,https://www.ceo.kerala.gov.in/pdf/form20/083.pdf
-2011,Ernakulam,84,84,Kunnathunad,V.P. SAJEENDRAN,UNKNOWN,63624,49.7171,True,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
-2011,Ernakulam,84,84,Kunnathunad,M.A. SURENDRAN,UNKNOWN,54892,42.8938,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
-2011,Ernakulam,84,84,Kunnathunad,M.RAVI,UNKNOWN,5862,4.5807,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,V.P. SAJEENDRAN,INC,63624,49.7171,True,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,M.A. SURENDRAN,CPI(M),54892,42.8938,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
+2011,Ernakulam,84,84,Kunnathunad,M.RAVI,BJP,5862,4.5807,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
 2011,Ernakulam,84,84,Kunnathunad,M.K.MANOJKUMAR,OTH,2969,2.32,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
 2011,Ernakulam,84,84,Kunnathunad,RAJEEV P.T,UNKNOWN,625,0.4884,False,https://www.ceo.kerala.gov.in/pdf/form20/084.pdf
 2011,Ernakulam,85,85,Piravom,T M JACOB,OTH,66503,47.5266,True,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
@@ -741,8 +741,8 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2011,Pathanamthitta,112,112,Ranni,S RADHAKRISHNAN,OTH,350,0.2908,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
 2011,Pathanamthitta,112,112,Ranni,ULAKAN THEVAN,OTH,196,0.1628,False,https://www.ceo.kerala.gov.in/pdf/form20/112.pdf
 2011,Pathanamthitta,113,113,Aranmula,K SIVADASAN NAIR,INC,64845,47.6889,True,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
-2011,Pathanamthitta,113,113,Aranmula,K.C. RAJAGOPALAN,UNKNOWN,58334,42.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
-2011,Pathanamthitta,113,113,Aranmula,K. HARIDAS,UNKNOWN,10227,7.5212,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K.C. RAJAGOPALAN,CPI(M),58334,42.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K. HARIDAS,BJP,10227,7.5212,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
 2011,Pathanamthitta,113,113,Aranmula,AMRITHA KUMAR T,BSP,721,0.5302,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
 2011,Pathanamthitta,113,113,Aranmula,NAZARUDHEEN,SDPI,709,0.5214,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
 2011,Pathanamthitta,113,113,Aranmula,SUGATHAN R,OTH,387,0.2846,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
@@ -793,7 +793,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2011,Kollam,119,119,Kottarakkara,S SOLOMON,UNKNOWN,773,0.5624,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
 2011,Kollam,119,119,Kottarakkara,PRAKASH V,OTH,454,0.3303,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
 2011,Kollam,119,119,Kottarakkara,PRAKASH R,OTH,320,0.2328,False,https://www.ceo.kerala.gov.in/pdf/form20/119.pdf
-2011,Kollam,120,120,Pathanapuram,K. B. GANESH KUMAR,UNKNOWN,71421,55.6381,True,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,K. B. GANESH KUMAR,KC(B),71421,55.6381,True,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
 2011,Kollam,120,120,Pathanapuram,K.RAJAGOPAL,CPI(M),51019,39.7446,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
 2011,Kollam,120,120,Pathanapuram,R.SUBHASH PATTAZHY,UNKNOWN,2839,2.2116,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
 2011,Kollam,120,120,Pathanapuram,ANEESH ANTONY,OTH,1613,1.2566,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
@@ -931,7 +931,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2011,Thiruvananthapuram,137,137,Parassala,T K VISWAMBARAN,OTH,1207,0.8927,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
 2011,Thiruvananthapuram,137,137,Parassala,OORUTTUKALA  ANIKUMAR,UNKNOWN,774,0.5724,False,https://www.ceo.kerala.gov.in/pdf/form20/137.pdf
 2011,Thiruvananthapuram,138,138,Kattakkada,SAKTHAN N,INC,52368,44.6266,True,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
-2011,Thiruvananthapuram,138,138,Kattakkada,M V JAYADALI,OTH,39452,33.6199,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
+2011,Thiruvananthapuram,138,138,Kattakkada,M V JAYADALI,CPI(M),39452,33.6199,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
 2011,Thiruvananthapuram,138,138,Kattakkada,P K KRISHNA DAS,BJP,22550,19.2165,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
 2011,Thiruvananthapuram,138,138,Kattakkada,VENGODU SUNIL KUMAR,UNKNOWN,1303,1.1104,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf
 2011,Thiruvananthapuram,138,138,Kattakkada,KATTAKADA RAJAN,UNKNOWN,613,0.5224,False,https://www.ceo.kerala.gov.in/pdf/form20/138.pdf

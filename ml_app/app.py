@@ -8,6 +8,7 @@ import sys
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import numpy as np
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 # Ensure `ml_app` is importable regardless of Streamlit working directory.
@@ -19,6 +20,7 @@ from ml_app.model_pipeline import ModelConfig, default_cache_dir, load_constitue
 from ml_app.data_loader import load_all_elections
 from ml_app.predictor import _compute_party_vote_shares
 from ml_app.ollama_client import generate_explanation_ollama
+from ml_app.model_pipeline import evaluate_model_performance
 
 
 st.set_page_config(page_title="Kerala Election Analytics", layout="wide")
@@ -166,10 +168,16 @@ with st.expander("Show all constituency predictions (2026 top-3)"):
 
 left, right = st.columns([1, 1])
 with left:
-    constituency_number = st.selectbox(
-        "Select constituency (number)",
-        sorted(const_df["constituency_number"].unique().tolist()),
+    const_options = const_df.sort_values("constituency_number")[["constituency_number", "constituency"]].copy()
+    const_options["label"] = const_options.apply(
+        lambda row: f"{int(row['constituency_number'])} - {str(row['constituency'])}",
+        axis=1,
     )
+    constituency_label = st.selectbox(
+        "Select constituency",
+        const_options["label"].tolist(),
+    )
+    constituency_number = int(const_options.loc[const_options["label"] == constituency_label, "constituency_number"].iloc[0])
 
 with right:
     enable_ollama = st.checkbox("Generate explanation using Ollama", value=False)
@@ -310,3 +318,66 @@ if enable_ollama:
                 st.warning("Ollama returned empty response.")
         except Exception as e:
             st.error(f"Ollama call failed: {e}")
+
+
+st.markdown("---")
+with st.container(border=True):
+    st.markdown("### About This Project")
+    st.markdown(
+        "Project repo: "
+        "[kerala-assembly-election-predictor]"
+        "(https://github.com/tonytomk/kerala-assembly-election-predictor)"
+    )
+    st.markdown(
+        "This app is an estimate of the 2026 Kerala Assembly election based on past election results, "
+        "recent by-elections, official 2026 candidate lists, and 2025 local-body trends."
+    )
+    st.markdown(
+        "In simple terms, the model looks at how each front or party performed in earlier elections in the "
+        "same constituency, gives more importance to more recent results, and then blends that with current "
+        "local-body strength to produce a likely vote-share range."
+    )
+    st.markdown(
+        "It also applies a few constituency-level corrections where Kerala politics is highly candidate-driven "
+        "or where alliance shifts make the raw history misleading. These numbers are directional projections, "
+        "not official forecasts."
+    )
+
+
+def display_metrics(true_values: list, predicted_values: list):
+    """
+    Display model performance metrics in the Streamlit UI.
+    """
+    metrics = evaluate_model_performance(np.array(true_values), np.array(predicted_values))
+    st.subheader("Model Performance Metrics")
+    st.write(metrics)
+
+# Example integration in Streamlit app
+# Assuming true_values and predicted_values are available after predictions
+# true_values = [...]  # Replace with actual data
+# predicted_values = [...]  # Replace with actual data
+# display_metrics(true_values, predicted_values)
+
+# Display model performance metrics
+st.markdown("---")
+st.subheader("Model Performance Metrics")
+
+# Ensure proper column names for merging
+if 'vote_share' in party_df.columns:
+    party_df = party_df.rename(columns={'vote_share': 'vote_share_true'})
+if 'predicted_vote_share' in pred_df.columns:
+    pred_df = pred_df.rename(columns={'predicted_vote_share': 'vote_share_pred'})
+
+# Merge DataFrames
+aligned_df = pred_df.merge(
+    party_df,
+    on=['constituency_number', 'party'],
+    how='inner'
+)
+
+# Extract true and predicted values
+true_values = aligned_df['vote_share_true'].values
+predicted_values = aligned_df['vote_share_pred'].values
+
+# Display metrics in the Streamlit UI
+display_metrics(true_values, predicted_values)

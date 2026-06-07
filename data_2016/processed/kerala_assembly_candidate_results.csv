@@ -448,7 +448,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2016,Malappuram,46,46,Kottakkal,BINDU DEVARAJAN,IND,223,0.1502,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
 2016,Malappuram,46,46,Kottakkal,SAINUL ABID THANGAL,IND,150,0.101,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
 2016,Malappuram,46,46,Kottakkal,BEERAN. K,IND,105,0.0707,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/046.pdf
-2016,Malappuram,47,47,Thavanur,DR. K.T. JALEEL,IND,68179,47.9712,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
+2016,Malappuram,47,47,Thavanur,DR. K.T. JALEEL,CPI(M),68179,47.9712,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
 2016,Malappuram,47,47,Thavanur,IFTHIQUARUDHEEN MASTER,INC,51115,35.9648,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
 2016,Malappuram,47,47,Thavanur,RAVI THELATH,BJP,15801,11.1177,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
 2016,Malappuram,47,47,Thavanur,P.K. JALEEL PARAKKUZHIYIL,SDPI,2649,1.8639,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/047.pdf
@@ -757,7 +757,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2016,Ernakulam,81,81,Thripunithura,K.N. PRADEEP,IND,116,0.075,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
 2016,Ernakulam,81,81,Thripunithura,AYYAPPAN,IND,112,0.0724,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/081.pdf
 2016,Ernakulam,82,82,Eranakulam,HIBI EADEN,UNKNOWN,57819,52.3211,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
-2016,Ernakulam,82,82,Eranakulam,M ANIL KUMAR,UNKNOWN,35870,32.4592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
+2016,Ernakulam,82,82,Eranakulam,M ANIL KUMAR,CPI(M),35870,32.4592,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
 2016,Ernakulam,82,82,Eranakulam,N K MOHANDAS,UNKNOWN,14878,13.4633,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
 2016,Ernakulam,82,82,Eranakulam,NOTA,NOTA,940,0.8506,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf
 2016,Ernakulam,82,82,Eranakulam,IQBAL THAMARASSERY,UNKNOWN,397,0.3593,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/082.pdf

@@ -1,5 +1,5 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
-2011,Ernakulam,85,85,Piravom,T M JACOB,OTH,66503,47.5266,True,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
+2011,Ernakulam,85,85,Piravom,T M JACOB,KC(J),66503,47.5266,True,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
 2011,Ernakulam,85,85,Piravom,M J JACOB,CPI(M),66346,47.4144,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
 2011,Ernakulam,85,85,Piravom,M.N MADHU,UNKNOWN,4234,3.0258,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf
 2011,Ernakulam,85,85,Piravom,JOSHY JOSEPH,BSP,979,0.6996,False,https://www.ceo.kerala.gov.in/pdf/form20/085.pdf

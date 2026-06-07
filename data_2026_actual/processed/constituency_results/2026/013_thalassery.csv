@@ -1,0 +1,2 @@
+year,district,district_id,constituency_id,constituency_number,constituency,candidate,party,alliance,votes,margin,round_status,is_winner,source_url
+2026,Kannur,2,13,13,Thalassery,KARAYI RAJAN,CPI(M),LDF,69743.0,20523.0,15/15,True,https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm

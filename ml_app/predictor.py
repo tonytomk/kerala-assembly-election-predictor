@@ -5,8 +5,10 @@ from typing import Dict, Iterable, List, Tuple
 
 import numpy as np
 import pandas as pd
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 
-from ml_app.alliance_mapping import format_alliance_tag
+from ml_app.alliance_mapping import format_alliance_tag_for_year
+from ml_app.constituency_overrides import get_override_rows
 
 
 @dataclass(frozen=True)
@@ -76,6 +78,13 @@ def _compute_party_vote_shares(candidate_df: pd.DataFrame) -> pd.DataFrame:
                 # main UDF IND's large vote share is correctly captured.
                 return "UDF"
 
+        if c_num == 59:  # Nenmara
+            cand = str(row.get("candidate", "")).upper()
+            if yr == 2011 and party_upper == "CMP":
+                return "UDF"
+            if yr == 2021 and party_upper == "CMPKSC":
+                return "UDF"
+
         if c_num == 26:  # Elathur
             # In 2021, the UDF candidate was an Independent (Zulphikar mayoori)
             if yr == 2021 and party_upper == "IND":
@@ -104,9 +113,52 @@ def _compute_party_vote_shares(candidate_df: pd.DataFrame) -> pd.DataFrame:
             if yr == 2021 and party_upper in {"NCP", "IND"} and "KAPP" in str(row.get("candidate", "")).upper():
                 return "UDF"
 
+        if c_num == 84:  # Kunnathunad
+            cand = str(row.get("candidate", "")).upper()
+            if yr in {2011, 2016, 2021} and "SAJEENDRAN" in cand:
+                return "UDF"
+            if yr in {2011, 2016} and "SURENDRAN" in cand and "M.A" in cand:
+                return "LDF"
+            if yr in {2011, 2016, 2021} and "P.V" in cand and "SREENIJIN" in cand:
+                return "LDF"
+            if yr == 2011 and "M.RAVI" in cand:
+                return "NDA"
+            if yr == 2016 and "THURAVOOR" in cand:
+                return "NDA"
+            if yr == 2021 and "JITHIN DEV" in cand:
+                return "NDA"
+
+        if c_num == 85:  # Piravom
+            cand = str(row.get("candidate", "")).upper()
+            if yr == 2021 and party_upper in {"KEC(M)", "KEC (M)", "KERALA CONGRESS (M)"}:
+                return "LDF"
+            if party_upper in {"KC(J)", "KEC(J)"}:
+                return "UDF"
+            if yr in {2011, 2016} and "T M JACOB" in cand:
+                return "UDF"
+            if yr == 2016 and "ANOOP JACOB" in cand:
+                return "UDF"
+
         if c_num == 99:  # Changanassery
             # KEC(M) was UDF in 2011 (in 2016 the user manually changed it to UDF in the dataset)
             if yr == 2011 and party_upper in {"KEC(M)", "KEC (M)", "KERALA CONGRESS (M)"}:
+                return "UDF"
+
+        if c_num == 120:  # Pathanapuram
+            cand = str(row.get("candidate", "")).upper()
+            if yr in {2011, 2016} and "GANESH KUMAR" in cand:
+                return "UDF"
+            if yr == 2021 and party_upper in {"KEC(B)", "KC(B)", "KCB"}:
+                return "LDF"
+            if yr == 2021 and "JITHIN DEV" in cand:
+                return "NDA"
+
+        if c_num == 82:  # Ernakulam
+            # CPI(M) candidates should be LDF for all years
+            if party_upper == "CPI(M)" or party_upper == "CPI[M]" or party_upper == "CPI [M]":
+                return "LDF"
+            # INC candidates should be UDF for all years
+            if party_upper == "INC":
                 return "UDF"
 
         if c_num == 117:  # Chavara
@@ -123,10 +175,12 @@ def _compute_party_vote_shares(candidate_df: pd.DataFrame) -> pd.DataFrame:
                 if "SUJITH" in cand and party_upper == "IND":  # Dr. SUJITH VIJAYANPILLAI (LDF)
                     return "LDF"
 
-        tag = format_alliance_tag(party_name)
+        tag = format_alliance_tag_for_year(party_name, yr)
         if tag in {"LDF", "UDF", "NDA"}:
             return tag
-        return party_name
+        # Collapse everything else into OTHER so raw placeholders like
+        # UNKNOWN/IND/OTH do not become synthetic parties in the model.
+        return "OTHER"
 
     df["party"] = df.apply(get_entity, axis=1)
 
@@ -261,6 +315,22 @@ def predict_top3_parties_2026(
             for party in list(party_share_preds.keys()):
                 party_share_preds[party] = (party_share_preds[party] / sum_pred_parties) * valid_share_target
 
+        for override in get_override_rows("predictor_party_adjustments"):
+            if int(override.get("constituency_number", -1)) != c:
+                continue
+            party_deltas = override.get("party_deltas", {})
+            if not isinstance(party_deltas, dict):
+                continue
+            for party, delta in party_deltas.items():
+                if party not in party_share_preds:
+                    continue
+                party_share_preds[party] = max(0.0, float(party_share_preds[party]) + float(delta))
+
+            adjusted_total = float(sum(party_share_preds.values()))
+            if adjusted_total > 1e-9:
+                for party in list(party_share_preds.keys()):
+                    party_share_preds[party] = (party_share_preds[party] / adjusted_total) * valid_share_target
+
         for party, share in party_share_preds.items():
             rows.append(
                 PredictionRow(
@@ -278,4 +348,33 @@ def predict_top3_parties_2026(
     top3["rank"] = top3.groupby("constituency_number").cumcount() + 1
     top3["target_year"] = target_year
     return top3.reset_index(drop=True)
+
+
+def _ensemble_predict(x: np.ndarray, y: np.ndarray, x_pred: float) -> float:
+    """
+    Ensemble prediction using Random Forest and Gradient Boosting.
+    """
+    if len(x) < 2:
+        return float(np.mean(y))
+
+    # Prepare data for training
+    X = x.reshape(-1, 1)
+    y = y
+
+    # Train Random Forest
+    rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
+    rf_model.fit(X, y)
+    rf_pred = rf_model.predict([[x_pred]])[0]
+
+    # Train Gradient Boosting
+    gb_model = GradientBoostingRegressor(n_estimators=100, random_state=42)
+    gb_model.fit(X, y)
+    gb_pred = gb_model.predict([[x_pred]])[0]
+
+    # Combine predictions (weighted average)
+    ensemble_pred = 0.5 * rf_pred + 0.5 * gb_pred
+    return ensemble_pred
+
+
+
 

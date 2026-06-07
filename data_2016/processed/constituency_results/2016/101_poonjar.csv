@@ -1,7 +1,7 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
 2016,Kottayam,101,101,Poonjar,P C GEORGE PLATHOTTAM,IND,63621,43.6499,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
 2016,Kottayam,101,101,Poonjar,GEORGEKUTTY AUGUSTY,KEC(M),35800,24.5621,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
-2016,Kottayam,101,101,Poonjar,ADV. P C JOSEPH PONNATTU,IND,22270,15.2793,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
+2016,Kottayam,101,101,Poonjar,ADV. P C JOSEPH PONNATTU,BJP,22270,15.2793,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
 2016,Kottayam,101,101,Poonjar,M R ULLAS,BDJS,19966,13.6985,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
 2016,Kottayam,101,101,Poonjar,P A ABDUL HAKKIM,WPI,804,0.5516,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf
 2016,Kottayam,101,101,Poonjar,NISHAD NADAKAL,PDP,530,0.3636,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/101.pdf

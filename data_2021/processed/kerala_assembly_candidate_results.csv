@@ -366,7 +366,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2021,Malappuram,46,46,Kottakkal,BINDHU DEVARAJAN,IND,481,0.3,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Malappuram,46,46,Kottakkal,AYISHA,IND,328,0.21,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Malappuram,46,46,Kottakkal,SAINUL ABID THANGAL IND,IND,173,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
-2021,Malappuram,47,47,Thavanur,DR.K.T.JALEEL,IND,70358,46.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Malappuram,47,47,Thavanur,DR.K.T.JALEEL,CPI(M),70358,46.46,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Malappuram,47,47,Thavanur,FIROS KUNNAMPARAMBIL,INC,67794,44.77,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Malappuram,47,47,Thavanur,RAMESH KOTTAYAPURATH,BDJS,9914,6.55,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Malappuram,47,47,Thavanur,HASSAN CHIYANOOR,SDPI,1747,1.15,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
@@ -622,7 +622,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2021,Ernakulam,81,81,Thripunithura,C. B. ASHOKAN,SUCI,173,0.11,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,81,81,Thripunithura,K. P. AYAPPEN IND,IND,88,0.06,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,82,82,Eranakulam,T. J. Vinod,INC,45930,41.72,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
-2021,Ernakulam,82,82,Eranakulam,SHAJI GEORGE PRANATHA,IND,34960,31.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,82,82,Eranakulam,SHAJI GEORGE PRANATHA,CPI(M),34960,31.75,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,82,82,Eranakulam,Padmaja S. Menon,BJP,16043,14.57,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,82,82,Eranakulam,Prof. Leslie Pallath,UNKNOWN,10634,9.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,82,82,Eranakulam,Sujith C. Sukumaran,IND,1042,0.95,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
@@ -644,7 +644,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2021,Ernakulam,83,83,Thrikkakara,SUBIN IND Letter Box,IND,59,0.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,ADV. P.V.SREENIJIN,CPI(M),52351,33.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,V.P.SAJEENDRAN,INC,49636,32.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
-2021,Ernakulam,84,84,Kunnathunad,DR. SUJITH.P.SURENDRAN,UNKNOWN,42701,27.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,DR. SUJITH.P.SURENDRAN,BJP,42701,27.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,RENU SURESH,BJP,7218,4.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,KRISHNAN ERANHIKAL,SDPI,1294,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,SUJITH.K.SURENDRAN,IND,786,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
@@ -717,7 +717,7 @@ year,district,constituency_id,constituency_number,constituency,candidate,party,v
 2021,Kottayam,93,93,Pala,THOMAS J. NIDIRY,IND,160,0.12,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Kottayam,93,93,Pala,ALBIN MATHEW,IND,121,0.09,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Kottayam,93,93,Pala,SUNIL ALANCHERIL IND Gramophone,IND,93,0.07,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
-2021,Kottayam,94,94,Kaduthuruthy,Adv. Mons Joseph,KEC,59666,45.4,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Kottayam,94,94,Kaduthuruthy,Adv. Mons Joseph,UDF,59666,45.4,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Kottayam,94,94,Kaduthuruthy,Stephen George,KEC(M),55410,42.17,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Kottayam,94,94,Kaduthuruthy,Ligin Lal,BJP,11670,8.88,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Kottayam,94,94,Kaduthuruthy,Vinod K Jose,IND,2425,1.85,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

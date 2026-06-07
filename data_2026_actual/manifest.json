@@ -1,0 +1,11 @@
+{
+  "year": 2026,
+  "source": "https://voterslist.in/kerala/kerala-election-result-2026-pdf-winners-candidate-list/",
+  "eci_reference": "https://results.eci.gov.in/ResultAcGenMay2026/statewiseS113.htm",
+  "constituencies": 140,
+  "outputs": {
+    "winners": "data_2026_actual\\processed\\kerala_assembly_winners_2026.csv",
+    "state_summary": "data_2026_actual\\processed\\state_summary.csv",
+    "detail_dir": "data_2026_actual\\processed\\constituency_results\\2026"
+  }
+}

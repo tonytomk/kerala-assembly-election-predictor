@@ -1,0 +1,10 @@
+{
+  "target_year": 2026,
+  "cache_suffix": "lb50v27",
+  "metrics": {
+    "Mean Absolute Error (MAE)": 7.408836318765177,
+    "R-squared": 0.5951420509963079,
+    "Root Mean Squared Error (RMSE)": 10.782179573325653,
+    "aligned_rows": 1107
+  }
+}

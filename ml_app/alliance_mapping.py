@@ -9,6 +9,11 @@ class Alliance:
     name: str  # "UDF" / "LDF" / "OTHER" / "UNKNOWN"
 
 
+def _is_kec_m_family(party: str) -> bool:
+    p = (party or "").strip().upper()
+    return p in {"KEC(M)", "KC(M)", "KEC (M)", "KC (M)", "KERALA CONGRESS (M)"}
+
+
 def party_to_alliance(party: str) -> Alliance:
     """
     Heuristic mapping for explanatory text only.
@@ -36,7 +41,7 @@ def party_to_alliance(party: str) -> Alliance:
     if p in {"NCP", "NCP-SP", "RJD", "C(S)", "CONG(S)", "NSC"}:
         # NCP-SP and RJD are LDF components; NSC is LDF-aligned
         return Alliance("LDF")
-    if p in {"KC(B)", "KCB"}:
+    if p in {"KC(B)", "KCB", "KEC(B)"}:
         # Kerala Congress (B) - LDF component
         return Alliance("LDF")
     if p in {"INL"}:
@@ -48,7 +53,7 @@ def party_to_alliance(party: str) -> Alliance:
     if p == "RSP(L)" or p == "RSP-L":
         # RSP (Leftist) - LDF component
         return Alliance("LDF")
-    if p == "KEC(M)" or "(M)" in p:
+    if p == "KEC(M)" or p == "KC(M)" or "(M)" in p:
         # e.g. KC(M), KEC(M) -> Mani faction family (LDF in 2026)
         return Alliance("LDF")
     if "RSP" in p:
@@ -66,7 +71,10 @@ def party_to_alliance(party: str) -> Alliance:
     if p in {"SJ(D)", "SJD", "SJ [D]", "SJ[D]"}:
         # Socialist Janata Democratic - UDF ally previously
         return Alliance("UDF")
-    if p == "KEC" or "KERALA CONGRESS" in p:
+    if p in {"CMPKSC"}:
+        # CMP(KSC) is UDF in Nenmara.
+        return Alliance("UDF")
+    if p == "KEC" or "KERALA CONGRESS" in p or "KEC(J)" in p or "KC(J)" in p:
         # Covers both (Joseph) and (Jacob) factions.
         return Alliance("UDF")
     if "KC(J)" in p or "KC (J)" in p or "KC(J)" in party:
@@ -81,8 +89,9 @@ def party_to_alliance(party: str) -> Alliance:
         return Alliance("UDF")
 
     # NDA family
-    if p in {"BJP", "BDJS", "TTP"}:
+    if p in {"BJP", "BDJS", "TTP", "KJPS"}:
         # TTP (Twenty20/Trotskyist) contests under NDA in 2026
+        # KJPS (Kerala Janadhipathya Party for Socialism) aligns with NDA from 2021
         return Alliance("NDA")
 
     # AAP and other third-party entrants
@@ -92,9 +101,29 @@ def party_to_alliance(party: str) -> Alliance:
     return Alliance("OTHER")
 
 
+def party_to_alliance_for_year(party: str, year: int | None) -> Alliance:
+    """
+    Year-aware alliance mapping for historically shifting parties.
+    """
+    if _is_kec_m_family(party):
+        if year in {2011, 2016}:
+            return Alliance("UDF")
+        if year in {2021, 2026}:
+            return Alliance("LDF")
+    return party_to_alliance(party)
+
+
 def format_alliance_tag(party: str) -> str:
     a = party_to_alliance(party)
     if a.name == "UNKNOWN":
         return "Alliance unclear (RSP/JSS/regionally shifting)"
     return a.name
+
+
+def format_alliance_tag_for_year(party: str, year: int | None) -> str:
+    a = party_to_alliance_for_year(party, year)
+    if a.name == "UNKNOWN":
+        return "Alliance unclear (RSP/JSS/regionally shifting)"
+    return a.name
+
 

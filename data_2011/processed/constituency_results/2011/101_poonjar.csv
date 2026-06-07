@@ -1,7 +1,7 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
-2011,Kottayam,101,101,Poonjar,P.C.GEORGE PLATHOTTAM,UNKNOWN,59809,50.7678,True,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
-2011,Kottayam,101,101,Poonjar,MOHAN THOMAS,OTH,44105,37.4377,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
-2011,Kottayam,101,101,Poonjar,SANTHOSH KUMAR,UNKNOWN,5010,4.2526,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,P.C.GEORGE PLATHOTTAM,UDF,59809,50.7678,True,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,MOHAN THOMAS,LDF,44105,37.4377,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
+2011,Kottayam,101,101,Poonjar,SANTHOSH KUMAR,BJP,5010,4.2526,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
 2011,Kottayam,101,101,Poonjar,SULAIMAN MOULAVI.V.M,SDPI,3579,3.038,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
 2011,Kottayam,101,101,Poonjar,P.P.JOSHI,UNKNOWN,2956,2.5091,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf
 2011,Kottayam,101,101,Poonjar,SIVAN,OTH,524,0.4448,False,https://www.ceo.kerala.gov.in/pdf/form20/101.pdf

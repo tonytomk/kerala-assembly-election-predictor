@@ -1,7 +1,7 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
 2011,Pathanamthitta,113,113,Aranmula,K SIVADASAN NAIR,INC,64845,47.6889,True,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
-2011,Pathanamthitta,113,113,Aranmula,K.C. RAJAGOPALAN,UNKNOWN,58334,42.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
-2011,Pathanamthitta,113,113,Aranmula,K. HARIDAS,UNKNOWN,10227,7.5212,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K.C. RAJAGOPALAN,CPI(M),58334,42.9005,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
+2011,Pathanamthitta,113,113,Aranmula,K. HARIDAS,BJP,10227,7.5212,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
 2011,Pathanamthitta,113,113,Aranmula,AMRITHA KUMAR T,BSP,721,0.5302,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
 2011,Pathanamthitta,113,113,Aranmula,NAZARUDHEEN,SDPI,709,0.5214,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf
 2011,Pathanamthitta,113,113,Aranmula,SUGATHAN R,OTH,387,0.2846,False,https://www.ceo.kerala.gov.in/pdf/form20/113.pdf

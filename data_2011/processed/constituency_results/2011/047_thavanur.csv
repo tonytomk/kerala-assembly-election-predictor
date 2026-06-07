@@ -1,5 +1,5 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
-2011,Malappuram,47,47,Thavanur,DR.K.T. JALEEL,IND,57729,47.2039,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
+2011,Malappuram,47,47,Thavanur,DR.K.T. JALEEL,CPI(M),57729,47.2039,True,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
 2011,Malappuram,47,47,Thavanur,ADV. V.V. PRAKASH,INC,50875,41.5995,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
 2011,Malappuram,47,47,Thavanur,NIRMALA KUTTIKRISHNAN PUNNAKKAL,BJP,7107,5.8113,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47
 2011,Malappuram,47,47,Thavanur,NURUL HACK,SDPI,3116,2.5479,False,https://www.ceo.kerala.gov.in/candidates/loadhtml/47

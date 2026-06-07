@@ -1,6 +1,6 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
 2016,Idukki,91,91,Idukki,ROSHY AUGUSTINE,KEC(M),60556,42.863,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
-2016,Idukki,91,91,Idukki,ADV. K. FRANCIS GEORGE,IND,51223,36.2569,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
+2016,Idukki,91,91,Idukki,ADV. K. FRANCIS GEORGE,LDF,51223,36.2569,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
 2016,Idukki,91,91,Idukki,BIJU MADHAVAN,BDJS,27403,19.3965,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
 2016,Idukki,91,91,Idukki,SABU KOCHUPARAMPIL,BSP,566,0.4006,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf
 2016,Idukki,91,91,Idukki,P.T. POOMKUDI,IND,436,0.3086,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/091.pdf

@@ -1,0 +1,562 @@
+[
+  {
+    "constituency_number": 1,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS111.htm"
+  },
+  {
+    "constituency_number": 2,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS112.htm"
+  },
+  {
+    "constituency_number": 3,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS113.htm"
+  },
+  {
+    "constituency_number": 4,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS114.htm"
+  },
+  {
+    "constituency_number": 5,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS115.htm"
+  },
+  {
+    "constituency_number": 6,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS116.htm"
+  },
+  {
+    "constituency_number": 7,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS117.htm"
+  },
+  {
+    "constituency_number": 8,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS118.htm"
+  },
+  {
+    "constituency_number": 9,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS119.htm"
+  },
+  {
+    "constituency_number": 10,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1110.htm"
+  },
+  {
+    "constituency_number": 11,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1111.htm"
+  },
+  {
+    "constituency_number": 12,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1112.htm"
+  },
+  {
+    "constituency_number": 13,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1113.htm"
+  },
+  {
+    "constituency_number": 14,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1114.htm"
+  },
+  {
+    "constituency_number": 15,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1115.htm"
+  },
+  {
+    "constituency_number": 16,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1116.htm"
+  },
+  {
+    "constituency_number": 17,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1117.htm"
+  },
+  {
+    "constituency_number": 18,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1118.htm"
+  },
+  {
+    "constituency_number": 19,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1119.htm"
+  },
+  {
+    "constituency_number": 20,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1120.htm"
+  },
+  {
+    "constituency_number": 21,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1121.htm"
+  },
+  {
+    "constituency_number": 22,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1122.htm"
+  },
+  {
+    "constituency_number": 23,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1123.htm"
+  },
+  {
+    "constituency_number": 24,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1124.htm"
+  },
+  {
+    "constituency_number": 25,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1125.htm"
+  },
+  {
+    "constituency_number": 26,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1126.htm"
+  },
+  {
+    "constituency_number": 27,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1127.htm"
+  },
+  {
+    "constituency_number": 28,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1128.htm"
+  },
+  {
+    "constituency_number": 29,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1129.htm"
+  },
+  {
+    "constituency_number": 30,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1130.htm"
+  },
+  {
+    "constituency_number": 31,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1131.htm"
+  },
+  {
+    "constituency_number": 32,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1132.htm"
+  },
+  {
+    "constituency_number": 33,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1133.htm"
+  },
+  {
+    "constituency_number": 34,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1134.htm"
+  },
+  {
+    "constituency_number": 35,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1135.htm"
+  },
+  {
+    "constituency_number": 36,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1136.htm"
+  },
+  {
+    "constituency_number": 37,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1137.htm"
+  },
+  {
+    "constituency_number": 38,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1138.htm"
+  },
+  {
+    "constituency_number": 39,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1139.htm"
+  },
+  {
+    "constituency_number": 40,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1140.htm"
+  },
+  {
+    "constituency_number": 41,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1141.htm"
+  },
+  {
+    "constituency_number": 42,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1142.htm"
+  },
+  {
+    "constituency_number": 43,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1143.htm"
+  },
+  {
+    "constituency_number": 44,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1144.htm"
+  },
+  {
+    "constituency_number": 45,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1145.htm"
+  },
+  {
+    "constituency_number": 46,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1146.htm"
+  },
+  {
+    "constituency_number": 47,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1147.htm"
+  },
+  {
+    "constituency_number": 48,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1148.htm"
+  },
+  {
+    "constituency_number": 49,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1149.htm"
+  },
+  {
+    "constituency_number": 50,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1150.htm"
+  },
+  {
+    "constituency_number": 51,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1151.htm"
+  },
+  {
+    "constituency_number": 52,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1152.htm"
+  },
+  {
+    "constituency_number": 53,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1153.htm"
+  },
+  {
+    "constituency_number": 54,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1154.htm"
+  },
+  {
+    "constituency_number": 55,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1155.htm"
+  },
+  {
+    "constituency_number": 56,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1156.htm"
+  },
+  {
+    "constituency_number": 57,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1157.htm"
+  },
+  {
+    "constituency_number": 58,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1158.htm"
+  },
+  {
+    "constituency_number": 59,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1159.htm"
+  },
+  {
+    "constituency_number": 60,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1160.htm"
+  },
+  {
+    "constituency_number": 61,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1161.htm"
+  },
+  {
+    "constituency_number": 62,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1162.htm"
+  },
+  {
+    "constituency_number": 63,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1163.htm"
+  },
+  {
+    "constituency_number": 64,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1164.htm"
+  },
+  {
+    "constituency_number": 65,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1165.htm"
+  },
+  {
+    "constituency_number": 66,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1166.htm"
+  },
+  {
+    "constituency_number": 67,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1167.htm"
+  },
+  {
+    "constituency_number": 68,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1168.htm"
+  },
+  {
+    "constituency_number": 69,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1169.htm"
+  },
+  {
+    "constituency_number": 70,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1170.htm"
+  },
+  {
+    "constituency_number": 71,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1171.htm"
+  },
+  {
+    "constituency_number": 72,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1172.htm"
+  },
+  {
+    "constituency_number": 73,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1173.htm"
+  },
+  {
+    "constituency_number": 74,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1174.htm"
+  },
+  {
+    "constituency_number": 75,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1175.htm"
+  },
+  {
+    "constituency_number": 76,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1176.htm"
+  },
+  {
+    "constituency_number": 77,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1177.htm"
+  },
+  {
+    "constituency_number": 78,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1178.htm"
+  },
+  {
+    "constituency_number": 79,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1179.htm"
+  },
+  {
+    "constituency_number": 80,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1180.htm"
+  },
+  {
+    "constituency_number": 81,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1181.htm"
+  },
+  {
+    "constituency_number": 82,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1182.htm"
+  },
+  {
+    "constituency_number": 83,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1183.htm"
+  },
+  {
+    "constituency_number": 84,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1184.htm"
+  },
+  {
+    "constituency_number": 85,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1185.htm"
+  },
+  {
+    "constituency_number": 86,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1186.htm"
+  },
+  {
+    "constituency_number": 87,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1187.htm"
+  },
+  {
+    "constituency_number": 88,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1188.htm"
+  },
+  {
+    "constituency_number": 89,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1189.htm"
+  },
+  {
+    "constituency_number": 90,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1190.htm"
+  },
+  {
+    "constituency_number": 91,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1191.htm"
+  },
+  {
+    "constituency_number": 92,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1192.htm"
+  },
+  {
+    "constituency_number": 93,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1193.htm"
+  },
+  {
+    "constituency_number": 94,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1194.htm"
+  },
+  {
+    "constituency_number": 95,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1195.htm"
+  },
+  {
+    "constituency_number": 96,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1196.htm"
+  },
+  {
+    "constituency_number": 97,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1197.htm"
+  },
+  {
+    "constituency_number": 98,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1198.htm"
+  },
+  {
+    "constituency_number": 99,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS1199.htm"
+  },
+  {
+    "constituency_number": 100,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11100.htm"
+  },
+  {
+    "constituency_number": 101,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11101.htm"
+  },
+  {
+    "constituency_number": 102,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11102.htm"
+  },
+  {
+    "constituency_number": 103,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11103.htm"
+  },
+  {
+    "constituency_number": 104,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11104.htm"
+  },
+  {
+    "constituency_number": 105,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11105.htm"
+  },
+  {
+    "constituency_number": 106,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11106.htm"
+  },
+  {
+    "constituency_number": 107,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11107.htm"
+  },
+  {
+    "constituency_number": 108,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11108.htm"
+  },
+  {
+    "constituency_number": 109,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11109.htm"
+  },
+  {
+    "constituency_number": 110,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11110.htm"
+  },
+  {
+    "constituency_number": 111,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11111.htm"
+  },
+  {
+    "constituency_number": 112,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11112.htm"
+  },
+  {
+    "constituency_number": 113,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11113.htm"
+  },
+  {
+    "constituency_number": 114,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11114.htm"
+  },
+  {
+    "constituency_number": 115,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11115.htm"
+  },
+  {
+    "constituency_number": 116,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11116.htm"
+  },
+  {
+    "constituency_number": 117,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11117.htm"
+  },
+  {
+    "constituency_number": 118,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11118.htm"
+  },
+  {
+    "constituency_number": 119,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11119.htm"
+  },
+  {
+    "constituency_number": 120,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11120.htm"
+  },
+  {
+    "constituency_number": 121,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11121.htm"
+  },
+  {
+    "constituency_number": 122,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11122.htm"
+  },
+  {
+    "constituency_number": 123,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11123.htm"
+  },
+  {
+    "constituency_number": 124,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11124.htm"
+  },
+  {
+    "constituency_number": 125,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11125.htm"
+  },
+  {
+    "constituency_number": 126,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11126.htm"
+  },
+  {
+    "constituency_number": 127,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11127.htm"
+  },
+  {
+    "constituency_number": 128,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11128.htm"
+  },
+  {
+    "constituency_number": 129,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11129.htm"
+  },
+  {
+    "constituency_number": 130,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11130.htm"
+  },
+  {
+    "constituency_number": 131,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11131.htm"
+  },
+  {
+    "constituency_number": 132,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11132.htm"
+  },
+  {
+    "constituency_number": 133,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11133.htm"
+  },
+  {
+    "constituency_number": 134,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11134.htm"
+  },
+  {
+    "constituency_number": 135,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11135.htm"
+  },
+  {
+    "constituency_number": 136,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11136.htm"
+  },
+  {
+    "constituency_number": 137,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11137.htm"
+  },
+  {
+    "constituency_number": 138,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11138.htm"
+  },
+  {
+    "constituency_number": 139,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11139.htm"
+  },
+  {
+    "constituency_number": 140,
+    "error": "403 Client Error: Forbidden for url: https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11140.htm"
+  }
+]

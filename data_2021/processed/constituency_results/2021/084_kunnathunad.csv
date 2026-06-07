@@ -1,7 +1,7 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
 2021,Ernakulam,84,84,Kunnathunad,ADV. P.V.SREENIJIN,CPI(M),52351,33.79,True,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,V.P.SAJEENDRAN,INC,49636,32.04,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
-2021,Ernakulam,84,84,Kunnathunad,DR. SUJITH.P.SURENDRAN,UNKNOWN,42701,27.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
+2021,Ernakulam,84,84,Kunnathunad,DR. SUJITH.P.SURENDRAN,BJP,42701,27.56,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,RENU SURESH,BJP,7218,4.66,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,KRISHNAN ERANHIKAL,SDPI,1294,0.84,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf
 2021,Ernakulam,84,84,Kunnathunad,SUJITH.K.SURENDRAN,IND,786,0.51,False,https://www.ceo.kerala.gov.in/pdf/GE-2021/statistical_report.pdf

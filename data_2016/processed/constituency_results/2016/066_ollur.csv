@@ -1,7 +1,7 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
-2016,Thrissur,66,66,Ollur,K RAJAN,UNKNOWN,71666,47.5494,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
-2016,Thrissur,66,66,Ollur,M P VINCENT,UNKNOWN,58418,38.7595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
-2016,Thrissur,66,66,Ollur,P.K. SANTHOSH (LALA),UNKNOWN,17694,11.7397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,K RAJAN,CPI,71666,47.5494,True,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,M P VINCENT,INC,58418,38.7595,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
+2016,Thrissur,66,66,Ollur,P.K. SANTHOSH (LALA),BJP,17694,11.7397,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
 2016,Thrissur,66,66,Ollur,NOTA,NOTA,1151,0.7637,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
 2016,Thrissur,66,66,Ollur,MAJEED MULLAKARA,UNKNOWN,696,0.4618,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf
 2016,Thrissur,66,66,Ollur,SAJIMON MANJAMATTAM,UNKNOWN,334,0.2216,False,https://www.ceo.kerala.gov.in/ceokerala/pdf/BOOTH_WISE_RESULTS/GE2016/066.pdf

@@ -1,5 +1,5 @@
 year,district,constituency_id,constituency_number,constituency,candidate,party,votes,vote_share,is_winner,source_url
-2011,Kollam,120,120,Pathanapuram,K. B. GANESH KUMAR,UNKNOWN,71421,55.6381,True,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
+2011,Kollam,120,120,Pathanapuram,K. B. GANESH KUMAR,KC(B),71421,55.6381,True,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
 2011,Kollam,120,120,Pathanapuram,K.RAJAGOPAL,CPI(M),51019,39.7446,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
 2011,Kollam,120,120,Pathanapuram,R.SUBHASH PATTAZHY,UNKNOWN,2839,2.2116,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
 2011,Kollam,120,120,Pathanapuram,ANEESH ANTONY,OTH,1613,1.2566,False,https://www.ceo.kerala.gov.in/pdf/form20/120.pdf
